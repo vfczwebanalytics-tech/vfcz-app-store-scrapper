@@ -1,0 +1,2995 @@
+{
+  "appInfo": {
+    "ratings": {
+      "histogram": {
+        "1": 193,
+        "2": 37,
+        "3": 28,
+        "4": 35,
+        "5": 230
+      },
+      "totalRatings": 523,
+      "totalReviews": 520,
+      "score": 3.12692
+    }
+  },
+  "reviews": [
+    {
+      "id": "13577131307",
+      "userName": "smollppenergy",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1648357499",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Keeps logging me out",
+      "text": "Keeps logging me out. Useless app. I am only using this app few times a month to either speed up the data or to pay the bill, and every time I’m logged out. I am running a dual sim setup along with O2 and I never had such issue with the O2 app, which managed to keep me logged in even after an iOS update.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-31T06:41:08-07:00",
+      "textNormalized": "Keeps logging me out. Useless app. I am only using this app few times a month to either speed up the data or to pay the bill, and every time I’m logged out. I am running a dual sim setup along with O2 and I never had such issue with the O2 app, which managed to keep me logged in even after an iOS update.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13576391407",
+      "userName": "Mikiczc",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1073876684",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Nová aplikace",
+      "text": "Hrozne se to seka.. hrozne nepřehledné",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-31T02:45:57-07:00",
+      "textNormalized": "Hrozne se to seka.. hrozne neprehledne",
+      "segments": [
+        "Vykonnost",
+        "UI"
+      ]
+    },
+    {
+      "id": "13570278827",
+      "userName": "Trener.brno",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id411253069",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Katastrofa",
+      "text": "Nefungovala dobře stará apka a do té se nedostanu, protože to chce stáhnout tuto srač.. Nejde se do toho vůbec přihlásit. Neumíte udělat nic. Ani pro TV ani pro mobil. Jste banda tragédů.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-29T12:44:41-07:00",
+      "textNormalized": "Nefungovala dobre stara apka a do te se nedostanu, protoze to chce stahnout tuto srac.. Nejde se do toho vubec prihlasit. Neumite udelat nic. Ani pro TV ani pro mobil. Jste banda tragedu.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13568472448",
+      "userName": "Jakubv22",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1639696208",
+      "version": "3.4.1",
+      "score": "2",
+      "title": "Why I need to log in every month again?",
+      "text": "Why do I have to log in again every month? I don’t get it. Why doesn’t Face ID work?\nIt expires every month and I have to enter the password again...",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-29T03:32:42-07:00",
+      "textNormalized": "Why do I have to log in again every month? I don’t get it. Why doesn’t Face ID work?\nIt expires every month and I have to enter the password again...",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13564666428",
+      "userName": "panproty",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1243610795",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Appka strašná",
+      "text": "To tam neni nikdo schopny vyvinout aplikaci bez bugu a s normálním způsobem přihlašování, který vás každou chvíli neodhlásí? Hruza",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-28T04:46:37-07:00",
+      "textNormalized": "To tam neni nikdo schopny vyvinout aplikaci bez bugu a s normalnim zpusobem prihlasovani, ktery vas kazdou chvili neodhlasi? Hruza",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13564366614",
+      "userName": "Simonnaie",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id972952244",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Nespokojenost",
+      "text": "Nová aplikace Vodafone je oproti staré totálně nepřehledná a zbytečně komplikovaná. Chatbot je k ničemu, nepomůže, jen zdržuje. A aktivaci „Zrychlení na maximum“ (které mám 5× měsíčně zdarma) musím složitě lovit někde mimo aplikaci, zatímco dřív to bylo hned po ruce. Tohle je dost krok zpátky, zkuste se prosím snažit a vraťte základní funkce tam, kde mají být.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-28T02:57:20-07:00",
+      "textNormalized": "Nova aplikace Vodafone je oproti stare totalne neprehledna a zbytecne komplikovana. Chatbot je k nicemu, nepomuze, jen zdrzuje. A aktivaci „Zrychleni na maximum“ (ktere mam 5× mesicne zdarma) musim slozite lovit nekde mimo aplikaci, zatimco driv to bylo hned po ruce. Tohle je dost krok zpatky, zkuste se prosim snazit a vratte zakladni funkce tam, kde maji byt.",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13564116412",
+      "userName": "GH AD",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id539039545",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Not working properly",
+      "text": "Reset of pasword not possible",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-28T01:14:35-07:00",
+      "textNormalized": "Reset of pasword not possible",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13562689391",
+      "userName": "hanicka25",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1317040899",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Hrůza",
+      "text": "Předchozí appka byla už k ničemu a tahle je zatím ještě horší. Vůbec nic nefunguje. Nepřehledné, strašné",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-27T15:27:50-07:00",
+      "textNormalized": "Predchozi appka byla uz k nicemu a tahle je zatim jeste horsi. Vubec nic nefunguje. Neprehledne, strasne",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13561645401",
+      "userName": "TR 87",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1692597472",
+      "version": "3.4.1",
+      "score": "2",
+      "title": "Nefunkční",
+      "text": "Absolutně zbytečný nuceny přechod na jinou aplikaci, ve které opět nefunguje přihlášení jako v předchozí aplikaci. Ale bonus už se tu dá  alespoň použít vložení ze správce hesel. \nAle kdo vám dělal grafiku to je otřes. Potvrzení o zaplacení které je červené Bravurní indikace že vše proběhlo v pořádku. A pak to tam luštit malým písmem. A bervičky v tmavém režimu jsou na lupu protože nejsou kontrastní ale tmavé. Meh.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-27T09:27:47-07:00",
+      "textNormalized": "Absolutne zbytecny nuceny prechod na jinou aplikaci, ve ktere opet nefunguje prihlaseni jako v predchozi aplikaci. Ale bonus uz se tu da  alespon pouzit vlozeni ze spravce hesel. \nAle kdo vam delal grafiku to je otres. Potvrzeni o zaplaceni ktere je cervene Bravurni indikace ze vse probehlo v poradku. A pak to tam lustit malym pismem. A bervicky v tmavem rezimu jsou na lupu protoze nejsou kontrastni ale tmave. Meh.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13560491755",
+      "userName": "Evapeti",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id419460242",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Vůbec nefunguje",
+      "text": "Vůbec nefunguje. Nemohu se přihlásit a ano znám vše co ný údaje. Aplikace je blikne při každém přihlášení. Takže jak zaplatím paušál to nevim",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-27T03:23:34-07:00",
+      "textNormalized": "Vubec nefunguje. Nemohu se prihlasit a ano znam vse co ny udaje. Aplikace je blikne pri kazdem prihlaseni. Takze jak zaplatim pausal to nevim",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13557987761",
+      "userName": "Michaelabeze",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id283585534",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Strašnÿ",
+      "text": "Naprosto nepoužitelné v tom cokoli udělat.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-26T10:54:52-07:00",
+      "textNormalized": "Naprosto nepouzitelne v tom cokoli udelat.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13552928673",
+      "userName": "peskl",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1535450684",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Otřesný",
+      "text": "Nejdebilnější aplikace co se týče přihlašování. Věčně to chce po mně heslo, když se přihlásím chce to zase nějakou aktualizaci. Po další aktualizaci zase znova heslo, k tomu dvoufázové ověření. PROTOŽE JINAK VÁS TO NIKAM NEPUSTÍ. HRŮZA HRŮZA HRŮZA!!!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-25T03:26:09-07:00",
+      "textNormalized": "Nejdebilnejsi aplikace co se tyce prihlasovani. Vecne to chce po mne heslo, kdyz se prihlasim chce to zase nejakou aktualizaci. Po dalsi aktualizaci zase znova heslo, k tomu dvoufazove overeni. PROTOZE JINAK VAS TO NIKAM NEPUSTI. HRUZA HRUZA HRUZA!!!",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13551039360",
+      "userName": "pedrosow",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id183582079",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Nefunguje",
+      "text": "Aplikace můj Vodafone píše ať nainstaluju Můj Vodafone+\nTato aplikace ale nefunguje pokud máte více služeb. Hlava 22. Aplikace nikdy nefungovala dobře, ale teď tomu u Vodafone nasadili korunu. Kdyby šlo dát záporné hodnocení dám -5",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-24T12:53:25-07:00",
+      "textNormalized": "Aplikace muj Vodafone pise at nainstaluju Muj Vodafone+\nTato aplikace ale nefunguje pokud mate vice sluzeb. Hlava 22. Aplikace nikdy nefungovala dobre, ale ted tomu u Vodafone nasadili korunu. Kdyby slo dat zaporne hodnoceni dam -5",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13549376397",
+      "userName": "EliškaElišková",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id434749299",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "I cant login",
+      "text": "I cant login",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-24T03:27:32-07:00",
+      "textNormalized": "I cant login",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13548992522",
+      "userName": "ydy77",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id680631617",
+      "version": "3.4.1",
+      "score": "2",
+      "title": "Bugy",
+      "text": "Jeste chybi aplikaci doladit, neustale hlasi, ze prvni vyuctovani neni mozne zobrazit, pritom puvodni aplikace vse zobrazuje",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-24T00:40:39-07:00",
+      "textNormalized": "Jeste chybi aplikaci doladit, neustale hlasi, ze prvni vyuctovani neni mozne zobrazit, pritom puvodni aplikace vse zobrazuje",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13546228615",
+      "userName": "GalaxSpace",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id962697972",
+      "version": "3.4.1",
+      "score": "4",
+      "title": "Missing widget with amount of data remaining",
+      "text": "Its the only real reason I have the app installed and this option has been removed, or its been buried so deep I cant find it",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-23T06:30:42-07:00",
+      "textNormalized": "Its the only real reason I have the app installed and this option has been removed, or its been buried so deep I cant find it",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13545288973",
+      "userName": "Kují vin",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id422754342",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Nová aplikace",
+      "text": "Zbytečný počin. Stejně mizerné jako staré. Navíc nutnost instalovat, stará aplikace nefunguje. Za 100% navýšení ceny služeb mizerná satisfakce",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-23T00:35:23-07:00",
+      "textNormalized": "Zbytecny pocin. Stejne mizerne jako stare. Navic nutnost instalovat, stara aplikace nefunguje. Za 100% navyseni ceny sluzeb mizerna satisfakce",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13543848989",
+      "userName": "👎 jop",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1493072740",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Úplně aplikace k ničemu",
+      "text": "Úplně aplikace úplně úplně úplně k ničemu. Při přihlašování se to 40 × restartuje 40 × vás to vykopne 40 × se to nenačte tak si zaplaťte fakturu jak chcete.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-22T13:50:48-07:00",
+      "textNormalized": "Uplne aplikace uplne uplne uplne k nicemu. Pri prihlasovani se to 40 × restartuje 40 × vas to vykopne 40 × se to nenacte tak si zaplatte fakturu jak chcete.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13541787136",
+      "userName": "Wimbly.06",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id115496825",
+      "version": "3.4.1",
+      "score": "2",
+      "title": "Na nic",
+      "text": "Pod jedním administrátorem je nás více. Ať dělám co dělám, nemůžu si nastavit, aby po přihlášení mi to ukazovalo mé telefonní číslo. Když si zaplatit přes tuhle aplikaci, tak mi tam ukazuje maximální číslo plátce. Jak si mám pamatovat, které to číslo plátce jsem já, místo toho aby to ukazovalo telefonní číslo. To je potom těžké z toho celého seznamu vybrat to, za které chci zaplatit. Celá aplikace je k ničemu. Maximálně se tak může hodit někomu, kdo má jen jedno telefonní číslo. Nemluvím o tom že ve staré aplikaci, když jsem se přepla na své telefonní číslo, tak při dalším přihlášení jsem opět byla na cizím telefonním čísle. Od doby, co se tam přihlásím e-mailem, nejste schopný tohleto opravit. Je to prostě už ostudné.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-22T02:11:36-07:00",
+      "textNormalized": "Pod jednim administratorem je nas vice. At delam co delam, nemuzu si nastavit, aby po prihlaseni mi to ukazovalo me telefonni cislo. Kdyz si zaplatit pres tuhle aplikaci, tak mi tam ukazuje maximalni cislo platce. Jak si mam pamatovat, ktere to cislo platce jsem ja, misto toho aby to ukazovalo telefonni cislo. To je potom tezke z toho celeho seznamu vybrat to, za ktere chci zaplatit. Cela aplikace je k nicemu. Maximalne se tak muze hodit nekomu, kdo ma jen jedno telefonni cislo. Nemluvim o tom ze ve stare aplikaci, kdyz jsem se prepla na sve telefonni cislo, tak pri dalsim prihlaseni jsem opet byla na cizim telefonnim cisle. Od doby, co se tam prihlasim e-mailem, nejste schopny tohleto opravit. Je to proste uz ostudne.",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13541431290",
+      "userName": "HelyBell",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id470305548",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Odpad",
+      "text": "To jako vážně??? Neustále mě po pár dnech odhlašuje. Když cestuji do zahraničí, tak nezobrazuje roaming v EU ani mimo EU. Nemůžu si přes to koupit data mimo EU. Jako perla jsou nabídky AXA s 50% slevou, kterou dostával každý, kdo jde na stránky AXA i bez Vodafonu. Celé to působí nedodělaně. Možná by se zodpovědné osoby měly zamyslet, zda jsou pro společnost Vodafone přínosem. Dnes opět další chyba při přihlášení. Katastrofální aplikace. A to vůbec nemluvím o zobrazení na tabletu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-21T23:26:03-07:00",
+      "textNormalized": "To jako vazne??? Neustale me po par dnech odhlasuje. Kdyz cestuji do zahranici, tak nezobrazuje roaming v EU ani mimo EU. Nemuzu si pres to koupit data mimo EU. Jako perla jsou nabidky AXA s 50% slevou, kterou dostaval kazdy, kdo jde na stranky AXA i bez Vodafonu. Cele to pusobi nedodelane. Mozna by se zodpovedne osoby mely zamyslet, zda jsou pro spolecnost Vodafone prinosem. Dnes opet dalsi chyba pri prihlaseni. Katastrofalni aplikace. A to vubec nemluvim o zobrazeni na tabletu.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13537975605",
+      "userName": "Dara z Plzně",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1774024799",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "mobilni data",
+      "text": "Neni zřetelně na prvni pohled vidět, za kolik dnů mi skončí balíček dat ke kartě. V puvodni verzi je to bylo hned v přehledu. \nMoc mi to chybi.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-21T01:20:56-07:00",
+      "textNormalized": "Neni zretelne na prvni pohled videt, za kolik dnu mi skonci balicek dat ke karte. V puvodni verzi je to bylo hned v prehledu. \nMoc mi to chybi.",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13535645014",
+      "userName": "Honza a-z",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1583327262",
+      "version": "3.4.1",
+      "score": "5",
+      "title": "Good",
+      "text": "Good",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-20T09:38:45-07:00",
+      "textNormalized": "Good",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13535205754",
+      "userName": "Mazel1911",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id115248996",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Tohle nechcete",
+      "text": "Normálně nepíšu recenze. Ale musí to ven. Hrozná a nepřehledná. Sr..čka",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-20T07:26:24-07:00",
+      "textNormalized": "Normalne nepisu recenze. Ale musi to ven. Hrozna a neprehledna. Sr..cka",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13533598486",
+      "userName": "viťan",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1351061963",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Aplikace",
+      "text": "Nechápu tu nutnost neustale upgradovat a vytvářet nové aplikace a ještě nutit své zákazníky je používat, když ty staré fungují naprosto normálně. Sice bylo těžší se v té starší zoorientovat, ale alespoň fungovala. Do téhle se člověk přihlásí jednou a pak už je aplikace nefunkční, protože \"\"účet má příliš čísel\"\", tak k čemu ta aplikace je, když mě stejně napoprvé přesměruje na webovou stránku na kterou se pokaždé musím složitě přihlašovat. Samotná aplikace je potom naprosto nepoužitelná, nenačítá se. \nJe to prostě otravné.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-19T21:16:58-07:00",
+      "textNormalized": "Nechapu tu nutnost neustale upgradovat a vytvaret nove aplikace a jeste nutit sve zakazniky je pouzivat, kdyz ty stare funguji naprosto normalne. Sice bylo tezsi se v te starsi zoorientovat, ale alespon fungovala. Do tehle se clovek prihlasi jednou a pak uz je aplikace nefunkcni, protoze \"\"ucet ma prilis cisel\"\", tak k cemu ta aplikace je, kdyz me stejne napoprve presmeruje na webovou stranku na kterou se pokazde musim slozite prihlasovat. Samotna aplikace je potom naprosto nepouzitelna, nenacita se. \nJe to proste otravne.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13530980912",
+      "userName": "vilyž",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id731974589",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Stará aplikace měla možnost zaplatit QKode",
+      "text": "👎🏻 Stará aplikace měla možnost zaplatit QKode",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-19T05:13:38-07:00",
+      "textNormalized": "👎🏻 Stara aplikace mela moznost zaplatit QKode",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13530642514",
+      "userName": "Terra1573",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id829613764",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Velká nespokojenost",
+      "text": "Ještě horší než původní, a to byla laťka hodně nízko. Ukazuje mi vyúčtování jen měsíc zpět, i přes nedoplatek hlásí uhrazenou fakturu. Ani podpora neví, co s tím. \nNové odměny po rozkliknutí na Iphone 13 mini mají křížek tak vysoko, že nejde stisknout a musím shodit celou aplikaci",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-19T03:14:52-07:00",
+      "textNormalized": "Jeste horsi nez puvodni, a to byla latka hodne nizko. Ukazuje mi vyuctovani jen mesic zpet, i pres nedoplatek hlasi uhrazenou fakturu. Ani podpora nevi, co s tim. \nNove odmeny po rozkliknuti na Iphone 13 mini maji krizek tak vysoko, ze nejde stisknout a musim shodit celou aplikaci",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13525417437",
+      "userName": "nightxcz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1052032542",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Na hovno",
+      "text": "To je sračka všechno se otevírá v externím prohlížeči k čemu aplikace je? Nic tam nejde ani najít.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-17T15:08:34-07:00",
+      "textNormalized": "To je sracka vsechno se otevira v externim prohlizeci k cemu aplikace je? Nic tam nejde ani najit.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13525110270",
+      "userName": "G.M.33",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1868263584",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Naprostá Katastrofa",
+      "text": "Nepřehledné vyúčtování a nepřehledná, komplikovaná celá aplikace. Než tam člověk najde co potřebuje, má chuť u vás vypovědět smlouvu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-17T13:03:25-07:00",
+      "textNormalized": "Neprehledne vyuctovani a neprehledna, komplikovana cela aplikace. Nez tam clovek najde co potrebuje, ma chut u vas vypovedet smlouvu.",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13524776230",
+      "userName": "David321ted",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id282352499",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Hruza",
+      "text": "Absolutne nepouzitelna aplikace, i po vybrani vychozi sluzby se dana sluzba nenastavi jako vychozi, nelze zaplatit ani zobrazit vyuctovani. Po kliknuti na ikonu uhradit vyuctovani se ukazuje pouze prehled jedne predplacene sim karty a nejde zobrazit ani zaplatit vyuctovani za pausalni sluzby. Jelikoz nefunguje ani zakladni vec jako moznost zaplatit nebo zobrazit vyuctovani nechapu k cemu takova aplikace vlastne vubec existuje. Stara aplikace fungovala, ale ta uz bohuzel nejde zapnout, protoze pouze odkazuje na tuto novou nefunkcni hruzu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-17T10:56:46-07:00",
+      "textNormalized": "Absolutne nepouzitelna aplikace, i po vybrani vychozi sluzby se dana sluzba nenastavi jako vychozi, nelze zaplatit ani zobrazit vyuctovani. Po kliknuti na ikonu uhradit vyuctovani se ukazuje pouze prehled jedne predplacene sim karty a nejde zobrazit ani zaplatit vyuctovani za pausalni sluzby. Jelikoz nefunguje ani zakladni vec jako moznost zaplatit nebo zobrazit vyuctovani nechapu k cemu takova aplikace vlastne vubec existuje. Stara aplikace fungovala, ale ta uz bohuzel nejde zapnout, protoze pouze odkazuje na tuto novou nefunkcni hruzu.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13524287399",
+      "userName": "MertOverflow",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id476135714",
+      "version": "3.4.1",
+      "score": "2",
+      "title": "“Improved”",
+      "text": "Previous application was way better. This one just feels like they tried to put web version into an app. Logs out, slow, doesn’t remember login etc.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-17T08:11:41-07:00",
+      "textNormalized": "Previous application was way better. This one just feels like they tried to put web version into an app. Logs out, slow, doesn’t remember login etc.",
+      "segments": [
+        "Vykonnost",
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13524003952",
+      "userName": "JanVan123",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1868160490",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Error 15 when login",
+      "text": "Not working",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-17T06:42:02-07:00",
+      "textNormalized": "Not working",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13523478747",
+      "userName": "Kuba9539",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1687859479",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Aplikace k ničemu",
+      "text": "Bohužel Vodafone má neustále problém. Aplikace Můj Vodafone - neustále odhlašování. Dáte heslo co máte a napíše to, že heslo není platné. Uděláte si nové, použijete jednou a zase dokola. Stáhl jsem si aplikace Vodafone plus, tam se ani přihlásit nejde. Kliknu na přihlášení a nic se neděje. Doslova nic. Už jsem z Vodafonu na prášky.😄",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-17T03:50:36-07:00",
+      "textNormalized": "Bohuzel Vodafone ma neustale problem. Aplikace Muj Vodafone - neustale odhlasovani. Date heslo co mate a napise to, ze heslo neni platne. Udelate si nove, pouzijete jednou a zase dokola. Stahl jsem si aplikace Vodafone plus, tam se ani prihlasit nejde. Kliknu na prihlaseni a nic se nedeje. Doslova nic. Uz jsem z Vodafonu na prasky.😄",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13520318994",
+      "userName": "Goooo2323",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1250069929",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "This is the worst app where they rip money off you!",
+      "text": "This is the worst app where they rip money off you! They can’t even fix one single app ,it shows incorrect charges and doesn’t let you resolve anything. Shame on Vodafone! You’re going to lose all your customers. Terrible service ,no one can solve your problem. I do not recommend this operator!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-16T06:34:13-07:00",
+      "textNormalized": "This is the worst app where they rip money off you! They can’t even fix one single app ,it shows incorrect charges and doesn’t let you resolve anything. Shame on Vodafone! You’re going to lose all your customers. Terrible service ,no one can solve your problem. I do not recommend this operator!",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "13519382879",
+      "userName": "mlozanek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1636195187",
+      "version": "3.4.1",
+      "score": "2",
+      "title": "Missing QR code payments",
+      "text": "For some reason this newer app is missing a feature that was present in the older one and that is paying through QR code. I’m managing a family account and when somebody else is paying for the bill it just adds extra steps",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-16T00:43:29-07:00",
+      "textNormalized": "For some reason this newer app is missing a feature that was present in the older one and that is paying through QR code. I’m managing a family account and when somebody else is paying for the bill it just adds extra steps",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13517319542",
+      "userName": "freeozone",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id101897646",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Slow and buggy.",
+      "text": "Terrible app, as expected from Vodafone. Slow, buggy, counterintuitive.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-15T10:12:01-07:00",
+      "textNormalized": "Terrible app, as expected from Vodafone. Slow, buggy, counterintuitive.",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13517169799",
+      "userName": "Telly...",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id861918247",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Čau",
+      "text": "Kdykoliv něco , rychle potřebuji, je problém. Bylo to drive a je to i ted. Zkuste si funkčnost i jinde než v centru Prahy.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-15T09:22:26-07:00",
+      "textNormalized": "Kdykoliv neco , rychle potrebuji, je problem. Bylo to drive a je to i ted. Zkuste si funkcnost i jinde nez v centru Prahy.",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13516243240",
+      "userName": "MilovnikVodafone",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id349126336",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Again useless",
+      "text": "I can no longer use the old app, and now when I was forced to use the new one, I can not even log in to my account, because the app persistently thinks I’m a bot for for unknown reason. It kindly suggests to adjust cookies, plugins, and what not, in my browser before updating the page, but THERE IS NO BUTTON TO UPDATE THE PAGE, BECAUSE THIS IS NOT A BROWSER! \nBottom line: amazing experience.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-15T04:25:09-07:00",
+      "textNormalized": "I can no longer use the old app, and now when I was forced to use the new one, I can not even log in to my account, because the app persistently thinks I’m a bot for for unknown reason. It kindly suggests to adjust cookies, plugins, and what not, in my browser before updating the page, but THERE IS NO BUTTON TO UPDATE THE PAGE, BECAUSE THIS IS NOT A BROWSER! \nBottom line: amazing experience.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13515927287",
+      "userName": "васян сосян",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1029723394",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Ебать говнище",
+      "text": "Полная обрыганная хуйня в говне",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-15T02:22:04-07:00",
+      "textNormalized": "Пoлнaя oбрыгaннaя хуйня в гoвне",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13515411228",
+      "userName": "Honzinator",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id520656014",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Reset modemu?",
+      "text": "Kde se v teto nove aplikaci dela vzdaleny restart modemu? Ve stare to slo, v nove to vubec nenuzu najit.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-14T22:12:40-07:00",
+      "textNormalized": "Kde se v teto nove aplikaci dela vzdaleny restart modemu? Ve stare to slo, v nove to vubec nenuzu najit.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13514087405",
+      "userName": "milanecek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1249164729",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Zobrazuje nesmysly!",
+      "text": "Je to naprosty paskvil, ktery od sameho spusteni zobrazuje nesmysly!!! Jako, ze mam preplatek 14tis. Kazdy mesic stejny (nesnizuje se). Nebo ze posledni faktura byla 13kc, ikdyz roky platim 300kc...Ucetni obdobi se zobrazuje kalendarni mesic, ikdyz jej mam 16. U vice sluzeb nejde nastavit ta prioritni resp. po nastaveni si aplikace stejne zobrazuje jinou, dle sve vlastni volby. Zlata predchozi verze, kde vse fungovalo temer bezvadne a nyni natvrdo blokujete jeji pouzivani. Proc!? Proc je porad v nabidce ke stazeni, kdyz blokujete jeji vyuzivani!?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-14T12:52:29-07:00",
+      "textNormalized": "Je to naprosty paskvil, ktery od sameho spusteni zobrazuje nesmysly!!! Jako, ze mam preplatek 14tis. Kazdy mesic stejny (nesnizuje se). Nebo ze posledni faktura byla 13kc, ikdyz roky platim 300kc...Ucetni obdobi se zobrazuje kalendarni mesic, ikdyz jej mam 16. U vice sluzeb nejde nastavit ta prioritni resp. po nastaveni si aplikace stejne zobrazuje jinou, dle sve vlastni volby. Zlata predchozi verze, kde vse fungovalo temer bezvadne a nyni natvrdo blokujete jeji pouzivani. Proc!? Proc je porad v nabidce ke stazeni, kdyz blokujete jeji vyuzivani!?",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13512472776",
+      "userName": "actros L",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1867032532",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "hororové přihlášení",
+      "text": "dostat do ruky toho inženýra co si myslí , že udělal nejlepší přihlašování do aplikace, tak mu utrhnu hlavu !!!\nabych se přihlašoval přez 5h do vaší aplikace na to nemám nervy !!!!! zlaté přihlašování přez číslo !!!!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-14T04:31:58-07:00",
+      "textNormalized": "dostat do ruky toho inzenyra co si mysli , ze udelal nejlepsi prihlasovani do aplikace, tak mu utrhnu hlavu !!!\nabych se prihlasoval prez 5h do vasi aplikace na to nemam nervy !!!!! zlate prihlasovani prez cislo !!!!",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13510185103",
+      "userName": "Evapeti",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id419460242",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "What",
+      "text": "Nemohu se přihlásit a není to heslem. Aplikace jen problikne….",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-13T13:16:52-07:00",
+      "textNormalized": "Nemohu se prihlasit a neni to heslem. Aplikace jen problikne….",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13509935265",
+      "userName": "Danielcz-1992",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id86035569",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Missing functions as expected",
+      "text": "This app was inspired by the updates of the banks. You are forced to use new app instead of the original one. And not all functions are working.\nI wanted to download billing in the app as I always do. But, as expected, it doesn’t work. \nUseless at this moment.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-13T11:49:23-07:00",
+      "textNormalized": "This app was inspired by the updates of the banks. You are forced to use new app instead of the original one. And not all functions are working.\nI wanted to download billing in the app as I always do. But, as expected, it doesn’t work. \nUseless at this moment.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13509656215",
+      "userName": "Urbym",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1164408239",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Odpad",
+      "text": "Původní aplikace k ničemu tahle ještě horší .. ukazuje mi špatně tarif, útratu.. k ničemu odpad",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-13T10:19:20-07:00",
+      "textNormalized": "Puvodni aplikace k nicemu tahle jeste horsi .. ukazuje mi spatne tarif, utratu.. k nicemu odpad",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13507714850",
+      "userName": "HelyBell",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id470305548",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Odpad",
+      "text": "To jako vážně??? Neustále mě po pár dnech odhlašuje. Když cestuji do zahraničí, tak nezobrazuje roaming v EU ani mimo EU. Nemůžu si přes to koupit data mimo EU. Jako perla jsou nabídky AXA s 50% slevou, kterou dostával každý, kdo jde na stránky AXA i bez Vodafonu. Celé to působí nedodělaně. Možná by se zodpovědné osoby měly zamyslet, zda jsou pro společnost Vodafone přínosem.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-12T23:39:33-07:00",
+      "textNormalized": "To jako vazne??? Neustale me po par dnech odhlasuje. Kdyz cestuji do zahranici, tak nezobrazuje roaming v EU ani mimo EU. Nemuzu si pres to koupit data mimo EU. Jako perla jsou nabidky AXA s 50% slevou, kterou dostaval kazdy, kdo jde na stranky AXA i bez Vodafonu. Cele to pusobi nedodelane. Mozna by se zodpovedne osoby mely zamyslet, zda jsou pro spolecnost Vodafone prinosem.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13506236930",
+      "userName": "Aidamos",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id774115807",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Katastrofa!",
+      "text": "Přehlednost se moc nezlepšila, na předplacené kartě se nedostanu na seznam provolaných minut a SMS, program čtyřka pro kartu je v seznamu balíčků dvakrát, na změny nereaguje, prostě komplet aplikace velice špatně použitelná. Když to neumíte, tak se na to vykašlete a běžte dělat něco jiného, třeba radši nic.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-12T13:36:39-07:00",
+      "textNormalized": "Prehlednost se moc nezlepsila, na predplacene karte se nedostanu na seznam provolanych minut a SMS, program ctyrka pro kartu je v seznamu balicku dvakrat, na zmeny nereaguje, proste komplet aplikace velice spatne pouzitelna. Kdyz to neumite, tak se na to vykaslete a bezte delat neco jineho, treba radsi nic.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13504795568",
+      "userName": "Avada Ledabra",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id664317555",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Nefunguje",
+      "text": "Člověk se chce přihlásit a jediné co, tak bílá obrazovka. Opravdu kvalitní zlepšení oproti původní aplikaci",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-12T05:40:55-07:00",
+      "textNormalized": "Clovek se chce prihlasit a jedine co, tak bila obrazovka. Opravdu kvalitni zlepseni oproti puvodni aplikaci",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13504413469",
+      "userName": "Terullia",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id711603904",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "K ničemu",
+      "text": "Vylepšení aplikace? A kde? Appka ne-funguje stejně, jako předchozí. Chatování, které vám umožní “odbavit se sami”,  je vymyšlené tak, aby po deseti minutách kradení vašeho času a psaní stejně napsalo, ať si zavoláte na infolinku…, jo pardon, jedno vylepšení tam je…\nAppka má moc pěknou grafiku, to se musí nechat, na to jsme od vývojářů čekali, to je fakt 👍🏼👍🏼👍🏼",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-12T03:38:51-07:00",
+      "textNormalized": "Vylepseni aplikace? A kde? Appka ne-funguje stejne, jako predchozi. Chatovani, ktere vam umozni “odbavit se sami”,  je vymyslene tak, aby po deseti minutach kradeni vaseho casu a psani stejne napsalo, at si zavolate na infolinku…, jo pardon, jedno vylepseni tam je…\nAppka ma moc peknou grafiku, to se musi nechat, na to jsme od vyvojaru cekali, to je fakt 👍🏼👍🏼👍🏼",
+      "segments": [
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13504150407",
+      "userName": "Hogyno",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id430794190",
+      "version": "3.4.1",
+      "score": "5",
+      "title": "Pochvala",
+      "text": "Vždy jsem spokojený",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-12T01:54:34-07:00",
+      "textNormalized": "Vzdy jsem spokojeny",
+      "segments": [
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13503756148",
+      "userName": "ВуйкоБасун",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1360116834",
+      "version": "3.4.1",
+      "score": "2",
+      "title": "Баг",
+      "text": "При оновленні програми, постійно міняється мова на англійську",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-11T22:46:21-07:00",
+      "textNormalized": "При oнoвленні прoгрaми, пoстійнo міняEться мoвa нa aнглійську",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13502667053",
+      "userName": "vaci",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id103464961",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Zrychlení dat",
+      "text": "To jediné co v apce potřebujete udělat rychle je zrychlení dat. Ve staré apce hned na úvodní obrazovce v nové apce nikde, nebo někde šikovně schováno.. apka je strašná",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-11T14:42:34-07:00",
+      "textNormalized": "To jedine co v apce potrebujete udelat rychle je zrychleni dat. Ve stare apce hned na uvodni obrazovce v nove apce nikde, nebo nekde sikovne schovano.. apka je strasna",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13502167918",
+      "userName": "M4schke",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id382936657",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Pŕihlášení",
+      "text": "Aplikace nejde přihlásit 👎 iPhone 17",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-11T11:27:05-07:00",
+      "textNormalized": "Aplikace nejde prihlasit 👎 iPhone 17",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13501100412",
+      "userName": "Dean933",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1361799850",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Hrůza",
+      "text": "Netuším proč nutíte zákazníky ke stáhnutí nové aplikace. Když tato ještě není vůbec připravena k používání. Pomalá, seká se a padá. Ne, že by původní Můj Vodafone byl nějakej vývojářský zázrak aplikace, ale tohle je nepoužitelný.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-11T05:34:40-07:00",
+      "textNormalized": "Netusim proc nutite zakazniky ke stahnuti nove aplikace. Kdyz tato jeste neni vubec pripravena k pouzivani. Pomala, seka se a pada. Ne, ze by puvodni Muj Vodafone byl nejakej vyvojarsky zazrak aplikace, ale tohle je nepouzitelny.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13500035917",
+      "userName": "Bulat Kirill",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id478184567",
+      "version": "3.4.1",
+      "score": "5",
+      "title": "Happy for integration Happy",
+      "text": "First of all, thank you for bringing Happy to the Vodafone app. I use it regularly. Secondly, the new app works significantly better than the old one. Please continue doing what you do!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-10T22:04:38-07:00",
+      "textNormalized": "First of all, thank you for bringing Happy to the Vodafone app. I use it regularly. Secondly, the new app works significantly better than the old one. Please continue doing what you do!",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13498581842",
+      "userName": "Airbankéř",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id637961242",
+      "version": "3.4.1",
+      "score": "2",
+      "title": "Všechno je složité překombinované. Spoustu údajů stejně nikdo nečte. Zvítězí jednoduchost, ta není",
+      "text": "Všechno je složité překombinované. Spoustu údajů stejně nikdo nečte. Zvítězí jednoduchost, ta není",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-10T12:00:17-07:00",
+      "textNormalized": "Vsechno je slozite prekombinovane. Spoustu udaju stejne nikdo necte. Zvitezi jednoduchost, ta neni",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13498144962",
+      "userName": "Honza H from the North",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1217334652",
+      "version": "3.4.1",
+      "score": "3",
+      "title": "Přesměrování do webového rozhraní",
+      "text": "Když chci zjistit stav mého požadavku, aplikace mě přesměruje na web, kam se musím znovu přihlásit. To mi tak docela nedává smysl. V přehledu svých služeb nevidím jejich pojmenování.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-10T09:30:12-07:00",
+      "textNormalized": "Kdyz chci zjistit stav meho pozadavku, aplikace me presmeruje na web, kam se musim znovu prihlasit. To mi tak docela nedava smysl. V prehledu svych sluzeb nevidim jejich pojmenovani.",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13497546984",
+      "userName": "Ateposss",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1194685991",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "QR payments",
+      "text": "Much faster than previous app based on first 15 sec experience. But i can not find where to pay my bills using QR code. Please add qr payments…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-10T06:23:48-07:00",
+      "textNormalized": "Much faster than previous app based on first 15 sec experience. But i can not find where to pay my bills using QR code. Please add qr payments…",
+      "segments": [
+        "Vykonnost",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13497516527",
+      "userName": "Kerpof",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id101302508",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Pořád velký špatný.",
+      "text": "Proč s každou novou verzí je aplikace horší a horší?! Byl to trend u původní aplikace a tahle nová v tom úspěšně pokračuje.\nTřeba zmizel QR kód při placení. Proč?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-10T06:14:37-07:00",
+      "textNormalized": "Proc s kazdou novou verzi je aplikace horsi a horsi?! Byl to trend u puvodni aplikace a tahle nova v tom uspesne pokracuje.\nTreba zmizel QR kod pri placeni. Proc?",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13497332972",
+      "userName": "Peterson0981",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id815697577",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "angry",
+      "text": "still useless, cant open or download crucial documents",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-10T05:18:34-07:00",
+      "textNormalized": "still useless, cant open or download crucial documents",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13495392890",
+      "userName": "Honza_89",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id418414237",
+      "version": "3.4.1",
+      "score": "3",
+      "title": "Povedená aplikace dostupnost na iPad?",
+      "text": "Aplikace je fajn, ale není přizpůsobená na iPad což předchozí aplikace byla je v plánu i novou aplikaci nechat přizpůsobit pro iPad?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-09T15:41:48-07:00",
+      "textNormalized": "Aplikace je fajn, ale neni prizpusobena na iPad coz predchozi aplikace byla je v planu i novou aplikaci nechat prizpusobit pro iPad?",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13495005377",
+      "userName": "Mirek77",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id481897772",
+      "version": "3.4.1",
+      "score": "2",
+      "title": "Velikost písma.",
+      "text": "Problém stále v nové verzi nevyřešen - nejde nastavit velikost písma. Písmo je hodně malé a lidé s horším zrakem budou mít problém. Ale komu dnes záleží na starších lidech že.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-09T13:11:46-07:00",
+      "textNormalized": "Problem stale v nove verzi nevyresen - nejde nastavit velikost pisma. Pismo je hodne male a lide s horsim zrakem budou mit problem. Ale komu dnes zalezi na starsich lidech ze.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13494966869",
+      "userName": "Radek Foltyn",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1492336719",
+      "version": "3.4.1",
+      "score": "1",
+      "title": "Opět špatně",
+      "text": "S uvedením aplikace Vodafone dělal docela haló a byl to jeden z důvodu, kterým ospravedlňoval zdražení už tak předraženych služeb. Není to taková sláva, čekal jsem po takovém velkém oznámení, že mi apka udela dane, navrhne podnikatelsky plán na dva roky dopředu a jine. Příště stačí aktualizovat bez promo článku ne vše si zaslouží marketing. Ale hlavně musím zmínit jejich chatbota, v době kdy i zapalovač s vámi muže diskutovat o smyslu života Vodafone používá repetitivniho idiota, který vas přinejlepším na..re >> vyhnete se komunikaci s nim je to k ničemu",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-09T12:57:38-07:00",
+      "textNormalized": "S uvedenim aplikace Vodafone delal docela halo a byl to jeden z duvodu, kterym ospravedlnoval zdrazeni uz tak predrazenych sluzeb. Neni to takova slava, cekal jsem po takovem velkem oznameni, ze mi apka udela dane, navrhne podnikatelsky plan na dva roky dopredu a jine. Priste staci aktualizovat bez promo clanku ne vse si zaslouzi marketing. Ale hlavne musim zminit jejich chatbota, v dobe kdy i zapalovac s vami muze diskutovat o smyslu zivota Vodafone pouziva repetitivniho idiota, ktery vas prinejlepsim na..re >> vyhnete se komunikaci s nim je to k nicemu",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13494844602",
+      "userName": "Xenostelar",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1568662353",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "Nefunkční Aplikace",
+      "text": "Nechápu proč tato aplikace je. Když se chci přihlásit tak mi to zobrazí že je má IP adresa z bezpečnostních důvodů blokována . A to se přihlašuji jak z Wifi tak přes data . Když něco uděláte tak poradně . V práci by mi taky nezaplatili zmetek 🙄",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-09T12:12:57-07:00",
+      "textNormalized": "Nechapu proc tato aplikace je. Kdyz se chci prihlasit tak mi to zobrazi ze je ma IP adresa z bezpecnostnich duvodu blokovana . A to se prihlasuji jak z Wifi tak pres data . Kdyz neco udelate tak poradne . V praci by mi taky nezaplatili zmetek 🙄",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13494747015",
+      "userName": "!!!!!!€!",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id937514620",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "Hrůza",
+      "text": "Nejde dodat víc než hrozná aplikace",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-09T11:38:21-07:00",
+      "textNormalized": "Nejde dodat vic nez hrozna aplikace",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13493256867",
+      "userName": "Lamann.",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1406319121",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "mutli factor login",
+      "text": "i have czech number but i am not here in summers. in foreign country i can not get any messages so i cant login there if i urgently need the app( such as to pay the monthly payments). it is mutli factor authentication and almost every weeek it wants to login again. how i will login and pay in summer? \nalso in app the language is english but whenever i click some buttons it redirects me to their website which is only in czech, so why we need app then?? very unuseful.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-09T03:36:15-07:00",
+      "textNormalized": "i have czech number but i am not here in summers. in foreign country i can not get any messages so i cant login there if i urgently need the app( such as to pay the monthly payments). it is mutli factor authentication and almost every weeek it wants to login again. how i will login and pay in summer? \nalso in app the language is english but whenever i click some buttons it redirects me to their website which is only in czech, so why we need app then?? very unuseful.",
+      "segments": [
+        "UI",
+        "Prihlaseni",
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13493119967",
+      "userName": "minavenia",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1865149438",
+      "version": "3.4.0",
+      "score": "2",
+      "title": "HROZNY",
+      "text": "!!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-09T02:42:39-07:00",
+      "textNormalized": "!!",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13491478252",
+      "userName": "Nawis23",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id640605888",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "Neprehledna",
+      "text": "Oproti starsi verzi je neorehledna s malyma pismenkama.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-08T14:34:28-07:00",
+      "textNormalized": "Oproti starsi verzi je neorehledna s malyma pismenkama.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13489496058",
+      "userName": "Černo zraký",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1397583252",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "VoiceOver nefunkční dobíjení kreditu!!!",
+      "text": "Při používání funkce VoiceOver, nejde dobít kredit. Protože se zmíněnou funkcí nejde zvolit dobýjenou částku v rozmezí 100 až 5000 Kč. Takže zvolit například 300 Kč je absolutně nereálné.\nMalá rada pro vývojáře, testovat se zapnutou clonou obrazovky!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-08T03:29:29-07:00",
+      "textNormalized": "Pri pouzivani funkce VoiceOver, nejde dobit kredit. Protoze se zminenou funkci nejde zvolit dobyjenou castku v rozmezi 100 az 5000 Kc. Takze zvolit napriklad 300 Kc je absolutne nerealne.\nMala rada pro vyvojare, testovat se zapnutou clonou obrazovky!",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13487347111",
+      "userName": "dasa1986",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1248220458",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "Nepřihlášení",
+      "text": "App plně nefunkční a vůbec se nelze přihlásit",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-07T12:27:33-07:00",
+      "textNormalized": "App plne nefunkcni a vubec se nelze prihlasit",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13487241505",
+      "userName": "Kovář",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id280348760",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "Aplikace",
+      "text": "Das ist katastrofa",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-07T11:53:12-07:00",
+      "textNormalized": "Das ist katastrofa",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13486777566",
+      "userName": "thdenis_zh",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id245391174",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "Completely useless",
+      "text": "Simply the worst app a mobile operator could offer. It would be better if it didn’t exist at all, so you wouldn’t waste your nerves and could just go straight to their branch office, where they also take forever to solve any issues. The app doesn’t launch when you need it, it’s full of unnecessary information, and it’s absolutely not user-friendly. Completely useless",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-07T09:32:35-07:00",
+      "textNormalized": "Simply the worst app a mobile operator could offer. It would be better if it didn’t exist at all, so you wouldn’t waste your nerves and could just go straight to their branch office, where they also take forever to solve any issues. The app doesn’t launch when you need it, it’s full of unnecessary information, and it’s absolutely not user-friendly. Completely useless",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "13486720132",
+      "userName": "whatthehellriot",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1064163765",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "Dalsi trash",
+      "text": "Fakt super appka, do tehle nove se zaboha nelze prihlasit a pres starou uz nemuzu platit bills. Ta predchozi aplikace byla tragedie, ale vypada to, ze jste se nikam neposunuli.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-07T09:16:02-07:00",
+      "textNormalized": "Fakt super appka, do tehle nove se zaboha nelze prihlasit a pres starou uz nemuzu platit bills. Ta predchozi aplikace byla tragedie, ale vypada to, ze jste se nikam neposunuli.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13486647647",
+      "userName": "Wortos",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id428478751",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "nejhorsi aplikace co existuje",
+      "text": "ve stare appce jsem aspoň mohl zaplatit učet , tato me akorát stale odhlasuje furt dokola grrrr jak ja ten vodafone nesnaším nejraději bych ho zrušil , to programoval nějaký negramota v Javě ne?  děs",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-07T08:55:24-07:00",
+      "textNormalized": "ve stare appce jsem aspon mohl zaplatit ucet , tato me akorat stale odhlasuje furt dokola grrrr jak ja ten vodafone nesnasim nejradeji bych ho zrusil , to programoval nejaky negramota v Jave ne?  des",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13485424872",
+      "userName": "unhappyuser18739473",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1369814785",
+      "version": "3.4.0",
+      "score": "2",
+      "title": "Ne a ne :(",
+      "text": "Aplikace se sama odhlasuje. Neustale nutnost resetovat heslo. Absolutne neintuitivni",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-07T02:43:29-07:00",
+      "textNormalized": "Aplikace se sama odhlasuje. Neustale nutnost resetovat heslo. Absolutne neintuitivni",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13485407545",
+      "userName": "ElChristophero",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id966125253",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "Hruza",
+      "text": "Otresna aplikace kde věčně něco nefunguje nebo se vůbec nenacte.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-07T02:36:54-07:00",
+      "textNormalized": "Otresna aplikace kde vecne neco nefunguje nebo se vubec nenacte.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13483526389",
+      "userName": "xoDBxo",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id42243691",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "Poloviční dark mode (webview)",
+      "text": "Aplikace sice má dark mode, ale spoustu sekcí, hlavně ty co otevřou webovou verzi, mi vypálí vždycky oči!! To jako opravdu nemužete přes ten webview dát alespoň nějaký tmavý css filtr? Vždyt i appka Noir umí váš web v Safari předělat krásně do dark modu. Dokud ta nekonzistence barev bude taková tak nemohu dát víc než jednu hvězdu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-06T14:18:36-07:00",
+      "textNormalized": "Aplikace sice ma dark mode, ale spoustu sekci, hlavne ty co otevrou webovou verzi, mi vypali vzdycky oci!! To jako opravdu nemuzete pres ten webview dat alespon nejaky tmavy css filtr? Vzdyt i appka Noir umi vas web v Safari predelat krasne do dark modu. Dokud ta nekonzistence barev bude takova tak nemohu dat vic nez jednu hvezdu.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13478802112",
+      "userName": "kkiirraa666",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1342621874",
+      "version": "3.4.0",
+      "score": "4",
+      "title": "QR kod",
+      "text": "Postradam moznost platby pres QR kod. Bylo by super tam tuto moznost pridat.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-05T10:48:12-07:00",
+      "textNormalized": "Postradam moznost platby pres QR kod. Bylo by super tam tuto moznost pridat.",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13475087131",
+      "userName": "Fndiejdj",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1843150228",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "Nefunguje!!",
+      "text": "Kdyby to aspoň fungovalo! Věčně se to seká a i se zrychlenýma datama dvě hodiny načítá !!!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-04T11:20:22-07:00",
+      "textNormalized": "Kdyby to aspon fungovalo! Vecne se to seka a i se zrychlenyma datama dve hodiny nacita !!!",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "13462284094",
+      "userName": "Fídek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1517671265",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "Starší verze je lepší",
+      "text": "Moc malé písmo",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-12-01T04:13:05-07:00",
+      "textNormalized": "Moc male pismo",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13459925561",
+      "userName": "Mjdolejs",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id692063222",
+      "version": "3.4.0",
+      "score": "2",
+      "title": "Podprumerny UX",
+      "text": "Na uzivatele je prenesena prace, ktera se muze dit na pozadi.\nNapriklad pri prvnim prihlaseni ze stare app.\nMusim dat heslo (ktere musi byt komplikovane jako do bankovni appky -proc!?).\nDostanu se do stare app - aktivuju face id, ale musim se znovu odhlasit.\nPak se prihlasim a az ted mi to nabidne upgrade do nove app, prijmu.\nAle jsem zde zase odhlaseny (proc si me to proboha nepamatuje!?).\nPo prihlaseni se me to zase pta, zda chci face id - ano, zase me to odhlasi, takze poctvrte vyplnuju to komplikovany heslo - hell!\nAle diky, uz to heslo asi nezapomenu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-30T12:04:39-07:00",
+      "textNormalized": "Na uzivatele je prenesena prace, ktera se muze dit na pozadi.\nNapriklad pri prvnim prihlaseni ze stare app.\nMusim dat heslo (ktere musi byt komplikovane jako do bankovni appky -proc!?).\nDostanu se do stare app - aktivuju face id, ale musim se znovu odhlasit.\nPak se prihlasim a az ted mi to nabidne upgrade do nove app, prijmu.\nAle jsem zde zase odhlaseny (proc si me to proboha nepamatuje!?).\nPo prihlaseni se me to zase pta, zda chci face id - ano, zase me to odhlasi, takze poctvrte vyplnuju to komplikovany heslo - hell!\nAle diky, uz to heslo asi nezapomenu.",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13458924646",
+      "userName": "JS¥",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id536698505",
+      "version": "3.4.0",
+      "score": "3",
+      "title": "Widget",
+      "text": "Bohužel zase není součásti aplikace možnost přidání widgetu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-30T06:59:49-07:00",
+      "textNormalized": "Bohuzel zase neni soucasti aplikace moznost pridani widgetu.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13455375504",
+      "userName": "paklisek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1579242371",
+      "version": "3.4.0",
+      "score": "1",
+      "title": "Zatím nefunguje",
+      "text": "Přešel jsem z klasické Vodafon aplikace na plusko a  za mě zatím nic vrácím se zpět 😞",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-29T08:54:22-07:00",
+      "textNormalized": "Presel jsem z klasicke Vodafon aplikace na plusko a  za me zatim nic vracim se zpet 😞",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13450298930",
+      "userName": "HelyBell",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id470305548",
+      "version": "3.3.0",
+      "score": "1",
+      "title": "Odpad",
+      "text": "To jako vážně??? Neustále mě po pár dnech odhlašuje. Když cestuji do zahraničí, tak nezobrazuje roaming v EU ani mimo EU. Nemůžu si přes to koupit data mimo EU. Jako perla jsou nabídky AXA s 50% slevou, kterou dostával každý, kdo jde na stránky AXA i bez Vodafonu. Celé to působí nedodělaně. Možná by se zodpovědné osoby měly zamyslet, zda jsou pro společnost Vodafone přínosem.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-28T03:53:50-07:00",
+      "textNormalized": "To jako vazne??? Neustale me po par dnech odhlasuje. Kdyz cestuji do zahranici, tak nezobrazuje roaming v EU ani mimo EU. Nemuzu si pres to koupit data mimo EU. Jako perla jsou nabidky AXA s 50% slevou, kterou dostaval kazdy, kdo jde na stranky AXA i bez Vodafonu. Cele to pusobi nedodelane. Mozna by se zodpovedne osoby mely zamyslet, zda jsou pro spolecnost Vodafone prinosem.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13448462092",
+      "userName": "Marekk12345",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id473592435",
+      "version": "3.3.0",
+      "score": "4",
+      "title": "Chybi nektera data",
+      "text": "V sekci cerpani chybi prehled o cerpani dat v zone 1, sekce balicky prazdna (ok, mozna nemam na zadne narok), nelze nastavovat ostatni sluzby, nepouzitelne.\nDoplneno pozdeji - uz to vypada mnohem lepe, chvalim a pridavam hvezdicky ))",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-27T14:32:05-07:00",
+      "textNormalized": "V sekci cerpani chybi prehled o cerpani dat v zone 1, sekce balicky prazdna (ok, mozna nemam na zadne narok), nelze nastavovat ostatni sluzby, nepouzitelne.\nDoplneno pozdeji - uz to vypada mnohem lepe, chvalim a pridavam hvezdicky ))",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13444659669",
+      "userName": "Dara z Plzně",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1774024799",
+      "version": "3.3.0",
+      "score": "1",
+      "title": "data",
+      "text": "Neni zřetelně vidět za kolik dnů mi skončí balíček dat ke kartě",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-26T14:00:21-07:00",
+      "textNormalized": "Neni zretelne videt za kolik dnu mi skonci balicek dat ke karte",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13444196099",
+      "userName": "DSH2901",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id287386498",
+      "version": "3.3.0",
+      "score": "1",
+      "title": "👎",
+      "text": "Aplikace je nestabilní, nejde se přihlásit",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-26T11:14:16-07:00",
+      "textNormalized": "Aplikace je nestabilni, nejde se prihlasit",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13438124782",
+      "userName": "Zolik8",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id511578638",
+      "version": "3.3.0",
+      "score": "5",
+      "title": "Škoda",
+      "text": "Nedá se přidat jméno k telefonimu číslu když máš více čísel kdyby to opravili tak bylo by super",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-24T21:25:10-07:00",
+      "textNormalized": "Neda se pridat jmeno k telefonimu cislu kdyz mas vice cisel kdyby to opravili tak bylo by super",
+      "segments": [
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13437396762",
+      "userName": "Denny0777",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id603232314",
+      "version": "3.3.0",
+      "score": "1",
+      "title": ".",
+      "text": "Slow, Non-Functional, and Unfixed for Too Long!\nThe Vodafone app suffers from fundamental problems with speed and functionality that the operator has been ignoring for a long time.\nBesides the generally slow response, where loading some screens takes an unacceptable up to 5 seconds, the biggest issue is a persistent error in a critical section.\nWhenever I try to open the \"\"Contract and Installments\"\" (Smlouva a splátky) section, the app repeatedly, and after a significant delay, displays the error message: \"\"We apologize, an error has occurred. Please repeat your query.\"",
+      "url": "",
+      "updated": "",
+      "textNormalized": "",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "This crucial part of the application, which should provide users with basic information about their commitments and tariff, has been unavailable and non-functional for a very long time. It is unacceptable that a major telecommunications operator is unable to fix a basic, key bug in its mobile application. This points to a neglect of the user experience and insufficient priority given to technical development.",
+      "userName": "",
+      "userUrl": "",
+      "version": "",
+      "score": "",
+      "title": "",
+      "text": "",
+      "url": "",
+      "updated": "",
+      "textNormalized": "",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "Until the speed issues and, most importantly, this fundamental contract management error are fixed, the app is unsuitable for active use.",
+      "userName": "",
+      "userUrl": "",
+      "version": "",
+      "score": "",
+      "title": "",
+      "text": "",
+      "url": "",
+      "updated": "",
+      "textNormalized": "",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "Rating: 1/5 (Unusable)\"",
+      "userName": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "userUrl": "2025-11-24T16:17:07-07:00",
+      "version": "Slow, Non-Functional, and Unfixed for Too Long!\nThe Vodafone app suffers from fundamental problems with speed and functionality that the operator has been ignoring for a long time.\nBesides the generally slow response, where loading some screens takes an unacceptable up to 5 seconds, the biggest issue is a persistent error in a critical section.\nWhenever I try to open the \"\"Contract and Installments\"\" (Smlouva a splatky) section, the app repeatedly, and after a significant delay, displays the error message: \"\"We apologize, an error has occurred. Please repeat your query.\"",
+      "score": "",
+      "title": "",
+      "text": "",
+      "url": "",
+      "updated": "",
+      "textNormalized": "",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "This crucial part of the application, which should provide users with basic information about their commitments and tariff, has been unavailable and non-functional for a very long time. It is unacceptable that a major telecommunications operator is unable to fix a basic, key bug in its mobile application. This points to a neglect of the user experience and insufficient priority given to technical development.",
+      "userName": "",
+      "userUrl": "",
+      "version": "",
+      "score": "",
+      "title": "",
+      "text": "",
+      "url": "",
+      "updated": "",
+      "textNormalized": "",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "Until the speed issues and, most importantly, this fundamental contract management error are fixed, the app is unsuitable for active use.",
+      "userName": "",
+      "userUrl": "",
+      "version": "",
+      "score": "",
+      "title": "",
+      "text": "",
+      "url": "",
+      "updated": "",
+      "textNormalized": "",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "Rating: 1/5 (Unusable)\"",
+      "userName": "",
+      "userUrl": "",
+      "version": "",
+      "score": "",
+      "title": "",
+      "text": "",
+      "url": "",
+      "updated": "",
+      "textNormalized": "",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13435873216",
+      "userName": "Jakubv22",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1639696208",
+      "version": "3.3.0",
+      "score": "1",
+      "title": "Neustálé přihlašování",
+      "text": "Nechápu proč se každý měsíc musím znovu přihlašovat... Mám aktivované přihlášení obličejem, ale každý měsíc se musím znovu přihlašovat heslem, které muselo být složitější než do mého akciového brokera... Nechápu....",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-24T07:34:32-07:00",
+      "textNormalized": "Nechapu proc se kazdy mesic musim znovu prihlasovat... Mam aktivovane prihlaseni oblicejem, ale kazdy mesic se musim znovu prihlasovat heslem, ktere muselo byt slozitejsi nez do meho akcioveho brokera... Nechapu....",
+      "segments": [
+        "Vykonnost",
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13432997943",
+      "userName": "MirrorForCats",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1331232206",
+      "version": "3.3.0",
+      "score": "4",
+      "title": "Huge upgrade",
+      "text": "As the title says, really big improvement over the previous (almost unusable) app! Much quicker and user-friendly.\nStill, it could be cleaner, as there are quiet lot of unnecessary buttons and offers, but it finally does it’s job. Overall, great!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-23T12:18:00-07:00",
+      "textNormalized": "As the title says, really big improvement over the previous (almost unusable) app! Much quicker and user-friendly.\nStill, it could be cleaner, as there are quiet lot of unnecessary buttons and offers, but it finally does it’s job. Overall, great!",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13430747145",
+      "userName": "Hořčice12345",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1498138273",
+      "version": "3.3.0",
+      "score": "3",
+      "title": "Nedoděláno",
+      "text": "Tahle aplikace mohla být lepší než ten normální \"\"Můj Vodafone\"\" ale je tam mnoho nedodělaných věcí, ani nemůžu vidět kolik kreditu mě zbývá.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-22T23:38:03-07:00",
+      "textNormalized": "Tahle aplikace mohla byt lepsi nez ten normalni \"\"Muj Vodafone\"\" ale je tam mnoho nedodelanych veci, ani nemuzu videt kolik kreditu me zbyva.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13420210746",
+      "userName": "ar-jan",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id926995884",
+      "version": "3.3.0",
+      "score": "3",
+      "title": "Lepší než původní, ale",
+      "text": "Aktualizace 19.11\n19.11. - ve webové samoobsluze jsou jiné zprávy než v mobilní app. \nV mobilní app chybí zprávy např. o navýšení cen. Ty jsou jen na webu a když tam člověk nechodí, tak se je nedozví.\nOvěřeno u více účtů \nVe webové samoobsluze to ukazuje jiné zůstatky dát, nej    v mobilní app.\nOvěřeno u více účtů \nV aplikaci se opět zobrazuji přečtené zprávy a vypadají opět neorectene. Opakovaně!!!\nV app chybí možnost zaslat doraz \nKrom výše uvedeného Zatím vypadá lépe než ta původní.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-20T05:35:07-07:00",
+      "textNormalized": "Aktualizace 19.11\n19.11. - ve webove samoobsluze jsou jine zpravy nez v mobilni app. \nV mobilni app chybi zpravy napr. o navyseni cen. Ty jsou jen na webu a kdyz tam clovek nechodi, tak se je nedozvi.\nOvereno u vice uctu \nVe webove samoobsluze to ukazuje jine zustatky dat, nej    v mobilni app.\nOvereno u vice uctu \nV aplikaci se opet zobrazuji prectene zpravy a vypadaji opet neorectene. Opakovane!!!\nV app chybi moznost zaslat doraz \nKrom vyse uvedeneho Zatim vypada lepe nez ta puvodni.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13419644564",
+      "userName": "m3teqs",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id582271110",
+      "version": "3.3.0",
+      "score": "1",
+      "title": "This is completely ridiculous",
+      "text": "I can’t believe such a big company still hasn’t managed to create a properly functioning app after all these years on the market",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-20T02:13:32-07:00",
+      "textNormalized": "I can’t believe such a big company still hasn’t managed to create a properly functioning app after all these years on the market",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13416346130",
+      "userName": "hell_pf",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id42384091",
+      "version": "3.3.0",
+      "score": "1",
+      "title": "Pomale a neacita se",
+      "text": "Vsechno je pomale, jako webview, nic se nenacita, jen bile obrazovky a tlacitko refresh, co jic nedela, odpad",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-19T04:37:35-07:00",
+      "textNormalized": "Vsechno je pomale, jako webview, nic se nenacita, jen bile obrazovky a tlacitko refresh, co jic nedela, odpad",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13404423999",
+      "userName": "Цизинец",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1808880499",
+      "version": "3.3.0",
+      "score": "1",
+      "title": "Кнопка",
+      "text": "Мало того, что не додумались обновить старое приложение, а сделали новое. Да еще и не смогли оставить кнопку ускорения скорости интернета. Гении",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-16T02:16:40-07:00",
+      "textNormalized": "Мaлo тoгo, чтo не дoдумaлись oбнoвить стaрoе прилoжение, a сделaли нoвoе. Дa еще и не смoгли oстaвить кнoпку ускoрения скoрoсти интернетa. Гении",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13401712666",
+      "userName": "Abbgvn NKVD fb b",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1478476928",
+      "version": "3.3.0",
+      "score": "1",
+      "title": "Kde jsou widgety ?",
+      "text": "Kde jsou widgety? Člověk měl plus minus přehled, teď mám …",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-15T09:29:48-07:00",
+      "textNormalized": "Kde jsou widgety? Clovek mel plus minus prehled, ted mam …",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13397245670",
+      "userName": "Pája44",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1464412218",
+      "version": "3.3.0",
+      "score": "4",
+      "title": "Winget",
+      "text": "Chybí mi widget 😢",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-14T08:14:45-07:00",
+      "textNormalized": "Chybi mi widget 😢",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13395896586",
+      "userName": "Micaana",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id202595463",
+      "version": "3.3.0",
+      "score": "5",
+      "title": "Much better then the old one",
+      "text": "I like this App more then the previous one. Everything is clear, can be found easily and Happy program as a bonus, great job!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-14T01:18:02-07:00",
+      "textNormalized": "I like this App more then the previous one. Everything is clear, can be found easily and Happy program as a bonus, great job!",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13395878891",
+      "userName": "psicha3",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id176255583",
+      "version": "3.3.0",
+      "score": "2",
+      "title": "Jazyk en-cz",
+      "text": "Po každém přihlášení musím přepnut do češtiny ! Po odhlášení appka znovu přepína na EN (",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-14T01:10:44-07:00",
+      "textNormalized": "Po kazdem prihlaseni musim prepnut do cestiny ! Po odhlaseni appka znovu prepina na EN (",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13393740779",
+      "userName": "Jan Posik",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id385454603",
+      "version": "3.2.1",
+      "score": "1",
+      "title": "Zadna slava",
+      "text": "Nic nefunguje. Chci informace o svem uctu. Nic, stale nacita. Chci do eshopu, nic, stale nacita.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-13T10:50:59-07:00",
+      "textNormalized": "Nic nefunguje. Chci informace o svem uctu. Nic, stale nacita. Chci do eshopu, nic, stale nacita.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13392700253",
+      "userName": "ar-jan",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id926995884",
+      "version": "3.2.1",
+      "score": "3",
+      "title": "Lepší než původní, ale",
+      "text": "Aktualizace 13.11\n13.11. - ve webové samoobsluze jsou jiné zprávy než v mobilní app. \nV mobilní app chybí zprávy např. o navýšení cen. Ty jsou jen na webu a když tam člověk nechodí, tak se je nedozví.\nOvěřeno u více účtů \nKrom výše uvedeného Zatím vypadá lépe než ta původní. Snad si to Vodafone nepokazi nějakou aktualizací",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-13T05:40:58-07:00",
+      "textNormalized": "Aktualizace 13.11\n13.11. - ve webove samoobsluze jsou jine zpravy nez v mobilni app. \nV mobilni app chybi zpravy napr. o navyseni cen. Ty jsou jen na webu a kdyz tam clovek nechodi, tak se je nedozvi.\nOvereno u vice uctu \nKrom vyse uvedeneho Zatim vypada lepe nez ta puvodni. Snad si to Vodafone nepokazi nejakou aktualizaci",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13392106834",
+      "userName": "Soňa-1",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id407597109",
+      "version": "3.2.1",
+      "score": "5",
+      "title": "Ok",
+      "text": "Ok",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-13T02:30:22-07:00",
+      "textNormalized": "Ok",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13392029314",
+      "userName": "jduffjfud",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id374186141",
+      "version": "3.2.1",
+      "score": "1",
+      "title": "Chyby",
+      "text": "Aplikace je neskutecne pomala oproti predchozi verzi. Nektere casti se nacitaji nekolik desitek vterin. Odeslani zpravy do vodafone nefunguje-napise error.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-13T01:59:41-07:00",
+      "textNormalized": "Aplikace je neskutecne pomala oproti predchozi verzi. Nektere casti se nacitaji nekolik desitek vterin. Odeslani zpravy do vodafone nefunguje-napise error.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13392029260",
+      "userName": "Luciezednickova",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id575137159",
+      "version": "3.2.1",
+      "score": "1",
+      "title": "Ma být rychlejší",
+      "text": "Není rychlejší, nejde rozjet, pořád se tam jen motá logo. Aplikace k ničemu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-13T01:59:39-07:00",
+      "textNormalized": "Neni rychlejsi, nejde rozjet, porad se tam jen mota logo. Aplikace k nicemu.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13391682372",
+      "userName": "KajosHCZ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id193933867",
+      "version": "3.2.1",
+      "score": "1",
+      "title": "Nelze se ani přihlásit",
+      "text": "K čemu je aplikace, která je k ničemu, když se do ní ani nepřihlásíte...",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-12T23:29:33-07:00",
+      "textNormalized": "K cemu je aplikace, ktera je k nicemu, kdyz se do ni ani neprihlasite...",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13391613341",
+      "userName": "Agrobabla",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id405947326",
+      "version": "3.2.1",
+      "score": "3",
+      "title": "Chybný údaj o zbývajících datech",
+      "text": "Moc pěkná apka, leč ukazuje nesprávný údaj o zbývajících datech. V nové apce se ukazuje hodnota 2.8GB a přitom ve staré je 2.98GB. Navíc ve staré apce bylo možné se v detailu podívat na hodnotu i v jednotce MB, která je mnohem vypovídajícnější. V detailu staré apky je hodnota zbývajících dat 3056MB. Po podělení 3056/1024 = 2,984, takže stará apka všechno počítá správně.\nAbych to shrnul, prvotně by to v nové apce chtělo počítat zbývající data přinejmenším správně a dále by to chtělo mít možnost náhledu i v jednotce MB.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-12T22:58:16-07:00",
+      "textNormalized": "Moc pekna apka, lec ukazuje nespravny udaj o zbyvajicich datech. V nove apce se ukazuje hodnota 2.8GB a pritom ve stare je 2.98GB. Navic ve stare apce bylo mozne se v detailu podivat na hodnotu i v jednotce MB, ktera je mnohem vypovidajicnejsi. V detailu stare apky je hodnota zbyvajicich dat 3056MB. Po podeleni 3056/1024 = 2,984, takze stara apka vsechno pocita spravne.\nAbych to shrnul, prvotne by to v nove apce chtelo pocitat zbyvajici data prinejmensim spravne a dale by to chtelo mit moznost nahledu i v jednotce MB.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13389944932",
+      "userName": "Geek CZE",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id492217501",
+      "version": "3.2.1",
+      "score": "5",
+      "title": "Top aplikace!",
+      "text": "Aplikace Můj Vodafone+ je skvělá – všechno mám přehledně na jednom místě a ovládání je naprosto intuitivní. Funguje rychle, spolehlivě a usnadňuje správu služeb.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-12T11:44:53-07:00",
+      "textNormalized": "Aplikace Muj Vodafone+ je skvela – vsechno mam prehledne na jednom miste a ovladani je naprosto intuitivni. Funguje rychle, spolehlive a usnadnuje spravu sluzeb.",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13388426988",
+      "userName": "mivo240",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id230199632",
+      "version": "3.2.1",
+      "score": "1",
+      "title": "Karta pro partu",
+      "text": "Mám předplacenou kartu a vrátil jsem se k původní aplikaci, protože tu není zobrazeno kolik dní zbývá do konce Připojení na měsíc a ani historie čerpání kreditu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-12T04:08:27-07:00",
+      "textNormalized": "Mam predplacenou kartu a vratil jsem se k puvodni aplikaci, protoze tu neni zobrazeno kolik dni zbyva do konce Pripojeni na mesic a ani historie cerpani kreditu.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13384328303",
+      "userName": "Ball3r337",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1148510191",
+      "version": "3.2.1",
+      "score": "2",
+      "title": "Zrychlení dat",
+      "text": "Bohužel stále mi nefunguje aktivovat si zrychlení dat i když byla nedávno aktualizace aplikace. Jinak oproti staré aplikaci je rozhodně lepší. Jen ty data..na staré aplikaci mi aktivovat jdou..",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-11T03:56:02-07:00",
+      "textNormalized": "Bohuzel stale mi nefunguje aktivovat si zrychleni dat i kdyz byla nedavno aktualizace aplikace. Jinak oproti stare aplikaci je rozhodne lepsi. Jen ty data..na stare aplikaci mi aktivovat jdou..",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13383635632",
+      "userName": "Lukáš Čada",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id314837896",
+      "version": "3.2.1",
+      "score": "3",
+      "title": "Pojmenování čísel",
+      "text": "Prosím, zobrazujte pojmenování čísel. Díky",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-10T23:24:58-07:00",
+      "textNormalized": "Prosim, zobrazujte pojmenovani cisel. Diky",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13380020292",
+      "userName": "WatchMeDance",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1191813454",
+      "version": "3.2.1",
+      "score": "5",
+      "title": ".",
+      "text": "(Altualizovano- vse funguje)  V aplikaci nevidim realnou cenu. Zobrazuje se pouze cena za pausal. Ve stare aplikaci bylo rovnou videt celkova cena i co se tyka tretich stran. Z 5ti pokusu 3x aplikace padla na error. Neni tam videt splatnos. Jen nazev mesice. Jestli data jeste plne nemigrovala a nemate to dolazene pak nechapu ze uz poustite ostrou verzi.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-10T02:35:07-07:00",
+      "textNormalized": "(Altualizovano- vse funguje)  V aplikaci nevidim realnou cenu. Zobrazuje se pouze cena za pausal. Ve stare aplikaci bylo rovnou videt celkova cena i co se tyka tretich stran. Z 5ti pokusu 3x aplikace padla na error. Neni tam videt splatnos. Jen nazev mesice. Jestli data jeste plne nemigrovala a nemate to dolazene pak nechapu ze uz poustite ostrou verzi.",
+      "segments": [
+        "Stabilita",
+        "Cena",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13379831491",
+      "userName": "Juri cz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1086416075",
+      "version": "3.2.1",
+      "score": "4",
+      "title": "Okénko dat",
+      "text": "Aplikace je skvělá ale chybí mi tam pod linkou dat sdělení dnů do konce období tak jak to bylo na staré aplikaci 👎\nO widgetu ani nemluvě zas není 👎",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-10T01:20:54-07:00",
+      "textNormalized": "Aplikace je skvela ale chybi mi tam pod linkou dat sdeleni dnu do konce obdobi tak jak to bylo na stare aplikaci 👎\nO widgetu ani nemluve zas neni 👎",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13377965166",
+      "userName": "Aidamos",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id774115807",
+      "version": "3.2.1",
+      "score": "3",
+      "title": "Ucházející",
+      "text": "Po nové aktualizaci opraveny nějaké chyby, takže použitelné, ale že by ta aplikace byla o tolik přehlednější oproti staré bez +, tak to o moc ne. A ten chybějící widget dle ostatních recenzí tedy chybí opravdu nezanedbatelnému množství lidí.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-09T12:47:03-07:00",
+      "textNormalized": "Po nove aktualizaci opraveny nejake chyby, takze pouzitelne, ale ze by ta aplikace byla o tolik prehlednejsi oproti stare bez +, tak to o moc ne. A ten chybejici widget dle ostatnich recenzi tedy chybi opravdu nezanedbatelnemu mnozstvi lidi.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13377852161",
+      "userName": "Eli_Ushakova",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1441632051",
+      "version": "3.2.1",
+      "score": "3",
+      "title": "Better use ai for translate",
+      "text": "English version of the app is just a random fun text. Took me a while to figure out what “the order makes friends” mean until I switched to Czech. This is hilarious!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-09T12:10:38-07:00",
+      "textNormalized": "English version of the app is just a random fun text. Took me a while to figure out what “the order makes friends” mean until I switched to Czech. This is hilarious!",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13371583252",
+      "userName": "AkiVarga",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id42886219",
+      "version": "3.2.1",
+      "score": "1",
+      "title": "Základní funkcionality chybí",
+      "text": "V této nové aplikaci není možné upravit nastavení sdílených dat. \nChatbot je nanic, nerozumí ničemu a odkazuje na funkcionality, kterév aplikaci vůbec nejsou. \nSorry, ale toto se hodně nepovedlo.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-08T03:10:02-07:00",
+      "textNormalized": "V teto nove aplikaci neni mozne upravit nastaveni sdilenych dat. \nChatbot je nanic, nerozumi nicemu a odkazuje na funkcionality, kterev aplikaci vubec nejsou. \nSorry, ale toto se hodne nepovedlo.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13370772632",
+      "userName": "MorroSeb",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id982011399",
+      "version": "3.2.1",
+      "score": "1",
+      "title": "Datový dárek k balíčku",
+      "text": "Po dobití a aktivaci balíčku, jsem nenašel data který vždy mám jako dárek  ke svému tarifu, jenom Vodafone “happy” který mě nedělá “happy”,\nTobi taky nedokázal mne vůbec nic poradit. \nRychlejší a lepší nova verze určitě není, o předražených cenách na tarify ani nemluvím. \ntakže jsem stáhnul zpátky klasickou aplikaci, a dokud to nebudete nutit, tak Vodafone+ nikdy.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-07T22:08:46-07:00",
+      "textNormalized": "Po dobiti a aktivaci balicku, jsem nenasel data ktery vzdy mam jako darek  ke svemu tarifu, jenom Vodafone “happy” ktery me nedela “happy”,\nTobi taky nedokazal mne vubec nic poradit. \nRychlejsi a lepsi nova verze urcite neni, o predrazenych cenach na tarify ani nemluvim. \ntakze jsem stahnul zpatky klasickou aplikaci, a dokud to nebudete nutit, tak Vodafone+ nikdy.",
+      "segments": [
+        "Obmezene_funkce",
+        "Cena"
+      ]
+    },
+    {
+      "id": "13368008709",
+      "userName": "JS¥",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id536698505",
+      "version": "3.2.1",
+      "score": "3",
+      "title": "Widget",
+      "text": "Bohužel zase není součásti aplikace možnost přidání widgetu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-07T06:31:24-07:00",
+      "textNormalized": "Bohuzel zase neni soucasti aplikace moznost pridani widgetu.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13367600300",
+      "userName": "Vejapeja",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1364891427",
+      "version": "3.2.1",
+      "score": "1",
+      "title": "Too slow :(",
+      "text": "The app provides a really poor user experience. Everything is extremely slow…every screen takes over 10 seconds to load. I just wanted to disable one service, and it ended up taking me almost five minutes. Using the app is time-consuming …",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-07T04:41:03-07:00",
+      "textNormalized": "The app provides a really poor user experience. Everything is extremely slow…every screen takes over 10 seconds to load. I just wanted to disable one service, and it ended up taking me almost five minutes. Using the app is time-consuming …",
+      "segments": [
+        "Vykonnost",
+        "UI"
+      ]
+    },
+    {
+      "id": "13365156918",
+      "userName": "first-bush-user",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id180290221",
+      "version": "3.2.0",
+      "score": "1",
+      "title": "Korporátní nesmysl",
+      "text": "Podobně tragická aplikace jako ta předchozí. Nelze změnit tarif, polovina aplikace vede na web, je to pomalé, atd",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-06T12:56:14-07:00",
+      "textNormalized": "Podobne tragicka aplikace jako ta predchozi. Nelze zmenit tarif, polovina aplikace vede na web, je to pomale, atd",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13362625982",
+      "userName": "pavel.akrman",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id179482415",
+      "version": "3.2.0",
+      "score": "3",
+      "title": "Promarněná příležitost",
+      "text": "Asi je to rychlejší a trochu přehlednějši, ale staré mouchy zůstaly a nové přibyly, například v sekci Služby i v Přehledu zmizela pojmenování čísel, což je při více číslech nepřehledné peklo. Po zaplacení prostřednictvím appky a po zobrazení hlášky “máte zaplaceno” stále na hlavní straně svítí “zaplaťte” a pustí vás dále k opětovnému zaplacení již zaplaceného účtu, možnost zaplatit s ApplePay je stále tajemně zakopaná až ve formuláři ČSOB. Nevím, jak je nyní aktualizována hlavní strana, ale možnost manuální aktualizace zmizela a víme, že stará appka zobrazovala běžně zastaralá data. Nemožnost vrátit se o krok zpět swipnutím  a nutnost ťukat na šipku zpět nebo křížek je otravně neintuitivní a zastaralá.\nTak snad přilště?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-05T23:28:53-07:00",
+      "textNormalized": "Asi je to rychlejsi a trochu prehlednejsi, ale stare mouchy zustaly a nove pribyly, napriklad v sekci Sluzby i v Prehledu zmizela pojmenovani cisel, coz je pri vice cislech neprehledne peklo. Po zaplaceni prostrednictvim appky a po zobrazeni hlasky “mate zaplaceno” stale na hlavni strane sviti “zaplatte” a pusti vas dale k opetovnemu zaplaceni jiz zaplaceneho uctu, moznost zaplatit s ApplePay je stale tajemne zakopana az ve formulari CSOB. Nevim, jak je nyni aktualizovana hlavni strana, ale moznost manualni aktualizace zmizela a vime, ze stara appka zobrazovala bezne zastarala data. Nemoznost vratit se o krok zpet swipnutim  a nutnost tukat na sipku zpet nebo krizek je otravne neintuitivni a zastarala.\nTak snad prilste?",
+      "segments": [
+        "UI",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13361075324",
+      "userName": "V≈C",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id257458233",
+      "version": "3.2.0",
+      "score": "4",
+      "title": "Vlastní pojmenování čísel",
+      "text": "Oproti staré aplikaci chybí možnost pojmenování jednotlivých telefonních čísel. Bohužel se ani jména nepřenesla. Prosím o nápravu. Děkuji",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-05T13:07:51-07:00",
+      "textNormalized": "Oproti stare aplikaci chybi moznost pojmenovani jednotlivych telefonnich cisel. Bohuzel se ani jmena neprenesla. Prosim o napravu. Dekuji",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13358423182",
+      "userName": "Ateposss",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1194685991",
+      "version": "3.2.0",
+      "score": "4",
+      "title": "QR payments",
+      "text": "Much faster than previous app based on first 15 sec experience. But i can not find where to pay my bills using QR code.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-04T22:49:13-07:00",
+      "textNormalized": "Much faster than previous app based on first 15 sec experience. But i can not find where to pay my bills using QR code.",
+      "segments": [
+        "Vykonnost",
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13356115320",
+      "userName": "Auermann",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id102452207",
+      "version": "3.2.0",
+      "score": "1",
+      "title": "Nedodělek, krok zpět",
+      "text": "Katastrofa, oproti původní aplikaci Můj Vodafone je tato aplikace nedodělek a nic neumí. Neukáže zbylá data v roamingu, nelze s ní zaplatit vyúčtování atp. U Vodafonu by se měli stydět, když nabádají klienty k přechodu na tuhle hrůzu. 👎🏻👎🏻👎🏻👎🏻",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-04T08:51:36-07:00",
+      "textNormalized": "Katastrofa, oproti puvodni aplikaci Muj Vodafone je tato aplikace nedodelek a nic neumi. Neukaze zbyla data v roamingu, nelze s ni zaplatit vyuctovani atp. U Vodafonu by se meli stydet, kdyz nabadaji klienty k prechodu na tuhle hruzu. 👎🏻👎🏻👎🏻👎🏻",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13352473405",
+      "userName": "fricomili",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id157851835",
+      "version": "3.2.0",
+      "score": "2",
+      "title": "Zmrzla app",
+      "text": "Stejná jako ta dřívější. Nefunkční zamrzlá a akorát to vytáčí. Asi by to chtělo nejdříve pořádně vyrobit a až pak se chvástat novou funkční app. Sorry jako, ale je to tak. Smutné",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-03T11:44:28-07:00",
+      "textNormalized": "Stejna jako ta drivejsi. Nefunkcni zamrzla a akorat to vytaci. Asi by to chtelo nejdrive poradne vyrobit a az pak se chvastat novou funkcni app. Sorry jako, ale je to tak. Smutne",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13351233378",
+      "userName": "DaHalouPraha",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id597704665",
+      "version": "3.2.0",
+      "score": "5",
+      "title": "Nova verze",
+      "text": "Lepší, přehlednější.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-03T05:58:18-07:00",
+      "textNormalized": "Lepsi, prehlednejsi.",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13350610878",
+      "userName": "Koncák",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1671231100",
+      "version": "3.2.0",
+      "score": "3",
+      "title": "ok",
+      "text": "nelze zjistit, kolik dat zbývá v zahraničí",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-03T02:59:25-07:00",
+      "textNormalized": "nelze zjistit, kolik dat zbyva v zahranici",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13350596141",
+      "userName": "shawty 173030",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id580255164",
+      "version": "3.2.0",
+      "score": "3",
+      "title": "Původní aplikace lepší.",
+      "text": "Stará aplikace je lepší z důvodu, že v této nejde zobrazit čerpání dat v roamingu. Nikde se to tam nezobrazuje",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-03T02:54:20-07:00",
+      "textNormalized": "Stara aplikace je lepsi z duvodu, ze v teto nejde zobrazit cerpani dat v roamingu. Nikde se to tam nezobrazuje",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13350283420",
+      "userName": "valtorf",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id154833753",
+      "version": "3.2.0",
+      "score": "1",
+      "title": "Horrific attitude towards own products and customers",
+      "text": "The app itself and the management of all integrated services is a guide book for how not to build experiences.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-03T00:57:11-07:00",
+      "textNormalized": "The app itself and the management of all integrated services is a guide book for how not to build experiences.",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13350130424",
+      "userName": "Boshur",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id481106205",
+      "version": "3.2.0",
+      "score": "2",
+      "title": "chybi nejdulezitejsi",
+      "text": "chybi nejdulezitejsi - pocet dni do konce vycerpani dat+moznost bezplatneho navyseni datoveho balicku o dalsich 10 GB, vracim se k zakladni apce",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-02T23:54:48-07:00",
+      "textNormalized": "chybi nejdulezitejsi - pocet dni do konce vycerpani dat+moznost bezplatneho navyseni datoveho balicku o dalsich 10 GB, vracim se k zakladni apce",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13343709965",
+      "userName": "aish81",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id616136982",
+      "version": "3.2.0",
+      "score": "1",
+      "title": ".",
+      "text": "Works the same if not worse than the previous app.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-01T12:48:42-07:00",
+      "textNormalized": "Works the same if not worse than the previous app.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13342054902",
+      "userName": "Tombiboy",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id207133868",
+      "version": "3.2.0",
+      "score": "2",
+      "title": "Vodafone +",
+      "text": "Aplikácia vypada dobre. Má jeden nedostatok nikde v aplikácii nemôžem nájsť extra darček 2GB zadarmo k balíčku komplet v sieti. V starej aplikácii Vodafone je to ľahšie nájsť a aktivovať.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-11-01T05:43:47-07:00",
+      "textNormalized": "Aplikacia vypada dobre. Ma jeden nedostatok nikde v aplikacii nemozem najst extra darcek 2GB zadarmo k balicku komplet v sieti. V starej aplikacii Vodafone je to lahsie najst a aktivovat.",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13340842532",
+      "userName": "nikolajyus",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id537948424",
+      "version": "3.2.0",
+      "score": "4",
+      "title": "Datový dárek",
+      "text": "Nemam možnost aktivovat datový dárek 10 Gb v balíčku ke kartě fix 10Gb . Aktivace je možná jenom přes web.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-31T22:59:44-07:00",
+      "textNormalized": "Nemam moznost aktivovat datovy darek 10 Gb v balicku ke karte fix 10Gb . Aktivace je mozna jenom pres web.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13338950395",
+      "userName": "lm.osm",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1647650530",
+      "version": "3.2.0",
+      "score": "5",
+      "title": "👍🏻",
+      "text": "Konečně normálně funkční aplikace. Předchozí se pořád zasekávala a nezobrazovali se mi tam vždy všechny informace nebo projíždět nastavení služeb byl kolikrát nadlidský úkol.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-31T11:12:19-07:00",
+      "textNormalized": "Konecne normalne funkcni aplikace. Predchozi se porad zasekavala a nezobrazovali se mi tam vzdy vsechny informace nebo projizdet nastaveni sluzeb byl kolikrat nadlidsky ukol.",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "13337913153",
+      "userName": "MikeCab62",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id355075251",
+      "version": "3.2.0",
+      "score": "4",
+      "title": "The app is fine",
+      "text": "Looks good. But I changed the language from English to Czech in the app settings and when I close the app and open it again, it is in English again.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-31T06:32:39-07:00",
+      "textNormalized": "Looks good. But I changed the language from English to Czech in the app settings and when I close the app and open it again, it is in English again.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13336740117",
+      "userName": "David Svoboda",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id199168682",
+      "version": "3.1.0",
+      "score": "2",
+      "title": "Pad aplikace pri placení",
+      "text": "Pri pokusu o zaplaceni uctu pres tuto aplikaci dojde k padu aplikace. Platba z karty se strhne, ale jakmile se ma z platebni brany vratit zpet do aplikace, okamzite aplikace spadne. Vyzkouseno opakovaně. Se stejnym vysledkem. V aplikaci chybi moznost poslat zpetnou vazbu vyvojarum do vodafonu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-31T00:13:07-07:00",
+      "textNormalized": "Pri pokusu o zaplaceni uctu pres tuto aplikaci dojde k padu aplikace. Platba z karty se strhne, ale jakmile se ma z platebni brany vratit zpet do aplikace, okamzite aplikace spadne. Vyzkouseno opakovane. Se stejnym vysledkem. V aplikaci chybi moznost poslat zpetnou vazbu vyvojarum do vodafonu.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13326148832",
+      "userName": "HelyBell",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id470305548",
+      "version": "3.1.0",
+      "score": "1",
+      "title": "Odpad",
+      "text": "To jako vážně??? Neustále mě po pár dnech odhlašuje. Když cestuji do zahraničí, tak nezobrazuje roaming v EU ani mimo EU. Nemůžu si přes to koupit data mimo EU. Jako perla jsou nabídky AXA s 50% slevou, kterou dostával každý, kdo jde na stránky AXA i bez Vodafonu. Celé to působí nedodělaně. Možná by se zodpovědné osoby měly zamyslet, zda jsou pro společnost Vodafone přínosem.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-28T10:57:40-07:00",
+      "textNormalized": "To jako vazne??? Neustale me po par dnech odhlasuje. Kdyz cestuji do zahranici, tak nezobrazuje roaming v EU ani mimo EU. Nemuzu si pres to koupit data mimo EU. Jako perla jsou nabidky AXA s 50% slevou, kterou dostaval kazdy, kdo jde na stranky AXA i bez Vodafonu. Cele to pusobi nedodelane. Mozna by se zodpovedne osoby mely zamyslet, zda jsou pro spolecnost Vodafone prinosem.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13324749093",
+      "userName": "Jerry-341",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id348218477",
+      "version": "3.1.0",
+      "score": "3",
+      "title": "Krok zpět",
+      "text": "Ne, tato aplikace není lepší, než předchozí. Alespoň ne pro skupinové společenství mobilů, kde nevidím jména vlastníků a nemohu distribuovat data dle potřeb. Rád napíši lepší hodnocení, až to bude dopracováno.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-28T04:37:14-07:00",
+      "textNormalized": "Ne, tato aplikace neni lepsi, nez predchozi. Alespon ne pro skupinove spolecenstvi mobilu, kde nevidim jmena vlastniku a nemohu distribuovat data dle potreb. Rad napisi lepsi hodnoceni, az to bude dopracovano.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13324705120",
+      "userName": "makcintos",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1284152831",
+      "version": "3.1.0",
+      "score": "3",
+      "title": "Téměř dokonalé",
+      "text": "Aplikace je určitě přehlednější, než předchozí varianta. Co mi ale stále chybí i od minulé aplikace je zobrazení sjednaných služeb, jako je třeba onenumber v detailu přehledu mého tarifu. Aplikace má potenciál, jen je ještě v plenkách a za mě vydání bylo unáhlené dříve, než se vyladily mouchy z prvního pohledu, které ani nemusí být nahlášeny uživateli.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-28T04:24:02-07:00",
+      "textNormalized": "Aplikace je urcite prehlednejsi, nez predchozi varianta. Co mi ale stale chybi i od minule aplikace je zobrazeni sjednanych sluzeb, jako je treba onenumber v detailu prehledu meho tarifu. Aplikace ma potencial, jen je jeste v plenkach a za me vydani bylo unahlene drive, nez se vyladily mouchy z prvniho pohledu, ktere ani nemusi byt nahlaseny uzivateli.",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13319473280",
+      "userName": "Krokyn75",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id181505620",
+      "version": "3.1.0",
+      "score": "3",
+      "title": "Není hotová",
+      "text": "Rozhodně ještě je co dohánět . Za mou osobu vzhledově OK , ovládání taky bezva , přehled dobrý , ale chybí názvy čísel pokud jich je více v účtu a v poslední řadě jsem nepřišel na to , jak se dostanu do nastavení služeb jednotlivých čísel .",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-26T21:36:32-07:00",
+      "textNormalized": "Rozhodne jeste je co dohanet . Za mou osobu vzhledove OK , ovladani taky bezva , prehled dobry , ale chybi nazvy cisel pokud jich je vice v uctu a v posledni rade jsem neprisel na to , jak se dostanu do nastaveni sluzeb jednotlivych cisel .",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13319390062",
+      "userName": "Xenostelar",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1568662353",
+      "version": "3.1.0",
+      "score": "1",
+      "title": "Nefunkční Aplikace",
+      "text": "Nechápu proč tato aplikace je. Když se chci přihlásit tak mi to zobrazí že je má IP adresa z bezpečnostních důvodů blokována . A to se přihlašuji jak z Wifi tak přes data . Když něco uděláte tak poradně . V práci by mi taky nezaplatili zmetek 🙄",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-26T20:58:45-07:00",
+      "textNormalized": "Nechapu proc tato aplikace je. Kdyz se chci prihlasit tak mi to zobrazi ze je ma IP adresa z bezpecnostnich duvodu blokovana . A to se prihlasuji jak z Wifi tak pres data . Kdyz neco udelate tak poradne . V praci by mi taky nezaplatili zmetek 🙄",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13317376035",
+      "userName": "ozzy deejay",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id262337840",
+      "version": "3.1.0",
+      "score": "1",
+      "title": "Chybejici informace",
+      "text": "Proč u svých čísel nevidím položku roaming a zahraničí? Kam zmizela? Složité klikání a hledání a nakonec se stejně musím přihlásit na počítači abych zjistil kolik dat mi zbývá k čerpání v zahraničí. Tak jaké vylepšení?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-26T09:32:02-07:00",
+      "textNormalized": "Proc u svych cisel nevidim polozku roaming a zahranici? Kam zmizela? Slozite klikani a hledani a nakonec se stejne musim prihlasit na pocitaci abych zjistil kolik dat mi zbyva k cerpani v zahranici. Tak jake vylepseni?",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13313417322",
+      "userName": "Raskor",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id124520994",
+      "version": "3.1.0",
+      "score": "1",
+      "title": "Widget",
+      "text": "Kdy opet bude widget?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-25T11:33:53-07:00",
+      "textNormalized": "Kdy opet bude widget?",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13311469509",
+      "userName": "Kraag22",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id219165512",
+      "version": "3.1.0",
+      "score": "5",
+      "title": "Krok dopředu",
+      "text": "Rychlejší, přehlednější, zrychlení internetu je snazší",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-25T02:44:28-07:00",
+      "textNormalized": "Rychlejsi, prehlednejsi, zrychleni internetu je snazsi",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13307763008",
+      "userName": "Rebell 63",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1550176932",
+      "version": "3.1.0",
+      "score": "1",
+      "title": "Přehled dat v zahraničí",
+      "text": "Můžete vysvětlit proč není v nové verzi aplikace přehled o využití dat v zahraničí ?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-24T06:02:21-07:00",
+      "textNormalized": "Muzete vysvetlit proc neni v nove verzi aplikace prehled o vyuziti dat v zahranici ?",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13307515906",
+      "userName": "Honza15",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1132047775",
+      "version": "3.1.0",
+      "score": "1",
+      "title": "Extrémně nepřehledné",
+      "text": "Za mne je tato nová verze extrémně nepřehledná. Vůbec nevidím v základu volné roamingové minuty a ani zrychlení internetu a počet.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-24T04:55:01-07:00",
+      "textNormalized": "Za mne je tato nova verze extremne neprehledna. Vubec nevidim v zakladu volne roamingove minuty a ani zrychleni internetu a pocet.",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13306782464",
+      "userName": "Parnikesha",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id240314415",
+      "version": "3.1.0",
+      "score": "4",
+      "title": "Huge improvement, but some features are missing",
+      "text": "This app is much better than the old one, however I couldn’t find a date when my prepaid bundle ends. Previously it used to be a part of the main screen",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-24T00:40:23-07:00",
+      "textNormalized": "This app is much better than the old one, however I couldn’t find a date when my prepaid bundle ends. Previously it used to be a part of the main screen",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13304341671",
+      "userName": "Aidamos",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id774115807",
+      "version": "3.1.0",
+      "score": "1",
+      "title": "Tragédie",
+      "text": "Spravuju dva účty, v aplikaci se přepnu na druhý účet, dám si Nabídku balíčků, a tam se nacházejí jen balíčky k prvnímu (hlavnímu) účtu. Proč?! Jak aktivovat balíček k druhému číslu?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-23T09:24:33-07:00",
+      "textNormalized": "Spravuju dva ucty, v aplikaci se prepnu na druhy ucet, dam si Nabidku balicku, a tam se nachazeji jen balicky k prvnimu (hlavnimu) uctu. Proc?! Jak aktivovat balicek k druhemu cislu?",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13304199346",
+      "userName": "Bubocz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id180322600",
+      "version": "3.1.0",
+      "score": "3",
+      "title": "K dokonalosti daleko",
+      "text": "Tak jsem si stáhnul tuto propagovanou aplikaci a hned první negativum - neobjevují se pojmenování jednotlivých čísel, která vidím na webu a ve staré aplikaci. Dál jsem zatím nešel, protože jsem více nepotřeboval…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-23T08:45:30-07:00",
+      "textNormalized": "Tak jsem si stahnul tuto propagovanou aplikaci a hned prvni negativum - neobjevuji se pojmenovani jednotlivych cisel, ktera vidim na webu a ve stare aplikaci. Dal jsem zatim nesel, protoze jsem vice nepotreboval…",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13302615893",
+      "userName": "CzechJEF",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id171862059",
+      "version": "3.1.0",
+      "score": "5",
+      "title": "Zlepseni!",
+      "text": "Aplikace funguje svizne, nacitani se zasadne zkratilo, vizualne se na prvni pohled zmenilo málo, ale i presto mi přijde nova struktura prehlednejsi a intuitivni. Nove je v app vermostni program Happy. Za me palec nahoru.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-23T00:34:48-07:00",
+      "textNormalized": "Aplikace funguje svizne, nacitani se zasadne zkratilo, vizualne se na prvni pohled zmenilo malo, ale i presto mi prijde nova struktura prehlednejsi a intuitivni. Nove je v app vermostni program Happy. Za me palec nahoru.",
+      "segments": [
+        "UI",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13299519781",
+      "userName": "ľx1407",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1300647500",
+      "version": "3.1.0",
+      "score": "4",
+      "title": "Zbytečné a stále neúplné",
+      "text": "Stále dost nepřehledné načítání, které si při prokliku třeba na přihlášení chová zamrzle a po chvíli až načte data se vše objeví, nějaká animace informace by byla vhodnější a klasická hrůza na kterou narážím snad už jen zde je že prokliky na různé věci nejsou udělané v aplikaci ale přesměrovávají na prohlížeč a stránky Vodafonu, třeba u soutěže kde se pouze vyplňuje formulář je to až komické. Zlepšení tam je ale stále je to takový neodoptimalizovaný lightweight. Chatbot primitivní nedokáže odpovědět ani na probíhající promoakci Vodafonu jelikož neví, stejně tak daná akce není v aplikaci jednoduše k nalezení. Stále zkrátka vodafone zbytečně tlačí na webové stránky pro informace.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-22T06:31:18-07:00",
+      "textNormalized": "Stale dost neprehledne nacitani, ktere si pri prokliku treba na prihlaseni chova zamrzle a po chvili az nacte data se vse objevi, nejaka animace informace by byla vhodnejsi a klasicka hruza na kterou narazim snad uz jen zde je ze prokliky na ruzne veci nejsou udelane v aplikaci ale presmerovavaji na prohlizec a stranky Vodafonu, treba u souteze kde se pouze vyplnuje formular je to az komicke. Zlepseni tam je ale stale je to takovy neodoptimalizovany lightweight. Chatbot primitivni nedokaze odpovedet ani na probihajici promoakci Vodafonu jelikoz nevi, stejne tak dana akce neni v aplikaci jednoduse k nalezeni. Stale zkratka vodafone zbytecne tlaci na webove stranky pro informace.",
+      "segments": [
+        "UI",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13299324660",
+      "userName": "Phate32",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id79010260",
+      "version": "3.1.0",
+      "score": "1",
+      "title": "Typical…",
+      "text": "Why would vodafone ask me for my contacts and location?  This hunger for data that are not supposed to be theirs…unbelievable.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-22T05:39:04-07:00",
+      "textNormalized": "Why would vodafone ask me for my contacts and location?  This hunger for data that are not supposed to be theirs…unbelievable.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13298325130",
+      "userName": "ste_ve225",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id120682355",
+      "version": "3.1.0",
+      "score": "2",
+      "title": "Tragedie",
+      "text": "Nefunguje ani dolni menu, vubec se nedostanu do nastaveni sluzeb.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-21T23:46:56-07:00",
+      "textNormalized": "Nefunguje ani dolni menu, vubec se nedostanu do nastaveni sluzeb.",
+      "segments": [
+        "UI",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13296911225",
+      "userName": "Jenda.R",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1502511462",
+      "version": "3.1.0",
+      "score": "1",
+      "title": "Zase problémy!!!!",
+      "text": "Aplikace se mi svévolně odhlásila a nelze se znovu přihlásit. Neustálé problémy s administrátorským číslem, objevuje se jiné, než mám. Když dám zrychlení dat na maximum na svém čísle zrychlí se na jiném čísle mého účtu. Doufal jsem, že se tyto problémy z původní aplikace novou odstraní, ale bohužel se tak nestalo. Asi to dělají stále neschopní vývojáři, kteří dělali ten původní “odpad”",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-21T14:16:51-07:00",
+      "textNormalized": "Aplikace se mi svevolne odhlasila a nelze se znovu prihlasit. Neustale problemy s administratorskym cislem, objevuje se jine, nez mam. Kdyz dam zrychleni dat na maximum na svem cisle zrychli se na jinem cisle meho uctu. Doufal jsem, ze se tyto problemy z puvodni aplikace novou odstrani, ale bohuzel se tak nestalo. Asi to delaji stale neschopni vyvojari, kteri delali ten puvodni “odpad”",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13296851316",
+      "userName": "Coneff",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id173616187",
+      "version": "3.1.0",
+      "score": "1",
+      "title": "Dekuji nechci",
+      "text": "Prvni polozka reklama na dalsi sluzby ktery nepotrebuju a nechci. To co potrebuji je sprava aktualne nastavenych sluzeb. Napr. zmizelo tlacitko zrychleni dat.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-21T13:56:12-07:00",
+      "textNormalized": "Prvni polozka reklama na dalsi sluzby ktery nepotrebuju a nechci. To co potrebuji je sprava aktualne nastavenych sluzeb. Napr. zmizelo tlacitko zrychleni dat.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13295175406",
+      "userName": "chytrous",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id301648281",
+      "version": "3.1.0",
+      "score": "4",
+      "title": "Divná aplikace",
+      "text": "Marně přemýšlím k čemu aplikace  je,má neodladěnou datovou kalkulačku,malá písmena,blbě čte i po zvětšení,malé zlepšení je v možnosti otočení v aipadu,člověka štve neustálé přihlašování i když je v aplikaci,kapitola sama pro sebe je fakturace ,nelze primárně tisknout jenom hlavičku bez dalších doplňujících informací,pak faktura dle počtu telefonů až 16stran.Stačilo by jestli Ty služby chci zapnout anebo je v zásobníku tisku vypínám ručně,opruz",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-21T05:57:00-07:00",
+      "textNormalized": "Marne premyslim k cemu aplikace  je,ma neodladenou datovou kalkulacku,mala pismena,blbe cte i po zvetseni,male zlepseni je v moznosti otoceni v aipadu,cloveka stve neustale prihlasovani i kdyz je v aplikaci,kapitola sama pro sebe je fakturace ,nelze primarne tisknout jenom hlavicku bez dalsich doplnujicich informaci,pak faktura dle poctu telefonu az 16stran.Stacilo by jestli Ty sluzby chci zapnout anebo je v zasobniku tisku vypinam rucne,opruz",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13294917638",
+      "userName": "user971263",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1220870913",
+      "version": "3.1.0",
+      "score": "1",
+      "title": "Very bad",
+      "text": "Very bad",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-21T04:45:08-07:00",
+      "textNormalized": "Very bad",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13294174200",
+      "userName": "Gwyncz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id400655416",
+      "version": "3.1.0",
+      "score": "5",
+      "title": "Velký skok vpřed",
+      "text": "Tahle nová appka je obrovský skok! Parádní design a super rychlost. Chytré dlaždice jsou super.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-21T00:11:08-07:00",
+      "textNormalized": "Tahle nova appka je obrovsky skok! Paradni design a super rychlost. Chytre dlazdice jsou super.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13277697586",
+      "userName": "Keoki82",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id259910593",
+      "version": "3.1.0",
+      "score": "1",
+      "title": "Nefunkční",
+      "text": "Tragédie. Bombardují vás mailem a SMS, abyste vyzkoušeli něco nefunkčního. Nic se nenačítá a jen je u všeho hláška: něco se pokazilo.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-17T04:57:00-07:00",
+      "textNormalized": "Tragedie. Bombarduji vas mailem a SMS, abyste vyzkouseli neco nefunkcniho. Nic se nenacita a jen je u vseho hlaska: neco se pokazilo.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13276992585",
+      "userName": "PavelM4",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1026316078",
+      "version": "3.1.0",
+      "score": "1",
+      "title": "Jako reklamní leták fajn. Jako nástroj na správu mého účtu naprd.",
+      "text": "Stará appka je lepší… Tahle je zaplevelená záplavou reklam. Nepřehledné, nedaří se mi najít například aktivace extra dat…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-17T00:48:37-07:00",
+      "textNormalized": "Stara appka je lepsi… Tahle je zaplevelena zaplavou reklam. Neprehledne, nedari se mi najit napriklad aktivace extra dat…",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13274676228",
+      "userName": "Rohe56",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id207471178",
+      "version": "3.1.0",
+      "score": "4",
+      "title": "Pro iPad",
+      "text": "Bude verze i pro iPad?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-16T10:12:40-07:00",
+      "textNormalized": "Bude verze i pro iPad?",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13274584813",
+      "userName": "Birkin.",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1388335994",
+      "version": "3.1.0",
+      "score": "4",
+      "title": "Widget",
+      "text": "Apka je celkem fajn, ale proč už nelze přidat widget na plochu? Děkuji za odpověď.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-16T09:46:48-07:00",
+      "textNormalized": "Apka je celkem fajn, ale proc uz nelze pridat widget na plochu? Dekuji za odpoved.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13274392789",
+      "userName": "xoDBxo",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id42243691",
+      "version": "3.1.0",
+      "score": "3",
+      "title": "Nefunkční eSIM výměna",
+      "text": "Sekce na výměnu sim za eSIM nefunguje, měnit nastavení také nelze, opravdu jsem čekal od aktualizace více. Vypadá to jako by se aplikace snažila vypadat jako ta stará, a to není dobře protože ta stála za nic!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-16T08:54:15-07:00",
+      "textNormalized": "Sekce na vymenu sim za eSIM nefunguje, menit nastaveni take nelze, opravdu jsem cekal od aktualizace vice. Vypada to jako by se aplikace snazila vypadat jako ta stara, a to neni dobre protoze ta stala za nic!",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13272916595",
+      "userName": "Denosthenes",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1341003420",
+      "version": "3.0.0",
+      "score": "1",
+      "title": "Podle mě krok zpět",
+      "text": "Co jsem viděl ve staré aplikaci již tady nelze dohledat. Škoda.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-16T01:29:51-07:00",
+      "textNormalized": "Co jsem videl ve stare aplikaci jiz tady nelze dohledat. Skoda.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13270717364",
+      "userName": "Kautskym",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id352010478",
+      "version": "3.0.0",
+      "score": "5",
+      "title": "Již funkční přehled",
+      "text": "Rychlá a svižná aplikace. Jsem naprosto spokojen.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-15T11:30:59-07:00",
+      "textNormalized": "Rychla a svizna aplikace. Jsem naprosto spokojen.",
+      "segments": [
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13270375468",
+      "userName": "brrmbrrrm",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id593204040",
+      "version": "3.0.0",
+      "score": "5",
+      "title": "Huge improvement",
+      "text": "Finally usable app. Works very nicely, with clean UI. Thanks",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-15T09:52:23-07:00",
+      "textNormalized": "Finally usable app. Works very nicely, with clean UI. Thanks",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13265011756",
+      "userName": "ar-jan",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id926995884",
+      "version": "3.0.0",
+      "score": "5",
+      "title": "Lepší než původní",
+      "text": "Zatím vypadá lépe než ta původní. Snad si to Vodafone nepokazi nějako aktualizací",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-14T04:39:33-07:00",
+      "textNormalized": "Zatim vypada lepe nez ta puvodni. Snad si to Vodafone nepokazi nejako aktualizaci",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13264595522",
+      "userName": "Flarecz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id86553341",
+      "version": "3.0.0",
+      "score": "5",
+      "title": "Rychlé a velmi přehledné",
+      "text": "Opravdu zásadní posun a velmi přehledná aplikace. Perfektní je i vidět rovnou status každé služby a rychle se mezi nimi přepnout.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-14T02:12:38-07:00",
+      "textNormalized": "Opravdu zasadni posun a velmi prehledna aplikace. Perfektni je i videt rovnou status kazde sluzby a rychle se mezi nimi prepnout.",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13260756471",
+      "userName": "Mr.PoPoCZ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1772550751",
+      "version": "3.0.0",
+      "score": "5",
+      "title": "MVA+",
+      "text": "Smooth like a smoothie and fast like s Ferrari 🤩✌️",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-13T04:18:26-07:00",
+      "textNormalized": "Smooth like a smoothie and fast like s Ferrari 🤩✌️",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "13260112335",
+      "userName": "Mirek alias Mirek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id515413880",
+      "version": "3.0.0",
+      "score": "5",
+      "title": "Můj Vodafone+ Aplikace funguje",
+      "text": "Rychlá a přehledná aplikace, přes kterou mohu snadno zjistit informace o svých službách. Zdá se mnohem lepší, něž původní aplikace “Můj Vodafone”. Za mě palec nahoru.👍",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-13T00:11:34-07:00",
+      "textNormalized": "Rychla a prehledna aplikace, pres kterou mohu snadno zjistit informace o svych sluzbach. Zda se mnohem lepsi, nez puvodni aplikace “Muj Vodafone”. Za me palec nahoru.👍",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13248646473",
+      "userName": "Marekk12345",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id473592435",
+      "version": "3.0.0",
+      "score": "1",
+      "title": "Chybi nektera data",
+      "text": "V sekci cerpani chybi prehled o cerpani dat v zone 1, sekce balicky prazdna (ok, mozna nemam na zadne narok), nelze nastavovat ostatni sluzby, nepouzitelne.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-10T07:50:36-07:00",
+      "textNormalized": "V sekci cerpani chybi prehled o cerpani dat v zone 1, sekce balicky prazdna (ok, mozna nemam na zadne narok), nelze nastavovat ostatni sluzby, nepouzitelne.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13247618213",
+      "userName": "PJ Ltm",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id634066074",
+      "version": "3.0.0",
+      "score": "4",
+      "title": "Nová verze, lepší než předchozí",
+      "text": "Zatím to vypadá, že nová apka bude lepší, než původní “Můj Vodafone”. Na nové featury je sice ještě potřeba nějaký čas počkat, ale věřím, že to bude stát za to. Velmi oceňuji nový program Happy 🙂",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-10T02:55:09-07:00",
+      "textNormalized": "Zatim to vypada, ze nova apka bude lepsi, nez puvodni “Muj Vodafone”. Na nove featury je sice jeste potreba nejaky cas pockat, ale verim, ze to bude stat za to. Velmi ocenuji novy program Happy 🙂",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13247279327",
+      "userName": "Lukas Renc",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id288327719",
+      "version": "3.0.0",
+      "score": "5",
+      "title": "Smooth and fast!",
+      "text": "Really happy to see how smooth and fast the new Vodafone app is! Everything feels much more polished. Loving the new, wellorganized main dashboard. Great job VF👍🏽",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-10T00:43:55-07:00",
+      "textNormalized": "Really happy to see how smooth and fast the new Vodafone app is! Everything feels much more polished. Loving the new, wellorganized main dashboard. Great job VF👍🏽",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "13243077393",
+      "userName": "miss.jane",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id154404574",
+      "version": "3.0.0",
+      "score": "5",
+      "title": "Vodafone Happy",
+      "text": "Konečně přichází Vodafone s věrnostním programem. Těším se na všechny akce, které budou k dispozici.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-09T00:48:16-07:00",
+      "textNormalized": "Konecne prichazi Vodafone s vernostnim programem. Tesim se na vsechny akce, ktere budou k dispozici.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13240765887",
+      "userName": "Viaduk",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id474734033",
+      "version": "3.0.0",
+      "score": "1",
+      "title": "Spam na 1 miste",
+      "text": "Vsechno co bylo dole jako spamovaci obsah ted presunuli nahoru a nejde ho dat pryc",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-08T10:15:47-07:00",
+      "textNormalized": "Vsechno co bylo dole jako spamovaci obsah ted presunuli nahoru a nejde ho dat pryc",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13240258171",
+      "userName": "czXivi",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id879005491",
+      "version": "3.0.0",
+      "score": "5",
+      "title": "Appka móc dobrá",
+      "text": "Móc dobrý, já rád rychlá aplikace.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-08T07:57:52-07:00",
+      "textNormalized": "Moc dobry, ja rad rychla aplikace.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13238845212",
+      "userName": "HarmaApp",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id406375690",
+      "version": "3.0.0",
+      "score": "5",
+      "title": "Fast and easy to use",
+      "text": "Big progress at last. Still missing few features, but I see potential in real chatbot and Happy program.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-08T00:30:40-07:00",
+      "textNormalized": "Big progress at last. Still missing few features, but I see potential in real chatbot and Happy program.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13238751141",
+      "userName": "Maty078",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id432808083",
+      "version": "3.0.0",
+      "score": "2",
+      "title": "Pro náhled dobrý",
+      "text": "Nelze spravovat služby a měnit nastavení. Pouze náhled vyúčtování.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-07T23:52:46-07:00",
+      "textNormalized": "Nelze spravovat sluzby a menit nastaveni. Pouze nahled vyuctovani.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13236799541",
+      "userName": "scrx69",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1122543938",
+      "version": "3.0.0",
+      "score": "5",
+      "title": "Fantastic app",
+      "text": "It is very responsive very intuitive and easy to use",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-07T11:37:31-07:00",
+      "textNormalized": "It is very responsive very intuitive and easy to use",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13236345928",
+      "userName": "Filispin_CZ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1658775004",
+      "version": "3.0.0",
+      "score": "1",
+      "title": "Neco se nepovedlo",
+      "text": "Po vyplneni 6 mistneho kodu stale dokola hlaska neco se nepovedlo. Ale to se dalo čekat 😅.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-07T09:27:29-07:00",
+      "textNormalized": "Po vyplneni 6 mistneho kodu stale dokola hlaska neco se nepovedlo. Ale to se dalo cekat 😅.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13236151908",
+      "userName": "lukecss",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id431006098",
+      "version": "3.0.0",
+      "score": "5",
+      "title": "Můj Vodafone+",
+      "text": "Aplikace oproti původní je výrazně rychlejší, prozatím zde nejsou všechny funkce, ale již nyní to vypadá lépe než původní. Čerpání služeb, vyúčtování atd se rychleji načítá. Správa více účtů je jednodušší skrz jednoduché přepínání na hlavní obrazovce. Nová funkce Vodafone Happy vypadá zajímavě a uvidíme kam se dál bude vyvíjet. Doporučuji.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-07T08:36:10-07:00",
+      "textNormalized": "Aplikace oproti puvodni je vyrazne rychlejsi, prozatim zde nejsou vsechny funkce, ale jiz nyni to vypada lepe nez puvodni. Cerpani sluzeb, vyuctovani atd se rychleji nacita. Sprava vice uctu je jednodussi skrz jednoduche prepinani na hlavni obrazovce. Nova funkce Vodafone Happy vypada zajimave a uvidime kam se dal bude vyvijet. Doporucuji.",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13235102036",
+      "userName": "Palm vegas",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id239075581",
+      "version": "3.0.0",
+      "score": "5",
+      "title": "Spoko",
+      "text": "Aplikace funguje svižně, zatím spokojenost.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-07T03:46:33-07:00",
+      "textNormalized": "Aplikace funguje svizne, zatim spokojenost.",
+      "segments": [
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13235048718",
+      "userName": "Mirek77",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id481897772",
+      "version": "3.0.0",
+      "score": "4",
+      "title": "Velikost písma.",
+      "text": "Aplikace vypadá slibně ale nejde nastavit velikost písma. Písmo je hodně malé a lidé s horším zrakem budou mít problém.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-10-07T03:28:39-07:00",
+      "textNormalized": "Aplikace vypada slibne ale nejde nastavit velikost pisma. Pismo je hodne male a lide s horsim zrakem budou mit problem.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "12683124673",
+      "userName": "itzblank",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1087162905",
+      "version": "2.0.3",
+      "score": "1",
+      "title": "Update",
+      "text": "Po updatu strašný, chtěl jsem si koupit tarif ale nemohu se přihlásit, s účtem co již mám v jiné službě mě to nepustí a se stejným číslem k registraci taky ne. Jdu k O2 Datamánii.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2025-05-21T19:41:33-07:00",
+      "textNormalized": "Po updatu strasny, chtel jsem si koupit tarif ale nemohu se prihlasit, s uctem co jiz mam v jine sluzbe me to nepusti a se stejnym cislem k registraci taky ne. Jdu k O2 Datamanii.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "11508958255",
+      "userName": "hextry",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1294727624",
+      "version": "1.1.23",
+      "score": "1",
+      "title": "Teměř nepoužitelné 😕",
+      "text": "Nápad to je super ale aplikace a podpora nebo zákaznická linka je hrůza aplikace neustale padá nejde se přihlásit až na několikátý pokus. Musel jsem provést platbu 2x abych si spustil tarif jelikož u prvního pokusu se mi vygenerovalo nové číslo. Dovolat se na zkz linku je nemožné na klasické lince nebo prodejně vám nikdo nepomůže jste odkázáni pouze na AI chatbota který toho moc neumí a po požádaní o zavolání přes AI chat se ozvali až po 5 dnech zhruba a to jsem ještě musel žádat asi 4x v aplikaci..",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2024-07-18T17:40:22-07:00",
+      "textNormalized": "Napad to je super ale aplikace a podpora nebo zakaznicka linka je hruza aplikace neustale pada nejde se prihlasit az na nekolikaty pokus. Musel jsem provest platbu 2x abych si spustil tarif jelikoz u prvniho pokusu se mi vygenerovalo nove cislo. Dovolat se na zkz linku je nemozne na klasicke lince nebo prodejne vam nikdo nepomuze jste odkazani pouze na AI chatbota ktery toho moc neumi a po pozadani o zavolani pres AI chat se ozvali az po 5 dnech zhruba a to jsem jeste musel zadat asi 4x v aplikaci..",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "11279387306",
+      "userName": "Lukysszcz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1247484735",
+      "version": "1.1.18",
+      "score": "3",
+      "title": "iMessage nefunguje!",
+      "text": "Aplikace sama o sobě dobrá, jednoduchá a super v tom, že si během minuty aktivuji eSIM.\nProblém nastává když se snažím aktivovat iMessage pro číslo moji eSIM ve Vodafone One. Dokola se snaží aktivovat ale chodí jen SMS že na tuto akci nemám dostatečný kredit nebo jsou moje služby omezené.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2024-05-17T23:50:07-07:00",
+      "textNormalized": "Aplikace sama o sobe dobra, jednoducha a super v tom, ze si behem minuty aktivuji eSIM.\nProblem nastava kdyz se snazim aktivovat iMessage pro cislo moji eSIM ve Vodafone One. Dokola se snazi aktivovat ale chodi jen SMS ze na tuto akci nemam dostatecny kredit nebo jsou moje sluzby omezene.",
+      "segments": [
+        "Spokojenost"
+      ]
+    }
+  ]
