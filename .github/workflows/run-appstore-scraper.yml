@@ -1,0 +1,33 @@
+name: Update App Store Reviews
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *" # každý deň o 03:00 UTC (~5:00 CET)
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run App Store scraper
+        run: node extract-with-segmentation.js
+
+      - name: Commit and push updated JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add vodafone-appstore-reviews.json
+          git commit -m "chore: update App Store reviews" || echo "No changes to commit"
+          git push
