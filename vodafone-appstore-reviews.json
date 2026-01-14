@@ -1,17 +1,47 @@
 {
   "ratings": {
-    "score": 3.1439,
-    "totalRatings": 549,
-    "totalReviews": 549,
+    "score": 3.14542,
+    "totalRatings": 557,
+    "totalReviews": 557,
     "histogram": {
-      "1": 202,
-      "2": 39,
-      "3": 29,
-      "4": 36,
-      "5": 243
+      "1": 205,
+      "2": 40,
+      "3": 28,
+      "4": 37,
+      "5": 247
     }
   },
   "reviews": [
+    {
+      "id": "13625068536",
+      "userName": "Yeger 01",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1065941537",
+      "version": "3.4.1",
+      "score": 1,
+      "title": "Co to je?",
+      "text": "Nevidím nic lepšího, naopak aplikace je nepřehledná, pomalu roluje stránku. Nemohu najít historii čerpání kreditu! Nechte běžet i starší aplikaci bez nucení stažení nové aplikace +. Je to k ničemu! Jak odstranit otravnou obrazovku “Stáhnout Můj Vodafone +” pod ní mi jede starší aplikace a takto si nepřečtu zprávy. Novou aplikaci nechci! Kde je svoboda rozhodnutí?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-12T06:07:17-07:00",
+      "textNormalized": "nevidim nic lepsiho, naopak aplikace je neprehledna, pomalu roluje stranku. nemohu najit historii cerpani kreditu! nechte bezet i starsi aplikaci bez nuceni stazeni nove aplikace +. je to k nicemu! jak odstranit otravnou obrazovku “stahnout muj vodafone +” pod ni mi jede starsi aplikace a takto si neprectu zpravy. novou aplikaci nechci! kde je svoboda rozhodnuti?",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13623941810",
+      "userName": "Justarandomnick",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id501360158",
+      "version": "3.4.1",
+      "score": 1,
+      "title": "non-functional app",
+      "text": "This new application is awful, i cannot select basic features, such as Services. as such, I cannot top-up the credit neither select different services.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-11T22:16:17-07:00",
+      "textNormalized": "this new application is awful, i cannot select basic features, such as services. as such, i cannot top-up the credit neither select different services.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13616989020",
       "userName": "Yeger 01",
@@ -815,8 +845,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 50,
-    "extractedAt": "2026-01-12T15:07:33.370Z",
+    "totalReviewsExtracted": 52,
+    "extractedAt": "2026-01-14T14:30:06.097Z",
     "source": "app-store"
   }
 }
