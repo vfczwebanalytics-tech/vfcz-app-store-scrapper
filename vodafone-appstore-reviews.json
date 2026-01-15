@@ -1,17 +1,62 @@
 {
   "ratings": {
-    "score": 3.14542,
-    "totalRatings": 557,
-    "totalReviews": 557,
+    "score": 3.14669,
+    "totalRatings": 559,
+    "totalReviews": 559,
     "histogram": {
-      "1": 205,
-      "2": 40,
-      "3": 28,
+      "1": 206,
+      "2": 39,
+      "3": 29,
       "4": 37,
-      "5": 247
+      "5": 248
     }
   },
   "reviews": [
+    {
+      "id": "13629045101",
+      "userName": "Zdeňkajdjdjdn",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id839791538",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "Změna aplikace",
+      "text": "Proč? Nevyhovujeme jova aplikace a nechci ji. Proč nemůžou nechat tu starou fungovat???",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-13T07:26:00-07:00",
+      "textNormalized": "proc? nevyhovujeme jova aplikace a nechci ji. proc nemuzou nechat tu starou fungovat???",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13628524631",
+      "userName": "n8Xj5t",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id155151642",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "Posun k horšímu",
+      "text": "Táto aplikace je za trest její používání je neintuitívní , prostředí nepřehledné . Nestabilní vyzkoušeno na starších i novějších iPhonech. Používal jsem spoustů konkurenčních aplikací ale žádná nefungovala tak špatně, pomalu a nestabilně .",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-13T04:42:11-07:00",
+      "textNormalized": "tato aplikace je za trest jeji pouzivani je neintuitivni , prostredi neprehledne . nestabilni vyzkouseno na starsich i novejsich iphonech. pouzival jsem spoustu konkurencnich aplikaci ale zadna nefungovala tak spatne, pomalu a nestabilne .",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13628319704",
+      "userName": "Bubocz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id180322600",
+      "version": "3.5.0",
+      "score": 3,
+      "title": "Nic extra",
+      "text": "Tak mi přestala fungovat stará aplikace a tak jsem zkusil novou:\n\nPrvní dojmy:\n\n- nevidím jména u jednotlivých mobilních čísel v přehledu na první stránce, proč je tam tedy mám?\n\n- ve Vodafone Happy vidim 13.1.2026 nabídku na slevu, kde je v obrázku platnost do 31.12.2025. K čemu je asi dobrá? \n\nDál jsem to nezkoumal, snad to bude dělat co člověk potřebuje…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-13T03:30:13-07:00",
+      "textNormalized": "tak mi prestala fungovat stara aplikace a tak jsem zkusil novou:\n\nprvni dojmy:\n\n- nevidim jmena u jednotlivych mobilnich cisel v prehledu na prvni strance, proc je tam tedy mam?\n\n- ve vodafone happy vidim 13.1.2026 nabidku na slevu, kde je v obrazku platnost do 31.12.2025. k cemu je asi dobra? \n\ndal jsem to nezkoumal, snad to bude delat co clovek potrebuje…",
+      "segments": [
+        "UI"
+      ]
+    },
     {
       "id": "13625068536",
       "userName": "Yeger 01",
@@ -845,8 +890,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 52,
-    "extractedAt": "2026-01-14T14:30:06.097Z",
+    "totalReviewsExtracted": 55,
+    "extractedAt": "2026-01-15T04:55:58.184Z",
     "source": "app-store"
   }
 }
