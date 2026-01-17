@@ -1,17 +1,240 @@
 {
   "ratings": {
-    "score": 3.14669,
-    "totalRatings": 559,
-    "totalReviews": 559,
+    "score": 3.15886,
+    "totalRatings": 598,
+    "totalReviews": 598,
     "histogram": {
-      "1": 206,
-      "2": 39,
+      "1": 217,
+      "2": 45,
       "3": 29,
-      "4": 37,
-      "5": 248
+      "4": 40,
+      "5": 267
     }
   },
   "reviews": [
+    {
+      "id": "13637491421",
+      "userName": "Dara z Plzně",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1774024799",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "historie plateb",
+      "text": "Kdo pustil do světa tuto aplikaci, at si da facku... a jestě jednu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-15T12:59:25-07:00",
+      "textNormalized": "kdo pustil do sveta tuto aplikaci, at si da facku... a jeste jednu.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13635624897",
+      "userName": "MettyTheKing",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id927919692",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "Asi tomu nerozumím.",
+      "text": "Stará Aplikace mě nutí ke stažení nové aplikace. Nová aplikace tedy stažena.\n\nRád bych tedy zaplatil fakturu za minulý měsíc a úvodní obrazovka mi říká, že mám zaplatit celkovou částku. Po rozkliknutí požadované platby se mi otevřela informace pouze k jednomu číslu z celého účtu a prý už je zaplacená:)), tak nevím, zda mám děkovat Vodafone a nebo kroutit hlavou proč má Vodafone už dvě aplikace, která ani jedna nezvládne plnit základní funkce.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-15T02:27:22-07:00",
+      "textNormalized": "stara aplikace me nuti ke stazeni nove aplikace. nova aplikace tedy stazena.\n\nrad bych tedy zaplatil fakturu za minuly mesic a uvodni obrazovka mi rika, ze mam zaplatit celkovou castku. po rozkliknuti pozadovane platby se mi otevrela informace pouze k jednomu cislu z celeho uctu a pry uz je zaplacena:)), tak nevim, zda mam dekovat vodafone a nebo kroutit hlavou proc ma vodafone uz dve aplikace, ktera ani jedna nezvladne plnit zakladni funkce.",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Cena"
+      ]
+    },
+    {
+      "id": "13635413269",
+      "userName": "Márty.Cz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id372359820",
+      "version": "3.5.0",
+      "score": 4,
+      "title": "Nová appka.",
+      "text": "Vždy je co zlepšovat.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-15T00:50:06-07:00",
+      "textNormalized": "vzdy je co zlepsovat.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13635306501",
+      "userName": "Stondaa",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id450331805",
+      "version": "3.5.0",
+      "score": 2,
+      "title": "Router a restart",
+      "text": "Dobrý den, aplikace je přehlednější než předchozí, ale není zde možnost vzdáleného restartu wifi routeru. Jsou zde uvedeny pouze informace o něm.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-14T23:57:50-07:00",
+      "textNormalized": "dobry den, aplikace je prehlednejsi nez predchozi, ale neni zde moznost vzdaleneho restartu wifi routeru. jsou zde uvedeny pouze informace o nem.",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13633883565",
+      "userName": "ForestCZ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1354891806",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "Nefunkční tlačítka.",
+      "text": "Jediné co jsem potřeboval je aktivace zrychlení dat a policko aktivovat nefunguje.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-14T13:42:09-07:00",
+      "textNormalized": "jedine co jsem potreboval je aktivace zrychleni dat a policko aktivovat nefunguje.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13633735206",
+      "userName": "vasja stoyka",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1109244588",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "Nechápu proč dělat novou aplikaci která nefunguje prosím dodělej te následně přepínejte všechno.",
+      "text": "Špatně velice špatně",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-14T12:46:17-07:00",
+      "textNormalized": "spatne velice spatne",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13633679105",
+      "userName": "Bohouš 213",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id530676074",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "Velky špatný",
+      "text": "Pomale, online platba nefunguje,nepřehledné atd…..",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-14T12:25:38-07:00",
+      "textNormalized": "pomale, online platba nefunguje,neprehledne atd…..",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13633585645",
+      "userName": "Kubiassss",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id733298923",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "Aplikace padá",
+      "text": "Aplikace padá a nedá se přihlásit. Starou aplikaci nelze použít. Fakt výborný ☺️",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-14T11:51:57-07:00",
+      "textNormalized": "aplikace pada a neda se prihlasit. starou aplikaci nelze pouzit. fakt vyborny ☺️",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13632435078",
+      "userName": "Luckydaemon",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id201112304",
+      "version": "3.5.0",
+      "score": 2,
+      "title": "Platební možnosti",
+      "text": "Jediné co od aplikace potřebuji je pohodlné placení vyúčtování každý měsíc. Bohužel ani v této nové aplikaci není možnost platit přes Apple Pay, nenašel jsem ani platbu kartou a u platby převodem není qr, což je z hlediska implementace pár hodin práce…tím pádem za mě aplikace téměř k ničemu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-14T05:39:51-07:00",
+      "textNormalized": "jedine co od aplikace potrebuji je pohodlne placeni vyuctovani kazdy mesic. bohuzel ani v teto nove aplikaci neni moznost platit pres apple pay, nenasel jsem ani platbu kartou a u platby prevodem neni qr, coz je z hlediska implementace par hodin prace…tim padem za me aplikace temer k nicemu.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13632351224",
+      "userName": "Kupcza",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id49644014",
+      "version": "3.5.0",
+      "score": 2,
+      "title": "Slow app",
+      "text": "Slow, slow scroll speed and not possible to pull to refresh",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-14T05:13:47-07:00",
+      "textNormalized": "slow, slow scroll speed and not possible to pull to refresh",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "13631943648",
+      "userName": "Anubis_cz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id542090971",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "Stará byla lepší",
+      "text": "Tato aplikace je k ničemu, když potřebujete najít nějaké vyúčtování nebo ho zaplatit a spravujete více plátců, tak nemáte absolutně přehled o ničem a vše se zobrazuje pod nějakými čísly. Chci zpátky starou aplikaci, nebo aby ta nová uměla minimálně to, co stará.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-14T02:49:18-07:00",
+      "textNormalized": "tato aplikace je k nicemu, kdyz potrebujete najit nejake vyuctovani nebo ho zaplatit a spravujete vice platcu, tak nemate absolutne prehled o nicem a vse se zobrazuje pod nejakymi cisly. chci zpatky starou aplikaci, nebo aby ta nova umela minimalne to, co stara.",
+      "segments": [
+        "UI",
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13631855175",
+      "userName": "Andrew.13",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id482826889",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "Dvojta platba",
+      "text": "Zadal jsem úhradu dopředu, přes platbu kartou. Na poprvé vyskočila chybová hláška, úhradu jsem provedl znovu. Platba se strhla 2x.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-14T02:11:20-07:00",
+      "textNormalized": "zadal jsem uhradu dopredu, pres platbu kartou. na poprve vyskocila chybova hlaska, uhradu jsem provedl znovu. platba se strhla 2x.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13630110706",
+      "userName": "EverydayHero_",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id633477640",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "nejhorsi aplikace pod sluncem",
+      "text": "aplikace me neustale odhlasuje a nikdy si nepamatuje, ze jsem v nastaveni tisickrat nastavoval prihlasovani pres face id. realne mate stesti, ze na me ulici mate monopol s pripojenim pres pevnou linku, zmizel bych od vas ihned. absolutne nejhorsi aplikace, kterou jsem kdy musel pouzivat. stale uplne k nicemu jako vase predchozi verze",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-13T13:35:06-07:00",
+      "textNormalized": "aplikace me neustale odhlasuje a nikdy si nepamatuje, ze jsem v nastaveni tisickrat nastavoval prihlasovani pres face id. realne mate stesti, ze na me ulici mate monopol s pripojenim pres pevnou linku, zmizel bych od vas ihned. absolutne nejhorsi aplikace, kterou jsem kdy musel pouzivat. stale uplne k nicemu jako vase predchozi verze",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13629710243",
+      "userName": "mivo240",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id230199632",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "Tak zase nic po aktualizaci",
+      "text": "Mám předplacenou kartu a nejde se ani vrátit k původní aplikaci, protože tu není zobrazeno kolik dní zbývá do konce Připojení na měsíc a ani historie čerpání kreditu. Lžete - přání zákazníků vás vůbec nezajímá.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-13T11:06:16-07:00",
+      "textNormalized": "mam predplacenou kartu a nejde se ani vratit k puvodni aplikaci, protoze tu neni zobrazeno kolik dni zbyva do konce pripojeni na mesic a ani historie cerpani kreditu. lzete - prani zakazniku vas vubec nezajima.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13629045101",
       "userName": "Zdeňkajdjdjdn",
@@ -890,8 +1113,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 55,
-    "extractedAt": "2026-01-16T04:53:56.555Z",
+    "totalReviewsExtracted": 69,
+    "extractedAt": "2026-01-17T04:44:21.672Z",
     "source": "app-store"
   }
 }
