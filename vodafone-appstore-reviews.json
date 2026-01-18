@@ -1,17 +1,48 @@
 {
   "ratings": {
-    "score": 3.15886,
-    "totalRatings": 598,
-    "totalReviews": 598,
+    "score": 3.16639,
+    "totalRatings": 607,
+    "totalReviews": 607,
     "histogram": {
-      "1": 217,
+      "1": 220,
       "2": 45,
       "3": 29,
       "4": 40,
-      "5": 267
+      "5": 273
     }
   },
   "reviews": [
+    {
+      "id": "13638823443",
+      "userName": "Flarecz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id86553341",
+      "version": "3.5.0",
+      "score": 5,
+      "title": "Skvěle funkční a přehledné",
+      "text": "Velmi rychlá a přehledná aplikace, velká změna proti původní. Oceňuji že je na první pohled vidět čerpání dát a není nutné složitě hledat.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-15T22:18:12-07:00",
+      "textNormalized": "velmi rychla a prehledna aplikace, velka zmena proti puvodni. ocenuji ze je na prvni pohled videt cerpani dat a neni nutne slozite hledat.",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13638767344",
+      "userName": "ales.nav",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id148077222",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "Aplikace k nicemu",
+      "text": "pry mame moc sluzeb ..",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-15T21:50:00-07:00",
+      "textNormalized": "pry mame moc sluzeb ..",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "13637491421",
       "userName": "Dara z Plzně",
@@ -1113,8 +1144,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 69,
-    "extractedAt": "2026-01-17T04:44:21.672Z",
+    "totalReviewsExtracted": 71,
+    "extractedAt": "2026-01-18T04:54:21.571Z",
     "source": "app-store"
   }
 }
