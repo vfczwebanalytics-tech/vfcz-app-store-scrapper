@@ -1,17 +1,34 @@
 {
   "ratings": {
-    "score": 3.16203,
-    "totalRatings": 611,
-    "totalReviews": 611,
+    "score": 3.15574,
+    "totalRatings": 610,
+    "totalReviews": 610,
     "histogram": {
-      "1": 222,
+      "1": 223,
       "2": 45,
-      "3": 30,
+      "3": 29,
       "4": 40,
-      "5": 274
+      "5": 273
     }
   },
   "reviews": [
+    {
+      "id": "13645572666",
+      "userName": "Máca98",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id550348812",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "Nic zde nevyřídíte",
+      "text": "Pomalá aplikace, lze zde jen platit. Nejde zařídit esim ani úprava služeb. Vždy to hlásí chybu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-17T15:18:51-07:00",
+      "textNormalized": "pomala aplikace, lze zde jen platit. nejde zaridit esim ani uprava sluzeb. vzdy to hlasi chybu.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13641028819",
       "userName": "dominikanemeckova",
@@ -1162,8 +1179,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 72,
-    "extractedAt": "2026-01-19T05:05:41.383Z",
+    "totalReviewsExtracted": 73,
+    "extractedAt": "2026-01-19T12:27:01.613Z",
     "source": "app-store"
   }
 }
