@@ -1,17 +1,35 @@
 {
   "ratings": {
-    "score": 3.16639,
-    "totalRatings": 607,
-    "totalReviews": 607,
+    "score": 3.16203,
+    "totalRatings": 611,
+    "totalReviews": 611,
     "histogram": {
-      "1": 220,
+      "1": 222,
       "2": 45,
-      "3": 29,
+      "3": 30,
       "4": 40,
-      "5": 273
+      "5": 274
     }
   },
   "reviews": [
+    {
+      "id": "13641028819",
+      "userName": "dominikanemeckova",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id587562741",
+      "version": "3.5.0",
+      "score": 1,
+      "title": "Aplikace",
+      "text": "Naprosta katastrofa. Nic nefunguje. Po uhrazeni faktury aplikace nereaguje, tvari se, jakoze zaplaceno neni, ale z uctu se davno penite odecetli! Chat s Tobim je ulet...Na otazky nedokaze odpovidat. Tak k cemu to je?! Na infolinku se neda dovolat treti den po sobe! Cekam 38minut a pote hovor spadne! Nehlede na to, ze me aplikace sama zvedla cenu za internet i volani aniz by me prisla nejaka sms! Internet z 599kc na 1399kc?! Bez jakekoliv zpravy.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-16T11:43:11-07:00",
+      "textNormalized": "naprosta katastrofa. nic nefunguje. po uhrazeni faktury aplikace nereaguje, tvari se, jakoze zaplaceno neni, ale z uctu se davno penite odecetli! chat s tobim je ulet...na otazky nedokaze odpovidat. tak k cemu to je?! na infolinku se neda dovolat treti den po sobe! cekam 38minut a pote hovor spadne! nehlede na to, ze me aplikace sama zvedla cenu za internet i volani aniz by me prisla nejaka sms! internet z 599kc na 1399kc?! bez jakekoliv zpravy.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "13638823443",
       "userName": "Flarecz",
@@ -1144,8 +1162,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 71,
-    "extractedAt": "2026-01-18T04:54:21.571Z",
+    "totalReviewsExtracted": 72,
+    "extractedAt": "2026-01-19T05:05:41.383Z",
     "source": "app-store"
   }
 }
