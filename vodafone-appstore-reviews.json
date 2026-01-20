@@ -1,17 +1,79 @@
 {
   "ratings": {
-    "score": 3.15574,
-    "totalRatings": 610,
-    "totalReviews": 610,
+    "score": 3.16,
+    "totalRatings": 625,
+    "totalReviews": 625,
     "histogram": {
-      "1": 223,
-      "2": 45,
-      "3": 29,
+      "1": 225,
+      "2": 48,
+      "3": 33,
       "4": 40,
-      "5": 273
+      "5": 279
     }
   },
   "reviews": [
+    {
+      "id": "13648474764",
+      "userName": "Prazskej vokurks",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id274445929",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Nelze se přihlásit ani",
+      "text": "Aplikace je zcela nefunkční. Ani po aktualizaci se nedá přihlásit. Po kliknutí na dlaždici s přihlašovacími údaji obrazovka jen problikne…a to je vše vážení přátelé. Zařízení: iPhone 17.  Jak vlastně testujete?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-18T09:13:59-07:00",
+      "textNormalized": "aplikace je zcela nefunkcni. ani po aktualizaci se neda prihlasit. po kliknuti na dlazdici s prihlasovacimi udaji obrazovka jen problikne…a to je vse vazeni pratele. zarizeni: iphone 17.  jak vlastne testujete?",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13648389612",
+      "userName": "ar-jan",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id926995884",
+      "version": "3.5.1",
+      "score": 3,
+      "title": "Lepší než původní, ale",
+      "text": "Aktualizace 18.1.2026\n\nV aplikaci se opět zobrazuji již dávno přečtené zprávy a vypadají opět nepřečteně.\nJe to celkem otravné. Když máte pod sebou víc služeb, u každé svítí opět všechny zprávy jako nelřečtené!!!\n\nZ aplikace nelze zaslat dotaz do Vodafone a člověk musí na web. To je obrovský krok zpět!!!\n\nKrom výše uvedeného Zatím vypadá lépe než ta původní.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-18T08:48:42-07:00",
+      "textNormalized": "aktualizace 18.1.2026\n\nv aplikaci se opet zobrazuji jiz davno prectene zpravy a vypadaji opet neprectene.\nje to celkem otravne. kdyz mate pod sebou vic sluzeb, u kazde sviti opet vsechny zpravy jako nelrectene!!!\n\nz aplikace nelze zaslat dotaz do vodafone a clovek musi na web. to je obrovsky krok zpet!!!\n\nkrom vyse uvedeneho zatim vypada lepe nez ta puvodni.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13648236087",
+      "userName": "Tompsi96",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1417171854",
+      "version": "3.5.1",
+      "score": 3,
+      "title": "News",
+      "text": "Multilanguage means to be able to detect application language and to show Vodafone News in this language as well, please. Do not show news title in czech when there is an english language detected. If the source of your news is not able to add english news title, please use large language model to create english news title. Show english news content, not czech and english content together in application in english language, please.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-18T08:03:21-07:00",
+      "textNormalized": "multilanguage means to be able to detect application language and to show vodafone news in this language as well, please. do not show news title in czech when there is an english language detected. if the source of your news is not able to add english news title, please use large language model to create english news title. show english news content, not czech and english content together in application in english language, please.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13647014594",
+      "userName": "Jenda.R",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1502511462",
+      "version": "3.5.1",
+      "score": 3,
+      "title": "Nuda",
+      "text": "Čekal jsem, že konečně dojde ke zlepšení, ale nenastalo. T-Mobile má mnohem lepší apku, do které se každý rád vrací, protože jsou tam neustále nové a nové akce. Tady je pořád to samé, co bylo už v předchozí aplikaci. Takže ji otevírám jen když chci zaplatit vyúčtování",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-18T01:13:22-07:00",
+      "textNormalized": "cekal jsem, ze konecne dojde ke zlepseni, ale nenastalo. t-mobile ma mnohem lepsi apku, do ktere se kazdy rad vraci, protoze jsou tam neustale nove a nove akce. tady je porad to same, co bylo uz v predchozi aplikaci. takze ji oteviram jen kdyz chci zaplatit vyuctovani",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
     {
       "id": "13645572666",
       "userName": "Máca98",
@@ -1179,8 +1241,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 73,
-    "extractedAt": "2026-01-19T12:27:01.613Z",
+    "totalReviewsExtracted": 77,
+    "extractedAt": "2026-01-20T05:00:40.028Z",
     "source": "app-store"
   }
 }
