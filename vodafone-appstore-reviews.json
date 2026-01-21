@@ -1,17 +1,33 @@
 {
   "ratings": {
-    "score": 3.16,
-    "totalRatings": 625,
-    "totalReviews": 625,
+    "score": 3.14038,
+    "totalRatings": 634,
+    "totalReviews": 634,
     "histogram": {
-      "1": 225,
+      "1": 232,
       "2": 48,
       "3": 33,
-      "4": 40,
-      "5": 279
+      "4": 41,
+      "5": 280
     }
   },
   "reviews": [
+    {
+      "id": "13650513023",
+      "userName": "MorePwueowpq",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1786416890",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Smažte tuhle apku",
+      "text": "Hrozná apka. Nelze ani zjistit do kolikátého jsou platna data. Dřívější apla byla lepší, škoda ze tam nemohu zůstat a musím sem. Neni absolutně přehledná a příšerná!!!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-18T22:01:00-07:00",
+      "textNormalized": "hrozna apka. nelze ani zjistit do kolikateho jsou platna data. drivejsi apla byla lepsi, skoda ze tam nemohu zustat a musim sem. neni absolutne prehledna a priserna!!!",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13648474764",
       "userName": "Prazskej vokurks",
@@ -1241,8 +1257,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 77,
-    "extractedAt": "2026-01-20T05:00:40.028Z",
+    "totalReviewsExtracted": 78,
+    "extractedAt": "2026-01-21T04:58:57.603Z",
     "source": "app-store"
   }
 }
