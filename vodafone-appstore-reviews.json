@@ -1,17 +1,161 @@
 {
   "ratings": {
-    "score": 3.14038,
-    "totalRatings": 634,
-    "totalReviews": 634,
+    "score": 3.12291,
+    "totalRatings": 659,
+    "totalReviews": 659,
     "histogram": {
-      "1": 232,
-      "2": 48,
+      "1": 244,
+      "2": 51,
       "3": 33,
-      "4": 41,
-      "5": 280
+      "4": 42,
+      "5": 289
     }
   },
   "reviews": [
+    {
+      "id": "13655281221",
+      "userName": "Milan.D21",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id109786611",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Cannot login",
+      "text": "Absolute disaster, I hoped for better UX, but I cannot even login on 17pro max…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T05:16:46-07:00",
+      "textNormalized": "absolute disaster, i hoped for better ux, but i cannot even login on 17pro max…",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13655227566",
+      "userName": "jack of all trades master of 0",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id518038082",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Profit seeking first",
+      "text": "Customer experience last. As usual. It starts immediately on login - my favorite IOS keyboard is not available, texted code not loaded from messages automatically, pushing marketing communication and analytics immediately and once more after not activating it during setup.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T04:58:53-07:00",
+      "textNormalized": "customer experience last. as usual. it starts immediately on login - my favorite ios keyboard is not available, texted code not loaded from messages automatically, pushing marketing communication and analytics immediately and once more after not activating it during setup.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13655166546",
+      "userName": "runningseagle",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id502581060",
+      "version": "3.5.1",
+      "score": 2,
+      "title": "User login doesn’t work",
+      "text": "Logging in is not working from iOS 26.2 on iPhone 15. Clicking big red login button displays something for a split second and app view is returned to the previous state.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T04:38:00-07:00",
+      "textNormalized": "logging in is not working from ios 26.2 on iphone 15. clicking big red login button displays something for a split second and app view is returned to the previous state.",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13654694282",
+      "userName": "Ella’sRew",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1618005576",
+      "version": "3.5.1",
+      "score": 2,
+      "title": "simplify the login process",
+      "text": "Hello,\n\nPlease simplify the login process in your application.\n\nI use the app once a month, and every single time it requires a full password. This makes no sense when the app is installed on my personal phone. Why is a simple 4-digit PIN not an option?\n\nIf I forget my password, the process becomes unnecessarily complicated:\n\t•\tfirst, a password is sent to my email,\n\t•\tthen another code is sent via SMS.\n\nAfter that, I am forced to create a new password with strict rules (it cannot be similar to the old one and must include special characters), and then enter it again — which is unclear and redundant.\nThen I receive yet another SMS asking me to confirm it.\n\nI just want to open your app once a month without going through multiple passwords and codes.\n\nPlease consider:\n\t•\tlogin via a one-time SMS code, or\n\t•\ta simple PIN.\n\nThis would significantly improve usability.\n\nAlso, having multiple types of administrator passwords is unnecessary for regular users and only adds confusion.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T01:23:57-07:00",
+      "textNormalized": "hello,\n\nplease simplify the login process in your application.\n\ni use the app once a month, and every single time it requires a full password. this makes no sense when the app is installed on my personal phone. why is a simple 4-digit pin not an option?\n\nif i forget my password, the process becomes unnecessarily complicated:\n\t•\tfirst, a password is sent to my email,\n\t•\tthen another code is sent via sms.\n\nafter that, i am forced to create a new password with strict rules (it cannot be similar to the old one and must include special characters), and then enter it again — which is unclear and redundant.\nthen i receive yet another sms asking me to confirm it.\n\ni just want to open your app once a month without going through multiple passwords and codes.\n\nplease consider:\n\t•\tlogin via a one-time sms code, or\n\t•\ta simple pin.\n\nthis would significantly improve usability.\n\nalso, having multiple types of administrator passwords is unnecessary for regular users and only adds confusion.",
+      "segments": [
+        "UI",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13654515467",
+      "userName": "Modrovousavec",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id614879035",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Nefunkční přihlášení",
+      "text": "Dobrý den, mohli byste prosím přestat s vynucováním updatu vaší aplikace každé dva týdny? Je to extrémně otravné.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-19T23:55:09-07:00",
+      "textNormalized": "dobry den, mohli byste prosim prestat s vynucovanim updatu vasi aplikace kazde dva tydny? je to extremne otravne.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13654455713",
+      "userName": "PaniPaličkova",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1760871837",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Z blata do louze",
+      "text": "Vodafone posila vyhruzne emaily, ze mam zaplatit. Bohuzel dementni pomala aplikace, stara i nova, absolutne nefunguje. Nelze se ani prihlasit! Nevim, koho zamestnavate, ale i student informatiky by to zvladnul lip. Hruza toto resit kazdy mesic!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-19T23:24:51-07:00",
+      "textNormalized": "vodafone posila vyhruzne emaily, ze mam zaplatit. bohuzel dementni pomala aplikace, stara i nova, absolutne nefunguje. nelze se ani prihlasit! nevim, koho zamestnavate, ale i student informatiky by to zvladnul lip. hruza toto resit kazdy mesic!",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13652497141",
+      "userName": "Heyros",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id511167779",
+      "version": "3.5.1",
+      "score": 2,
+      "title": "Horší oproti předchozí aplikaci",
+      "text": "O dost horší přihlašování a placení přes QR kód",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-19T10:18:27-07:00",
+      "textNormalized": "o dost horsi prihlasovani a placeni pres qr kod",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13650958326",
+      "userName": "Modrobulvus1",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1470042376",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Katastrofa",
+      "text": "Hrůza, nezažil jsem snad horší aplikaci!! Kdykoliv to chci otevřít stále nějaká aktualizace, pořád nějaké problémy. Strašný !!!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-19T01:41:43-07:00",
+      "textNormalized": "hruza, nezazil jsem snad horsi aplikaci!! kdykoliv to chci otevrit stale nejaka aktualizace, porad nejake problemy. strasny !!!",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13650876196",
+      "userName": "MS_OVA1987",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id105385656",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Nefunguje",
+      "text": "Ano, vše je aktuální, iOS a i verze aplikace, ale v iPhone 17 se nedá do aplikace vůbec přihlásit!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-19T01:02:10-07:00",
+      "textNormalized": "ano, vse je aktualni, ios a i verze aplikace, ale v iphone 17 se neda do aplikace vubec prihlasit!",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "13650513023",
       "userName": "MorePwueowpq",
@@ -1257,8 +1401,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 78,
-    "extractedAt": "2026-01-21T04:58:57.603Z",
+    "totalReviewsExtracted": 87,
+    "extractedAt": "2026-01-22T05:01:49.878Z",
     "source": "app-store"
   }
 }
