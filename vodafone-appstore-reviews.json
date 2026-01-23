@@ -1,17 +1,328 @@
 {
   "ratings": {
-    "score": 3.12291,
-    "totalRatings": 659,
-    "totalReviews": 659,
+    "score": 3.07703,
+    "totalRatings": 701,
+    "totalReviews": 701,
     "histogram": {
-      "1": 244,
-      "2": 51,
-      "3": 33,
-      "4": 42,
-      "5": 289
+      "1": 268,
+      "2": 53,
+      "3": 37,
+      "4": 43,
+      "5": 300
     }
   },
   "reviews": [
+    {
+      "id": "13660711017",
+      "userName": "MS_OVA1987",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id105385656",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Nefunguje",
+      "text": "Ano, vše mám aktuální, iOS a i verzi aplikace, ale v iPhone 17 se nedá do aplikace vůbec přihlásit!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-21T15:19:32-07:00",
+      "textNormalized": "ano, vse mam aktualni, ios a i verzi aplikace, ale v iphone 17 se neda do aplikace vubec prihlasit!",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13660364127",
+      "userName": "Boshur",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id481106205",
+      "version": "3.5.1",
+      "score": 3,
+      "title": "pocet dni do konce vycerpani dat",
+      "text": "chybi údaje o počtu dni do konce vycerpani dat, jak to bylo přehledně a hned v úvodu uvedeno v zakladni apce",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-21T13:02:47-07:00",
+      "textNormalized": "chybi udaje o poctu dni do konce vycerpani dat, jak to bylo prehledne a hned v uvodu uvedeno v zakladni apce",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13660168177",
+      "userName": "ar-jan",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id926995884",
+      "version": "3.5.1",
+      "score": 3,
+      "title": "Lepší než původní, ale",
+      "text": "Aktualizace 18.1.2026\n\nV aplikaci se opět zobrazuji již dávno přečtené zprávy a vypadají opět nepřečteně.\nJe to celkem otravné. Když máte pod sebou víc služeb, u každé svítí opět všechny zprávy jako nelřečtené!!!\n\nZ aplikace nelze zaslat dotaz do Vodafone a člověk musí na web. To je obrovský krok zpět!!!\n\nV aplikaci nelze stáhnout podrobné vyúčtování. Opět jen na webu!!!\n\nKrom výše uvedeného Zatím vypadá lépe než ta původní.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-21T11:49:29-07:00",
+      "textNormalized": "aktualizace 18.1.2026\n\nv aplikaci se opet zobrazuji jiz davno prectene zpravy a vypadaji opet neprectene.\nje to celkem otravne. kdyz mate pod sebou vic sluzeb, u kazde sviti opet vsechny zpravy jako nelrectene!!!\n\nz aplikace nelze zaslat dotaz do vodafone a clovek musi na web. to je obrovsky krok zpet!!!\n\nv aplikaci nelze stahnout podrobne vyuctovani. opet jen na webu!!!\n\nkrom vyse uvedeneho zatim vypada lepe nez ta puvodni.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13659803293",
+      "userName": "Tajda_CZ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id533545331",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Tablet",
+      "text": "Prozradil vám někdo, že existují tablety? Asi ne, protože pak by vaše nová appka vypadala jinak…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-21T09:42:06-07:00",
+      "textNormalized": "prozradil vam nekdo, ze existuji tablety? asi ne, protoze pak by vase nova appka vypadala jinak…",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13659347521",
+      "userName": "Kilmill",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id257544515",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Bad",
+      "text": "The app doesn’t work, it’s not clickable, cannot even pay the bill. Please make an update asap",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-21T07:14:49-07:00",
+      "textNormalized": "the app doesn’t work, it’s not clickable, cannot even pay the bill. please make an update asap",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13659317804",
+      "userName": "denanoc",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1246793723",
+      "version": "3.5.1",
+      "score": 3,
+      "title": "Mrňavé okno",
+      "text": "Prosím vývojáře o rozšíření / optimalizaci aplikace i pro iPad. Děkuji.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-21T07:05:29-07:00",
+      "textNormalized": "prosim vyvojare o rozsireni / optimalizaci aplikace i pro ipad. dekuji.",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13659003059",
+      "userName": "M_Prusa",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id187004558",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Not iOS app",
+      "text": "Please create iOS app this outrageous!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-21T05:26:50-07:00",
+      "textNormalized": "please create ios app this outrageous!",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13658047072",
+      "userName": "ALEXHYNO",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id878788810",
+      "version": "3.5.1",
+      "score": 5,
+      "title": "Recenze",
+      "text": "Skvěle!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T22:38:22-07:00",
+      "textNormalized": "skvele!",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13658000286",
+      "userName": "klemi888",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id422702241",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Katastrofa",
+      "text": "Vždyť se nejde ani přihlásit 😁 tlačítko přihlásit nefunguje, aplikace jen problikne. Programátoři u takového světového operátora za korunu drazí 😁😁😁",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T22:14:15-07:00",
+      "textNormalized": "vzdyt se nejde ani prihlasit 😁 tlacitko prihlasit nefunguje, aplikace jen problikne. programatori u takoveho svetoveho operatora za korunu drazi 😁😁😁",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13657064601",
+      "userName": "Pinho6",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id543213519",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Aplikace k ničemu",
+      "text": "Nelze se přihlásit",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T15:30:15-07:00",
+      "textNormalized": "nelze se prihlasit",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13657014274",
+      "userName": "Strappys",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id395811324",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Dolor",
+      "text": "Po donucení stáhnutí si nové aplikace z důvodu ukončení ty staré se marně snažím do aplikace přihlásit. Po zmačknutí Přejít na přihlášení uvíznu v nekonečné načítavací obrazovce.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T15:10:07-07:00",
+      "textNormalized": "po donuceni stahnuti si nove aplikace z duvodu ukonceni ty stare se marne snazim do aplikace prihlasit. po zmacknuti prejit na prihlaseni uviznu v nekonecne nacitavaci obrazovce.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13656763787",
+      "userName": "vita007cz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1322271761",
+      "version": "3.5.1",
+      "score": 3,
+      "title": "Dobra aplikace ale chybí widget",
+      "text": "Vždycky jsem byl zvyklý na widgety kde vidím kolik dat ještě mam, to mi v této nové aplikaci chybí",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T13:33:13-07:00",
+      "textNormalized": "vzdycky jsem byl zvykly na widgety kde vidim kolik dat jeste mam, to mi v teto nove aplikaci chybi",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13656743501",
+      "userName": "Martin Beran",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id104353775",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Ještě větší hrůza než ta původní aplikace",
+      "text": "Stejně nepřehledná, spousta funkcí chybí, pomalé",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T13:25:49-07:00",
+      "textNormalized": "stejne neprehledna, spousta funkci chybi, pomale",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13656240630",
+      "userName": "djNaotaku",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id124635302",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "The worst app",
+      "text": "By far the worst app on my phone. When it works (by some miracle once in a blue moon), it’s incredibly slow. Hard to navigate and understand, but that’s down to Vodafone’s shady practices.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T10:24:28-07:00",
+      "textNormalized": "by far the worst app on my phone. when it works (by some miracle once in a blue moon), it’s incredibly slow. hard to navigate and understand, but that’s down to vodafone’s shady practices.",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "13655868713",
+      "userName": "Dvorus88",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id208082440",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Jejda!",
+      "text": "Neustálé jejda, něco se pokazilo, přesně reflektuje současnou situaci se službami pro zákazníky a stav organizace. Škoda... appka nejde spustit, respektive nenaskočí přihlášení a zobrazí se jen chybová hláška.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T08:22:56-07:00",
+      "textNormalized": "neustale jejda, neco se pokazilo, presne reflektuje soucasnou situaci se sluzbami pro zakazniky a stav organizace. skoda... appka nejde spustit, respektive nenaskoci prihlaseni a zobrazi se jen chybova hlaska.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13655852377",
+      "userName": "Lukáš M.",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id177450297",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Nepoužitelné",
+      "text": "Po poslední aktualizaci spadne okamžitě po otevření.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T08:17:49-07:00",
+      "textNormalized": "po posledni aktualizaci spadne okamzite po otevreni.",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13655624378",
+      "userName": "strejda marek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id623161931",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Sdílení",
+      "text": "Vyžaduje - trvá na sdílení jiných kontaktů z telefonu - nelze přeskočit - zamítnout sdílení informací o v telefonu uložených kontaktech (fotografie, adresy a jiné údaje spojené s těmito kontakty)",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T07:06:19-07:00",
+      "textNormalized": "vyzaduje - trva na sdileni jinych kontaktu z telefonu - nelze preskocit - zamitnout sdileni informaci o v telefonu ulozenych kontaktech (fotografie, adresy a jine udaje spojene s temito kontakty)",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13655570203",
+      "userName": "alpgu",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1174259985",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Missing features",
+      "text": "It is not showing when the prepaid card bundles end and also for 10+10 gb package is not possible to request extra 10 gb from application. It was possible in muj vodafone application and currently needs to log in and request from browser .",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T06:49:12-07:00",
+      "textNormalized": "it is not showing when the prepaid card bundles end and also for 10+10 gb package is not possible to request extra 10 gb from application. it was possible in muj vodafone application and currently needs to log in and request from browser .",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13655526443",
+      "userName": "Antelliote",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1670157131",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "No widget",
+      "text": "App has nothing to offer. I have to use 3rd party aps to keep track of my data.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T06:35:23-07:00",
+      "textNormalized": "app has nothing to offer. i have to use 3rd party aps to keep track of my data.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13655406042",
+      "userName": "tbtntcwbt",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id928341049",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "....",
+      "text": "Tragická aplikace",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-20T05:57:15-07:00",
+      "textNormalized": "tragicka aplikace",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "13655281221",
       "userName": "Milan.D21",
@@ -1401,8 +1712,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 87,
-    "extractedAt": "2026-01-22T05:01:49.878Z",
+    "totalReviewsExtracted": 107,
+    "extractedAt": "2026-01-23T04:57:29.796Z",
     "source": "app-store"
   }
 }
