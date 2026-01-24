@@ -1,17 +1,33 @@
 {
   "ratings": {
-    "score": 3.07703,
-    "totalRatings": 701,
-    "totalReviews": 701,
+    "score": 3.08475,
+    "totalRatings": 708,
+    "totalReviews": 708,
     "histogram": {
-      "1": 268,
+      "1": 270,
       "2": 53,
       "3": 37,
       "4": 43,
-      "5": 300
+      "5": 305
     }
   },
   "reviews": [
+    {
+      "id": "13661808072",
+      "userName": "OvertoneCZ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1629739687",
+      "version": "3.5.1",
+      "score": 5,
+      "title": "tedious to use!",
+      "text": "All issues fixed now! Review UPDATED! :-) . It is now OK app.  *previously*: It forced me to log in with username and password EVERY time. That alone would NOT be a problem, since I have those in BITWARDEN , behind a FaceID. But it also forces me to use 2nd factor EVERY Time ! Now THIS is a BIG problem , since the 2nd FA is an SMS code to my OLD number - infested with hackers …. I only wanna switch on that old SIM in absolute EMERGENCY cases !! And not every DAMN time I want to look at Vodafone+ app! The app alone is ok. But the BIOMETRY LOGIN and LOGIN is broken!!! Please, fix this ASAP.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-21T23:25:42-07:00",
+      "textNormalized": "all issues fixed now! review updated! :-) . it is now ok app.  *previously*: it forced me to log in with username and password every time. that alone would not be a problem, since i have those in bitwarden , behind a faceid. but it also forces me to use 2nd factor every time ! now this is a big problem , since the 2nd fa is an sms code to my old number - infested with hackers …. i only wanna switch on that old sim in absolute emergency cases !! and not every damn time i want to look at vodafone+ app! the app alone is ok. but the biometry login and login is broken!!! please, fix this asap.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "13660711017",
       "userName": "MS_OVA1987",
@@ -1712,8 +1728,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 107,
-    "extractedAt": "2026-01-23T04:57:29.796Z",
+    "totalReviewsExtracted": 108,
+    "extractedAt": "2026-01-24T04:48:27.284Z",
     "source": "app-store"
   }
 }
