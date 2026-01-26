@@ -1,17 +1,162 @@
 {
   "ratings": {
-    "score": 3.08475,
-    "totalRatings": 708,
-    "totalReviews": 708,
+    "score": 3.07565,
+    "totalRatings": 727,
+    "totalReviews": 727,
     "histogram": {
-      "1": 270,
-      "2": 53,
-      "3": 37,
+      "1": 277,
+      "2": 56,
+      "3": 40,
       "4": 43,
-      "5": 305
+      "5": 311
     }
   },
   "reviews": [
+    {
+      "id": "13666983363",
+      "userName": "david.rychly",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1224535819",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Really bad",
+      "text": "Application suffers from really bad UX and missing some of the great features of the old app. I don’t understand why there is a new app and the old one wasn’t just updated.\n\nBut still the old one was a lot better both in terms of the features, UX and speed. This new one is also insanely slow to load.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-23T08:55:04-07:00",
+      "textNormalized": "application suffers from really bad ux and missing some of the great features of the old app. i don’t understand why there is a new app and the old one wasn’t just updated.\n\nbut still the old one was a lot better both in terms of the features, ux and speed. this new one is also insanely slow to load.",
+      "segments": [
+        "Vykonnost",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13666265240",
+      "userName": "Jaro Slavoid",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1341633705",
+      "version": "3.5.1",
+      "score": 3,
+      "title": "iPad no more?",
+      "text": "Too bad iPad version is no longer provided..",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-23T05:10:57-07:00",
+      "textNormalized": "too bad ipad version is no longer provided..",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13665403127",
+      "userName": "FrZitta",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id163235311",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Vodafone na nic",
+      "text": "Nová aplikace a staré problémy   \n\nNejde se přihlásit. Tedy více jak 2 minuty na přihlášení čekat nevydržím \n\nZkoušel jsem přihlášení přes WiFi, vaše mobilní data i konkurenci.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-22T23:03:39-07:00",
+      "textNormalized": "nova aplikace a stare problemy   \n\nnejde se prihlasit. tedy vice jak 2 minuty na prihlaseni cekat nevydrzim \n\nzkousel jsem prihlaseni pres wifi, vase mobilni data i konkurenci.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13665135735",
+      "userName": "Paťos",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id542455878",
+      "version": "3.5.1",
+      "score": 2,
+      "title": "Nemá Widget",
+      "text": "Jak v dnešní době, může vydat operátor aplikaci která nemá widget s čerpáním dat atd.? Nechápu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-22T20:48:46-07:00",
+      "textNormalized": "jak v dnesni dobe, muze vydat operator aplikaci ktera nema widget s cerpanim dat atd.? nechapu.",
+      "segments": [
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13663473477",
+      "userName": "znajneprekryštalizovávateľnej",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1435822719",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Spíš mínus než plus",
+      "text": "Nelze rozdělovat sdílené data, čtení zpráv pouze pěkně po sobě. Jinak jsou zprávy nepřečtené🤣.\nSice v názvu +, ale aplikace težce -. Gratuluji tomu, kdo to Vodafonu prodal. Za jakoukoliv cenu je drahé to, co nefunguje.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-22T09:47:04-07:00",
+      "textNormalized": "nelze rozdelovat sdilene data, cteni zprav pouze pekne po sobe. jinak jsou zpravy neprectene🤣.\nsice v nazvu +, ale aplikace tezce -. gratuluji tomu, kdo to vodafonu prodal. za jakoukoliv cenu je drahe to, co nefunguje.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13662760603",
+      "userName": "PrayForResearch",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1271569053",
+      "version": "3.5.1",
+      "score": 2,
+      "title": "Tragically slow; webview for settings; ads",
+      "text": "Was this ever user driven or business driven app? Where is your research? \n\nIf this should be the evolution after long time result is tragedy. \n\n“Something got wrong” on homescreen tells you.\n\nThe slow UI is worst among old and even new app. \n\nSecond bad thing is using webview for the detailed settings which should be improved even on web admin. UX fault setting my phone-no wonder every time I am very angry 20 minutes doing so primitive things. \n\nFinally, I know business needs some ads, but somebody told them where is the limits?\n\nSorry guys I see just the same problems. Could leave it the same as old one.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-22T05:55:43-07:00",
+      "textNormalized": "was this ever user driven or business driven app? where is your research? \n\nif this should be the evolution after long time result is tragedy. \n\n“something got wrong” on homescreen tells you.\n\nthe slow ui is worst among old and even new app. \n\nsecond bad thing is using webview for the detailed settings which should be improved even on web admin. ux fault setting my phone-no wonder every time i am very angry 20 minutes doing so primitive things. \n\nfinally, i know business needs some ads, but somebody told them where is the limits?\n\nsorry guys i see just the same problems. could leave it the same as old one.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13662756923",
+      "userName": "jduffjfud",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id374186141",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Chyby",
+      "text": "Nepouzitelna aplikace. Vubec nefunguje. Pri pokusu o kliknuti na jakoukoliv zalozku pise chybu a ,,zkusit znovu,,!!! Katastrofalni neschopnost nekoho kdo ma na starosti takto primitivni aplikaci!!!!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-22T05:54:32-07:00",
+      "textNormalized": "nepouzitelna aplikace. vubec nefunguje. pri pokusu o kliknuti na jakoukoliv zalozku pise chybu a ,,zkusit znovu,,!!! katastrofalni neschopnost nekoho kdo ma na starosti takto primitivni aplikaci!!!!",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13662419675",
+      "userName": "окок1212",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1187784970",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "No app response at all",
+      "text": "It doesn’t work at all. Just first screen load and then no other reaction on any button. Good job!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-22T04:01:22-07:00",
+      "textNormalized": "it doesn’t work at all. just first screen load and then no other reaction on any button. good job!",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13662247743",
+      "userName": "Jiri R.",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id401811571",
+      "version": "3.5.1",
+      "score": 2,
+      "title": "Do something with the UI",
+      "text": "It’s quite ugly and unprofessional, doesn’t leverage the platform UI style and feels slow.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-22T02:53:58-07:00",
+      "textNormalized": "it’s quite ugly and unprofessional, doesn’t leverage the platform ui style and feels slow.",
+      "segments": [
+        "Vykonnost",
+        "UI"
+      ]
+    },
     {
       "id": "13661808072",
       "userName": "OvertoneCZ",
@@ -1728,8 +1873,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 108,
-    "extractedAt": "2026-01-25T05:04:06.748Z",
+    "totalReviewsExtracted": 117,
+    "extractedAt": "2026-01-26T05:08:05.851Z",
     "source": "app-store"
   }
 }
