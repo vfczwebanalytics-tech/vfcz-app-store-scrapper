@@ -1,17 +1,64 @@
 {
   "ratings": {
-    "score": 3.07565,
-    "totalRatings": 727,
-    "totalReviews": 727,
+    "score": 3.09103,
+    "totalRatings": 736,
+    "totalReviews": 736,
     "histogram": {
       "1": 277,
       "2": 56,
-      "3": 40,
-      "4": 43,
-      "5": 311
+      "3": 42,
+      "4": 45,
+      "5": 316
     }
   },
   "reviews": [
+    {
+      "id": "13673666279",
+      "userName": "vasja stoyka",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1109244588",
+      "version": "3.5.1",
+      "score": 4,
+      "title": "Nechápu proč dělat novou aplikaci která nefunguje prosím dodělej te následně přepínejte všechno.",
+      "text": "Špatně velice špatně",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-25T03:24:28-07:00",
+      "textNormalized": "spatne velice spatne",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13673567186",
+      "userName": "Roman 71",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1446944649",
+      "version": "3.5.1",
+      "score": 3,
+      "title": "Vdf+",
+      "text": "Proč  nemůžete  nechat něco co bylo jakžtakž funkční??🤔 \nTeď zas pro změnu nelze stáhnout vyúčtování....!Důležité nastavení dokonale ukryté....🫣",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-25T02:44:48-07:00",
+      "textNormalized": "proc  nemuzete  nechat neco co bylo jakztakz funkcni??🤔 \nted zas pro zmenu nelze stahnout vyuctovani....!dulezite nastaveni dokonale ukryte....🫣",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13671655297",
+      "userName": "deedee123345",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id763803511",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Didnt ask for this",
+      "text": "Noone needed a new app. And it doesnt work until I update it again and again and again. I dont care about some friggin app, I just want to pay my bill and skidaddle",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-24T13:26:06-07:00",
+      "textNormalized": "noone needed a new app. and it doesnt work until i update it again and again and again. i dont care about some friggin app, i just want to pay my bill and skidaddle",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13666983363",
       "userName": "david.rychly",
@@ -1873,8 +1920,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 117,
-    "extractedAt": "2026-01-26T05:08:05.851Z",
+    "totalReviewsExtracted": 120,
+    "extractedAt": "2026-01-27T05:00:13.747Z",
     "source": "app-store"
   }
 }
