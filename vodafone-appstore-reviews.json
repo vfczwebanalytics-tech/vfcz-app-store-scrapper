@@ -1,17 +1,33 @@
 {
   "ratings": {
-    "score": 3.09103,
-    "totalRatings": 736,
-    "totalReviews": 736,
+    "score": 3.09434,
+    "totalRatings": 742,
+    "totalReviews": 742,
     "histogram": {
-      "1": 277,
-      "2": 56,
+      "1": 278,
+      "2": 57,
       "3": 42,
-      "4": 45,
-      "5": 316
+      "4": 47,
+      "5": 318
     }
   },
   "reviews": [
+    {
+      "id": "13675022558",
+      "userName": "Tajda_CZ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id533545331",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "\"Výsměch zákazníkům\"",
+      "text": "Odpověď \"vývojáře\" na mou předchozí recenzi - verzi pro iPad neplánujeme.\nProč byste plánovali verzi pro iPad, že? Stačí, že zákazníci platí, něco pro ně udělat je zcela zbytečné, prostě plať a drž ústa.\nNejlépe vztah VdF - zákazník ilustruje jejich aplikace Vodafone TV, což je už 2 roky zcela nefunkční paskvil. Náprava v nedohlednu.\nNejvyšší čas se s VdF rozloučit…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-25T10:36:32-07:00",
+      "textNormalized": "odpoved \"vyvojare\" na mou predchozi recenzi - verzi pro ipad neplanujeme.\nproc byste planovali verzi pro ipad, ze? staci, ze zakaznici plati, neco pro ne udelat je zcela zbytecne, proste plat a drz usta.\nnejlepe vztah vdf - zakaznik ilustruje jejich aplikace vodafone tv, coz je uz 2 roky zcela nefunkcni paskvil. naprava v nedohlednu.\nnejvyssi cas se s vdf rozloucit…",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13673666279",
       "userName": "vasja stoyka",
@@ -1920,8 +1936,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 120,
-    "extractedAt": "2026-01-27T05:00:13.747Z",
+    "totalReviewsExtracted": 121,
+    "extractedAt": "2026-01-28T05:55:17.741Z",
     "source": "app-store"
   }
 }
