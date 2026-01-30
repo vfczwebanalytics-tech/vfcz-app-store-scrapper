@@ -1,17 +1,170 @@
 {
   "ratings": {
-    "score": 3.09434,
-    "totalRatings": 742,
-    "totalReviews": 742,
+    "score": 3.0749,
+    "totalRatings": 761,
+    "totalReviews": 761,
     "histogram": {
-      "1": 278,
-      "2": 57,
+      "1": 288,
+      "2": 60,
       "3": 42,
-      "4": 47,
-      "5": 318
+      "4": 49,
+      "5": 322
     }
   },
   "reviews": [
+    {
+      "id": "13684670578",
+      "userName": "Odcházející zákazník :)",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1537744122",
+      "version": "3.6.0",
+      "score": 1,
+      "title": "Zbytečnosti",
+      "text": "Kdybyste radši investovali do stabilnějšího internetu nebo alespoň nezdražovali. Nikdo není zvědavý na stupidní kupónky a další blbosti.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-28T02:09:50-07:00",
+      "textNormalized": "kdybyste radsi investovali do stabilnejsiho internetu nebo alespon nezdrazovali. nikdo neni zvedavy na stupidni kuponky a dalsi blbosti.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13684501411",
+      "userName": "Blanka Boneva",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id730130066",
+      "version": "3.6.0",
+      "score": 1,
+      "title": "Stále není plně funkční",
+      "text": "Stále není v aplikaci historie čerpání kreditu 🤷‍♀️. Bude to vůbec někdy?Pustili jste do oběhu nedodělanou aplikaci 🤦‍♀️.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-28T00:54:22-07:00",
+      "textNormalized": "stale neni v aplikaci historie cerpani kreditu 🤷‍♀️. bude to vubec nekdy?pustili jste do obehu nedodelanou aplikaci 🤦‍♀️.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13683069594",
+      "userName": "matous.kahl",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id308269740",
+      "version": "3.6.0",
+      "score": 4,
+      "title": "Better app",
+      "text": "Much stable then the previous one! Vodafone heard their customers and improved their app.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-27T14:37:21-07:00",
+      "textNormalized": "much stable then the previous one! vodafone heard their customers and improved their app.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13682648675",
+      "userName": "NickSettler",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1172319318",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Getting worse and worse",
+      "text": "Is your company being run by at least a bit qualified staff or just a bunch of AI bots or something? \n\nThe app is a lot worse than the first one was. Even though I was thinking that the first one is very bad already. How is that even possible that you made it even worse, just basically packing a webview inside an app. \n\nAnd even further. Why does your marketing team still get their salary? Did you see your own so called benefits from using a new app? Ability to pay? Ability to see bills? Two factor authentication? Not even speaking about total made up nonsense like “fast and fluent” or “modern design” claims in your advertisement. All those perks are bare minimum, not a princess treatment. \n\nI am just boycotting your app and not gonna use it anymore. Your app and its developers definitely did not deserve money they are being paid for. \n\nJust in case you need an advice how to proceed with your app. Fire all previous vibe coders, hire professional engineers and educate your marketing team.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-27T11:58:48-07:00",
+      "textNormalized": "is your company being run by at least a bit qualified staff or just a bunch of ai bots or something? \n\nthe app is a lot worse than the first one was. even though i was thinking that the first one is very bad already. how is that even possible that you made it even worse, just basically packing a webview inside an app. \n\nand even further. why does your marketing team still get their salary? did you see your own so called benefits from using a new app? ability to pay? ability to see bills? two factor authentication? not even speaking about total made up nonsense like “fast and fluent” or “modern design” claims in your advertisement. all those perks are bare minimum, not a princess treatment. \n\ni am just boycotting your app and not gonna use it anymore. your app and its developers definitely did not deserve money they are being paid for. \n\njust in case you need an advice how to proceed with your app. fire all previous vibe coders, hire professional engineers and educate your marketing team.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13682211904",
+      "userName": "Kukuřice",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id161172854",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Nefunkcni",
+      "text": "Dlouho nacita a nic …",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-27T09:31:39-07:00",
+      "textNormalized": "dlouho nacita a nic …",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13681557902",
+      "userName": "Tomborek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id184912616",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Nefunguje",
+      "text": "Aplikace vůbec nefunguje. Stále se jen dívám na logo Vodafonu a nic se neděje. Zkoušel jsem několikrát restart, ale žádná změna. Pro mě velké zhoršení, protože původní aplikaci jsem hodně používal.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-27T06:05:34-07:00",
+      "textNormalized": "aplikace vubec nefunguje. stale se jen divam na logo vodafonu a nic se nedeje. zkousel jsem nekolikrat restart, ale zadna zmena. pro me velke zhorseni, protoze puvodni aplikaci jsem hodne pouzival.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13680544685",
+      "userName": "oslikus",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id449682451",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "ach jo",
+      "text": "ještě horší než ta minulá",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-26T23:08:00-07:00",
+      "textNormalized": "jeste horsi nez ta minula",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13679561721",
+      "userName": "Pelikán_1",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id171845485",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Nepoužitelná app",
+      "text": "Po úspěšném přihlášení to píše, že jsem anonymní uživatel a nemám žádné služby. Po odhlášení a pokusu o přihlášení se to pro jistotu ani už neptá na přihlašovací údaje a rovnou znovu anonym.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-26T15:58:24-07:00",
+      "textNormalized": "po uspesnem prihlaseni to pise, ze jsem anonymni uzivatel a nemam zadne sluzby. po odhlaseni a pokusu o prihlaseni se to pro jistotu ani uz nepta na prihlasovaci udaje a rovnou znovu anonym.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13678900727",
+      "userName": "Jayskyone",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id618155921",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "Platba QR kódem",
+      "text": "Platba QR kódem nemožná? 🙄🤯",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-26T11:45:21-07:00",
+      "textNormalized": "platba qr kodem nemozna? 🙄🤯",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13677093647",
+      "userName": "LenaSuch",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1162545653",
+      "version": "3.5.1",
+      "score": 1,
+      "title": "все плохо",
+      "text": "каждая новая апликация хуже предыдущей",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-26T00:59:58-07:00",
+      "textNormalized": "каждая новая апликация хуже предыдущеи",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "13675022558",
       "userName": "Tajda_CZ",
@@ -1936,8 +2089,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 121,
-    "extractedAt": "2026-01-29T07:30:22.226Z",
+    "totalReviewsExtracted": 131,
+    "extractedAt": "2026-01-30T07:30:09.247Z",
     "source": "app-store"
   }
 }
