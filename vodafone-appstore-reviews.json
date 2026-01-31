@@ -1,17 +1,50 @@
 {
   "ratings": {
-    "score": 3.0749,
-    "totalRatings": 761,
-    "totalReviews": 761,
+    "score": 3.06266,
+    "totalRatings": 766,
+    "totalReviews": 766,
     "histogram": {
-      "1": 288,
-      "2": 60,
+      "1": 292,
+      "2": 61,
       "3": 42,
       "4": 49,
       "5": 322
     }
   },
   "reviews": [
+    {
+      "id": "13688467479",
+      "userName": "michalkis",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id123566570",
+      "version": "3.6.0",
+      "score": 2,
+      "title": "Vodafone +",
+      "text": "Nepřehledná aplikace Vodafone +  Nejde nic dohledat.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-29T01:47:16-07:00",
+      "textNormalized": "neprehledna aplikace vodafone +  nejde nic dohledat.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13688028297",
+      "userName": "Haruki_CZ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1681037196",
+      "version": "3.6.0",
+      "score": 1,
+      "title": "Stará aplikace byla lepší",
+      "text": "V nové aplikaci nejde vidět nic důležitého jako výše trvalé slevy či výše slevy. Jenom nesmysly typu předražený věci ve falešné slevě ( Vodafone happy) je to jen velká reklamní aplikace a funkčnost 0. Zlatá Stará aplikace Vodafone.. nová Vodafone+ je spíše Vodafone-",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-28T22:22:49-07:00",
+      "textNormalized": "v nove aplikaci nejde videt nic duleziteho jako vyse trvale slevy ci vyse slevy. jenom nesmysly typu predrazeny veci ve falesne sleve ( vodafone happy) je to jen velka reklamni aplikace a funkcnost 0. zlata stara aplikace vodafone.. nova vodafone+ je spise vodafone-",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13684670578",
       "userName": "Odcházející zákazník :)",
@@ -2089,8 +2122,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 131,
-    "extractedAt": "2026-01-30T07:30:09.247Z",
+    "totalReviewsExtracted": 133,
+    "extractedAt": "2026-01-31T06:04:51.036Z",
     "source": "app-store"
   }
 }
