@@ -1,17 +1,62 @@
 {
   "ratings": {
-    "score": 3.06266,
-    "totalRatings": 766,
-    "totalReviews": 766,
+    "score": 3.04005,
+    "totalRatings": 774,
+    "totalReviews": 774,
     "histogram": {
-      "1": 292,
-      "2": 61,
-      "3": 42,
+      "1": 300,
+      "2": 62,
+      "3": 41,
       "4": 49,
       "5": 322
     }
   },
   "reviews": [
+    {
+      "id": "13691879873",
+      "userName": "evg.tom",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id100835651",
+      "version": "3.6.0",
+      "score": 1,
+      "title": "Worst service and no customer orientation",
+      "text": "I have been using Vodafone for 6 years and service has been getting worse every year. They even blocked my service for one day payment overdue without trying to remind.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-29T22:53:06-07:00",
+      "textNormalized": "i have been using vodafone for 6 years and service has been getting worse every year. they even blocked my service for one day payment overdue without trying to remind.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13691762330",
+      "userName": "Smrček 123￼",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id729428537",
+      "version": "3.6.0",
+      "score": 2,
+      "title": "Chybí tlačítko krok zpět!",
+      "text": "Chybí tlačítko krok zpět! Například v obchodě dost chybí.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-29T21:57:53-07:00",
+      "textNormalized": "chybi tlacitko krok zpet! napriklad v obchode dost chybi.",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13690448301",
+      "userName": "srigi.dev",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id187670669",
+      "version": "3.6.0",
+      "score": 1,
+      "title": "F",
+      "text": "Nepřehledná, má složitou navigaci a na prvním místě ukazuje výrazné jméno uživatele, reklamy a marketingové akce, zatímco služby na telefonním čísle jsou až na druhé koleji.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-29T12:51:25-07:00",
+      "textNormalized": "neprehledna, ma slozitou navigaci a na prvnim miste ukazuje vyrazne jmeno uzivatele, reklamy a marketingove akce, zatimco sluzby na telefonnim cisle jsou az na druhe koleji.",
+      "segments": [
+        "UI"
+      ]
+    },
     {
       "id": "13688467479",
       "userName": "michalkis",
@@ -2122,8 +2167,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 133,
-    "extractedAt": "2026-01-31T06:04:51.036Z",
+    "totalReviewsExtracted": 136,
+    "extractedAt": "2026-02-01T07:26:43.811Z",
     "source": "app-store"
   }
 }
