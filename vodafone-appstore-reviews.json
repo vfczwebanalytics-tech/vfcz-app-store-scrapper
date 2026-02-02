@@ -1,17 +1,96 @@
 {
   "ratings": {
-    "score": 3.04005,
-    "totalRatings": 774,
-    "totalReviews": 774,
+    "score": 3.0281,
+    "totalRatings": 783,
+    "totalReviews": 783,
     "histogram": {
-      "1": 300,
-      "2": 62,
-      "3": 41,
-      "4": 49,
+      "1": 305,
+      "2": 63,
+      "3": 42,
+      "4": 51,
       "5": 322
     }
   },
   "reviews": [
+    {
+      "id": "13697937488",
+      "userName": "Rahat032",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id556724765",
+      "version": "3.6.1",
+      "score": 1,
+      "title": "Always asking for updates",
+      "text": "Whenever you login it asked for an update \nIt feel likes they are doing updates every day.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-31T10:55:48-07:00",
+      "textNormalized": "whenever you login it asked for an update \nit feel likes they are doing updates every day.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13694293332",
+      "userName": "kokojana",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id617494748",
+      "version": "3.6.1",
+      "score": 1,
+      "title": "Komplikovaněji to nejde 🙄",
+      "text": "Zadávání hesla, které musí obsahovat i symbol a nesmí být stejně jako to minulé, jako kdybychom se přihlašovali do ČNB. Vytáčí mě do běla, nenám-li být vulgární.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-30T12:55:02-07:00",
+      "textNormalized": "zadavani hesla, ktere musi obsahovat i symbol a nesmi byt stejne jako to minule, jako kdybychom se prihlasovali do cnb. vytaci me do bela, nenam-li byt vulgarni.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13694234112",
+      "userName": "Daniel83@N",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1885362949",
+      "version": "3.6.1",
+      "score": 1,
+      "title": "Nepřehledná a pomalá aplikace",
+      "text": "Aplikace vůbec není přehledná. Vždy dlouho hledám věci, které potřebuji. Těžko se dostávám do menu, kde bych viděl, kolik minut mi zbývá a kdy mi vyprší aktivované balíčky. Aplikace je navíc dost pomalá a data se načítají velmi dlouho",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-30T12:32:55-07:00",
+      "textNormalized": "aplikace vubec neni prehledna. vzdy dlouho hledam veci, ktere potrebuji. tezko se dostavam do menu, kde bych videl, kolik minut mi zbyva a kdy mi vyprsi aktivovane balicky. aplikace je navic dost pomala a data se nacitaji velmi dlouho",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13694167749",
+      "userName": "ar-jan",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id926995884",
+      "version": "3.6.1",
+      "score": 2,
+      "title": "Lepší než původní, ale",
+      "text": "Aktualizace 30.1.2026\n\nV aplikaci se po dnešní aktualizaci opět objevili již dávno přečtené zprávy a vypadají opět nepřečteně.\nJe to celkem otravné a už mě nebaví u každé služby pod přihlášením mazat několik zpráv!!!\n\nV aplikaci nelze stáhnout podrobné vyúčtování. Opět jen na webu!!!\n\nKrom výše uvedeného Zatím vypadá lépe než ta původní.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-30T12:08:38-07:00",
+      "textNormalized": "aktualizace 30.1.2026\n\nv aplikaci se po dnesni aktualizaci opet objevili jiz davno prectene zpravy a vypadaji opet neprectene.\nje to celkem otravne a uz me nebavi u kazde sluzby pod prihlasenim mazat nekolik zprav!!!\n\nv aplikaci nelze stahnout podrobne vyuctovani. opet jen na webu!!!\n\nkrom vyse uvedeneho zatim vypada lepe nez ta puvodni.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13693209538",
+      "userName": "moralles",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id134647549",
+      "version": "3.6.0",
+      "score": 1,
+      "title": "Znova prihlaseni :-(",
+      "text": "Nova apka takze musim vyplnovat heslo ktere samozrejme nevim. Poslat atd..velmi obtezujici use case",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-01-30T07:02:25-07:00",
+      "textNormalized": "nova apka takze musim vyplnovat heslo ktere samozrejme nevim. poslat atd..velmi obtezujici use case",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "13691879873",
       "userName": "evg.tom",
@@ -2167,8 +2246,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 136,
-    "extractedAt": "2026-02-01T07:26:43.811Z",
+    "totalReviewsExtracted": 141,
+    "extractedAt": "2026-02-02T07:55:53.259Z",
     "source": "app-store"
   }
 }
