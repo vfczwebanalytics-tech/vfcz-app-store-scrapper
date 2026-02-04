@@ -1,17 +1,109 @@
 {
   "ratings": {
-    "score": 3.0281,
-    "totalRatings": 783,
-    "totalReviews": 783,
+    "score": 3.00504,
+    "totalRatings": 794,
+    "totalReviews": 794,
     "histogram": {
-      "1": 305,
+      "1": 315,
       "2": 63,
       "3": 42,
       "4": 51,
-      "5": 322
+      "5": 323
     }
   },
   "reviews": [
+    {
+      "id": "13704580621",
+      "userName": "whatthehellriot",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1064163765",
+      "version": "3.6.1",
+      "score": 1,
+      "title": "Dalsi trash",
+      "text": "Jako musi byt kazdy druhy den update??? Jednou 4MB podruhy 140 kB? Si delate snad srandu, jeste me to pokazdy odhlasi. Vas IT team je uplne mimo, jak minula appka, tak i tato",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-02T05:16:28-07:00",
+      "textNormalized": "jako musi byt kazdy druhy den update??? jednou 4mb podruhy 140 kb? si delate snad srandu, jeste me to pokazdy odhlasi. vas it team je uplne mimo, jak minula appka, tak i tato",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13703909473",
+      "userName": "UzivatelM2026",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1655312687",
+      "version": "3.6.1",
+      "score": 1,
+      "title": "Chybí optimalizace pro tablet",
+      "text": "Nepoužitelné na tabletu. Proč mám s Vodafone vždy pocit že znovu objevuji hořkost minulosti?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-02T00:43:11-07:00",
+      "textNormalized": "nepouzitelne na tabletu. proc mam s vodafone vzdy pocit ze znovu objevuji horkost minulosti?",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13703777237",
+      "userName": "HONSOL",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id548761760",
+      "version": "3.6.1",
+      "score": 1,
+      "title": "Hrůza",
+      "text": "Tahle app se fakt nepovedla. Jakmile mate pod sebou více účtu, prakticky není možné rozklíčovat které uživatelské číslo patří pod příslušné telefonní číslo.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-01T23:38:26-07:00",
+      "textNormalized": "tahle app se fakt nepovedla. jakmile mate pod sebou vice uctu, prakticky neni mozne rozklicovat ktere uzivatelske cislo patri pod prislusne telefonni cislo.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13702466923",
+      "userName": "Jaymz1495",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1593069192",
+      "version": "3.6.1",
+      "score": 1,
+      "title": "Nepoužitelná!",
+      "text": "Pomalá, nefunkční, nepoužitelná\n\nVěčně mě odhlašuje\n\nU nás by někdo za tuhle parodii na aplikaci dostal padáka. Ještě horší jak předchozí aplikace.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-01T14:02:31-07:00",
+      "textNormalized": "pomala, nefunkcni, nepouzitelna\n\nvecne me odhlasuje\n\nu nas by nekdo za tuhle parodii na aplikaci dostal padaka. jeste horsi jak predchozi aplikace.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13701200023",
+      "userName": "Prdko Mrdka",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1476493400",
+      "version": "3.6.1",
+      "score": 5,
+      "title": "Wae",
+      "text": "Wau",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-01T07:16:08-07:00",
+      "textNormalized": "wau",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13700265723",
+      "userName": "BloodyPopUpAds!",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id161325576",
+      "version": "3.6.1",
+      "score": 1,
+      "title": "Nelze restartovat router",
+      "text": "Oproti předchozí appce tady nezle ani restartovat na dálku router. Tomu říkám upgrade ve stylu \"je to dál, zato horší cesta!\"",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-01T02:10:30-07:00",
+      "textNormalized": "oproti predchozi appce tady nezle ani restartovat na dalku router. tomu rikam upgrade ve stylu \"je to dal, zato horsi cesta!\"",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "13697937488",
       "userName": "Rahat032",
@@ -2246,8 +2338,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 141,
-    "extractedAt": "2026-02-03T07:32:29.401Z",
+    "totalReviewsExtracted": 147,
+    "extractedAt": "2026-02-04T07:34:43.395Z",
     "source": "app-store"
   }
 }
