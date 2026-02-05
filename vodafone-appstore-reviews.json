@@ -1,17 +1,110 @@
 {
   "ratings": {
-    "score": 3.00504,
-    "totalRatings": 794,
-    "totalReviews": 794,
+    "score": 2.98526,
+    "totalRatings": 814,
+    "totalReviews": 814,
     "histogram": {
-      "1": 315,
-      "2": 63,
+      "1": 327,
+      "2": 65,
       "3": 42,
-      "4": 51,
-      "5": 323
+      "4": 53,
+      "5": 327
     }
   },
   "reviews": [
+    {
+      "id": "13708440719",
+      "userName": "zcela – servis",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id402720920",
+      "version": "3.6.2",
+      "score": 1,
+      "title": "Hlavní vedoucí všech vývojářů je kretén",
+      "text": "Pustit mezi lidi takovouhle nedotaženou apku je ten největší průser co jste mohli udělat 3 aktualizace během čtyřiadvaceti hodin polovina věcí nefunkčních spousta zbytečných fikci.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-03T06:23:56-07:00",
+      "textNormalized": "pustit mezi lidi takovouhle nedotazenou apku je ten nejvetsi pruser co jste mohli udelat 3 aktualizace behem ctyriadvaceti hodin polovina veci nefunkcnich spousta zbytecnych fikci.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13708392291",
+      "userName": "hahahandula",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1214287706",
+      "version": "3.6.2",
+      "score": 1,
+      "title": "Bad everything",
+      "text": "Updates all the time. Even though I saved my initials (not just once!!!) they want me to put them all over again after every update. The app is the same as the previous one overall, easy to use and so on, but the infinite updates make it very user-unfriendly!!!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-03T06:08:40-07:00",
+      "textNormalized": "updates all the time. even though i saved my initials (not just once!!!) they want me to put them all over again after every update. the app is the same as the previous one overall, easy to use and so on, but the infinite updates make it very user-unfriendly!!!",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13707846765",
+      "userName": "Franta Cihla",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id550480330",
+      "version": "3.6.2",
+      "score": 1,
+      "title": "Nic nechci",
+      "text": "Může mi vaše call centrum přestat volat s nesmyslnejma nabídkama? Až něco budu chtít, ozvu se.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-03T02:55:25-07:00",
+      "textNormalized": "muze mi vase call centrum prestat volat s nesmyslnejma nabidkama? az neco budu chtit, ozvu se.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13707690930",
+      "userName": "oslikus",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id449682451",
+      "version": "3.6.1",
+      "score": 1,
+      "title": "ach jo",
+      "text": "ještě horší než ta minulá. Kromě faktu, že uživatelé nestojí o nové aplikace ani o jejich aktualizace je největším problémem to, že slouží zejména k reklamním a k praktickým informacím je nutno se proklikávat. Po každé aktualizaci nutno vše znovu nastavovat, zadávat heslo a face id. A pokud jej nastavím, nefunguje kvůli povolení systému, objeví se hláška ups něco se nepovedlo, místo upozornění na nastavení systému.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-03T01:45:37-07:00",
+      "textNormalized": "jeste horsi nez ta minula. krome faktu, ze uzivatele nestoji o nove aplikace ani o jejich aktualizace je nejvetsim problemem to, ze slouzi zejmena k reklamnim a k praktickym informacim je nutno se proklikavat. po kazde aktualizaci nutno vse znovu nastavovat, zadavat heslo a face id. a pokud jej nastavim, nefunguje kvuli povoleni systemu, objevi se hlaska ups neco se nepovedlo, misto upozorneni na nastaveni systemu.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13707516414",
+      "userName": "Rhino1488",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id540024777",
+      "version": "3.6.2",
+      "score": 1,
+      "title": "10x do měsíce aktualizuju tuhle p0stranou aplikaci!",
+      "text": "Tahle aplikace je ještě horší než ta před tím!! Abych 10x do měsíce musel tuhle nemožnou aplikací aktualizovat uz je trochu moc!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-03T00:21:09-07:00",
+      "textNormalized": "tahle aplikace je jeste horsi nez ta pred tim!! abych 10x do mesice musel tuhle nemoznou aplikaci aktualizovat uz je trochu moc!",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13707448523",
+      "userName": "lightheir",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1034497145",
+      "version": "3.6.2",
+      "score": 1,
+      "title": "Не работает без обновлений",
+      "text": "Требует для входа последнюю версию",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-02T23:47:29-07:00",
+      "textNormalized": "требует для входа последнюю версию",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "13704580621",
       "userName": "whatthehellriot",
@@ -2338,8 +2431,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 147,
-    "extractedAt": "2026-02-04T07:34:43.395Z",
+    "totalReviewsExtracted": 153,
+    "extractedAt": "2026-02-05T07:54:50.012Z",
     "source": "app-store"
   }
 }
