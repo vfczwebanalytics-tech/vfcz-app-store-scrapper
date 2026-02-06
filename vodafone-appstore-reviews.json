@@ -1,17 +1,140 @@
 {
   "ratings": {
-    "score": 2.98526,
-    "totalRatings": 814,
-    "totalReviews": 814,
+    "score": 2.95107,
+    "totalRatings": 838,
+    "totalReviews": 838,
     "histogram": {
-      "1": 327,
-      "2": 65,
+      "1": 342,
+      "2": 70,
       "3": 42,
-      "4": 53,
-      "5": 327
+      "4": 55,
+      "5": 329
     }
   },
   "reviews": [
+    {
+      "id": "13711763431",
+      "userName": "ipad292774777",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1361775554",
+      "version": "3.6.2",
+      "score": 2,
+      "title": "Nová je horší",
+      "text": "Seká se, dlouho se načítá, bez dat nejdou zapnout data",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-04T04:43:07-07:00",
+      "textNormalized": "seka se, dlouho se nacita, bez dat nejdou zapnout data",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "13711394561",
+      "userName": "Taipeiman123",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1316863695",
+      "version": "3.6.2",
+      "score": 1,
+      "title": "Funkčnost",
+      "text": "Tragická aplikace. Neustále se musí provádět aktualizace a nefunguje vůbec platba.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-04T02:19:27-07:00",
+      "textNormalized": "tragicka aplikace. neustale se musi provadet aktualizace a nefunguje vubec platba.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13710858782",
+      "userName": "jdetedohaje",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1042760924",
+      "version": "3.6.2",
+      "score": 2,
+      "title": "Výborně",
+      "text": "Po skoro půlroce vydání jde přes aplikaci platit",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-03T21:58:29-07:00",
+      "textNormalized": "po skoro pulroce vydani jde pres aplikaci platit",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13710830468",
+      "userName": "Tullkun",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1510690080",
+      "version": "3.6.2",
+      "score": 2,
+      "title": "Problémy s aktualizacemi",
+      "text": "Zlatá stará aplikace, ta byla stabilní a aktualizovala se sama. Tohle musí člověk neustále aktualizovat ručně přes AppStore.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-03T21:44:17-07:00",
+      "textNormalized": "zlata stara aplikace, ta byla stabilni a aktualizovala se sama. tohle musi clovek neustale aktualizovat rucne pres appstore.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13710177506",
+      "userName": "Hulske420",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1266323672",
+      "version": "3.6.2",
+      "score": 1,
+      "title": "Horrible",
+      "text": "Nothing works, horrible can’t even pay. Old app was at least useable.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-03T16:57:39-07:00",
+      "textNormalized": "nothing works, horrible can’t even pay. old app was at least useable.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13709552541",
+      "userName": "13sklamamy",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1576845100",
+      "version": "3.6.2",
+      "score": 1,
+      "title": "Porad aktualizace",
+      "text": "Kolikrat to budete aktualizovat? Jste uz normalni?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-03T12:41:29-07:00",
+      "textNormalized": "kolikrat to budete aktualizovat? jste uz normalni?",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13709418476",
+      "userName": "KirammanGirl",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1809827841",
+      "version": "3.6.2",
+      "score": 2,
+      "title": "Mohlo by to být lepší",
+      "text": "Appka je dost pomalá, nepřehledná.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-03T11:50:59-07:00",
+      "textNormalized": "appka je dost pomala, neprehledna.",
+      "segments": [
+        "Vykonnost",
+        "UI"
+      ]
+    },
+    {
+      "id": "13709100638",
+      "userName": "Hulahula11",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id400944397",
+      "version": "3.6.2",
+      "score": 1,
+      "title": "Force update",
+      "text": "Nutit uzivatele do force updatu aka “je dostupna nova verze aplikace” je naprosto priserna vec.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-03T09:57:48-07:00",
+      "textNormalized": "nutit uzivatele do force updatu aka “je dostupna nova verze aplikace” je naprosto priserna vec.",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "13708440719",
       "userName": "zcela – servis",
@@ -2431,8 +2554,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 153,
-    "extractedAt": "2026-02-05T07:54:50.012Z",
+    "totalReviewsExtracted": 161,
+    "extractedAt": "2026-02-06T07:37:15.293Z",
     "source": "app-store"
   }
 }
