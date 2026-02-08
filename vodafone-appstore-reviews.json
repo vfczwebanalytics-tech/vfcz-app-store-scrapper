@@ -1,17 +1,47 @@
 {
   "ratings": {
-    "score": 2.95107,
-    "totalRatings": 838,
-    "totalReviews": 838,
+    "score": 2.93059,
+    "totalRatings": 850,
+    "totalReviews": 850,
     "histogram": {
-      "1": 342,
-      "2": 70,
+      "1": 351,
+      "2": 72,
       "3": 42,
       "4": 55,
-      "5": 329
+      "5": 330
     }
   },
   "reviews": [
+    {
+      "id": "13715866250",
+      "userName": "Neudomqnfíćwnsh",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1884005059",
+      "version": "3.6.2",
+      "score": 1,
+      "title": "UX noční můra",
+      "text": "Jako sorry, ale vyúčtování jsou tak nepřehledný, že to musel programovat retardovanej orangutan. Snad jste pyšný na hodnocení 3,0, vopice plantážnický neschopný.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-05T06:50:50-07:00",
+      "textNormalized": "jako sorry, ale vyuctovani jsou tak neprehledny, ze to musel programovat retardovanej orangutan. snad jste pysny na hodnoceni 3,0, vopice plantaznicky neschopny.",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13715039090",
+      "userName": "andew34",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id734351579",
+      "version": "3.6.2",
+      "score": 1,
+      "title": "Worst operator",
+      "text": "The worst operator and application that I used.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-05T02:00:39-07:00",
+      "textNormalized": "the worst operator and application that i used.",
+      "segments": [
+        "Zakaznicka_podpora"
+      ]
+    },
     {
       "id": "13711763431",
       "userName": "ipad292774777",
@@ -2554,8 +2584,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 161,
-    "extractedAt": "2026-02-07T07:10:15.706Z",
+    "totalReviewsExtracted": 163,
+    "extractedAt": "2026-02-08T07:28:21.836Z",
     "source": "app-store"
   }
 }
