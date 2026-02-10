@@ -1,17 +1,95 @@
 {
   "ratings": {
-    "score": 2.93168,
-    "totalRatings": 849,
-    "totalReviews": 849,
+    "score": 2.91294,
+    "totalRatings": 873,
+    "totalReviews": 873,
     "histogram": {
-      "1": 351,
-      "2": 71,
-      "3": 42,
-      "4": 55,
-      "5": 330
+      "1": 364,
+      "2": 74,
+      "3": 44,
+      "4": 56,
+      "5": 335
     }
   },
   "reviews": [
+    {
+      "id": "13727995888",
+      "userName": "kat is",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id558262432",
+      "version": "3.6.3",
+      "score": 3,
+      "title": "Forced Updates",
+      "text": "Please stop forcing the updates. If I like it buggy, let me use it that way, until a I’m back on wifi and actually want to update. It’s infuriating. Thank you.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-08T11:46:35-07:00",
+      "textNormalized": "please stop forcing the updates. if i like it buggy, let me use it that way, until a i’m back on wifi and actually want to update. it’s infuriating. thank you.",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13726515326",
+      "userName": "panproty",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1243610795",
+      "version": "3.6.3",
+      "score": 1,
+      "title": "přihlašování",
+      "text": "nechapu, proc mne aplikace neustále odhlasuje a vypíná biometrické přihlášení, vzdyt takto otravná neni aplikace banky, investiční appka apod. - HROZNÉ a v předchozí verzi to bylo stejne, nechapu…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-08T03:55:24-07:00",
+      "textNormalized": "nechapu, proc mne aplikace neustale odhlasuje a vypina biometricke prihlaseni, vzdyt takto otravna neni aplikace banky, investicni appka apod. - hrozne a v predchozi verzi to bylo stejne, nechapu…",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13726086527",
+      "userName": "Radikální",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1080873417",
+      "version": "3.6.3",
+      "score": 1,
+      "title": "App",
+      "text": "Jedna hvězdička je moc, stejně na nic jako aplikace Vodafone tv ❤️",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-08T00:56:55-07:00",
+      "textNormalized": "jedna hvezdicka je moc, stejne na nic jako aplikace vodafone tv ❤️",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13724236620",
+      "userName": "ar-jan",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id926995884",
+      "version": "3.6.3",
+      "score": 2,
+      "title": "Lepší než původní, ale",
+      "text": "Aktualizace 7.2.2026\n\npo dnešní aktualizaci se opět objevuji již dávno přečtené zprávy a vypadají opět nepřečteně.\nJe opravdu otravné a už mě nebaví u každé služby pod přihlášením mazat několik zpráv!!!\n\nV aplikaci nelze stáhnout podrobné vyúčtování. Opět jen na webu!!!\n\nKrom výše uvedeného Zatím vypadá lépe než ta původní.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-07T11:55:53-07:00",
+      "textNormalized": "aktualizace 7.2.2026\n\npo dnesni aktualizaci se opet objevuji jiz davno prectene zpravy a vypadaji opet neprectene.\nje opravdu otravne a uz me nebavi u kazde sluzby pod prihlasenim mazat nekolik zprav!!!\n\nv aplikaci nelze stahnout podrobne vyuctovani. opet jen na webu!!!\n\nkrom vyse uvedeneho zatim vypada lepe nez ta puvodni.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13723786085",
+      "userName": "nna_",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id430757133",
+      "version": "3.6.3",
+      "score": 1,
+      "title": "I wish I didn’t have to use it",
+      "text": "Horrible app. Keeps logging you off, forces you to update manually, asks for too many permissions (why should I give access to my contacts just to see my spending?).",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-07T09:26:44-07:00",
+      "textNormalized": "horrible app. keeps logging you off, forces you to update manually, asks for too many permissions (why should i give access to my contacts just to see my spending?).",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "13715866250",
       "userName": "Neudomqnfíćwnsh",
@@ -2584,8 +2662,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 163,
-    "extractedAt": "2026-02-09T08:02:32.743Z",
+    "totalReviewsExtracted": 168,
+    "extractedAt": "2026-02-10T08:05:10.257Z",
     "source": "app-store"
   }
 }
