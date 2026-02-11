@@ -1,17 +1,47 @@
 {
   "ratings": {
     "score": 2.91294,
-    "totalRatings": 873,
+    "totalRatings": 878,
     "totalReviews": 873,
     "histogram": {
-      "1": 364,
+      "1": 368,
       "2": 74,
       "3": 44,
       "4": 56,
-      "5": 335
+      "5": 336
     }
   },
   "reviews": [
+    {
+      "id": "13729805681",
+      "userName": "Strixatko",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1224461021",
+      "version": "3.6.3",
+      "score": 1,
+      "title": "Chjo",
+      "text": "Boha jeho, kdyz uz nutite lidem aktualizace kazdy tyden, tak at si aspon apka pamatuje prihlasovaci udaje. Ja si nepamatuju, kdy bych do nejake apky musel po aktualizaci zadavat znovu login a heslo, u vas je to kazdy tyden.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-09T01:00:21-07:00",
+      "textNormalized": "boha jeho, kdyz uz nutite lidem aktualizace kazdy tyden, tak at si aspon apka pamatuje prihlasovaci udaje. ja si nepamatuju, kdy bych do nejake apky musel po aktualizaci zadavat znovu login a heslo, u vas je to kazdy tyden.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13729223686",
+      "userName": "Tomas heck",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1215778862",
+      "version": "3.6.3",
+      "score": 1,
+      "title": "SVK",
+      "text": "The new Vodafone application doesn’t open.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-08T20:07:33-07:00",
+      "textNormalized": "the new vodafone application doesn’t open.",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "13727995888",
       "userName": "kat is",
@@ -2662,8 +2692,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 168,
-    "extractedAt": "2026-02-10T08:05:10.257Z",
+    "totalReviewsExtracted": 170,
+    "extractedAt": "2026-02-11T08:00:34.264Z",
     "source": "app-store"
   }
 }
