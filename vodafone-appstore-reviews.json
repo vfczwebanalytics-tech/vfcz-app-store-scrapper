@@ -1,17 +1,110 @@
 {
   "ratings": {
-    "score": 2.91294,
-    "totalRatings": 878,
-    "totalReviews": 873,
+    "score": 2.88591,
+    "totalRatings": 894,
+    "totalReviews": 894,
     "histogram": {
-      "1": 368,
-      "2": 74,
-      "3": 44,
+      "1": 376,
+      "2": 80,
+      "3": 45,
       "4": 56,
-      "5": 336
+      "5": 337
     }
   },
   "reviews": [
+    {
+      "id": "13735668244",
+      "userName": "the,,angriest,,woman",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1889535067",
+      "version": "3.6.3",
+      "score": 1,
+      "title": "QR code?",
+      "text": "where is QR code???😡",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-10T15:27:48-07:00",
+      "textNormalized": "where is qr code???😡",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13734214579",
+      "userName": "Máky",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1733689202",
+      "version": "3.6.3",
+      "score": 1,
+      "title": "Nevyhovuje",
+      "text": "Aplikace vyžaduje časté aktualizace, doslova při každém otevření aplikace. Za poslední měsíc to byly 3 aktualizace. Hrozný.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-10T06:32:26-07:00",
+      "textNormalized": "aplikace vyzaduje caste aktualizace, doslova pri kazdem otevreni aplikace. za posledni mesic to byly 3 aktualizace. hrozny.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13733724376",
+      "userName": "Hrabě",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1215608487",
+      "version": "3.6.3",
+      "score": 2,
+      "title": "Prosím dejte to do pořádku",
+      "text": "Stále se mi zobrazuje sekundární číslo na prvním místě i když mám nastavené primární jako první! \nV sekci měření rychlosti nejde mazat historie měření!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-10T03:43:09-07:00",
+      "textNormalized": "stale se mi zobrazuje sekundarni cislo na prvnim miste i kdyz mam nastavene primarni jako prvni! \nv sekci mereni rychlosti nejde mazat historie mereni!",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13733275904",
+      "userName": "2-yearplayer",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id169525969",
+      "version": "3.6.3",
+      "score": 1,
+      "title": "Aktualizace",
+      "text": "Dost často se musí aktualizovat",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-10T00:18:26-07:00",
+      "textNormalized": "dost casto se musi aktualizovat",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13732092475",
+      "userName": "Dr.Xtreme",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1061158396",
+      "version": "3.6.3",
+      "score": 2,
+      "title": "Log-in",
+      "text": "I am not able to log in",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-09T15:17:41-07:00",
+      "textNormalized": "i am not able to log in",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13730440876",
+      "userName": "MTS666",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id944344956",
+      "version": "3.6.3",
+      "score": 2,
+      "title": "Vodafone mínus",
+      "text": "Apku otevru tak jednou týdně, vždy chce aktualizaci, ted jeste nezvlada bio-přihlášení, nepřehledný,…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-09T05:22:33-07:00",
+      "textNormalized": "apku otevru tak jednou tydne, vzdy chce aktualizaci, ted jeste nezvlada bio-prihlaseni, neprehledny,…",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "13729805681",
       "userName": "Strixatko",
@@ -2692,8 +2785,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 170,
-    "extractedAt": "2026-02-11T08:00:34.264Z",
+    "totalReviewsExtracted": 176,
+    "extractedAt": "2026-02-12T07:57:49.178Z",
     "source": "app-store"
   }
 }
