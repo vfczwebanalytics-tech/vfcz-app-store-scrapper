@@ -1,17 +1,50 @@
 {
   "ratings": {
-    "score": 2.82289,
-    "totalRatings": 926,
-    "totalReviews": 926,
+    "score": 2.81935,
+    "totalRatings": 930,
+    "totalReviews": 930,
     "histogram": {
-      "1": 404,
-      "2": 85,
+      "1": 405,
+      "2": 88,
       "3": 45,
-      "4": 55,
-      "5": 337
+      "4": 54,
+      "5": 338
     }
   },
   "reviews": [
+    {
+      "id": "13749831393",
+      "userName": "xoDBxo",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id42243691",
+      "version": "3.7.0",
+      "score": 2,
+      "title": "Řazení čísel pokaždé jinak",
+      "text": "Po každé aktualizaci mi jinak řadíte čísla, todle už mě nebaví! Od teď začínám používat webovou samoobsluhu, ta ještě trochu alespoň funguje!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-14T14:44:48-07:00",
+      "textNormalized": "po kazde aktualizaci mi jinak radite cisla, todle uz me nebavi! od ted zacinam pouzivat webovou samoobsluhu, ta jeste trochu alespon funguje!",
+      "segments": [
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13747485501",
+      "userName": "Rohy64",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id352880060",
+      "version": "3.7.0",
+      "score": 1,
+      "title": "Nová aplikace horší, než původní",
+      "text": "Po přechodu na novou verzi aplikace naprostá katastrofa. Opakovaně hlásí chyby při login. Uživatelsky naprosto špatně. Začínám uvažovat o změně operátora. Nedostanu se k přehledu, atd. Tohle se vážně nepovedlo.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-14T00:38:09-07:00",
+      "textNormalized": "po prechodu na novou verzi aplikace naprosta katastrofa. opakovane hlasi chyby pri login. uzivatelsky naprosto spatne. zacinam uvazovat o zmene operatora. nedostanu se k prehledu, atd. tohle se vazne nepovedlo.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora"
+      ]
+    },
     {
       "id": "13745573344",
       "userName": "_PaRa_",
@@ -3150,8 +3183,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 198,
-    "extractedAt": "2026-02-15T06:00:54.843Z",
+    "totalReviewsExtracted": 200,
+    "extractedAt": "2026-02-16T06:09:30.528Z",
     "source": "app-store"
   }
 }
