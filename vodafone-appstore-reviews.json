@@ -1,17 +1,35 @@
 {
   "ratings": {
-    "score": 2.81935,
-    "totalRatings": 930,
-    "totalReviews": 930,
+    "score": 2.82265,
+    "totalRatings": 936,
+    "totalReviews": 936,
     "histogram": {
-      "1": 405,
+      "1": 407,
       "2": 88,
-      "3": 45,
+      "3": 46,
       "4": 54,
-      "5": 338
+      "5": 341
     }
   },
   "reviews": [
+    {
+      "id": "13751077863",
+      "userName": "pajan76",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id528850227",
+      "version": "3.7.0",
+      "score": 3,
+      "title": "Platby",
+      "text": "U mobilního operátora je nezvyklá nemožnost hradit vyúčtování pomocí  pay nebo i konkurenční platformy z prostředí Android.Vzbuzuje to ve mně pocit, že společnosti nejde o komfort zákazníků ale jen o “má dati-dal”.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-15T00:15:17-07:00",
+      "textNormalized": "u mobilniho operatora je nezvykla nemoznost hradit vyuctovani pomoci  pay nebo i konkurencni platformy z prostredi android.vzbuzuje to ve mne pocit, ze spolecnosti nejde o komfort zakazniku ale jen o “ma dati-dal”.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13749831393",
       "userName": "xoDBxo",
@@ -3183,8 +3201,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 200,
-    "extractedAt": "2026-02-16T06:09:30.528Z",
+    "totalReviewsExtracted": 201,
+    "extractedAt": "2026-02-17T06:01:54.722Z",
     "source": "app-store"
   }
 }
