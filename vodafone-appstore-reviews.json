@@ -1,17 +1,112 @@
 {
   "ratings": {
-    "score": 2.83508,
-    "totalRatings": 952,
-    "totalReviews": 952,
+    "score": 2.82694,
+    "totalRatings": 965,
+    "totalReviews": 965,
     "histogram": {
-      "1": 412,
-      "2": 88,
+      "1": 420,
+      "2": 89,
       "3": 47,
-      "4": 55,
-      "5": 350
+      "4": 56,
+      "5": 353
     }
   },
   "reviews": [
+    {
+      "id": "13757056768",
+      "userName": "Fribik",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id388033866",
+      "version": "3.7.1",
+      "score": 1,
+      "title": "Tmavá ikona",
+      "text": "Dobry den,\nPřidáte kdyz v iOS je zaply tmavý režim aby se ikonka přepla do tmave? Nyní je sice tmavá ale v dark mode jsou ty pozadí lehce světlejší jak u ostatních aplikací.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-16T14:45:21-07:00",
+      "textNormalized": "dobry den,\npridate kdyz v ios je zaply tmavy rezim aby se ikonka prepla do tmave? nyni je sice tmava ale v dark mode jsou ty pozadi lehce svetlejsi jak u ostatnich aplikaci.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13756681787",
+      "userName": "B737 NG",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id87737312",
+      "version": "3.7.1",
+      "score": 2,
+      "title": "Bizár",
+      "text": "Jestli je něco bizár, tak jsou to aplikace mobilních operátorů. Je to neuvěritelně pomalý, prakticky pořád něco hledám...",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-16T12:12:57-07:00",
+      "textNormalized": "jestli je neco bizar, tak jsou to aplikace mobilnich operatoru. je to neuveritelne pomaly, prakticky porad neco hledam...",
+      "segments": [
+        "Vykonnost",
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "13755602042",
+      "userName": "Aleskin75",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id445433942",
+      "version": "3.7.0",
+      "score": 1,
+      "title": "Nefunkční",
+      "text": "Po prohlášení nelze nikam proklikat. Naprosto nefunkční.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-16T06:24:02-07:00",
+      "textNormalized": "po prohlaseni nelze nikam proklikat. naprosto nefunkcni.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13755074164",
+      "userName": "Laku.cz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id218975684",
+      "version": "3.7.0",
+      "score": 3,
+      "title": "Velmi mnoho funkčních nedostatků",
+      "text": "V aplikaci toho poměrně dost nefunguje. Například při výpadku internetu je zobrazen banner na zrychlení mobilních dat, který vede na špatný odkaz. Vodafone Happy startuje cca 6 vteřin a proběhnou cestou 4 různé formy leadingu / přebliknuti různých forem UI. To, že jste ukončili podporu aplikace SMSkou a delistovali ji z AppStpre ještě neznamená, že nezůstává nainstalovaná v zařízeních zákazníků. Je to velmi zmatečný stav. Dělejte s tím něco, je to velká ostuda.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-16T03:17:37-07:00",
+      "textNormalized": "v aplikaci toho pomerne dost nefunguje. napriklad pri vypadku internetu je zobrazen banner na zrychleni mobilnich dat, ktery vede na spatny odkaz. vodafone happy startuje cca 6 vterin a probehnou cestou 4 ruzne formy leadingu / prebliknuti ruznych forem ui. to, ze jste ukoncili podporu aplikace smskou a delistovali ji z appstpre jeste neznamena, ze nezustava nainstalovana v zarizenich zakazniku. je to velmi zmatecny stav. delejte s tim neco, je to velka ostuda.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13754656016",
+      "userName": "CapricaCZ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1176502568",
+      "version": "3.7.0",
+      "score": 1,
+      "title": "Nefunguje",
+      "text": "Nelze se ani prihlasit",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-16T00:01:54-07:00",
+      "textNormalized": "nelze se ani prihlasit",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13753904457",
+      "userName": "kvuvifivk. j",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id994380130",
+      "version": "3.7.0",
+      "score": 1,
+      "title": "Nepoužitelné",
+      "text": "Dalsi sr*cka z dílny tohohle rudyho operatora. Předchozí appka fungovala aspon obcas! Naprosto k ničemu!!!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-15T18:05:32-07:00",
+      "textNormalized": "dalsi sr*cka z dilny tohohle rudyho operatora. predchozi appka fungovala aspon obcas! naprosto k nicemu!!!",
+      "segments": [
+        "Zakaznicka_podpora"
+      ]
+    },
     {
       "id": "13751077863",
       "userName": "pajan76",
@@ -3201,8 +3296,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 201,
-    "extractedAt": "2026-02-18T06:05:59.057Z",
+    "totalReviewsExtracted": 207,
+    "extractedAt": "2026-02-19T06:04:24.956Z",
     "source": "app-store"
   }
 }
