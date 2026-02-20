@@ -1,17 +1,64 @@
 {
   "ratings": {
-    "score": 2.82694,
-    "totalRatings": 965,
-    "totalReviews": 965,
+    "score": 2.83522,
+    "totalRatings": 971,
+    "totalReviews": 971,
     "histogram": {
-      "1": 420,
+      "1": 421,
       "2": 89,
       "3": 47,
-      "4": 56,
-      "5": 353
+      "4": 57,
+      "5": 357
     }
   },
   "reviews": [
+    {
+      "id": "13760346920",
+      "userName": "w3ris",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id499812128",
+      "version": "3.7.1",
+      "score": 1,
+      "title": "Not working",
+      "text": "Verifies with Face ID and then crashes..",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-17T13:30:29-07:00",
+      "textNormalized": "verifies with face id and then crashes..",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13759789022",
+      "userName": "Nl uzh",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1442929029",
+      "version": "3.7.1",
+      "score": 1,
+      "title": "Nefunkční aplikace",
+      "text": "Po stáhnutí aplikace,nelze se přihlásit .Aplikace padá jakmile zadám přihlásit .\nDříve jsem se musel nejdřív přihlásit do aplikace můj Vodafone a následně šlo prohlásit do Vodafone +",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-17T09:58:24-07:00",
+      "textNormalized": "po stahnuti aplikace,nelze se prihlasit .aplikace pada jakmile zadam prihlasit .\ndrive jsem se musel nejdriv prihlasit do aplikace muj vodafone a nasledne slo prohlasit do vodafone +",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13758595393",
+      "userName": "kuznikat",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id927010663",
+      "version": "3.7.1",
+      "score": 1,
+      "title": "Updates",
+      "text": "I want to be able to access the application without having to update to the latest version. What if I don't have any memory? What if I have an older phone with older OS ? How can I access the app if I can't skip the update?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-17T02:53:33-07:00",
+      "textNormalized": "i want to be able to access the application without having to update to the latest version. what if i don't have any memory? what if i have an older phone with older os ? how can i access the app if i can't skip the update?",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "13757056768",
       "userName": "Fribik",
@@ -3296,8 +3343,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 207,
-    "extractedAt": "2026-02-19T06:04:24.956Z",
+    "totalReviewsExtracted": 210,
+    "extractedAt": "2026-02-20T06:00:45.785Z",
     "source": "app-store"
   }
 }
