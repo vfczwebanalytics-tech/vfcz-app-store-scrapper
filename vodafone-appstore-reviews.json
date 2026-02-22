@@ -1,17 +1,93 @@
 {
   "ratings": {
-    "score": 2.83522,
-    "totalRatings": 971,
-    "totalReviews": 971,
+    "score": 2.84024,
+    "totalRatings": 989,
+    "totalReviews": 989,
     "histogram": {
-      "1": 421,
-      "2": 89,
-      "3": 47,
-      "4": 57,
-      "5": 357
+      "1": 428,
+      "2": 91,
+      "3": 46,
+      "4": 59,
+      "5": 365
     }
   },
   "reviews": [
+    {
+      "id": "13770545800",
+      "userName": "Jenda.R",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1502511462",
+      "version": "3.7.1",
+      "score": 1,
+      "title": "Kde je výhra?",
+      "text": "Před několika dny jsem na stíracím losu vyhrál slevu na zařízení, měla přijít sms, do dnešního dne ale nic nedorazilo.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-20T10:36:20-07:00",
+      "textNormalized": "pred nekolika dny jsem na stiracim losu vyhral slevu na zarizeni, mela prijit sms, do dnesniho dne ale nic nedorazilo.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13769385114",
+      "userName": "Nhjskj",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1792524045",
+      "version": "3.7.1",
+      "score": 1,
+      "title": "Hruza",
+      "text": "Nejhorsi aplikace co znam.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-20T03:58:31-07:00",
+      "textNormalized": "nejhorsi aplikace co znam.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13765730360",
+      "userName": "DrDawau",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1567175591",
+      "version": "3.7.1",
+      "score": 1,
+      "title": "Vyrazne zhorseni",
+      "text": "Nova aplikace vodafone je vyrazne mene prehledna, nemohu najit funkce, ktere jsem bezne pouzival na stare aplikaci, napriklad vzdalene resetovani modemu bud uplne chybi nebo je pohrbene nekde hluboko v UI.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-19T03:08:23-07:00",
+      "textNormalized": "nova aplikace vodafone je vyrazne mene prehledna, nemohu najit funkce, ktere jsem bezne pouzival na stare aplikaci, napriklad vzdalene resetovani modemu bud uplne chybi nebo je pohrbene nekde hluboko v ui.",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13765661156",
+      "userName": "IvZt",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1235449550",
+      "version": "3.7.1",
+      "score": 1,
+      "title": "I didnt bealieve the app could possibly get slower",
+      "text": "You should pay your dev team extra so they can off load the app on some more competent company",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-19T02:38:54-07:00",
+      "textNormalized": "you should pay your dev team extra so they can off load the app on some more competent company",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13765550003",
+      "userName": "Tucekste",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1654191247",
+      "version": "3.7.1",
+      "score": 2,
+      "title": "Vodafone + nefunguje",
+      "text": "Zdravím, ze staré apky mne to vyhazuje, ale nová skáče do chyby a nepusti mě např do obchodu",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-19T01:48:49-07:00",
+      "textNormalized": "zdravim, ze stare apky mne to vyhazuje, ale nova skace do chyby a nepusti me napr do obchodu",
+      "segments": [
+        "Stabilita"
+      ]
+    },
     {
       "id": "13760346920",
       "userName": "w3ris",
@@ -3343,8 +3419,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 210,
-    "extractedAt": "2026-02-21T05:50:00.297Z",
+    "totalReviewsExtracted": 215,
+    "extractedAt": "2026-02-22T05:57:44.530Z",
     "source": "app-store"
   }
 }
