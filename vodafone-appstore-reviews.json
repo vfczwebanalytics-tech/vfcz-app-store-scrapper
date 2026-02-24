@@ -1,17 +1,64 @@
 {
   "ratings": {
-    "score": 2.84024,
-    "totalRatings": 989,
-    "totalReviews": 989,
+    "score": 2.84152,
+    "totalRatings": 997,
+    "totalReviews": 997,
     "histogram": {
-      "1": 428,
+      "1": 432,
       "2": 91,
       "3": 46,
       "4": 59,
-      "5": 365
+      "5": 369
     }
   },
   "reviews": [
+    {
+      "id": "13778157688",
+      "userName": "NB MS",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id43794715",
+      "version": "3.7.1",
+      "score": 1,
+      "title": "Katastrofa!",
+      "text": "Nová aplikace prostě katastrofa, predhozi verze měla spousta chyb, ale nová apka nejhorší co jsem vůbec používal. Bravo Vodafone!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-22T12:39:29-07:00",
+      "textNormalized": "nova aplikace proste katastrofa, predhozi verze mela spousta chyb, ale nova apka nejhorsi co jsem vubec pouzival. bravo vodafone!",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13777933670",
+      "userName": "Roman………….",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id426046112",
+      "version": "3.7.1",
+      "score": 1,
+      "title": "Bad application",
+      "text": "You reduced the internet speed in my plan, and to increase the speed I now have to download a new application because the old one no longer works. In the new application, it’s not possible to change the language, and your assistant is not competent — it cannot tell me where I can switch it to Czech.\nThis is a bad start with the new application. Why was it even necessary to create it ?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-22T11:17:02-07:00",
+      "textNormalized": "you reduced the internet speed in my plan, and to increase the speed i now have to download a new application because the old one no longer works. in the new application, it’s not possible to change the language, and your assistant is not competent — it cannot tell me where i can switch it to czech.\nthis is a bad start with the new application. why was it even necessary to create it ?",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "13772169650",
+      "userName": "Najkii",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id477988522",
+      "version": "3.7.1",
+      "score": 1,
+      "title": "Nefunguje přihlášení",
+      "text": "Od chvíle, kdy je tahle appka, nejsem schopná přihlásit se. Má problém s heslem, s emailem, nezná to moje číslo, je pomalá🤦‍♀️ Tuhle mne tam pustila po 2 měsících, jen abych zjistila, že informace ohledně změny tarifu se posílají pouze do aplikace. Nápad dobrý, ale bylo by fajn aby fungovala 🤷‍♀️",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-20T21:59:44-07:00",
+      "textNormalized": "od chvile, kdy je tahle appka, nejsem schopna prihlasit se. ma problem s heslem, s emailem, nezna to moje cislo, je pomala🤦‍♀️ tuhle mne tam pustila po 2 mesicich, jen abych zjistila, ze informace ohledne zmeny tarifu se posilaji pouze do aplikace. napad dobry, ale bylo by fajn aby fungovala 🤷‍♀️",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "13770545800",
       "userName": "Jenda.R",
@@ -3419,8 +3466,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 215,
-    "extractedAt": "2026-02-23T06:09:09.128Z",
+    "totalReviewsExtracted": 218,
+    "extractedAt": "2026-02-24T06:03:52.267Z",
     "source": "app-store"
   }
 }
