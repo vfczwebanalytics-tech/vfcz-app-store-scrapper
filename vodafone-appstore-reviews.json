@@ -1,17 +1,35 @@
 {
   "ratings": {
-    "score": 2.84152,
-    "totalRatings": 997,
-    "totalReviews": 997,
+    "score": 2.83749,
+    "totalRatings": 1,
+    "totalReviews": 1003,
     "histogram": {
-      "1": 432,
-      "2": 91,
-      "3": 46,
+      "1": 435,
+      "2": 92,
+      "3": 47,
       "4": 59,
-      "5": 369
+      "5": 370
     }
   },
   "reviews": [
+    {
+      "id": "13779761037",
+      "userName": "thdenis_zh",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id245391174",
+      "version": "3.7.1",
+      "score": 1,
+      "title": "Completely useless",
+      "text": "Simply the worst app a mobile operator could offer. It would be better if it didn’t exist at all, so you wouldn’t waste your nerves and could just go straight to their branch office, where they also take forever to solve any issues. The app doesn’t launch when you need it, it’s full of unnecessary information, and it’s absolutely not user-friendly. Completely useless\n\nUPD 22.02.2026: I was on the plane and before takeoff I forgot to download my movie. There was very little time left before departure, so I turned on the speed-up feature, and what was waiting for me in the app? A notification saying it needed to be updated.\n\nWhy can’t I skip the update? At the worst possible moment I’m forced to download a new version instead of urgently solving my issue. That’s really frustrating.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-23T00:35:00-07:00",
+      "textNormalized": "simply the worst app a mobile operator could offer. it would be better if it didn’t exist at all, so you wouldn’t waste your nerves and could just go straight to their branch office, where they also take forever to solve any issues. the app doesn’t launch when you need it, it’s full of unnecessary information, and it’s absolutely not user-friendly. completely useless\n\nupd 22.02.2026: i was on the plane and before takeoff i forgot to download my movie. there was very little time left before departure, so i turned on the speed-up feature, and what was waiting for me in the app? a notification saying it needed to be updated.\n\nwhy can’t i skip the update? at the worst possible moment i’m forced to download a new version instead of urgently solving my issue. that’s really frustrating.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13778157688",
       "userName": "NB MS",
@@ -3466,8 +3484,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 218,
-    "extractedAt": "2026-02-25T06:06:13.785Z",
+    "totalReviewsExtracted": 219,
+    "extractedAt": "2026-02-26T06:03:34.612Z",
     "source": "app-store"
   }
 }
