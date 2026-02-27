@@ -1,17 +1,50 @@
 {
   "ratings": {
-    "score": 2.83749,
+    "score": 2.83797,
     "totalRatings": 1,
-    "totalReviews": 1003,
+    "totalReviews": 1006,
     "histogram": {
-      "1": 435,
+      "1": 436,
       "2": 92,
-      "3": 47,
+      "3": 48,
       "4": 59,
-      "5": 370
+      "5": 371
     }
   },
   "reviews": [
+    {
+      "id": "13783633445",
+      "userName": "Mruvca",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1435742212",
+      "version": "3.7.1",
+      "score": 3,
+      "title": "Nelze se přihlásit",
+      "text": "Po novém updatu se nelze vůbec přihlásit. Nefunguje appka",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-24T03:22:58-07:00",
+      "textNormalized": "po novem updatu se nelze vubec prihlasit. nefunguje appka",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13783589308",
+      "userName": "Hóota",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1894303981",
+      "version": "3.7.1",
+      "score": 1,
+      "title": "Složitost",
+      "text": "Nic jednoduché",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-24T03:03:48-07:00",
+      "textNormalized": "nic jednoduche",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "13779761037",
       "userName": "thdenis_zh",
@@ -3484,8 +3517,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 219,
-    "extractedAt": "2026-02-26T06:03:34.612Z",
+    "totalReviewsExtracted": 221,
+    "extractedAt": "2026-02-27T05:58:53.780Z",
     "source": "app-store"
   }
 }
