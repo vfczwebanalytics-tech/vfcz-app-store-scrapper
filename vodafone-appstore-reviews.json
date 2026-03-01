@@ -1,17 +1,32 @@
 {
   "ratings": {
-    "score": 2.83627,
+    "score": 2.85246,
     "totalRatings": 1,
-    "totalReviews": 1020,
+    "totalReviews": 1037,
     "histogram": {
-      "1": 443,
-      "2": 93,
+      "1": 447,
+      "2": 94,
       "3": 48,
-      "4": 60,
-      "5": 376
+      "4": 61,
+      "5": 387
     }
   },
   "reviews": [
+    {
+      "id": "13794134524",
+      "userName": "Anastasiia Gaivoronskaia",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1597634493",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Nespokojenost",
+      "text": "Každý měšec musíme to aktualizovat , to je zbytečně",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-27T00:52:52-07:00",
+      "textNormalized": "kazdy mesec musime to aktualizovat , to je zbytecne",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "13792253605",
       "userName": "odvvan",
@@ -3597,8 +3612,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 226,
-    "extractedAt": "2026-02-28T05:38:43.068Z",
+    "totalReviewsExtracted": 227,
+    "extractedAt": "2026-03-01T05:56:23.887Z",
     "source": "app-store"
   }
 }
