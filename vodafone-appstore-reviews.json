@@ -1,17 +1,47 @@
 {
   "ratings": {
-    "score": 2.85246,
+    "score": 2.85361,
     "totalRatings": 1,
-    "totalReviews": 1037,
+    "totalReviews": 1052,
     "histogram": {
-      "1": 447,
+      "1": 454,
       "2": 94,
-      "3": 48,
-      "4": 61,
-      "5": 387
+      "3": 49,
+      "4": 62,
+      "5": 393
     }
   },
   "reviews": [
+    {
+      "id": "13798361805",
+      "userName": "xLukáš",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id566517974",
+      "version": "3.8.0",
+      "score": 5,
+      "title": "Super 9/10",
+      "text": "Pár věcí ještě doladit a bude to super.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-28T04:35:50-07:00",
+      "textNormalized": "par veci jeste doladit a bude to super.",
+      "segments": [
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13796262281",
+      "userName": "nevimvylizmi",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id487707011",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Hruza",
+      "text": "A jen hruza :) kdokoliv je za tu appku zodpovednej by mel vyletet :)",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-02-27T13:48:35-07:00",
+      "textNormalized": "a jen hruza :) kdokoliv je za tu appku zodpovednej by mel vyletet :)",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "13794134524",
       "userName": "Anastasiia Gaivoronskaia",
@@ -3612,8 +3642,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 227,
-    "extractedAt": "2026-03-01T05:56:23.887Z",
+    "totalReviewsExtracted": 229,
+    "extractedAt": "2026-03-02T05:59:18.616Z",
     "source": "app-store"
   }
 }
