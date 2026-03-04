@@ -4,14 +4,92 @@
     "totalRatings": 1,
     "totalReviews": 1057,
     "histogram": {
-      "1": 454,
-      "2": 94,
-      "3": 51,
-      "4": 63,
-      "5": 395
+      "1": 465,
+      "2": 97,
+      "3": 54,
+      "4": 66,
+      "5": 414
     }
   },
   "reviews": [
+    {
+      "id": "13806054092",
+      "userName": "Pítr87",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id227147377",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Tragická apka",
+      "text": "Pomalá,seká se a skoro nikam vás to nepustí",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-02T06:30:19-07:00",
+      "textNormalized": "pomala,seka se a skoro nikam vas to nepusti",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "13805727470",
+      "userName": "BruceTichac",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id935401303",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Aplikace Můj Vodafone+",
+      "text": "Nejhorší aplikace ze všech operátorů. Nejen s aplikací má Vodafone co napravovat.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-02T04:36:49-07:00",
+      "textNormalized": "nejhorsi aplikace ze vsech operatoru. nejen s aplikaci ma vodafone co napravovat.",
+      "segments": [
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "13805561018",
+      "userName": "Luděk84",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1518819902",
+      "version": "3.8.0",
+      "score": 2,
+      "title": "Špatně fungující app",
+      "text": "Aplikace nefunguje jak má nebo tam nenajdete to co by jste tam měli najít podle Vodafone viz.treba dárek k výročí. Voucher či kód najdete.v app a přitom nikde nic není ani informace kde bych ji měl přesně najít. Jediná snad výhoda ze se neseka tolik jako ta předchozí.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-02T03:31:22-07:00",
+      "textNormalized": "aplikace nefunguje jak ma nebo tam nenajdete to co by jste tam meli najit podle vodafone viz.treba darek k vyroci. voucher ci kod najdete.v app a pritom nikde nic neni ani informace kde bych ji mel presne najit. jedina snad vyhoda ze se neseka tolik jako ta predchozi.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13802385636",
+      "userName": "Kinimodiss",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1896175017",
+      "version": "3.8.0",
+      "score": 5,
+      "title": "Yyy",
+      "text": "Tak se to dělá",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-01T06:08:28-07:00",
+      "textNormalized": "tak se to dela",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13801603256",
+      "userName": "Roman Podymov",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id498666496",
+      "version": "3.8.0",
+      "score": 5,
+      "title": "Dobrý",
+      "text": "Děkuji",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-01T01:05:48-07:00",
+      "textNormalized": "dekuji",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "13800658849",
       "userName": "FeylGD",
@@ -3659,8 +3737,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 230,
-    "extractedAt": "2026-03-03T05:56:49.083Z",
+    "totalReviewsExtracted": 235,
+    "extractedAt": "2026-03-04T05:52:56.069Z",
     "source": "app-store"
   }
 }
