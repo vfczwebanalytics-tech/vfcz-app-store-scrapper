@@ -1,17 +1,47 @@
 {
   "ratings": {
-    "score": 2.85904,
+    "score": 2.91813,
     "totalRatings": 1,
-    "totalReviews": 1057,
+    "totalReviews": 1136,
     "histogram": {
-      "1": 465,
-      "2": 97,
-      "3": 54,
-      "4": 66,
-      "5": 414
+      "1": 472,
+      "2": 98,
+      "3": 55,
+      "4": 73,
+      "5": 438
     }
   },
   "reviews": [
+    {
+      "id": "13809905961",
+      "userName": "Kazatelll",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1896635025",
+      "version": "3.8.0",
+      "score": 5,
+      "title": "Vynikající aplikace",
+      "text": "Jednoduchá a plně funkční 5*****😊",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-03T08:32:34-07:00",
+      "textNormalized": "jednoducha a plne funkcni 5*****😊",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13808511832",
+      "userName": "Preneond",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id513498125",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Login failed",
+      "text": "Can’t even log in. Only show error",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-02T23:00:29-07:00",
+      "textNormalized": "can’t even log in. only show error",
+      "segments": [
+        "Stabilita"
+      ]
+    },
     {
       "id": "13806054092",
       "userName": "Pítr87",
@@ -3737,8 +3767,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 235,
-    "extractedAt": "2026-03-04T05:52:56.069Z",
+    "totalReviewsExtracted": 237,
+    "extractedAt": "2026-03-05T05:55:42.800Z",
     "source": "app-store"
   }
 }
