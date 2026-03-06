@@ -1,17 +1,160 @@
 {
   "ratings": {
-    "score": 2.91813,
+    "score": 2.93109,
     "totalRatings": 1,
-    "totalReviews": 1136,
+    "totalReviews": 1190,
     "histogram": {
-      "1": 472,
-      "2": 98,
-      "3": 55,
-      "4": 73,
-      "5": 438
+      "1": 489,
+      "2": 101,
+      "3": 64,
+      "4": 75,
+      "5": 461
     }
   },
   "reviews": [
+    {
+      "id": "13814027481",
+      "userName": "OpravteSiSakraTuAppku",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1858866949",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Není možné zaplatit vyúčtování",
+      "text": "Po kliknutí na tlačítko “Zaplatit” se zobrazí pouze bílá obrazovka a nic na ní. S prominutím, tohle teda vaše starší appka uměla bez problémů. Možná by stálo za to se k ní vrátit, v téhle parodii na aplikaci nefunguje nic.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-04T12:55:06-07:00",
+      "textNormalized": "po kliknuti na tlacitko “zaplatit” se zobrazi pouze bila obrazovka a nic na ni. s prominutim, tohle teda vase starsi appka umela bez problemu. mozna by stalo za to se k ni vratit, v tehle parodii na aplikaci nefunguje nic.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13813525219",
+      "userName": "12346xvbkgf",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id214041134",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Terrible",
+      "text": "Jak je mozne, ze Vodafone muze provozovat takto spatnou aplikaci? Nechapu, proc se musim neustale prihlasovat, nastavenim telefonu to neni. Jiné aplikace si to pamatuji nebo funguji pres Face ID. Tato ne. Kdyz uz se prihlasim, je to neuveritelne pomale a rychlosti pripojeni to neni. Ted se pro jistotu uz nejde ani prihlasit. Uz jen hláška Neco se nepovedlo. Bohuzel - cela aplikace se nepovedla, stejne jako strasne pomala klientska zona pres web. Tohle opravdu Vodafonu reputaci neprida…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-04T09:40:04-07:00",
+      "textNormalized": "jak je mozne, ze vodafone muze provozovat takto spatnou aplikaci? nechapu, proc se musim neustale prihlasovat, nastavenim telefonu to neni. jine aplikace si to pamatuji nebo funguji pres face id. tato ne. kdyz uz se prihlasim, je to neuveritelne pomale a rychlosti pripojeni to neni. ted se pro jistotu uz nejde ani prihlasit. uz jen hlaska neco se nepovedlo. bohuzel - cela aplikace se nepovedla, stejne jako strasne pomala klientska zona pres web. tohle opravdu vodafonu reputaci neprida…",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13813470732",
+      "userName": "Hadice45",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1634367286",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Tragédie",
+      "text": "Nepřehledná, pomalá, spoustu věci přes ni nenastavím, po kliknutí odkazuje na web. Prostě bída ale bohužel není na výběr.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-04T09:20:00-07:00",
+      "textNormalized": "neprehledna, pomala, spoustu veci pres ni nenastavim, po kliknuti odkazuje na web. proste bida ale bohuzel neni na vyber.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13812829782",
+      "userName": "czXivi",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id879005491",
+      "version": "3.8.0",
+      "score": 5,
+      "title": "Great app",
+      "text": "Don’t know why is everybody complaining. My app is working perfectly fine.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-04T05:35:14-07:00",
+      "textNormalized": "don’t know why is everybody complaining. my app is working perfectly fine.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13812770438",
+      "userName": "Hanny730",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id930029889",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Vodafone",
+      "text": "Nepřehledná aplikace, starší verze byla lepší",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-04T05:14:32-07:00",
+      "textNormalized": "neprehledna aplikace, starsi verze byla lepsi",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "13812736069",
+      "userName": "Patrik992",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1876163237",
+      "version": "3.8.0",
+      "score": 3,
+      "title": "Tobi je na prd",
+      "text": "Aplikace je podobně chaotická a pomalá, jako byla ta stará. A Tobi je extrémně nepoužitelný. To už ChatGPT poradí ohledně vašich stránek a služeb lépe, než tahle hloupost. Snad nestál hodně peněz…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-04T05:02:19-07:00",
+      "textNormalized": "aplikace je podobne chaoticka a pomala, jako byla ta stara. a tobi je extremne nepouzitelny. to uz chatgpt poradi ohledne vasich stranek a sluzeb lepe, nez tahle hloupost. snad nestal hodne penez…",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "13812622456",
+      "userName": "erroes",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id578434721",
+      "version": "3.8.0",
+      "score": 3,
+      "title": "Ale jo, funguje",
+      "text": "Dokážu tam zaplatit, to mi asi stačí, když jsem zkoušel cokoliv dalšího tak je to fakt nic moc, najít třeba giga internetu navíc je zbytečně těžký, ale to chápu, je fajn když to víc lidí nenajde, jim to ušetří zatížení sítě a vydělají příslibem. Korporátní klasika.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-04T04:20:34-07:00",
+      "textNormalized": "dokazu tam zaplatit, to mi asi staci, kdyz jsem zkousel cokoliv dalsiho tak je to fakt nic moc, najit treba giga internetu navic je zbytecne tezky, ale to chapu, je fajn kdyz to vic lidi nenajde, jim to usetri zatizeni site a vydelaji prislibem. korporatni klasika.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "13812570348",
+      "userName": "jdetedohaje",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1042760924",
+      "version": "3.8.0",
+      "score": 2,
+      "title": "Výborně",
+      "text": "Po skoro půlroce vydání jde přes aplikaci platit",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-04T04:00:14-07:00",
+      "textNormalized": "po skoro pulroce vydani jde pres aplikaci platit",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13811997438",
+      "userName": "FoGh.cz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id341477168",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Loading screen",
+      "text": "Aplikace slouzi v podstate jen k zobrazovani ‘kolecka’ pro nacitani stranky pres WebView. Nechapu, proc Vdf prijde s novou aplikaci, ktera je mozna jeste pomalejsi nez ta puvodni a nelze v ni nativne provest ani ty sebemensi zmeny. Vse trva extremne dlouho. Naprosta tragedie.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-03T23:19:47-07:00",
+      "textNormalized": "aplikace slouzi v podstate jen k zobrazovani ‘kolecka’ pro nacitani stranky pres webview. nechapu, proc vdf prijde s novou aplikaci, ktera je mozna jeste pomalejsi nez ta puvodni a nelze v ni nativne provest ani ty sebemensi zmeny. vse trva extremne dlouho. naprosta tragedie.",
+      "segments": [
+        "Vykonnost",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13809905961",
       "userName": "Kazatelll",
@@ -3767,8 +3910,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 237,
-    "extractedAt": "2026-03-05T05:55:42.800Z",
+    "totalReviewsExtracted": 246,
+    "extractedAt": "2026-03-06T05:53:21.507Z",
     "source": "app-store"
   }
 }
