@@ -1,17 +1,66 @@
 {
   "ratings": {
-    "score": 2.93109,
+    "score": 2.92602,
     "totalRatings": 1,
-    "totalReviews": 1190,
+    "totalReviews": 1203,
     "histogram": {
-      "1": 489,
-      "2": 101,
-      "3": 64,
+      "1": 494,
+      "2": 104,
+      "3": 66,
       "4": 75,
-      "5": 461
+      "5": 464
     }
   },
   "reviews": [
+    {
+      "id": "13816008871",
+      "userName": "tomboid1",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1251179318",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Zmatek, chaos, marnost",
+      "text": "Dohledat něco v tomto bordelu jen buď marné a nebo cílená snaha Vodafonu. Kliknu na stírací los, vyhraju 3 měsíce zdarma Prima+ (ne že bych to využil), napíše mi to, že kupon s výhrou bude v sekci Vodafone TV, ale to je kde? Ani vyhledávač v aplikaci to nenajde, projíždím všechny položky a NIC!!! Původní Samoobsluha byla průser a tato novější verze  je to samé 😅🤣🙈😁",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-05T04:19:39-07:00",
+      "textNormalized": "dohledat neco v tomto bordelu jen bud marne a nebo cilena snaha vodafonu. kliknu na stiraci los, vyhraju 3 mesice zdarma prima+ (ne ze bych to vyuzil), napise mi to, ze kupon s vyhrou bude v sekci vodafone tv, ale to je kde? ani vyhledavac v aplikaci to nenajde, projizdim vsechny polozky a nic!!! puvodni samoobsluha byla pruser a tato novejsi verze  je to same 😅🤣🙈😁",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13815933943",
+      "userName": "jakubforman",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id176749460",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Vyřešte to neustále odhlašování",
+      "text": "Aplikace nedodržuje určité UX a UI prvky. Stále chybí widgety, které původní appka měla a také jste je smazali. Navíc appka furt odhlašuje. Nemyslím si, že je složité použít revalidační token, když tam jeden den jsem a druhý mě ohlásí. Používejte spravené vývojové principy! A pokud jste šáhli po React Native, přeju hodně štěstí s tím to rozchodit správně…\n\nObecné hodnocení aplikace - odpad. Stará appka = lepší appka i když měla své problémy. Taky na to vypadá i celkově hodnoceni na App Store.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-05T03:50:37-07:00",
+      "textNormalized": "aplikace nedodrzuje urcite ux a ui prvky. stale chybi widgety, ktere puvodni appka mela a take jste je smazali. navic appka furt odhlasuje. nemyslim si, ze je slozite pouzit revalidacni token, kdyz tam jeden den jsem a druhy me ohlasi. pouzivejte spravene vyvojove principy! a pokud jste sahli po react native, preju hodne stesti s tim to rozchodit spravne…\n\nobecne hodnoceni aplikace - odpad. stara appka = lepsi appka i kdyz mela sve problemy. taky na to vypada i celkove hodnoceni na app store.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13815400600",
+      "userName": "Badrusak",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1232540033",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Nefungující aplikace",
+      "text": "Už asi týden, ne-li déle, mi při stisknutí přihlásit se nevyskočí okno, kam bych zadal přihlašovací údaje, ale chyba E931D120-CEA5-4E3A-8E42-70459E3CC4BA.\nAčkoliv píšete, že příště už to bude lepší, není. Zkoušel jsem pomoc přes chatbota, ale byl jsem velmi zklamán, přednastavené odpovědi tak, že i přes podrobný popis, co mi nejde, se jen ptal, jestli se přihlašuji pomocí e-mailu nebo čísla.\nO funkci webových stránek na telefonu raději nemluvím.\nJak už tady bylo jednou někým zmíněny, nechápu důvod nové aplikace, která je spíš krokem zpátky.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-04T23:28:50-07:00",
+      "textNormalized": "uz asi tyden, ne-li dele, mi pri stisknuti prihlasit se nevyskoci okno, kam bych zadal prihlasovaci udaje, ale chyba e931d120-cea5-4e3a-8e42-70459e3cc4ba.\nackoliv pisete, ze priste uz to bude lepsi, neni. zkousel jsem pomoc pres chatbota, ale byl jsem velmi zklaman, prednastavene odpovedi tak, ze i pres podrobny popis, co mi nejde, se jen ptal, jestli se prihlasuji pomoci e-mailu nebo cisla.\no funkci webovych stranek na telefonu radeji nemluvim.\njak uz tady bylo jednou nekym zmineny, nechapu duvod nove aplikace, ktera je spis krokem zpatky.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13814027481",
       "userName": "OpravteSiSakraTuAppku",
@@ -3910,8 +3959,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 246,
-    "extractedAt": "2026-03-06T05:53:21.507Z",
+    "totalReviewsExtracted": 249,
+    "extractedAt": "2026-03-07T05:43:21.890Z",
     "source": "app-store"
   }
 }
