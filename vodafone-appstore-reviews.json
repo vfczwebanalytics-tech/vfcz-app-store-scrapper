@@ -1,17 +1,126 @@
 {
   "ratings": {
-    "score": 2.92602,
+    "score": 2.94318,
     "totalRatings": 1,
-    "totalReviews": 1203,
+    "totalReviews": 1232,
     "histogram": {
-      "1": 494,
-      "2": 104,
-      "3": 66,
-      "4": 75,
-      "5": 464
+      "1": 498,
+      "2": 110,
+      "3": 68,
+      "4": 76,
+      "5": 480
     }
   },
   "reviews": [
+    {
+      "id": "13820013103",
+      "userName": "Libvas",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id105424779",
+      "version": "3.8.0",
+      "score": 3,
+      "title": "👎",
+      "text": "Nic moc 😕 bohužel velké zklamání",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-06T07:48:58-07:00",
+      "textNormalized": "nic moc 😕 bohuzel velke zklamani",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13819976719",
+      "userName": "Dvori999",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id404729240",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Aplikace v tv",
+      "text": "Tragédie přístupnost a ovládání aplikace strašne přijde mi to hektické. největší problém vidím že se nedáji seřadit programy v televizi. A na mobilu také to musí člověk hledat jak blbej 🤬🤬🤬 lituji ze jsem si pořídil, ale alespoň mám vysvětlení proč to mají tak levné",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-06T07:36:51-07:00",
+      "textNormalized": "tragedie pristupnost a ovladani aplikace strasne prijde mi to hekticke. nejvetsi problem vidim ze se nedaji seradit programy v televizi. a na mobilu take to musi clovek hledat jak blbej 🤬🤬🤬 lituji ze jsem si poridil, ale alespon mam vysvetleni proc to maji tak levne",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13819044544",
+      "userName": "WondrVi",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id236289602",
+      "version": "3.8.0",
+      "score": 5,
+      "title": "Velký upgrade oproti staré aplikaci",
+      "text": "Všechny běžné funkce co jako uživatel od appky operátora očekávám jsou přehlednější než ve staré appce.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-06T01:37:38-07:00",
+      "textNormalized": "vsechny bezne funkce co jako uzivatel od appky operatora ocekavam jsou prehlednejsi nez ve stare appce.",
+      "segments": [
+        "UI",
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "13818932114",
+      "userName": "korenm",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id354250438",
+      "version": "3.8.0",
+      "score": 2,
+      "title": "App UX.",
+      "text": "Great app, launches on 2nd or 3rd try, still unstabe. Only change i see is app icon color scheme. that's it.  It is more like reformatted web page for phone screen packaged and presented as an app. My phone (iphone air) is updated to latest os version and yet, issues are the same.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-06T00:37:57-07:00",
+      "textNormalized": "great app, launches on 2nd or 3rd try, still unstabe. only change i see is app icon color scheme. that's it.  it is more like reformatted web page for phone screen packaged and presented as an app. my phone (iphone air) is updated to latest os version and yet, issues are the same.",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13817611751",
+      "userName": "Jenda Most",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1166857181",
+      "version": "3.8.0",
+      "score": 2,
+      "title": "Nic moc",
+      "text": "Aplikace nic moc. Funguje dost pomalu a původní byla mnohem lepší",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-05T14:08:53-07:00",
+      "textNormalized": "aplikace nic moc. funguje dost pomalu a puvodni byla mnohem lepsi",
+      "segments": [
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13817478330",
+      "userName": "orchestrion",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id914155634",
+      "version": "3.8.0",
+      "score": 3,
+      "title": "obnoveni dat",
+      "text": "prosimmmm udelejte kolik zbyva dni do obnoveni data balicku :(((",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-05T13:13:23-07:00",
+      "textNormalized": "prosimmmm udelejte kolik zbyva dni do obnoveni data balicku :(((",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13816963916",
+      "userName": "skogh34",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id928602470",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Tragédie",
+      "text": "Tragédie",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-05T09:54:08-07:00",
+      "textNormalized": "tragedie",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
     {
       "id": "13816008871",
       "userName": "tomboid1",
@@ -3959,8 +4068,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 249,
-    "extractedAt": "2026-03-07T05:43:21.890Z",
+    "totalReviewsExtracted": 256,
+    "extractedAt": "2026-03-08T05:51:21.289Z",
     "source": "app-store"
   }
 }
