@@ -1,17 +1,47 @@
 {
   "ratings": {
-    "score": 2.94318,
+    "score": 2.95288,
     "totalRatings": 1,
-    "totalReviews": 1232,
+    "totalReviews": 1252,
     "histogram": {
-      "1": 498,
-      "2": 110,
-      "3": 68,
-      "4": 76,
-      "5": 480
+      "1": 502,
+      "2": 112,
+      "3": 71,
+      "4": 77,
+      "5": 490
     }
   },
   "reviews": [
+    {
+      "id": "13823062313",
+      "userName": "NononoBanana",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1238955014",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Logouts",
+      "text": "App logouts regularly, each time need to login, and it send sms to currently unavailable phone, nice, so you can’t even login",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-07T04:59:49-07:00",
+      "textNormalized": "app logouts regularly, each time need to login, and it send sms to currently unavailable phone, nice, so you can’t even login",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13820652223",
+      "userName": "DNAware design",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id443211620",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Dárek",
+      "text": "Date mi 3 mesiace na nejaky stream ale jak a kde to už ne. To mám ted kde hledat. Ani screenshot se nedal z niceho udelat.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-06T11:40:59-07:00",
+      "textNormalized": "date mi 3 mesiace na nejaky stream ale jak a kde to uz ne. to mam ted kde hledat. ani screenshot se nedal z niceho udelat.",
+      "segments": [
+        "UI"
+      ]
+    },
     {
       "id": "13820013103",
       "userName": "Libvas",
@@ -4068,8 +4098,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 256,
-    "extractedAt": "2026-03-08T05:51:21.289Z",
+    "totalReviewsExtracted": 258,
+    "extractedAt": "2026-03-09T06:03:06.278Z",
     "source": "app-store"
   }
 }
