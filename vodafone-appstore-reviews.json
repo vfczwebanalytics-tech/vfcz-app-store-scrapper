@@ -1,17 +1,183 @@
 {
   "ratings": {
-    "score": 2.9554,
+    "score": 2.96702,
     "totalRatings": 1,
-    "totalReviews": 1278,
+    "totalReviews": 1304,
     "histogram": {
-      "1": 509,
-      "2": 117,
-      "3": 72,
-      "4": 82,
-      "5": 498
+      "1": 515,
+      "2": 120,
+      "3": 73,
+      "4": 85,
+      "5": 511
     }
   },
   "reviews": [
+    {
+      "id": "13834901438",
+      "userName": "Storm-veil",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id124614563",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Horible UI, loadings everywhere",
+      "text": "The apps doesnt look like iOS app. Missing Apple Glass, loading are everywhere and basic operations like pay billing are not instant and display errors.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-10T15:20:44-07:00",
+      "textNormalized": "the apps doesnt look like ios app. missing apple glass, loading are everywhere and basic operations like pay billing are not instant and display errors.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13834790627",
+      "userName": "Jisamis",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id324051592",
+      "version": "3.8.0",
+      "score": 2,
+      "title": "Změny",
+      "text": "Stále něco měníte s nám přidáváte starosti",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-10T14:34:17-07:00",
+      "textNormalized": "stale neco menite s nam pridavate starosti",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13834146436",
+      "userName": "miretchek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id436931702",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Varování před instalací nové aplikace",
+      "text": "Aplikaci jsem si na nátlak operátora musel instalovat protože stará nebyla jsi podporována, od instalace která proběhla před 4 měsíci se chci každý měsíc podívat jednou za měsíc na vyúčtování. Doporučoval mi ať se přihlašuji přes email že je to bezpečnější + dvoufázové ověření přes telefonní číslo. Pokaždé když se chci do aplikace přihlásit požaduje to po mě znovu přihlášení přes dvoufázové. nechápu když zadám dvoufázové přihlášení proč mi pokaždé aplikace úplně odhlásí, z bezpečnostních důvodů nemám uložená hesla ve svém telefonu. Takže je pro mě velmi obtěžující se do aplikace přihlásit.Stará aplikace byla funkční nová mě úplně vytáčí. Nedoporučuji.  Ale bohužel stará verze nejde již nainstalovat takže jako zákazník si budete muset stáhnout a přeji Vám hodně nervů ať se s ní nervuje the jako já.A nebavím se o tom že vyúčtování na email taky nechodí jak mi operátor řekl",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-10T10:22:00-07:00",
+      "textNormalized": "aplikaci jsem si na natlak operatora musel instalovat protoze stara nebyla jsi podporovana, od instalace ktera probehla pred 4 mesici se chci kazdy mesic podivat jednou za mesic na vyuctovani. doporucoval mi at se prihlasuji pres email ze je to bezpecnejsi + dvoufazove overeni pres telefonni cislo. pokazde kdyz se chci do aplikace prihlasit pozaduje to po me znovu prihlaseni pres dvoufazove. nechapu kdyz zadam dvoufazove prihlaseni proc mi pokazde aplikace uplne odhlasi, z bezpecnostnich duvodu nemam ulozena hesla ve svem telefonu. takze je pro me velmi obtezujici se do aplikace prihlasit.stara aplikace byla funkcni nova me uplne vytaci. nedoporucuji.  ale bohuzel stara verze nejde jiz nainstalovat takze jako zakaznik si budete muset stahnout a preji vam hodne nervu at se s ni nervuje the jako ja.a nebavim se o tom ze vyuctovani na email taky nechodi jak mi operator rekl",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13833906863",
+      "userName": "BlackFoxCZ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id430386846",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Klasika",
+      "text": "Klasická jednosměrná aplikace od poskytovatele služeb. Pro základní použití bez nutnosti řešení problémů je vyhovující. Pokud však potřebujete řešit například reklamaci vyúčtování, tuto možnost jsem v aplikaci nenašel. Naopak platební funkce je výrazně a přehledně zpracovaná – tlačítko pro platbu je dostatečně velké a snadno dostupné.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-10T08:56:01-07:00",
+      "textNormalized": "klasicka jednosmerna aplikace od poskytovatele sluzeb. pro zakladni pouziti bez nutnosti reseni problemu je vyhovujici. pokud vsak potrebujete resit napriklad reklamaci vyuctovani, tuto moznost jsem v aplikaci nenasel. naopak platebni funkce je vyrazne a prehledne zpracovana – tlacitko pro platbu je dostatecne velke a snadno dostupne.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13833326892",
+      "userName": "MrPatas",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id444351225",
+      "version": "3.8.0",
+      "score": 5,
+      "title": "VFCZ",
+      "text": "Gr8t App 🤩👍❤️",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-10T05:29:29-07:00",
+      "textNormalized": "gr8t app 🤩👍❤️",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13832925484",
+      "userName": "ondrej.cs.cz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id607415772",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Vodafone neumí dělat mobilní aplikace",
+      "text": "Prosim, udělejte si UX research, co zajímá vaše klienty. Ta aplikace je hrozná. Začíná to prohlášením, i když si člověk nastaví biometrické přihlášení, tak stále musím hledá hesla, piny atd. Totálně UX unfriendly, nejde v aplikaci najít co potřebuji, eg rozpad faktury, služby a specifikace. Dejte si tu práci a pobavte se laskavě s uživateli, co chtějí a opravte si appku!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-10T02:33:12-07:00",
+      "textNormalized": "prosim, udelejte si ux research, co zajima vase klienty. ta aplikace je hrozna. zacina to prohlasenim, i kdyz si clovek nastavi biometricke prihlaseni, tak stale musim hleda hesla, piny atd. totalne ux unfriendly, nejde v aplikaci najit co potrebuji, eg rozpad faktury, sluzby a specifikace. dejte si tu praci a pobavte se laskave s uzivateli, co chteji a opravte si appku!",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13831656843",
+      "userName": "Jassper69",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id192471747",
+      "version": "3.8.0",
+      "score": 2,
+      "title": "Dost špatná appka",
+      "text": "Neskutečně pomalý a nepřehledný",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-09T15:55:15-07:00",
+      "textNormalized": "neskutecne pomaly a neprehledny",
+      "segments": [
+        "Vykonnost",
+        "UI"
+      ]
+    },
+    {
+      "id": "13830761816",
+      "userName": "Sirius792",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1885509567",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Sranec",
+      "text": "Nejhorší app co mam v mobilu",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-09T10:00:02-07:00",
+      "textNormalized": "nejhorsi app co mam v mobilu",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13830469817",
+      "userName": "Jenda.R",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1502511462",
+      "version": "3.8.0",
+      "score": 2,
+      "title": "Pomalu se zlepšuje",
+      "text": "Zlepšuje se, ale pořád je to stará špatná aplikace převlečená do nového kabátu. Rád bych se dočkal toho, že jí dám 5 hvězd, jako dávám aplikaci od T-Mobile. Zatím tak nemohu udělat, protože do dnešního dne není vyřešený problém, který už jsem měl v předchozí aplikaci. Nechápu totiž, proč jako majitel a administrátor účtu, musím své číslo neustále vyhledávat a opětovně nastavovat jako hlavní. Nikdy nezůstane na prvním místě před ostatními čísly pod mým účtem",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-09T08:16:25-07:00",
+      "textNormalized": "zlepsuje se, ale porad je to stara spatna aplikace prevlecena do noveho kabatu. rad bych se dockal toho, ze ji dam 5 hvezd, jako davam aplikaci od t-mobile. zatim tak nemohu udelat, protoze do dnesniho dne neni vyreseny problem, ktery uz jsem mel v predchozi aplikaci. nechapu totiz, proc jako majitel a administrator uctu, musim sve cislo neustale vyhledavat a opetovne nastavovat jako hlavni. nikdy nezustane na prvnim miste pred ostatnimi cisly pod mym uctem",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Cena"
+      ]
+    },
+    {
+      "id": "13830438591",
+      "userName": "zcela – servis",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id402720920",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Hlavní vedoucí všech vývojářů je kretén",
+      "text": "Pustit mezi lidi takovouhle nedotaženou apku je ten největší průser co jste mohli udělat 3 aktualizace během čtyřiadvaceti hodin polovina věcí nefunkčních spousta zbytečných funkcí.\n\nA opět je tam hromada chyb.\nTo jste k vývoji pustili GPT 3,5?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-09T08:05:20-07:00",
+      "textNormalized": "pustit mezi lidi takovouhle nedotazenou apku je ten nejvetsi pruser co jste mohli udelat 3 aktualizace behem ctyriadvaceti hodin polovina veci nefunkcnich spousta zbytecnych funkci.\n\na opet je tam hromada chyb.\nto jste k vyvoji pustili gpt 3,5?",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13830013247",
       "userName": "Ludo_CZ",
@@ -4177,8 +4343,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 263,
-    "extractedAt": "2026-03-11T05:56:22.864Z",
+    "totalReviewsExtracted": 273,
+    "extractedAt": "2026-03-12T05:58:23.073Z",
     "source": "app-store"
   }
 }
