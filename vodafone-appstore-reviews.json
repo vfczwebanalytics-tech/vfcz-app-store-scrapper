@@ -4,14 +4,79 @@
     "totalRatings": 1,
     "totalReviews": 1304,
     "histogram": {
-      "1": 515,
+      "1": 518,
       "2": 120,
-      "3": 73,
-      "4": 85,
-      "5": 511
+      "3": 75,
+      "4": 87,
+      "5": 527
     }
   },
   "reviews": [
+    {
+      "id": "13838205121",
+      "userName": "Jenda.R",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1502511462",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Výhra, jakou svět neviděl….",
+      "text": "Vyhrál jsem na stíracím losu prima+ na 3 měsíce, měly přijít přihlašovací údaje s postupem, ale jako vždy nic nedorazilo. Stejně jsem to měl i s výhrou 1.000,- Kč na nákup hardwaru Vodafone. Žádná SMS s kódem nikdy nedorazila. Tak na co je tu vlastně Happy?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-11T14:47:35-07:00",
+      "textNormalized": "vyhral jsem na stiracim losu prima+ na 3 mesice, mely prijit prihlasovaci udaje s postupem, ale jako vzdy nic nedorazilo. stejne jsem to mel i s vyhrou 1.000,- kc na nakup hardwaru vodafone. zadna sms s kodem nikdy nedorazila. tak na co je tu vlastne happy?",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13837219623",
+      "userName": "Nounejmgut",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id976017023",
+      "version": "3.8.0",
+      "score": 5,
+      "title": "Dobrý",
+      "text": "👍",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-11T08:36:45-07:00",
+      "textNormalized": "👍",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13836531849",
+      "userName": "Lastmanzjee",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id588375069",
+      "version": "3.8.0",
+      "score": 2,
+      "title": "Příšerná aplikace",
+      "text": "Za mě absolutně příšerná aplikace, prakticky funguje vždy jen hlavní stránka a kamkoliv se kliká tak se dlouho načítá, či je problém s přihlášením. Např v současné chvíli jsem dostal v akci Vodafone Happy prima + premium na 3 měsíce ale již třetí den se k tomu nejde proklikat 😄 šílený. Jediné co funguje spolehlivě je platba",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-11T04:35:17-07:00",
+      "textNormalized": "za me absolutne priserna aplikace, prakticky funguje vzdy jen hlavni stranka a kamkoliv se klika tak se dlouho nacita, ci je problem s prihlasenim. napr v soucasne chvili jsem dostal v akci vodafone happy prima + premium na 3 mesice ale jiz treti den se k tomu nejde proklikat 😄 sileny. jedine co funguje spolehlive je platba",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13836426399",
+      "userName": "dodi_4ever",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id676096739",
+      "version": "3.8.0",
+      "score": 2,
+      "title": "Nespokojenost",
+      "text": "Myšlenka dobrá ale vůbec nefunguje jak má. 😑",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-11T03:51:20-07:00",
+      "textNormalized": "myslenka dobra ale vubec nefunguje jak ma. 😑",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "13834901438",
       "userName": "Storm-veil",
@@ -4343,8 +4408,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 273,
-    "extractedAt": "2026-03-12T05:58:23.073Z",
+    "totalReviewsExtracted": 277,
+    "extractedAt": "2026-03-13T05:56:45.389Z",
     "source": "app-store"
   }
 }
