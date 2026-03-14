@@ -1,17 +1,51 @@
 {
   "ratings": {
-    "score": 2.96702,
+    "score": 2.99176,
     "totalRatings": 1,
-    "totalReviews": 1304,
+    "totalReviews": 1335,
     "histogram": {
-      "1": 518,
-      "2": 120,
+      "1": 520,
+      "2": 121,
       "3": 75,
-      "4": 87,
-      "5": 527
+      "4": 88,
+      "5": 531
     }
   },
   "reviews": [
+    {
+      "id": "13839433577",
+      "userName": "Firga S",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id684282439",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Aplikace úplně nemožná",
+      "text": "Aplikace nefunguje už 3 měsíce jak má nikdo to neřeší určitě nedoporučuju-5 když zákazník někam zavolá všichni se hrozně diví že to není možné a tím to skončí",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-12T00:38:01-07:00",
+      "textNormalized": "aplikace nefunguje uz 3 mesice jak ma nikdo to neresi urcite nedoporucuju-5 kdyz zakaznik nekam zavola vsichni se hrozne divi ze to neni mozne a tim to skonci",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13839427619",
+      "userName": "ar-jan",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id926995884",
+      "version": "3.8.0",
+      "score": 2,
+      "title": "Lepší než původní, ale",
+      "text": "Aktualizace 12.3.2026\n\npo dnešní aktualizaci se opět objevuji již dávno přečtené zprávy a vypadají opět nepřečteně.\nJe opravdu otravné a už mě nebaví u každé služby pod přihlášením mazat několik zpráv!!!\n!! Podrobnosti jsem poslal na podporu dle požadavků paní na zákaznickém centru (27.2) dodnes se nikdo neozval a problém přetrvává \n\nV aplikaci nelze stáhnout podrobné vyúčtování. Opět jen na webu!!!\n\nKrom výše uvedeného Zatím vypadá lépe než ta původní.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-12T00:34:33-07:00",
+      "textNormalized": "aktualizace 12.3.2026\n\npo dnesni aktualizaci se opet objevuji jiz davno prectene zpravy a vypadaji opet neprectene.\nje opravdu otravne a uz me nebavi u kazde sluzby pod prihlasenim mazat nekolik zprav!!!\n!! podrobnosti jsem poslal na podporu dle pozadavku pani na zakaznickem centru (27.2) dodnes se nikdo neozval a problem pretrvava \n\nv aplikaci nelze stahnout podrobne vyuctovani. opet jen na webu!!!\n\nkrom vyse uvedeneho zatim vypada lepe nez ta puvodni.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13838205121",
       "userName": "Jenda.R",
@@ -4408,8 +4442,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 277,
-    "extractedAt": "2026-03-13T05:56:45.389Z",
+    "totalReviewsExtracted": 279,
+    "extractedAt": "2026-03-14T05:53:41.831Z",
     "source": "app-store"
   }
 }
