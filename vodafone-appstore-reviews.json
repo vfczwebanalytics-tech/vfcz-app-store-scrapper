@@ -1,17 +1,179 @@
 {
   "ratings": {
-    "score": 2.99176,
+    "score": 2.99203,
     "totalRatings": 1,
-    "totalReviews": 1335,
+    "totalReviews": 1380,
     "histogram": {
-      "1": 520,
-      "2": 121,
-      "3": 75,
-      "4": 88,
-      "5": 531
+      "1": 537,
+      "2": 126,
+      "3": 76,
+      "4": 93,
+      "5": 548
     }
   },
   "reviews": [
+    {
+      "id": "13843426823",
+      "userName": "Recenze13",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id820763045",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Recenze",
+      "text": "Na co děláte novou aplikaci, když stará funguje a novou nemáte ani z daleka hotovou? Načítáni trvá, neustále odhlašuje z účtu, nemluvě o tom, že jsem byl nucen stáhnout novou, jelikož ve staré ( té lepší ) jsem nemohl dělat další kroky, aniž bych si ji nestáhl. DÍKY ZA NIC",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-13T05:16:46-07:00",
+      "textNormalized": "na co delate novou aplikaci, kdyz stara funguje a novou nemate ani z daleka hotovou? nacitani trva, neustale odhlasuje z uctu, nemluve o tom, ze jsem byl nucen stahnout novou, jelikoz ve stare ( te lepsi ) jsem nemohl delat dalsi kroky, aniz bych si ji nestahl. diky za nic",
+      "segments": [
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13842602314",
+      "userName": "p2bx",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id167357543",
+      "version": "3.9.0",
+      "score": 3,
+      "title": "Nic moc",
+      "text": "Aplikace se casto nenacte uple ani s jejich udajnym rychlem internetem 20 ostatne pokryti a kvalita signalu je kapitola sama o sobe. Aplikaci je pote nutne ukoncit a znovu spustit na druhy pokus se vetsinou nacte",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-12T22:22:00-07:00",
+      "textNormalized": "aplikace se casto nenacte uple ani s jejich udajnym rychlem internetem 20 ostatne pokryti a kvalita signalu je kapitola sama o sobe. aplikaci je pote nutne ukoncit a znovu spustit na druhy pokus se vetsinou nacte",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13841436424",
+      "userName": "Jenda.R",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1502511462",
+      "version": "3.8.0",
+      "score": 2,
+      "title": "Výhra, jakou svět neviděl….",
+      "text": "Vyhrál jsem na stíracím losu prima+ na 3 měsíce, měly přijít přihlašovací údaje s postupem, ale jako vždy nic nedorazilo. Dnes dorazila SMS, že mám odměnu v aplikaci, ale nic jsem nenašel. Stejně jsem to měl i s výhrou 1.000,- Kč na nákup hardwaru Vodafone. Žádná SMS s kódem nikdy nedorazila. Tak na co jsou tu soutěže Happy?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-12T13:43:12-07:00",
+      "textNormalized": "vyhral jsem na stiracim losu prima+ na 3 mesice, mely prijit prihlasovaci udaje s postupem, ale jako vzdy nic nedorazilo. dnes dorazila sms, ze mam odmenu v aplikaci, ale nic jsem nenasel. stejne jsem to mel i s vyhrou 1.000,- kc na nakup hardwaru vodafone. zadna sms s kodem nikdy nedorazila. tak na co jsou tu souteze happy?",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13841272996",
+      "userName": "lenoyka",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1434841129",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Strašidelná aplikace",
+      "text": "Seká se, nejde zavřít, otevřít a nemůžu najít informace, který potřebuji. Buď se na to vykašlete, nebo to udělejte pořádně!!!!!!!!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-12T12:39:34-07:00",
+      "textNormalized": "seka se, nejde zavrit, otevrit a nemuzu najit informace, ktery potrebuji. bud se na to vykaslete, nebo to udelejte poradne!!!!!!!!",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13840772228",
+      "userName": "tttwwwwooopp",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1098966643",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Ondřeji, prosím",
+      "text": "Od dob nové verze aplikace je to děs a hrůza neustále se seká, nové a nové chyby, tuhle mě to tak vytočilo, že kvůli tomu zvažuji přechod k jinému operátorovi. Chápu, že nová verze sebou nese i porodní bolesti, ale tohle už je na mě moc.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-12T09:35:18-07:00",
+      "textNormalized": "od dob nove verze aplikace je to des a hruza neustale se seka, nove a nove chyby, tuhle me to tak vytocilo, ze kvuli tomu zvazuji prechod k jinemu operatorovi. chapu, ze nova verze sebou nese i porodni bolesti, ale tohle uz je na me moc.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "13840682349",
+      "userName": "Rumcais",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id160144873",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Nepoužitelná, seká se",
+      "text": "Aplikace je úplně otřesná, pokud na něco kliknu, tak na 50% zamrzne. Předchozí aplikace byla hrozná a její náhrada se jí vyrovnává. Nechápu, když je aplikace pro tolik klientů, že je takovým způsobem nedodělaná a víceméně nefunkční. To Vám nevadí, jakou \"reklamu\" na služby Vám tato aplikace dělá?\nMám 16Pro, nejnovější iOS a aplikací zkouším cca 2-3 týdny a stále hrozné.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-12T09:04:00-07:00",
+      "textNormalized": "aplikace je uplne otresna, pokud na neco kliknu, tak na 50% zamrzne. predchozi aplikace byla hrozna a jeji nahrada se ji vyrovnava. nechapu, kdyz je aplikace pro tolik klientu, ze je takovym zpusobem nedodelana a vicemene nefunkcni. to vam nevadi, jakou \"reklamu\" na sluzby vam tato aplikace dela?\nmam 16pro, nejnovejsi ios a aplikaci zkousim cca 2-3 tydny a stale hrozne.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13840108767",
+      "userName": "blunticek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id494917208",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "jebe vam?",
+      "text": "tvl proc ta aplikace uz 2 mesice nefunguje a nejde se do ni prihlasit a hazi furt nejaky errory? takze musim vsechno resit pres prohlizec, protoze toto je uplne nepouzitelny..",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-12T05:46:14-07:00",
+      "textNormalized": "tvl proc ta aplikace uz 2 mesice nefunguje a nejde se do ni prihlasit a hazi furt nejaky errory? takze musim vsechno resit pres prohlizec, protoze toto je uplne nepouzitelny..",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13840074389",
+      "userName": "JachymDvorak",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id220190935",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "I certainly hope devs of this app get replaced by AI",
+      "text": "Awful UI, buggy, constantly crashes, unintuitive. I was expecting an improvement over the old app, u make me install a new one that js just as garbage.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-12T05:33:52-07:00",
+      "textNormalized": "awful ui, buggy, constantly crashes, unintuitive. i was expecting an improvement over the old app, u make me install a new one that js just as garbage.",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13839787534",
+      "userName": "100€ charged by opodo",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id414651313",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Pomalejší",
+      "text": "Nic moc, často seká, k ničemu",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-12T03:40:12-07:00",
+      "textNormalized": "nic moc, casto seka, k nicemu",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "13839728434",
+      "userName": "Maroslavius",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id103372447",
+      "version": "3.8.0",
+      "score": 1,
+      "title": "Noční můra",
+      "text": "Už několik týdnů se nemůžu dostat do aplikace. Buď se načítá nekonečně dlouho (minuty) až to nevydržím a ukončím ji. Nebo mi po pokusu o přihlášení píše “Oops something went wrong” contact our customer support to resolve the error.  Vypnuti aplikace ani telefonu nepomáhá, ani přeinstalace aplikace. Nechápu jak si může firma jako Vodafone dovolit vypustit takhle nefunkční produkt na trh. Btw stará aplikace pro jistotu taky nejde spustit. Takže se musím hlásit do systému pouze přes prohlížeč ☠️",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-12T03:13:42-07:00",
+      "textNormalized": "uz nekolik tydnu se nemuzu dostat do aplikace. bud se nacita nekonecne dlouho (minuty) az to nevydrzim a ukoncim ji. nebo mi po pokusu o prihlaseni pise “oops something went wrong” contact our customer support to resolve the error.  vypnuti aplikace ani telefonu nepomaha, ani preinstalace aplikace. nechapu jak si muze firma jako vodafone dovolit vypustit takhle nefunkcni produkt na trh. btw stara aplikace pro jistotu taky nejde spustit. takze se musim hlasit do systemu pouze pres prohlizec ☠️",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13839433577",
       "userName": "Firga S",
@@ -4442,8 +4604,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 279,
-    "extractedAt": "2026-03-14T05:53:41.831Z",
+    "totalReviewsExtracted": 289,
+    "extractedAt": "2026-03-15T06:07:28.118Z",
     "source": "app-store"
   }
 }
