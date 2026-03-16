@@ -1,17 +1,64 @@
 {
   "ratings": {
-    "score": 2.99203,
+    "score": 2.99712,
     "totalRatings": 1,
-    "totalReviews": 1380,
+    "totalReviews": 1387,
     "histogram": {
-      "1": 537,
-      "2": 126,
+      "1": 538,
+      "2": 127,
       "3": 76,
       "4": 93,
-      "5": 548
+      "5": 553
     }
   },
   "reviews": [
+    {
+      "id": "13846752156",
+      "userName": "Profi IT",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id245650198",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Aplikace dlouhodobě mimo provoz",
+      "text": "Bohužel náš mobilní operátor Vodafone opětovně nemá funkční aplikaci a všechno se musí osobně řeči na pobočkách.\n\nPokaždé aktualizaci se musí čekat několik měsíců, než aplikace může fungovat nebo musíte osobně na pobočku, aby vám ji zprovoznili.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-14T03:55:51-07:00",
+      "textNormalized": "bohuzel nas mobilni operator vodafone opetovne nema funkcni aplikaci a vsechno se musi osobne reci na pobockach.\n\npokazde aktualizaci se musi cekat nekolik mesicu, nez aplikace muze fungovat nebo musite osobne na pobocku, aby vam ji zprovoznili.",
+      "segments": [
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "13846632044",
+      "userName": "Dinnaae",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1268890537",
+      "version": "3.9.0",
+      "score": 2,
+      "title": "Updates",
+      "text": "It asks for updates often and then it doesn’t want to start the update.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-14T03:02:35-07:00",
+      "textNormalized": "it asks for updates often and then it doesn’t want to start the update.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13846270626",
+      "userName": "Nyxmain",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id498795633",
+      "version": "3.9.0",
+      "score": 5,
+      "title": "Nic moc",
+      "text": "Aplikace je super, pokud zrovna funguje, což moc často není. Problémy s načítáním a především spousta chyb.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-14T00:10:00-07:00",
+      "textNormalized": "aplikace je super, pokud zrovna funguje, coz moc casto neni. problemy s nacitanim a predevsim spousta chyb.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "13843426823",
       "userName": "Recenze13",
@@ -4604,8 +4651,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 289,
-    "extractedAt": "2026-03-15T06:07:28.118Z",
+    "totalReviewsExtracted": 292,
+    "extractedAt": "2026-03-16T06:22:22.916Z",
     "source": "app-store"
   }
 }
