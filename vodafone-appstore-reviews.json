@@ -1,17 +1,63 @@
 {
   "ratings": {
-    "score": 2.99712,
+    "score": 2.99076,
     "totalRatings": 1,
-    "totalReviews": 1387,
+    "totalReviews": 1407,
     "histogram": {
-      "1": 538,
-      "2": 127,
+      "1": 548,
+      "2": 129,
       "3": 76,
-      "4": 93,
-      "5": 553
+      "4": 96,
+      "5": 558
     }
   },
   "reviews": [
+    {
+      "id": "13850174382",
+      "userName": "Michal Gajdošík",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1239754724",
+      "version": "3.9.0",
+      "score": 2,
+      "title": "Uzivani",
+      "text": "Presel jsem od t-mobile a aplikace vodafone je pro me hodne slaba. Jen takove limitovane info. Vodafone happy skoro nefunkcni. Nic neni poradne vysvetleno a kdyz je problem stejne musim volat na infolinku, protoze aplikace je jen lehce informativni.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-15T02:35:35-07:00",
+      "textNormalized": "presel jsem od t-mobile a aplikace vodafone je pro me hodne slaba. jen takove limitovane info. vodafone happy skoro nefunkcni. nic neni poradne vysvetleno a kdyz je problem stejne musim volat na infolinku, protoze aplikace je jen lehce informativni.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13848491682",
+      "userName": "jemitojedni",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id642864269",
+      "version": "3.9.0",
+      "score": 5,
+      "title": "Jsem spoko",
+      "text": "Spokojený, k tarifu dávají různé slevy",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-14T13:58:49-07:00",
+      "textNormalized": "spokojeny, k tarifu davaji ruzne slevy",
+      "segments": [
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13846953980",
+      "userName": "<placeholder>",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1197537655",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "zbytecne",
+      "text": "appka k nicemu, veskere nastaveni presmeruje na pomale a nefunkcni stranky",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-14T05:15:54-07:00",
+      "textNormalized": "appka k nicemu, veskere nastaveni presmeruje na pomale a nefunkcni stranky",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13846752156",
       "userName": "Profi IT",
@@ -4651,8 +4697,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 292,
-    "extractedAt": "2026-03-16T06:22:22.916Z",
+    "totalReviewsExtracted": 295,
+    "extractedAt": "2026-03-17T06:04:05.661Z",
     "source": "app-store"
   }
 }
