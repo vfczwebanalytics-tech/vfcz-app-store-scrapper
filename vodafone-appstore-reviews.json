@@ -1,17 +1,128 @@
 {
   "ratings": {
-    "score": 2.99076,
+    "score": 2.99307,
     "totalRatings": 1,
-    "totalReviews": 1407,
+    "totalReviews": 1444,
     "histogram": {
-      "1": 548,
-      "2": 129,
-      "3": 76,
-      "4": 96,
-      "5": 558
+      "1": 560,
+      "2": 133,
+      "3": 80,
+      "4": 99,
+      "5": 572
     }
   },
   "reviews": [
+    {
+      "id": "13857701300",
+      "userName": "Jenda.R",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1502511462",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Zbytečná aplikace",
+      "text": "Vyhrál jsem v Happy 3 měsíce Prima+ zdarma, ale je to jako v pohádce - výhra, jakou svět neviděl. Registrace této výhry se měla nacházet v aplikaci, ale nikde jsem ji nenašel. Takže soutěžíme o výhry, které ani neexistují",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-17T06:50:24-07:00",
+      "textNormalized": "vyhral jsem v happy 3 mesice prima+ zdarma, ale je to jako v pohadce - vyhra, jakou svet nevidel. registrace teto vyhry se mela nachazet v aplikaci, ale nikde jsem ji nenasel. takze soutezime o vyhry, ktere ani neexistuji",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13856849905",
+      "userName": "Ostapastelka54321",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1179670617",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Hrůza aplikace!",
+      "text": "Nejprve jsem šel na záchod se vyzvracet a přitom jsem od instaloval tuto noční můru aplikaci od Vodafonu absolutně nefunkční furt něco aktualizuj ho ale nefunguje to nefunguje nefunguje hrůza",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-17T00:44:47-07:00",
+      "textNormalized": "nejprve jsem sel na zachod se vyzvracet a pritom jsem od instaloval tuto nocni muru aplikaci od vodafonu absolutne nefunkcni furt neco aktualizuj ho ale nefunguje to nefunguje nefunguje hruza",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13855612874",
+      "userName": "_PaRa_",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id665355926",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Stále velký špatný",
+      "text": "Aplikace opět po aktualizaci vyžaduje vypsat jméno a heslo. Plus SMS na ověření. Ani moje internet banka není tak hloupá a pamatuje si přihlašovací údaje.  \nPlacení faktury jinou kartou je tak matoucí, že jsem zaplatil 2x jednu  fakturu. Je to zlej sen…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-16T14:50:31-07:00",
+      "textNormalized": "aplikace opet po aktualizaci vyzaduje vypsat jmeno a heslo. plus sms na overeni. ani moje internet banka neni tak hloupa a pamatuje si prihlasovaci udaje.  \nplaceni faktury jinou kartou je tak matouci, ze jsem zaplatil 2x jednu  fakturu. je to zlej sen…",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13855356701",
+      "userName": "Jayskyone",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id618155921",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Absolutně nefunkční aplikace",
+      "text": "Nerozumím, jak takhle obrovský korporát může mít svoji stěžejní aplikaci absolutně nefunkční už takovou dobu. Nerozumím tomu",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-16T13:10:05-07:00",
+      "textNormalized": "nerozumim, jak takhle obrovsky korporat muze mit svoji stezejni aplikaci absolutne nefunkcni uz takovou dobu. nerozumim tomu",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13855297430",
+      "userName": "Janq80",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id103918549",
+      "version": "3.9.0",
+      "score": 3,
+      "title": "Nic moc aplikace oproti konkurenci",
+      "text": "Aplikace nekdy pada, nebo se pomalu nacita, slevy od partneru jsou tristni a ostatni zejmena T-Mobile nabizi lepsi",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-16T12:47:41-07:00",
+      "textNormalized": "aplikace nekdy pada, nebo se pomalu nacita, slevy od partneru jsou tristni a ostatni zejmena t-mobile nabizi lepsi",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13851801050",
+      "userName": "TenOst....",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id722600398",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Hnus",
+      "text": "aplikace neustále odhlašuje ! Nejde se skoto přihlásit bez hesla,které chtějí velké písmeno a speciální znak ! \nFace id mi funguje tak 2x do roka ! ( do aplice se přihlašuji 2x měsíčně )! U Banky, atd bych pochopil ale tady opravdu zybtečně a smutné !",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-15T12:11:31-07:00",
+      "textNormalized": "aplikace neustale odhlasuje ! nejde se skoto prihlasit bez hesla,ktere chteji velke pismeno a specialni znak ! \nface id mi funguje tak 2x do roka ! ( do aplice se prihlasuji 2x mesicne )! u banky, atd bych pochopil ale tady opravdu zybtecne a smutne !",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13851792986",
+      "userName": "KL0KANEK",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id414242929",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Stará aplikace byla stokrát lepší",
+      "text": "Spousta chyb",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-15T12:08:37-07:00",
+      "textNormalized": "spousta chyb",
+      "segments": [
+        "Stabilita"
+      ]
+    },
     {
       "id": "13850174382",
       "userName": "Michal Gajdošík",
@@ -4697,8 +4808,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 295,
-    "extractedAt": "2026-03-18T06:06:33.375Z",
+    "totalReviewsExtracted": 302,
+    "extractedAt": "2026-03-19T06:02:28.968Z",
     "source": "app-store"
   }
 }
