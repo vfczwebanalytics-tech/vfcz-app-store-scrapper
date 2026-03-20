@@ -1,17 +1,49 @@
 {
   "ratings": {
-    "score": 2.99307,
+    "score": 2.9856,
     "totalRatings": 1,
-    "totalReviews": 1444,
+    "totalReviews": 1458,
     "histogram": {
-      "1": 560,
+      "1": 569,
       "2": 133,
-      "3": 80,
-      "4": 99,
-      "5": 572
+      "3": 81,
+      "4": 100,
+      "5": 575
     }
   },
   "reviews": [
+    {
+      "id": "13861306624",
+      "userName": "Věrný byť nas*aný zákazník",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id273822630",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Nefunkční appka",
+      "text": "Každý měsíc mě bombardujete skrze sms abych zaplatil vyúčtování, které ještě ani není splatné. Poté co jej zaplatím mi přijde 3-5 zpráv o tom, že jsem zaplatil. Každý půlrok si pak řeknete, že by bylo fajn nahrabat zase nějaký ty korunky tím, že uděláte novou aplikaci. Fajn, všichni si rádi stahujeme zbytečné aplikace stále dokola, jenže každá vaše aplikace je horší než ta předchozí, a tato poslední sra*ka mě ani nepustí abych to zas*aný vyúčtování zaplatil a stále hlásí nějakou chybu. Jděte s těma appkama do zadele, zaplatťe si to sami, když o moje prašulky očividně nestojíte, nebo nevím proč děláte vše co jde pro to, abych nezaplatil.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-18T07:42:51-07:00",
+      "textNormalized": "kazdy mesic me bombardujete skrze sms abych zaplatil vyuctovani, ktere jeste ani neni splatne. pote co jej zaplatim mi prijde 3-5 zprav o tom, ze jsem zaplatil. kazdy pulrok si pak reknete, ze by bylo fajn nahrabat zase nejaky ty korunky tim, ze udelate novou aplikaci. fajn, vsichni si radi stahujeme zbytecne aplikace stale dokola, jenze kazda vase aplikace je horsi nez ta predchozi, a tato posledni sra*ka me ani nepusti abych to zas*any vyuctovani zaplatil a stale hlasi nejakou chybu. jdete s tema appkama do zadele, zaplatte si to sami, kdyz o moje prasulky ocividne nestojite, nebo nevim proc delate vse co jde pro to, abych nezaplatil.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13860738363",
+      "userName": "Smou1a",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1254017066",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Nespustí se",
+      "text": "Při zapnutí do sekundy spadne. Reinstall nepomůže.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-18T04:22:02-07:00",
+      "textNormalized": "pri zapnuti do sekundy spadne. reinstall nepomuze.",
+      "segments": [
+        "Stabilita"
+      ]
+    },
     {
       "id": "13857701300",
       "userName": "Jenda.R",
@@ -4808,8 +4840,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 302,
-    "extractedAt": "2026-03-19T06:02:28.968Z",
+    "totalReviewsExtracted": 304,
+    "extractedAt": "2026-03-20T05:59:07.625Z",
     "source": "app-store"
   }
 }
