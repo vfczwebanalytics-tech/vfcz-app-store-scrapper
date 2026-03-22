@@ -1,17 +1,52 @@
 {
   "ratings": {
-    "score": 2.98085,
+    "score": 2.99192,
     "totalRatings": 1,
-    "totalReviews": 1462,
+    "totalReviews": 1485,
     "histogram": {
-      "1": 572,
-      "2": 134,
-      "3": 81,
-      "4": 100,
-      "5": 575
+      "1": 576,
+      "2": 136,
+      "3": 84,
+      "4": 102,
+      "5": 587
     }
   },
   "reviews": [
+    {
+      "id": "13865779133",
+      "userName": "Pospiond",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1156971055",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Spatny",
+      "text": "Absolutni silenost. Nejde mi se prihlasit, kdyz zadam user name a heslo, tak mi ma prijit sms s kodem, ktery mi nikdy neprijde. Podpora si s tim nevi rady, robot k nicemu. Takze nemuzu zaplatit vyuctovani, zrychlit internet, cerpat bonusy. No proste velka nespokojenost.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-19T14:01:24-07:00",
+      "textNormalized": "absolutni silenost. nejde mi se prihlasit, kdyz zadam user name a heslo, tak mi ma prijit sms s kodem, ktery mi nikdy neprijde. podpora si s tim nevi rady, robot k nicemu. takze nemuzu zaplatit vyuctovani, zrychlit internet, cerpat bonusy. no proste velka nespokojenost.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13865346220",
+      "userName": "Aleš134",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1439129869",
+      "version": "3.9.0",
+      "score": 5,
+      "title": "Recenze",
+      "text": "Nejprve to byl trochu oříšek, ale nyní už je pro mě přehledná a skvělá.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-19T11:12:12-07:00",
+      "textNormalized": "nejprve to byl trochu orisek, ale nyni uz je pro me prehledna a skvela.",
+      "segments": [
+        "UI"
+      ]
+    },
     {
       "id": "13861306624",
       "userName": "Věrný byť nas*aný zákazník",
@@ -4840,8 +4875,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 304,
-    "extractedAt": "2026-03-21T05:49:22.853Z",
+    "totalReviewsExtracted": 306,
+    "extractedAt": "2026-03-22T05:58:28.130Z",
     "source": "app-store"
   }
 }
