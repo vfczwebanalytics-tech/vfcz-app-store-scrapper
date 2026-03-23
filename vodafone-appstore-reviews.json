@@ -1,17 +1,50 @@
 {
   "ratings": {
-    "score": 2.99192,
+    "score": 2.9933,
     "totalRatings": 1,
-    "totalReviews": 1485,
+    "totalReviews": 1492,
     "histogram": {
-      "1": 576,
-      "2": 136,
+      "1": 578,
+      "2": 137,
       "3": 84,
-      "4": 102,
-      "5": 587
+      "4": 103,
+      "5": 590
     }
   },
   "reviews": [
+    {
+      "id": "13870674160",
+      "userName": "Prorock a ja",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1425898165",
+      "version": "3.9.0",
+      "score": 2,
+      "title": "Propad",
+      "text": "Tak tohle je krok dozadu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-21T00:43:49-07:00",
+      "textNormalized": "tak tohle je krok dozadu.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13870107627",
+      "userName": "Profi IT",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id245650198",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Nefunguje",
+      "text": "Opětovně nefunguje. Aplikaci programoval puberťák doma z garáže. Proč nemá Vodafone funkční aplikaci? Proč musíme s každým požadavkem na prodejnu? U 02 nemusíte.\n\nProč je nutné 3 faktorové zabezpečení, abych jim mohl zaplatit fakturu. Mají desítky tisíc dlužníků, protože je nemožné dostat se k platebním údajům. Toto opravdu nevymyslíš. Heslo nenastavíš, je ti přiděleno.\n\nNejhorší aplikace na evropském trhu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-20T20:04:29-07:00",
+      "textNormalized": "opetovne nefunguje. aplikaci programoval pubertak doma z garaze. proc nema vodafone funkcni aplikaci? proc musime s kazdym pozadavkem na prodejnu? u 02 nemusite.\n\nproc je nutne 3 faktorove zabezpeceni, abych jim mohl zaplatit fakturu. maji desitky tisic dluzniku, protoze je nemozne dostat se k platebnim udajum. toto opravdu nevymyslis. heslo nenastavis, je ti prideleno.\n\nnejhorsi aplikace na evropskem trhu.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "13865779133",
       "userName": "Pospiond",
@@ -4875,8 +4908,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 306,
-    "extractedAt": "2026-03-22T05:58:28.130Z",
+    "totalReviewsExtracted": 308,
+    "extractedAt": "2026-03-23T06:13:20.161Z",
     "source": "app-store"
   }
 }
