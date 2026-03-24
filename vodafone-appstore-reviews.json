@@ -1,17 +1,65 @@
 {
   "ratings": {
-    "score": 2.9933,
+    "score": 3.00598,
     "totalRatings": 1,
-    "totalReviews": 1492,
+    "totalReviews": 1504,
     "histogram": {
       "1": 578,
       "2": 137,
-      "3": 84,
-      "4": 103,
-      "5": 590
+      "3": 86,
+      "4": 104,
+      "5": 599
     }
   },
   "reviews": [
+    {
+      "id": "13875614249",
+      "userName": "BlackFoxCZ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id430386846",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Klasika",
+      "text": "Klasická jednosměrná aplikace od poskytovatele služeb. Pro základní použití bez nutnosti řešení problémů je vyhovující. Pokud však potřebujete řešit například reklamaci vyúčtování, tuto možnost jsem v aplikaci nenašel. Naopak platební funkce je výrazně a přehledně zpracovaná – tlačítko pro platbu je dostatečně velké a snadno dostupné. \nNeni tady tlacitko odpovedet  dalsi klasika :D",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-22T09:20:42-07:00",
+      "textNormalized": "klasicka jednosmerna aplikace od poskytovatele sluzeb. pro zakladni pouziti bez nutnosti reseni problemu je vyhovujici. pokud vsak potrebujete resit napriklad reklamaci vyuctovani, tuto moznost jsem v aplikaci nenasel. naopak platebni funkce je vyrazne a prehledne zpracovana – tlacitko pro platbu je dostatecne velke a snadno dostupne. \nneni tady tlacitko odpovedet  dalsi klasika :d",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13874346636",
+      "userName": "ekokit",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id517314511",
+      "version": "3.9.0",
+      "score": 2,
+      "title": "Strašná grafika",
+      "text": "Jak pro děti. Samá reklama, pořád je potřeba se přihlašovat. No když to shrnu, máte co dohánět za konkurencí. ☝️",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-22T01:27:40-07:00",
+      "textNormalized": "jak pro deti. sama reklama, porad je potreba se prihlasovat. no kdyz to shrnu, mate co dohanet za konkurenci. ☝️",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13872698644",
+      "userName": "Snehurkaify",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1753068677",
+      "version": "3.9.0",
+      "score": 3,
+      "title": "O 1 krok vpřed",
+      "text": "Děs, běs.. Možná jen trochu přehlednější, než předchozí verze.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-21T13:06:56-07:00",
+      "textNormalized": "des, bes.. mozna jen trochu prehlednejsi, nez predchozi verze.",
+      "segments": [
+        "UI"
+      ]
+    },
     {
       "id": "13870674160",
       "userName": "Prorock a ja",
@@ -4908,8 +4956,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 308,
-    "extractedAt": "2026-03-23T06:13:20.161Z",
+    "totalReviewsExtracted": 311,
+    "extractedAt": "2026-03-24T06:04:12.048Z",
     "source": "app-store"
   }
 }
