@@ -1,17 +1,35 @@
 {
   "ratings": {
-    "score": 3.00598,
+    "score": 3.00264,
     "totalRatings": 1,
-    "totalReviews": 1504,
+    "totalReviews": 1513,
     "histogram": {
-      "1": 578,
-      "2": 137,
+      "1": 583,
+      "2": 138,
       "3": 86,
       "4": 104,
-      "5": 599
+      "5": 602
     }
   },
   "reviews": [
+    {
+      "id": "13877907009",
+      "userName": "Mruvca",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1435742212",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Nelze se přihlásit",
+      "text": "Po novém updatu se nelze vůbec přihlásit. Nefunguje appka\n\nIt was thrash before… I wrote about the problem, one month ago. Nobody fixes the problem. Only talking about updating the application. Idk who works there. But if our team, was not able to solve this problem for this long. They would have been fired… \nThe app is worse than before and with every update actually worse and worse. God bless the O2 app, maybe you should contact them, if they would make one for you.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-23T02:13:08-07:00",
+      "textNormalized": "po novem updatu se nelze vubec prihlasit. nefunguje appka\n\nit was thrash before… i wrote about the problem, one month ago. nobody fixes the problem. only talking about updating the application. idk who works there. but if our team, was not able to solve this problem for this long. they would have been fired… \nthe app is worse than before and with every update actually worse and worse. god bless the o2 app, maybe you should contact them, if they would make one for you.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "13875614249",
       "userName": "BlackFoxCZ",
@@ -4956,8 +4974,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 311,
-    "extractedAt": "2026-03-24T06:04:12.048Z",
+    "totalReviewsExtracted": 312,
+    "extractedAt": "2026-03-25T06:05:29.603Z",
     "source": "app-store"
   }
 }
