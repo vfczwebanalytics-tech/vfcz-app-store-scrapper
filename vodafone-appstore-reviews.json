@@ -1,17 +1,82 @@
 {
   "ratings": {
-    "score": 3.00264,
+    "score": 3.01694,
     "totalRatings": 1,
-    "totalReviews": 1513,
+    "totalReviews": 1535,
     "histogram": {
-      "1": 583,
-      "2": 138,
-      "3": 86,
-      "4": 104,
-      "5": 602
+      "1": 584,
+      "2": 140,
+      "3": 91,
+      "4": 106,
+      "5": 614
     }
   },
   "reviews": [
+    {
+      "id": "13884522377",
+      "userName": "Abakan21",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1213791776",
+      "version": "3.9.0",
+      "score": 2,
+      "title": "Je to to samý",
+      "text": "Skoro se nic nezměnilo, rychlost možná jenom. Akce ke 20. narozeninám nefunguje jak má, napsáno každý týden a když tam klikneš tak ti to píše už jste to vyzvedli. Aplikace samotná user friendly není, spousta věcí se nedá najít rychle, ale reklama hned na začátku",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-25T00:04:49-07:00",
+      "textNormalized": "skoro se nic nezmenilo, rychlost mozna jenom. akce ke 20. narozeninam nefunguje jak ma, napsano kazdy tyden a kdyz tam kliknes tak ti to pise uz jste to vyzvedli. aplikace samotna user friendly neni, spousta veci se neda najit rychle, ale reklama hned na zacatku",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13882156416",
+      "userName": "Marttnett",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1779326455",
+      "version": "3.9.0",
+      "score": 5,
+      "title": "Live si Google",
+      "text": "Perfect 👌",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-24T07:41:10-07:00",
+      "textNormalized": "perfect 👌",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13882138037",
+      "userName": "K********A",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id413400948",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Aplikace na prd",
+      "text": "Aplikace se seká, dlouho načítá, třikrát ověření při spuštění.. když mám evidentně problém s internetem a externí stránka mi hlásí problém, tak dle aplikace je rychlost wifi v pořádku…u konkurence byla aplikace mnohem kvalitnější",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-24T07:35:06-07:00",
+      "textNormalized": "aplikace se seka, dlouho nacita, trikrat overeni pri spusteni.. kdyz mam evidentne problem s internetem a externi stranka mi hlasi problem, tak dle aplikace je rychlost wifi v poradku…u konkurence byla aplikace mnohem kvalitnejsi",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13881137807",
+      "userName": "Jeanovka",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id514786504",
+      "version": "3.9.0",
+      "score": 3,
+      "title": "Overview +, Vodafone Happy is very sad😔",
+      "text": "Active rewards I can see only after they expire so it’s meaningless… SMS only announce you have voucher  ssomewhere but I can’t get them.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-24T00:47:41-07:00",
+      "textNormalized": "active rewards i can see only after they expire so it’s meaningless… sms only announce you have voucher  ssomewhere but i can’t get them.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "13877907009",
       "userName": "Mruvca",
@@ -4974,8 +5039,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 312,
-    "extractedAt": "2026-03-26T06:15:03.492Z",
+    "totalReviewsExtracted": 316,
+    "extractedAt": "2026-03-27T06:15:27.996Z",
     "source": "app-store"
   }
 }
