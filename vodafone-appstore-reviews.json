@@ -1,17 +1,48 @@
 {
   "ratings": {
-    "score": 3.01694,
+    "score": 3.0227,
     "totalRatings": 1,
-    "totalReviews": 1535,
+    "totalReviews": 1542,
     "histogram": {
-      "1": 584,
-      "2": 140,
+      "1": 586,
+      "2": 139,
       "3": 91,
       "4": 106,
-      "5": 614
+      "5": 620
     }
   },
   "reviews": [
+    {
+      "id": "13890234691",
+      "userName": "aplaus22",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id475210539",
+      "version": "3.9.0",
+      "score": 5,
+      "title": "B",
+      "text": "H",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-26T13:37:22-07:00",
+      "textNormalized": "h",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13886613898",
+      "userName": "boffik",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1387023925",
+      "version": "3.9.0",
+      "score": 1,
+      "title": "Appka",
+      "text": "VEČNĚ TA APLIKACE NEFUNGUJE",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-25T13:24:48-07:00",
+      "textNormalized": "vecne ta aplikace nefunguje",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "13884522377",
       "userName": "Abakan21",
@@ -5039,8 +5070,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 316,
-    "extractedAt": "2026-03-27T06:15:27.996Z",
+    "totalReviewsExtracted": 318,
+    "extractedAt": "2026-03-28T06:01:52.578Z",
     "source": "app-store"
   }
 }
