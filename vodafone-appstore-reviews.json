@@ -1,17 +1,159 @@
 {
   "ratings": {
-    "score": 3.0268,
+    "score": 3.02795,
     "totalRatings": 1,
-    "totalReviews": 1567,
+    "totalReviews": 1574,
     "histogram": {
-      "1": 593,
+      "1": 596,
       "2": 142,
       "3": 93,
       "4": 108,
-      "5": 631
+      "5": 635
     }
   },
   "reviews": [
+    {
+      "id": "13906673390",
+      "userName": "V.B.27",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id645905057",
+      "version": "3.10.0",
+      "score": 1,
+      "title": "Naprostá nespokojenost",
+      "text": "Tahle aplikace je jeden velký nesmysl :)) Je velmi nepřehledná, zbytečně komplikovaná a vlastně přes ni nevyřešíte nic, co je třeba. Chatbot Vám s ničím neporadí, ikonky jsou poskládáný naprosto neorganizovaně a o přihlášení ani nemluvím. Velký palec dolů za to, že tohle opravdu někdo odsouhlasil, přijde mi to až smutné, že takhle velká firma jako je Vodafone si na aplikaci nenechá vůbec záležet. Recenze běžně nepíšu, ale z této aplikace jsem tak znechucená, že jsem opravdu musela. Psáno člověkem, kterému je 25 let.... co pak ti chudáci z trochu starší generace :)) (přestoupila jsem od t-mobile, kde aplikace fungovala mnohem lépe)",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-31T05:00:28-07:00",
+      "textNormalized": "tahle aplikace je jeden velky nesmysl :)) je velmi neprehledna, zbytecne komplikovana a vlastne pres ni nevyresite nic, co je treba. chatbot vam s nicim neporadi, ikonky jsou poskladany naprosto neorganizovane a o prihlaseni ani nemluvim. velky palec dolu za to, ze tohle opravdu nekdo odsouhlasil, prijde mi to az smutne, ze takhle velka firma jako je vodafone si na aplikaci nenecha vubec zalezet. recenze bezne nepisu, ale z teto aplikace jsem tak znechucena, ze jsem opravdu musela. psano clovekem, kteremu je 25 let.... co pak ti chudaci z trochu starsi generace :)) (prestoupila jsem od t-mobile, kde aplikace fungovala mnohem lepe)",
+      "segments": [
+        "UI",
+        "Prihlaseni",
+        "Cena"
+      ]
+    },
+    {
+      "id": "13904619220",
+      "userName": "Julijad1",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id409327237",
+      "version": "3.10.0",
+      "score": 1,
+      "title": "Nová nepovedená aplikace",
+      "text": "Nesnáším tuhle aplikaci, zdá se mi, že jsou ty aplikace od V horší a horší..chybovost, častokrát ji člověk musí smazat a znovu stáhnout (i dle doporučení na lince apod.), nepřehlednost.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-30T13:21:13-07:00",
+      "textNormalized": "nesnasim tuhle aplikaci, zda se mi, ze jsou ty aplikace od v horsi a horsi..chybovost, castokrat ji clovek musi smazat a znovu stahnout (i dle doporuceni na lince apod.), neprehlednost.",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13903388334",
+      "userName": "xoDBxo",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id42243691",
+      "version": "3.10.0",
+      "score": 1,
+      "title": "Reklamy",
+      "text": "V aplikaci se zobrazují bannery s reklamama a nejhorší jsou ty s hrozně vypadajícíma lidma. Kdo se má koukat na ty vytlemený xichty hned po otevření aplikace!! Dejte ty bannery někam na spod nebo možnost tu sekci schovat, na webu se na mě taky nesměje nějakej xicht neustále \"stačí říct\" tak říkám a ono nic!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-30T06:20:46-07:00",
+      "textNormalized": "v aplikaci se zobrazuji bannery s reklamama a nejhorsi jsou ty s hrozne vypadajicima lidma. kdo se ma koukat na ty vytlemeny xichty hned po otevreni aplikace!! dejte ty bannery nekam na spod nebo moznost tu sekci schovat, na webu se na me taky nesmeje nejakej xicht neustale \"staci rict\" tak rikam a ono nic!",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13899860603",
+      "userName": "Michal Dobeš",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1137065309",
+      "version": "3.10.0",
+      "score": 1,
+      "title": "Horsi nez Muj Vodafone",
+      "text": "Jeste horsi nez predesla aplikace. To, ze me to neustale odhlasuje je snad ten nejmensi problem. Nejdou jednorazove zrychlit data (a pokud jdou tak jsou tak skryte, ze to nejde najit). Aplikace ani nerespektuje nastaveni z webu - nastaveni prvni zobrazene sluzby.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-29T06:23:31-07:00",
+      "textNormalized": "jeste horsi nez predesla aplikace. to, ze me to neustale odhlasuje je snad ten nejmensi problem. nejdou jednorazove zrychlit data (a pokud jdou tak jsou tak skryte, ze to nejde najit). aplikace ani nerespektuje nastaveni z webu - nastaveni prvni zobrazene sluzby.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13898901320",
+      "userName": "Johny.re",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1826810627",
+      "version": "3.10.0",
+      "score": 1,
+      "title": "Katastrofa",
+      "text": "Nepamatuje se prihlaseni, porad se odhlasuje.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-28T23:38:49-07:00",
+      "textNormalized": "nepamatuje se prihlaseni, porad se odhlasuje.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13897632428",
+      "userName": "LibKuc",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1041044433",
+      "version": "3.10.0",
+      "score": 5,
+      "title": "Libor Kučera",
+      "text": "Konečne svěží appka",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-28T14:19:27-07:00",
+      "textNormalized": "konecne svezi appka",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13897380887",
+      "userName": "Centrio",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id42317774",
+      "version": "3.10.0",
+      "score": 2,
+      "title": "Pomalé",
+      "text": "Aplikace je extrémně pomalá. Běžné věci by mělo být možné vyřídit rychle na pár kliknutí. Místo toho app načítá celé stránky, velké množství dat a je příšerně pomalá.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-28T12:42:34-07:00",
+      "textNormalized": "aplikace je extremne pomala. bezne veci by melo byt mozne vyridit rychle na par kliknuti. misto toho app nacita cele stranky, velke mnozstvi dat a je priserne pomala.",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "13892390137",
+      "userName": "Vennom_112",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1289090008",
+      "version": "3.10.0",
+      "score": 2,
+      "title": "Nic nefunguje",
+      "text": "Ať kliknu na cokoliv, tak to hází chybu. Absolutně nepoužitelný.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-27T05:33:17-07:00",
+      "textNormalized": "at kliknu na cokoliv, tak to hazi chybu. absolutne nepouzitelny.",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13891665404",
+      "userName": "TR 87",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1692597472",
+      "version": "3.10.0",
+      "score": 1,
+      "title": "Nefungující platby",
+      "text": "Nelze zaplatit přes platební metodu v aplikaci. Žádná chybová hláška či nějaká informace pro uživatele. \nDále tvrdí že podporují apple pay, ale klamne. Není možné změnit výběr platební metody.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-03-27T00:14:26-07:00",
+      "textNormalized": "nelze zaplatit pres platebni metodu v aplikaci. zadna chybova hlaska ci nejaka informace pro uzivatele. \ndale tvrdi ze podporuji apple pay, ale klamne. neni mozne zmenit vyber platebni metody.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13890234691",
       "userName": "aplaus22",
@@ -5070,8 +5212,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 318,
-    "extractedAt": "2026-04-01T06:49:19.107Z",
+    "totalReviewsExtracted": 327,
+    "extractedAt": "2026-04-02T06:14:34.057Z",
     "source": "app-store"
   }
 }
