@@ -4,14 +4,142 @@
     "totalRatings": 1,
     "totalReviews": 1635,
     "histogram": {
-      "1": 612,
-      "2": 146,
+      "1": 614,
+      "2": 147,
       "3": 94,
       "4": 113,
       "5": 670
     }
   },
   "reviews": [
+    {
+      "id": "13964663298",
+      "userName": "George CZ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id481513146",
+      "version": "3.11.0",
+      "score": 2,
+      "title": "Výchozí služba",
+      "text": "Nelze nastavit výchozí službu a číslo. Když máte 50 čísel, tak potřebujete nastavit to své jako první a to bohužel nelze. U propojených účtů taky nelze změnit prioritu zobrazení. 😠",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-16T10:50:30-07:00",
+      "textNormalized": "nelze nastavit vychozi sluzbu a cislo. kdyz mate 50 cisel, tak potrebujete nastavit to sve jako prvni a to bohuzel nelze. u propojenych uctu taky nelze zmenit prioritu zobrazeni. 😠",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13964480393",
+      "userName": "Slovo5",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id85255093",
+      "version": "3.11.0",
+      "score": 1,
+      "title": "Ostuda",
+      "text": "Naprosto nepochopitelné že taková společnost jako vodafone nezvládne udělat apku aby fungovala, popřípadě byla optimalizovaná pro různé zařízení. Podpora pro ipad už byla asi moc. Ostuda",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-16T09:44:01-07:00",
+      "textNormalized": "naprosto nepochopitelne ze takova spolecnost jako vodafone nezvladne udelat apku aby fungovala, popripade byla optimalizovana pro ruzne zarizeni. podpora pro ipad uz byla asi moc. ostuda",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "13963107790",
+      "userName": "Xadros",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id111384895",
+      "version": "3.11.0",
+      "score": 1,
+      "title": "Extrém",
+      "text": "Pokud by byla nějaká soutěž o nejhorší aplikaci tak vodafone by to s přehledem vyhrál už několik let. Ani tahle aplikace v novější verzi tomu vůbec nepomohla. Takové složité UI peklo, se spoustou podstránek rozdílných formátu, to se jen tak nevidí. Opravdu bych si přál dělat zakázky pro vodafone protože jestli jim nevadí tohle už několik let tak jak to tam musí vypadat… Existuje vůbec horší dev firma?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-16T01:00:09-07:00",
+      "textNormalized": "pokud by byla nejaka soutez o nejhorsi aplikaci tak vodafone by to s prehledem vyhral uz nekolik let. ani tahle aplikace v novejsi verzi tomu vubec nepomohla. takove slozite ui peklo, se spoustou podstranek rozdilnych formatu, to se jen tak nevidi. opravdu bych si pral delat zakazky pro vodafone protoze jestli jim nevadi tohle uz nekolik let tak jak to tam musi vypadat… existuje vubec horsi dev firma?",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "13959833653",
+      "userName": "Dera00",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1248599491",
+      "version": "3.11.0",
+      "score": 1,
+      "title": "Strašný, nejradši bych zahodil telefon.",
+      "text": "Jestli je záměr co nejvíce znechutit zákazníkovi placení, tak je tohle fakt povedený.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-15T02:26:30-07:00",
+      "textNormalized": "jestli je zamer co nejvice znechutit zakaznikovi placeni, tak je tohle fakt povedeny.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13956116878",
+      "userName": "Jenda.R",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1502511462",
+      "version": "3.11.0",
+      "score": 1,
+      "title": "Funguje???",
+      "text": "Tak jsem si přes aplikaci zrychlil data, ale vůbec nevím, zda ke zrychlení došlo. V tarifu mám rychlost dat 20 MB, po zrychlení na maximálním signálu 5G mi měření aplikace ukazuje průměrnou rychlost necelých 20 MB. Potvrzovací SMS jsem taky nedostal. Takže vůbec nevím, jestli ta aplikace funguje",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-13T23:53:23-07:00",
+      "textNormalized": "tak jsem si pres aplikaci zrychlil data, ale vubec nevim, zda ke zrychleni doslo. v tarifu mam rychlost dat 20 mb, po zrychleni na maximalnim signalu 5g mi mereni aplikace ukazuje prumernou rychlost necelych 20 mb. potvrzovaci sms jsem taky nedostal. takze vubec nevim, jestli ta aplikace funguje",
+      "segments": [
+        "Vykonnost",
+        "Prihlaseni",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "13952729910",
+      "userName": "kopolotop",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id350899834",
+      "version": "3.11.0",
+      "score": 1,
+      "title": "Hruza",
+      "text": "Nepamatuje si ulozene heslo. Tragicka app. Ux strasne",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-13T00:16:32-07:00",
+      "textNormalized": "nepamatuje si ulozene heslo. tragicka app. ux strasne",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13952667696",
+      "userName": "Alalalafrfr",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id488526158",
+      "version": "3.11.0",
+      "score": 2,
+      "title": "Problems with access",
+      "text": "This app is extremely frustrating. I cannot log in to my account to pay for mobile services. Every time I enter my email and password, I get “connection lost” error.\n\nAlso, I really do not understand why I have to log in again and again. Why can’t I stay logged in permanently like in most modern apps? Because of this constant logout, I sometimes miss payments and end up paying more than necessary.\n\nThe new app was actually better than the old one at first, but now basic functionality like logging in simply does not work.\n\nThis is a mobile operator app. Reliable access to account and payments is not optional, it is essential. Please fix login stability and stop forcing users to log in every time.\n\nVery disappointing experience.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-12T23:42:21-07:00",
+      "textNormalized": "this app is extremely frustrating. i cannot log in to my account to pay for mobile services. every time i enter my email and password, i get “connection lost” error.\n\nalso, i really do not understand why i have to log in again and again. why can’t i stay logged in permanently like in most modern apps? because of this constant logout, i sometimes miss payments and end up paying more than necessary.\n\nthe new app was actually better than the old one at first, but now basic functionality like logging in simply does not work.\n\nthis is a mobile operator app. reliable access to account and payments is not optional, it is essential. please fix login stability and stop forcing users to log in every time.\n\nvery disappointing experience.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13949415086",
+      "userName": "Kgsdhjjcdfhbgssvkkg",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id429144815",
+      "version": "3.11.0",
+      "score": 1,
+      "title": "Bída s nouzí",
+      "text": "Takove to normalni přihlášení pres telefoni cislo a svoje heslo uz nehrozi! Uz si hrajou na neco vic hogofogo, takze je potreba nově email a heslo o 20ti znacich v tom 8specialnich znaku a 4cisla. Asi aby si ho nikdo nepamatoval a aby mi tam naaahodou nekdo nevlezl a nezaplatil za me ucet, to by me nastvalo!! No aplikace k nicemu uz ji pouzivat nebudu!!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-12T01:59:43-07:00",
+      "textNormalized": "takove to normalni prihlaseni pres telefoni cislo a svoje heslo uz nehrozi! uz si hrajou na neco vic hogofogo, takze je potreba nove email a heslo o 20ti znacich v tom 8specialnich znaku a 4cisla. asi aby si ho nikdo nepamatoval a aby mi tam naaahodou nekdo nevlezl a nezaplatil za me ucet, to by me nastvalo!! no aplikace k nicemu uz ji pouzivat nebudu!!",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "13942242491",
       "userName": "App Store přezdívka",
@@ -5451,8 +5579,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 342,
-    "extractedAt": "2026-04-17T06:59:58.985Z",
+    "totalReviewsExtracted": 350,
+    "extractedAt": "2026-04-18T06:15:33.810Z",
     "source": "app-store"
   }
 }
