@@ -12,7 +12,6 @@ function removeDiacritics(text = "") {
 const mainAppId = 1621276337; // Můj Vodafone+
 const secondAppId = 509838162; // stará appka
 const country = "cz";
-
 const dataFile = "vodafone-appstore-reviews.json";
 const backupFile = "vodafone-appstore-reviews (copy).json";
 
@@ -33,13 +32,9 @@ async function main() {
       const raw = fs.readFileSync(dataFile, "utf-8");
       const parsed = JSON.parse(raw);
       existingReviews = parsed.reviews || [];
-      console.log(
-        `ℹ️ Načítaných ${existingReviews.length} existujúcich recenzií`,
-      );
+      console.log(`ℹ️ Načítaných ${existingReviews.length} existujúcich recenzií`);
     } catch (err) {
-      console.warn(
-        "⚠️ Chyba pri načítaní existujúceho súboru, začíname od nuly",
-      );
+      console.warn("⚠️ Chyba pri načítaní existujúceho súboru, začíname od nuly");
       existingReviews = [];
     }
   }
@@ -62,7 +57,6 @@ async function main() {
   const newProcessed = newUniqueReviews.map((review) => {
     const originalText = review.text || "";
     const normalizedText = removeDiacritics(originalText).toLowerCase();
-
     return {
       id: review.id,
       userName: review.userName,
@@ -78,8 +72,15 @@ async function main() {
     };
   });
 
-  // === Spojenie – nové recenzie hore, existujúce dole ===
-  const allReviews = [...newProcessed, ...existingReviews];
+  // 🔧 FIX: Use Map to merge — prevents review count from dropping.
+  //         New reviews take precedence so updated content is always fresh.
+  const mergedMap = new Map();
+  [...existingReviews, ...newProcessed].forEach((r) => mergedMap.set(r.id, r));
+  const allReviews = Array.from(mergedMap.values()).sort(
+    (a, b) => new Date(b.updated) - new Date(a.updated)
+  );
+
+  console.log(`📊 Total reviews after merge: ${allReviews.length}`);
 
   // === Info o appke ===
   const appData = await store.app({ id: mainAppId, ratings: true, country });
@@ -101,7 +102,6 @@ async function main() {
   };
 
   fs.writeFileSync(dataFile, JSON.stringify(output, null, 2));
-
   console.log(`📄 Výstup uložený do: ${dataFile}`);
   console.log("✅ Segmentácia a doplnenie nových recenzií dokončené!");
 }
