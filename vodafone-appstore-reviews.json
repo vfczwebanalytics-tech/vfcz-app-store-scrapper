@@ -1,17 +1,94 @@
 {
   "ratings": {
-    "score": 3.05974,
+    "score": 3.06213,
     "totalRatings": 1,
     "totalReviews": 1674,
     "histogram": {
-      "1": 623,
+      "1": 622,
       "2": 149,
       "3": 96,
       "4": 117,
-      "5": 689
+      "5": 690
     }
   },
   "reviews": [
+    {
+      "id": "13991571703",
+      "userName": "Kennybrahhh666",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id509053515",
+      "version": "3.11.0",
+      "score": 1,
+      "title": "Nejhorší",
+      "text": "Nejhorší aplikace… zaručený recept jak zákazníkům zhoršit život. I přes zapnuté biometrické přihlašování musím neustále zadávat heslo a ověřovat kódem z sms…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-24T04:26:16-07:00",
+      "textNormalized": "nejhorsi aplikace… zaruceny recept jak zakaznikum zhorsit zivot. i pres zapnute biometricke prihlasovani musim neustale zadavat heslo a overovat kodem z sms…",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "13989587241",
+      "userName": "Honza12106",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id421620851",
+      "version": "3.11.0",
+      "score": 1,
+      "title": "Recenze",
+      "text": "Proboha, proč mě ta aplikace neustále odhlašuje? Aplikace pomalá, neustálá potřeba odhlašovat… ostuda. :( :)",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-23T12:37:30-07:00",
+      "textNormalized": "proboha, proc me ta aplikace neustale odhlasuje? aplikace pomala, neustala potreba odhlasovat… ostuda. :( :)",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "13987429868",
+      "userName": "Jitřní záře",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id582831962",
+      "version": "3.11.0",
+      "score": 1,
+      "title": "Nelze se přihlásit",
+      "text": "Nová aplikace nelze se přihlásit !",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-22T21:54:56-07:00",
+      "textNormalized": "nova aplikace nelze se prihlasit !",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "13980873709",
+      "userName": "Jakeš",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id533489119",
+      "version": "3.11.0",
+      "score": 1,
+      "title": "Aplikace",
+      "text": "Nechapu jak dokážete udelat jestli horsi aplikaci nez jste měli dřív, Kocourkov docela 😂",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-21T00:58:02-07:00",
+      "textNormalized": "nechapu jak dokazete udelat jestli horsi aplikaci nez jste meli driv, kocourkov docela 😂",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "13978264644",
+      "userName": "Johnns23",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id504592536",
+      "version": "3.11.0",
+      "score": 3,
+      "title": "Nejdou dobit data",
+      "text": "Nejde dobit data skrze appku, vzdy pise ze nelze nacitat vodafone plus.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-20T06:31:09-07:00",
+      "textNormalized": "nejde dobit data skrze appku, vzdy pise ze nelze nacitat vodafone plus.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "13977357352",
       "userName": "AcidDust",
@@ -1965,8 +2042,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 122,
-    "extractedAt": "2026-04-27T07:38:06.664Z",
+    "totalReviewsExtracted": 127,
+    "extractedAt": "2026-04-28T07:34:27.436Z",
     "source": "app-store"
   }
 }
