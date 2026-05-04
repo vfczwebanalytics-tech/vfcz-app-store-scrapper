@@ -6,10 +6,13 @@ on:
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 jobs:
-  scrape:
+  run:
     runs-on: ubuntu-latest
+    concurrency:
+      group: scraper
+      cancel-in-progress: false
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -19,11 +22,10 @@ jobs:
         run: npm install
       - name: Run App Store scraper
         run: node extract-with-segmentation.js
-      - name: Commit and push updated JSON
+      - name: Commit and push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           # Stage both the main file and backup to avoid unstaged changes error
           git add vodafone-appstore-reviews.json
           git add "vodafone-appstore-reviews (copy).json" || true
