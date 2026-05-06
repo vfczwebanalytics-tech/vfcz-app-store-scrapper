@@ -1,17 +1,125 @@
 {
   "ratings": {
-    "score": 3.059,
+    "score": 3.06128,
     "totalRatings": 1,
-    "totalReviews": 1695,
+    "totalReviews": 1697,
     "histogram": {
       "1": 632,
       "2": 150,
       "3": 97,
       "4": 118,
-      "5": 698
+      "5": 700
     }
   },
   "reviews": [
+    {
+      "id": "14020897397",
+      "userName": "Honza Daněk",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id127431724",
+      "version": "3.12.0",
+      "score": 1,
+      "title": "Velký špatný",
+      "text": "Museli by zaplatit chytrŷ lidi, aby to bylo funkční! A to se jim moc nechce…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-02T10:40:51-07:00",
+      "textNormalized": "museli by zaplatit chytry lidi, aby to bylo funkcni! a to se jim moc nechce…",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "14019235119",
+      "userName": "Unca111",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id490293624",
+      "version": "3.12.0",
+      "score": 1,
+      "title": "Nefunkční",
+      "text": "Aplikace strašná, nefunkční, neustále hází chyby. Nejde se přihlásit z ničeho nic. Na podpoře Vodafonu vám řeknou, že to je normální a máte chvíli využívat webové rozhraní.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-02T00:53:40-07:00",
+      "textNormalized": "aplikace strasna, nefunkcni, neustale hazi chyby. nejde se prihlasit z niceho nic. na podpore vodafonu vam reknou, ze to je normalni a mate chvili vyuzivat webove rozhrani.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14016120402",
+      "userName": "bono22vox",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1046435576",
+      "version": "3.12.0",
+      "score": 5,
+      "title": "Recenze",
+      "text": "Víceméně lepší verze starší app. Ikdyz jsem si chvíli musel zvykat a přišla mi mnohem méně přehledná. Ale je to o zvyku. Ted už mohu říci, ze je to dobra a užitečná aplikace",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-01T04:51:07-07:00",
+      "textNormalized": "vicemene lepsi verze starsi app. ikdyz jsem si chvili musel zvykat a prisla mi mnohem mene prehledna. ale je to o zvyku. ted uz mohu rici, ze je to dobra a uzitecna aplikace",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "14013724250",
+      "userName": "Maxim Khromov",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id160254165",
+      "version": "3.12.0",
+      "score": 1,
+      "title": "Too bad to be real",
+      "text": "Is this a real Vodafone app or fake one? My Vodafone before at least work somehow, but this one is terrible. I can’t event open it, and after few tries of auth I can’t even see my tarif. So you guys decide to do vibecode or? Looks like a joke.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-30T11:57:05-07:00",
+      "textNormalized": "is this a real vodafone app or fake one? my vodafone before at least work somehow, but this one is terrible. i can’t event open it, and after few tries of auth i can’t even see my tarif. so you guys decide to do vibecode or? looks like a joke.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14012591436",
+      "userName": "Daria _Nova",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1218025258",
+      "version": "3.12.0",
+      "score": 1,
+      "title": "Terrible experience",
+      "text": "I paid for both the previous month and the current one because the app showed an outstanding balance. However, after completing the payments, the status still appears as “Unpaid,” which is confusing. Did I actually need to pay twice, or should I have only paid the previous bill and waited until next month for the next one? I also don’t see any record of the transactions I made. Most of the App doesn’t work",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-30T05:33:39-07:00",
+      "textNormalized": "i paid for both the previous month and the current one because the app showed an outstanding balance. however, after completing the payments, the status still appears as “unpaid,” which is confusing. did i actually need to pay twice, or should i have only paid the previous bill and waited until next month for the next one? i also don’t see any record of the transactions i made. most of the app doesn’t work",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "14009713256",
+      "userName": "marija1799",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id951107440",
+      "version": "3.12.0",
+      "score": 1,
+      "title": "Jako vždy",
+      "text": "Hrozná, nepřehledná, pomalá, uživatelský nepřívětiva aplikace u Vodafonu se nic bohužel nemění možná občas jenom k horšímu jinak Vodafone stabilita.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-29T09:02:48-07:00",
+      "textNormalized": "hrozna, neprehledna, pomala, uzivatelsky neprivetiva aplikace u vodafonu se nic bohuzel nemeni mozna obcas jenom k horsimu jinak vodafone stabilita.",
+      "segments": [
+        "Vykonnost",
+        "UI"
+      ]
+    },
+    {
+      "id": "14007031358",
+      "userName": "Lolninf",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1865506606",
+      "version": "3.12.0",
+      "score": 1,
+      "title": "Internet",
+      "text": "Bad internet, -rep👎",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-04-28T13:51:24-07:00",
+      "textNormalized": "bad internet, -rep👎",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "13991571703",
       "userName": "Kennybrahhh666",
@@ -2042,8 +2150,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 127,
-    "extractedAt": "2026-05-04T08:46:53.165Z",
+    "totalReviewsExtracted": 134,
+    "extractedAt": "2026-05-05T07:22:41.877Z",
     "source": "app-store"
   }
 }
