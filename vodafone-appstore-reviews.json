@@ -1,17 +1,32 @@
 {
   "ratings": {
-    "score": 3.06471,
+    "score": 3.06577,
     "totalRatings": 1,
-    "totalReviews": 1700,
+    "totalReviews": 1703,
     "histogram": {
-      "1": 632,
+      "1": 633,
       "2": 150,
       "3": 97,
       "4": 118,
-      "5": 703
+      "5": 705
     }
   },
   "reviews": [
+    {
+      "id": "14030111070",
+      "userName": "FU Brno CZ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1482174026",
+      "version": "3.12.0",
+      "score": 2,
+      "title": "Aktualizace",
+      "text": "Jako sorry ale abych po kazde kdyz jdu zaplatit fakturu mel v aplikaci aktualizaci 🤦‍♀️. Nemam cas porad neco aktualizovat, tak pribrzdete",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-05T00:50:24-07:00",
+      "textNormalized": "jako sorry ale abych po kazde kdyz jdu zaplatit fakturu mel v aplikaci aktualizaci 🤦‍♀️. nemam cas porad neco aktualizovat, tak pribrzdete",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
     {
       "id": "14020897397",
       "userName": "Honza Daněk",
@@ -2150,8 +2165,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 134,
-    "extractedAt": "2026-05-06T07:38:58.218Z",
+    "totalReviewsExtracted": 135,
+    "extractedAt": "2026-05-07T07:46:08.398Z",
     "source": "app-store"
   }
 }
