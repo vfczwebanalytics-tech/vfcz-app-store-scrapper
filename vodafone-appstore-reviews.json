@@ -4,14 +4,90 @@
     "totalRatings": 1,
     "totalReviews": 1703,
     "histogram": {
-      "1": 633,
-      "2": 150,
+      "1": 639,
+      "2": 152,
       "3": 97,
       "4": 118,
       "5": 705
     }
   },
   "reviews": [
+    {
+      "id": "14035778071",
+      "userName": "Altiel",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id336133455",
+      "version": "3.12.1",
+      "score": 1,
+      "title": "Aktualizace",
+      "text": "Po aktualizaci se přihlásím, ale nic se mi nezobrazuje. Následně nahlásí chybu. Nemám tedy přístup k základním informacím.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-06T13:56:25-07:00",
+      "textNormalized": "po aktualizaci se prihlasim, ale nic se mi nezobrazuje. nasledne nahlasi chybu. nemam tedy pristup k zakladnim informacim.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14035323343",
+      "userName": "Nnnngeghzvdssd",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id914701099",
+      "version": "3.12.1",
+      "score": 1,
+      "title": "Nic",
+      "text": "Appka na nic… kazdou chvili se aktualizuje, kdyz tam neco potrebuji… katastrofa",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-06T11:06:45-07:00",
+      "textNormalized": "appka na nic… kazdou chvili se aktualizuje, kdyz tam neco potrebuji… katastrofa",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14034187554",
+      "userName": "sirJeux",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id967984332",
+      "version": "3.12.1",
+      "score": 1,
+      "title": "Zbytečná abominace",
+      "text": "Zbytečná abominace která jen ztěžuje práci.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-06T04:51:08-07:00",
+      "textNormalized": "zbytecna abominace ktera jen ztezuje praci.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14033838335",
+      "userName": "Jj87051",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1116742999",
+      "version": "3.12.1",
+      "score": 1,
+      "title": "Po každé aktualizace mě to odhlásí.",
+      "text": "Co jediné se mi nelíbí je neustálé odhlašování po aktualizaci aplikace.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-06T02:28:44-07:00",
+      "textNormalized": "co jedine se mi nelibi je neustale odhlasovani po aktualizaci aplikace.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14033496257",
+      "userName": "BANÍK - JoLeg",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1284538244",
+      "version": "3.12.1",
+      "score": 2,
+      "title": "Signál",
+      "text": "Zhoršující se kvalita signálu, jak na adrese Morávka 252, tak i na adrese Bohumínská 441/49, Ostrava 😔",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-05T23:37:35-07:00",
+      "textNormalized": "zhorsujici se kvalita signalu, jak na adrese moravka 252, tak i na adrese bohuminska 441/49, ostrava 😔",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14030111070",
       "userName": "FU Brno CZ",
@@ -2165,8 +2241,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 135,
-    "extractedAt": "2026-05-07T07:46:08.398Z",
+    "totalReviewsExtracted": 140,
+    "extractedAt": "2026-05-08T06:55:45.869Z",
     "source": "app-store"
   }
 }
