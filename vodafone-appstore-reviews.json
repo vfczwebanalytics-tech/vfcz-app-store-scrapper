@@ -1,17 +1,47 @@
 {
   "ratings": {
-    "score": 3.06577,
+    "score": 3.0664,
     "totalRatings": 1,
-    "totalReviews": 1703,
+    "totalReviews": 1732,
     "histogram": {
-      "1": 639,
+      "1": 645,
       "2": 152,
       "3": 97,
-      "4": 118,
-      "5": 705
+      "4": 119,
+      "5": 719
     }
   },
   "reviews": [
+    {
+      "id": "14037889000",
+      "userName": "Petr P..",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id322919201",
+      "version": "3.12.1",
+      "score": 1,
+      "title": "Na p**u appka",
+      "text": "Po kazdym pouziti odhlasuje, po zaplaceni i po prichodu potvrzujici SMS porad muzu platit donekonecna.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-07T05:43:50-07:00",
+      "textNormalized": "po kazdym pouziti odhlasuje, po zaplaceni i po prichodu potvrzujici sms porad muzu platit donekonecna.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14037268143",
+      "userName": "MirekOdVDF",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id531754008",
+      "version": "3.12.1",
+      "score": 1,
+      "title": "Dárky s Happy",
+      "text": "Ani jedna aktualizace za půl roku nerozchodila odkaz na Vodafone Happy. Po kliknutí na ní se dozvím jen “Jejda, něco se nepovedlo”",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-07T01:27:49-07:00",
+      "textNormalized": "ani jedna aktualizace za pul roku nerozchodila odkaz na vodafone happy. po kliknuti na ni se dozvim jen “jejda, neco se nepovedlo”",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14035778071",
       "userName": "Altiel",
@@ -2241,8 +2271,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 140,
-    "extractedAt": "2026-05-08T06:55:45.869Z",
+    "totalReviewsExtracted": 142,
+    "extractedAt": "2026-05-09T07:14:37.538Z",
     "source": "app-store"
   }
 }
