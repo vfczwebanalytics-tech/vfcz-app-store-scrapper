@@ -1,17 +1,48 @@
 {
   "ratings": {
-    "score": 3.0664,
+    "score": 3.06567,
     "totalRatings": 1,
-    "totalReviews": 1732,
+    "totalReviews": 1736,
     "histogram": {
-      "1": 645,
+      "1": 647,
       "2": 152,
       "3": 97,
-      "4": 119,
-      "5": 719
+      "4": 120,
+      "5": 720
     }
   },
   "reviews": [
+    {
+      "id": "14042228095",
+      "userName": "JKCZk",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id186770250",
+      "version": "3.12.2",
+      "score": 1,
+      "title": "Stejně nepoužitelná app jako ta předchozí",
+      "text": "Ani na druhý pokus to nevyšlo. Stejně pomalé, padající a nefunkční prostředí jako u první verze. V dnešní době nepochopitelné.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-08T10:04:42-07:00",
+      "textNormalized": "ani na druhy pokus to nevyslo. stejne pomale, padajici a nefunkcni prostredi jako u prvni verze. v dnesni dobe nepochopitelne.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14040587336",
+      "userName": "Nelítostný",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id129939866",
+      "version": "3.12.2",
+      "score": 1,
+      "title": "Opět zase ..",
+      "text": "Další aktualizace a zase se musím znovu přihlásit ...😡  Moc děkuji za takové zlepšení které mě zlepšuje život ...👌👌👌  Opět musím dát krásných 0*",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-07T23:51:35-07:00",
+      "textNormalized": "dalsi aktualizace a zase se musim znovu prihlasit ...😡  moc dekuji za takove zlepseni ktere me zlepsuje zivot ...👌👌👌  opet musim dat krasnych 0*",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "14037889000",
       "userName": "Petr P..",
@@ -2271,8 +2302,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 142,
-    "extractedAt": "2026-05-09T07:14:37.538Z",
+    "totalReviewsExtracted": 144,
+    "extractedAt": "2026-05-10T07:29:10.052Z",
     "source": "app-store"
   }
 }
