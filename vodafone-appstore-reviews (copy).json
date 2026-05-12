@@ -1,17 +1,48 @@
 {
   "ratings": {
-    "score": 3.06567,
+    "score": 3.0677,
     "totalRatings": 1,
-    "totalReviews": 1736,
+    "totalReviews": 1743,
     "histogram": {
-      "1": 647,
+      "1": 649,
       "2": 152,
-      "3": 97,
+      "3": 98,
       "4": 120,
-      "5": 720
+      "5": 724
     }
   },
   "reviews": [
+    {
+      "id": "14044784918",
+      "userName": "XxxAaa7",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id458830683",
+      "version": "3.12.2",
+      "score": 1,
+      "title": "Nejhorší apk na světě",
+      "text": "Neukazuje do kdy mam aktivace balíku, po každé se musím přihlašovat. Aktivace balíčku je vždy sázka spadne nebo ne. Přeji kdo to vytvořil do konce svého života používat jen tuto nejhorší apku",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-09T04:13:29-07:00",
+      "textNormalized": "neukazuje do kdy mam aktivace baliku, po kazde se musim prihlasovat. aktivace balicku je vzdy sazka spadne nebo ne. preji kdo to vytvoril do konce sveho zivota pouzivat jen tuto nejhorsi apku",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14044160018",
+      "userName": "n8Xj5t",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id155151642",
+      "version": "3.12.2",
+      "score": 1,
+      "title": ":-(",
+      "text": "Aplikace reaguje hodně pomalu na všechno čekáte. Ovládání v aplikaci je nepřehledné.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-08T23:35:17-07:00",
+      "textNormalized": "aplikace reaguje hodne pomalu na vsechno cekate. ovladani v aplikaci je neprehledne.",
+      "segments": [
+        "UI"
+      ]
+    },
     {
       "id": "14042228095",
       "userName": "JKCZk",
@@ -2302,8 +2333,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 144,
-    "extractedAt": "2026-05-10T07:29:10.052Z",
+    "totalReviewsExtracted": 146,
+    "extractedAt": "2026-05-11T08:29:18.376Z",
     "source": "app-store"
   }
 }
