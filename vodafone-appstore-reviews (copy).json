@@ -1,17 +1,49 @@
 {
   "ratings": {
-    "score": 3.07237,
+    "score": 3.08428,
     "totalRatings": 1,
-    "totalReviews": 1741,
+    "totalReviews": 1756,
     "histogram": {
-      "1": 646,
-      "2": 152,
+      "1": 647,
+      "2": 153,
       "3": 98,
-      "4": 120,
-      "5": 725
+      "4": 121,
+      "5": 737
     }
   },
   "reviews": [
+    {
+      "id": "14053945145",
+      "userName": "Jenda.R",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1502511462",
+      "version": "3.12.2",
+      "score": 4,
+      "title": "Konečně…",
+      "text": "Hurá, konečně mám jako majitel své číslo na prvním místě a při potřebě zrychlení dat ho nemusím stále vyhledávat a přepínat mezi čísly v mém účtu",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-11T13:58:30-07:00",
+      "textNormalized": "hura, konecne mam jako majitel sve cislo na prvnim miste a pri potrebe zrychleni dat ho nemusim stale vyhledavat a prepinat mezi cisly v mem uctu",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14053056402",
+      "userName": "XxxAaa7",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id458830683",
+      "version": "3.12.2",
+      "score": 1,
+      "title": "Nejhorší apk na světě",
+      "text": "Neukazuje do kdy mam aktivace balíku, po každé se musím přihlašovat. Aktivace balíčku je vždy sázka spadne nebo ne. Přeji kdo to vytvořil do konce svého života používat jen tuto nejhorší apku\n\n*doplněno\n\nJaký má vůbec smysl vám psát? Poslal jsem už minimálně 10 stížností přes formuláře i e-maily, ale je vám to očividně jedno. Neustále posíláte jen automatické a nicneříkající odpovědi a vůbec nic se nemění. Aplikace působí nedodělaně a uživatelsky velmi špatně.\n\nProsím o konkrétní odpověď ke každému bodu. Všechny tyto problémy jsem už několikrát popisoval a mám pocit, že mě jen ignorujete.\n\n1. V aplikaci není možné normálně vidět, kdy končí balíček. Člověk musí jít na web a hledat to tam. V předchozí verzi tato chyba nebyla.\n\n2. Při aktivaci balíčku aplikace často dlouho visí na načítání a pak se nestane vůbec nic. Následně už nejde aktivovat nic dalšího, protože požadavek zůstane „viset“ jako nedokončený. Pak musí člověk ztratit klidně hodinu voláním na zákaznickou linku. Je to stresující a absolutně zbytečná ztráta času.\n\n3. Po krátké době aplikace znovu vyžaduje přihlášení heslem a celé ověření dokola. Celý proces je zbytečně komplikovaný a velmi nepohodlný pro uživatele.\n\n4. Jakmile skončí balíček a na účtu není dostatek prostředků na nový, automaticky se aktivuje balíček za 99 Kč, aby se peníze strhly za každou cenu. To opravdu nepůsobí férově vůči zákazníkům. Člověk pak musí podávat reklamaci a čekat na vrácení peněz.\n\nUpřímně nechápu, jak je možné, že podobné problémy stále nejsou opravené.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-11T08:46:59-07:00",
+      "textNormalized": "neukazuje do kdy mam aktivace baliku, po kazde se musim prihlasovat. aktivace balicku je vzdy sazka spadne nebo ne. preji kdo to vytvoril do konce sveho zivota pouzivat jen tuto nejhorsi apku\n\n*doplneno\n\njaky ma vubec smysl vam psat? poslal jsem uz minimalne 10 stiznosti pres formulare i e-maily, ale je vam to ocividne jedno. neustale posilate jen automaticke a nicnerikajici odpovedi a vubec nic se nemeni. aplikace pusobi nedodelane a uzivatelsky velmi spatne.\n\nprosim o konkretni odpoved ke kazdemu bodu. vsechny tyto problemy jsem uz nekolikrat popisoval a mam pocit, ze me jen ignorujete.\n\n1. v aplikaci neni mozne normalne videt, kdy konci balicek. clovek musi jit na web a hledat to tam. v predchozi verzi tato chyba nebyla.\n\n2. pri aktivaci balicku aplikace casto dlouho visi na nacitani a pak se nestane vubec nic. nasledne uz nejde aktivovat nic dalsiho, protoze pozadavek zustane „viset“ jako nedokonceny. pak musi clovek ztratit klidne hodinu volanim na zakaznickou linku. je to stresujici a absolutne zbytecna ztrata casu.\n\n3. po kratke dobe aplikace znovu vyzaduje prihlaseni heslem a cele overeni dokola. cely proces je zbytecne komplikovany a velmi nepohodlny pro uzivatele.\n\n4. jakmile skonci balicek a na uctu neni dostatek prostredku na novy, automaticky se aktivuje balicek za 99 kc, aby se penize strhly za kazdou cenu. to opravdu nepusobi ferove vuci zakaznikum. clovek pak musi podavat reklamaci a cekat na vraceni penez.\n\nuprimne nechapu, jak je mozne, ze podobne problemy stale nejsou opravene.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14044784918",
       "userName": "XxxAaa7",
@@ -2333,8 +2365,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 146,
-    "extractedAt": "2026-05-12T07:48:17.944Z",
+    "totalReviewsExtracted": 148,
+    "extractedAt": "2026-05-13T07:55:31.711Z",
     "source": "app-store"
   }
 }
