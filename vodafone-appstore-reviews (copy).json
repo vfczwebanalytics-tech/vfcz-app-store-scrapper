@@ -1,17 +1,32 @@
 {
   "ratings": {
-    "score": 3.10191,
+    "score": 3.10062,
     "totalRatings": 1,
-    "totalReviews": 1776,
+    "totalReviews": 1779,
     "histogram": {
-      "1": 648,
+      "1": 650,
       "2": 153,
       "3": 99,
       "4": 122,
-      "5": 754
+      "5": 755
     }
   },
   "reviews": [
+    {
+      "id": "14067373834",
+      "userName": "dbffghfdv",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1056321544",
+      "version": "3.12.2",
+      "score": 1,
+      "title": "Worst app I have on my phone",
+      "text": "I literally can’t use it - can’t even log in 😭 what is it for?? Previous one at least was functional. \nI want to smash my phone against the wall while I use this app. \nWouldn’t recommend it.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-15T07:27:23-07:00",
+      "textNormalized": "i literally can’t use it - can’t even log in 😭 what is it for?? previous one at least was functional. \ni want to smash my phone against the wall while i use this app. \nwouldn’t recommend it.",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14053945145",
       "userName": "Jenda.R",
@@ -2365,8 +2380,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 148,
-    "extractedAt": "2026-05-16T07:20:47.731Z",
+    "totalReviewsExtracted": 149,
+    "extractedAt": "2026-05-17T07:37:02.755Z",
     "source": "app-store"
   }
 }
