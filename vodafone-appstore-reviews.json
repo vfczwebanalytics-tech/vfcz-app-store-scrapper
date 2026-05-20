@@ -8,7 +8,7 @@
       "2": 153,
       "3": 99,
       "4": 122,
-      "5": 763
+      "5": 765
     }
   },
   "reviews": [
@@ -2381,7 +2381,7 @@
   ],
   "metadata": {
     "totalReviewsExtracted": 149,
-    "extractedAt": "2026-05-19T08:34:28.119Z",
+    "extractedAt": "2026-05-20T08:32:28.314Z",
     "source": "app-store"
   }
 }
