@@ -1,17 +1,79 @@
 {
   "ratings": {
-    "score": 3.10676,
+    "score": 3.10696,
     "totalRatings": 1,
-    "totalReviews": 1789,
+    "totalReviews": 1795,
     "histogram": {
-      "1": 652,
-      "2": 153,
+      "1": 654,
+      "2": 154,
       "3": 99,
       "4": 122,
-      "5": 765
+      "5": 766
     }
   },
   "reviews": [
+    {
+      "id": "14083379985",
+      "userName": "xoDBxo",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id42243691",
+      "version": "3.13.0",
+      "score": 2,
+      "title": "Výchozí služba",
+      "text": "Konečně byla přidána možnost si zvolit výchozí službu - to by bylo skvělé kdyby to ale fungovalo jak má!! Spravuji celkem 3 učty a když chci na každém nastavit výchozí službu tak to zapomene tu předchozí na předchozím učtě. Takže to jde nastavit jen na jednom učte, opravdu skvělé...",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-19T14:13:28-07:00",
+      "textNormalized": "konecne byla pridana moznost si zvolit vychozi sluzbu - to by bylo skvele kdyby to ale fungovalo jak ma!! spravuji celkem 3 ucty a kdyz chci na kazdem nastavit vychozi sluzbu tak to zapomene tu predchozi na predchozim ucte. takze to jde nastavit jen na jednom ucte, opravdu skvele...",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14081194212",
+      "userName": "LothiasInaste",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1595115867",
+      "version": "3.12.2",
+      "score": 1,
+      "title": "Nejhorší operátor",
+      "text": "Tato aplikace skvěle vystihuje služby tohoto operátora. Buď to nefunguje, nebo to je naprosto k ničemu. Odchod směr O2. .I.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-19T00:53:12-07:00",
+      "textNormalized": "tato aplikace skvele vystihuje sluzby tohoto operatora. bud to nefunguje, nebo to je naprosto k nicemu. odchod smer o2. .i.",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14081056979",
+      "userName": "LenčaŠ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1715384703",
+      "version": "3.12.2",
+      "score": 1,
+      "title": "Nefunguje aplikakace",
+      "text": "Háže chybu při otevření jakékoli akce",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-18T23:41:18-07:00",
+      "textNormalized": "haze chybu pri otevreni jakekoli akce",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "14077448680",
+      "userName": "Borec7658",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id533889421",
+      "version": "3.12.2",
+      "score": 1,
+      "title": "…",
+      "text": "Horrible not working, every app from Vodafone that ever was there was horrible",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-17T23:34:15-07:00",
+      "textNormalized": "horrible not working, every app from vodafone that ever was there was horrible",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14067373834",
       "userName": "dbffghfdv",
@@ -2380,8 +2442,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 149,
-    "extractedAt": "2026-05-20T08:32:28.314Z",
+    "totalReviewsExtracted": 153,
+    "extractedAt": "2026-05-21T08:39:32.465Z",
     "source": "app-store"
   }
 }
