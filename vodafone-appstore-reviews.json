@@ -1,17 +1,33 @@
 {
   "ratings": {
-    "score": 3.11086,
+    "score": 3.11123,
     "totalRatings": 1,
-    "totalReviews": 1804,
+    "totalReviews": 1807,
     "histogram": {
-      "1": 655,
+      "1": 656,
       "2": 154,
       "3": 101,
-      "4": 124,
-      "5": 770
+      "4": 125,
+      "5": 771
     }
   },
   "reviews": [
+    {
+      "id": "14085519920",
+      "userName": "WannaSeeKurama",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1069201700",
+      "version": "3.13.0",
+      "score": 3,
+      "title": "Recenze",
+      "text": "Na aplikaci není nic špatného, vždy jsem zařídil vše co jsem potřeboval… jediný problém je v tom, že vždy když chci aplikaci otevřít tak po mě chce aktualizaci.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-20T05:47:39-07:00",
+      "textNormalized": "na aplikaci neni nic spatneho, vzdy jsem zaridil vse co jsem potreboval… jediny problem je v tom, ze vzdy kdyz chci aplikaci otevrit tak po me chce aktualizaci.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14083379985",
       "userName": "xoDBxo",
@@ -2442,8 +2458,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 153,
-    "extractedAt": "2026-05-23T07:34:46.007Z",
+    "totalReviewsExtracted": 154,
+    "extractedAt": "2026-05-24T07:51:36.797Z",
     "source": "app-store"
   }
 }
