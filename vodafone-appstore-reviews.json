@@ -1,17 +1,78 @@
 {
   "ratings": {
-    "score": 3.10867,
+    "score": 3.10971,
     "totalRatings": 1,
-    "totalReviews": 1822,
+    "totalReviews": 1823,
     "histogram": {
       "1": 662,
       "2": 156,
       "3": 102,
       "4": 126,
-      "5": 776
+      "5": 777
     }
   },
   "reviews": [
+    {
+      "id": "14113421157",
+      "userName": "kuccyho",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1343813750",
+      "version": "3.13.2",
+      "score": 5,
+      "title": "Nej",
+      "text": "Top",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-27T15:16:07-07:00",
+      "textNormalized": "top",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14111313692",
+      "userName": "Patrik_M",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1391334652",
+      "version": "3.13.1",
+      "score": 1,
+      "title": "Nemožné se normálně přihlásit",
+      "text": "Bohužel aplikace Vodafone je důvodem proč od nich odcházím. V dnešní době nemít základně funkční aplikaci je bída.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-27T03:15:53-07:00",
+      "textNormalized": "bohuzel aplikace vodafone je duvodem proc od nich odchazim. v dnesni dobe nemit zakladne funkcni aplikaci je bida.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14107585279",
+      "userName": "tomashanslem",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1389748209",
+      "version": "3.13.0",
+      "score": 1,
+      "title": "Naprosto k ničemu",
+      "text": "Plno spamu ale nic tam člověk nevyřeší. Nechápu proč jdou technické problémy v dnešní době řešit jen na lince kde člověk čeká !!!!!!! Nula možnosti online, žádný online agent. Neuvěřitelné. Nerespekt k zákazníkům a jejich času.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-26T03:21:05-07:00",
+      "textNormalized": "plno spamu ale nic tam clovek nevyresi. nechapu proc jdou technicke problemy v dnesni dobe resit jen na lince kde clovek ceka !!!!!!! nula moznosti online, zadny online agent. neuveritelne. nerespekt k zakaznikum a jejich casu.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14095879595",
+      "userName": "NattyCamel",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id577264081",
+      "version": "3.13.0",
+      "score": 1,
+      "title": "Horrible app",
+      "text": "Nothing work, i can’t change any services, always show me “error, try to later” and thats it.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-05-23T00:56:17-07:00",
+      "textNormalized": "nothing work, i can’t change any services, always show me “error, try to later” and thats it.",
+      "segments": [
+        "Stabilita"
+      ]
+    },
     {
       "id": "14085519920",
       "userName": "WannaSeeKurama",
@@ -2458,8 +2519,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 154,
-    "extractedAt": "2026-05-29T08:47:41.780Z",
+    "totalReviewsExtracted": 158,
+    "extractedAt": "2026-05-30T07:45:16.066Z",
     "source": "app-store"
   }
 }

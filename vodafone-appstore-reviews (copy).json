@@ -1,14 +1,14 @@
 {
   "ratings": {
-    "score": 3.10567,
+    "score": 3.10867,
     "totalRatings": 1,
-    "totalReviews": 1817,
+    "totalReviews": 1822,
     "histogram": {
-      "1": 661,
+      "1": 662,
       "2": 156,
       "3": 102,
       "4": 126,
-      "5": 772
+      "5": 776
     }
   },
   "reviews": [
@@ -2459,7 +2459,7 @@
   ],
   "metadata": {
     "totalReviewsExtracted": 154,
-    "extractedAt": "2026-05-28T08:49:31.869Z",
+    "extractedAt": "2026-05-29T08:47:41.780Z",
     "source": "app-store"
   }
 }
