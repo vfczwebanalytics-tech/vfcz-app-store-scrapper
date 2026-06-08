@@ -1,17 +1,88 @@
 {
   "ratings": {
-    "score": 3.11345,
+    "score": 3.11213,
     "totalRatings": 1,
-    "totalReviews": 1851,
+    "totalReviews": 1855,
     "histogram": {
-      "1": 672,
+      "1": 674,
       "2": 157,
-      "3": 103,
+      "3": 104,
       "4": 127,
-      "5": 792
+      "5": 793
     }
   },
   "reviews": [
+    {
+      "id": "14151678730",
+      "userName": "Rodji69",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id866697364",
+      "version": "3.13.2",
+      "score": 1,
+      "title": "Čím dál tím horší",
+      "text": "Proč nejde restartovat router na dálku? Jsem v cizině a díky aktualizaci Vodafone routeru se mi znova nepřipojí můj router a domácnost je n bez sítě. K té vaší blbé webové aplikaci se také nepřipojím, protože mám prý špatné heslo. Nesmysl. Znění hesla neudělám, protože jsem jen na datech a ověřit mailem nestačí, musím mít aktivní telefon. Prostě paráda. Kdo dělal analýzu? Recepční?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-06T11:24:17-07:00",
+      "textNormalized": "proc nejde restartovat router na dalku? jsem v cizine a diky aktualizaci vodafone routeru se mi znova nepripoji muj router a domacnost je n bez site. k te vasi blbe webove aplikaci se take nepripojim, protoze mam pry spatne heslo. nesmysl. zneni hesla neudelam, protoze jsem jen na datech a overit mailem nestaci, musim mit aktivni telefon. proste parada. kdo delal analyzu? recepcni?",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14147795014",
+      "userName": "Profi IT",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id245650198",
+      "version": "3.13.2",
+      "score": 1,
+      "title": "Nejhorší aplikace všech dob",
+      "text": "Aplikace v 90 % případů nefunguje, a pokud zavoláte operátorovi, aby váš požadavek vyřídil, zaplatíte 49 Kč. Aplikace vás navíc vždy odhlásí – na to, že se dá přihlásit pomocí otisku prstu, ve Vodafonu ještě nepřišli.\n\nAplikace vyžaduje čtyřfaktorové zabezpečení s tím, že vám ještě pošlou šestimístný kód na displej, který si nesmíte zobrazit dvakrát. Pro normálního člověka de facto neexistuje způsob, jak se přihlásit, ale pro virus to problém není.\nIT oddělení, které tuto aplikaci vyvinulo, by měli vyhodit, vyměnit a požadovat po nich náhradu škody ve výši jedné miliardy korun o které Vodafone přichází, protože není jak uhradit fakturu.\n\nNavrhneme aplikaci Vodafonu na aplikaci nejhorší aplikaci všech dob do Guinnesovy knihy rekordů.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-05T11:36:20-07:00",
+      "textNormalized": "aplikace v 90 % pripadu nefunguje, a pokud zavolate operatorovi, aby vas pozadavek vyridil, zaplatite 49 kc. aplikace vas navic vzdy odhlasi – na to, ze se da prihlasit pomoci otisku prstu, ve vodafonu jeste neprisli.\n\naplikace vyzaduje ctyrfaktorove zabezpeceni s tim, ze vam jeste poslou sestimistny kod na displej, ktery si nesmite zobrazit dvakrat. pro normalniho cloveka de facto neexistuje zpusob, jak se prihlasit, ale pro virus to problem neni.\nit oddeleni, ktere tuto aplikaci vyvinulo, by meli vyhodit, vymenit a pozadovat po nich nahradu skody ve vysi jedne miliardy korun o ktere vodafone prichazi, protoze neni jak uhradit fakturu.\n\nnavrhneme aplikaci vodafonu na aplikaci nejhorsi aplikaci vsech dob do guinnesovy knihy rekordu.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14139402521",
+      "userName": "Jenda.R",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1502511462",
+      "version": "3.13.2",
+      "score": 2,
+      "title": "Krok zpět",
+      "text": "Posledně jsem aplikaci chválil, že konečně je mé administrátorské číslo jako první a mohu si bez hledání mezi dalšími čísly jednoduše zrychlit data. Radost netrvala dlouho a jsem zádě tam , kde jsem být nechtěl. Proč nejde jednou provždy mít ve svém účtu mít své číslo na prvním místě? Proč si ho musím zase vyhledávat mezi ostatními čísly, abych si mohl na svém čísle dělat co chci? Jak to dělají firmy, které mají třeba 50 čísel? Někomu bych rozkopal p….",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-03T07:56:36-07:00",
+      "textNormalized": "posledne jsem aplikaci chvalil, ze konecne je me administratorske cislo jako prvni a mohu si bez hledani mezi dalsimi cisly jednoduse zrychlit data. radost netrvala dlouho a jsem zade tam , kde jsem byt nechtel. proc nejde jednou provzdy mit ve svem uctu mit sve cislo na prvnim miste? proc si ho musim zase vyhledavat mezi ostatnimi cisly, abych si mohl na svem cisle delat co chci? jak to delaji firmy, ktere maji treba 50 cisel? nekomu bych rozkopal p….",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14131091458",
+      "userName": "_mrcz_",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id112274336",
+      "version": "3.13.2",
+      "score": 1,
+      "title": "Apple card",
+      "text": "Nefunguje placení pomocí Apple Card  na iOS 15.  V My Vodafone to fungovalo.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-01T05:52:33-07:00",
+      "textNormalized": "nefunguje placeni pomoci apple card  na ios 15.  v my vodafone to fungovalo.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "14113421157",
       "userName": "kuccyho",
@@ -2519,8 +2590,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 158,
-    "extractedAt": "2026-06-07T08:27:03.164Z",
+    "totalReviewsExtracted": 162,
+    "extractedAt": "2026-06-08T09:51:20.220Z",
     "source": "app-store"
   }
 }
