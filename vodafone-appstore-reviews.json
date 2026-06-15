@@ -1,17 +1,201 @@
 {
   "ratings": {
-    "score": 3.11846,
+    "score": 3.12381,
     "totalRatings": 1,
-    "totalReviews": 1891,
+    "totalReviews": 1898,
     "histogram": {
       "1": 686,
-      "2": 158,
+      "2": 159,
       "3": 106,
       "4": 128,
-      "5": 813
+      "5": 819
     }
   },
   "reviews": [
+    {
+      "id": "14180883477",
+      "userName": "Honza Prokop",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id205494230",
+      "version": "3.14.0",
+      "score": 2,
+      "title": "Funkčnost aplikace",
+      "text": "Máme pod jedním účtem 4 lidi a čísla, ale musím pokaždé odesílat kód své manželce, když se chce přihlásit. Tohle je hodně omezující. Aplikace je dost pomalá a některé změněné požadavky visí někde ve vzduchoprázdnu a během toho nelze nic měnit. To je hodně zlé. Kdyby tam bylo nastavení, kde bych mohl jednotlivé požadavky dodatečně zrušit, ještě bych to bral, ale takhle pošlu požadavek na změnu v Roamingu a už nic nenastavím dokud se to nevyřídí. Popravdě mi chybí i nastavení u dětí, abych jim mohl dočasně zablokovat sim kartu a pak zas obnovit. Jeli do zahraničí a na dálku jsem chtěl vypnout data, sms a volání. Tahle operace mě stála 45 minut a následné volání na operátora. Je to dost nekomfortní. Jinak je ale přehledná a eshop je funkční.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-14T00:55:57-07:00",
+      "textNormalized": "mame pod jednim uctem 4 lidi a cisla, ale musim pokazde odesilat kod sve manzelce, kdyz se chce prihlasit. tohle je hodne omezujici. aplikace je dost pomala a nektere zmenene pozadavky visi nekde ve vzduchoprazdnu a behem toho nelze nic menit. to je hodne zle. kdyby tam bylo nastaveni, kde bych mohl jednotlive pozadavky dodatecne zrusit, jeste bych to bral, ale takhle poslu pozadavek na zmenu v roamingu a uz nic nenastavim dokud se to nevyridi. popravde mi chybi i nastaveni u deti, abych jim mohl docasne zablokovat sim kartu a pak zas obnovit. jeli do zahranici a na dalku jsem chtel vypnout data, sms a volani. tahle operace me stala 45 minut a nasledne volani na operatora. je to dost nekomfortni. jinak je ale prehledna a eshop je funkcni.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14173520466",
+      "userName": "Profi IT",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id245650198",
+      "version": "3.14.0",
+      "score": 1,
+      "title": "Nejhorší aplikace všech dob",
+      "text": "Dobrý den,\n\npráce IT oddělení společnosti Vodafone na této aplikaci je obrovským zklamáním. Aplikace se neustále odhlašuje, a to i když máte nastavené trvalé přihlášení. Výmluva, že je to pro lepší zabezpečení dat, je naprostý nesmysl. Tří- či čtyřfaktorové ověřování vede pouze k tomu, že viry a podvodníci se do aplikace dostanou, ale běžný uživatel nikoliv.\n\nZkusili jste někdy zaplatit fakturu, když vás systém po každém kroku odhlásí? Zcela nemožné. Zavolat na infolinku, aby vám poslali fakturační údaje? Zaplatíte 49 Kč za hovor. Zajít osobně na pobočku, když jste na dovolené v zahraničí? Nereálné. A když vám ukradnou telefon třeba v Austrálii a chcete ho zablokovat? Musíte sednout na letadlo, vrátit se do ČR a s občankou zajít na pobočku, protože bez ověřovací SMS z ukradeného čísla nezařídíte téměř nic.\n\nV dnešní digitální době zkrátka chcete, abychom chodili řešit faktury nebo blokace osobně na pobočku. Myšlení IT oddělení Vodafonu zamrzlo v 80. letech 20. století.\n\nNapadlo někdy vedení společnosti Vodafone, že desítky tisíc neplatičů máte možná jen proto, že se lidé zkrátka nemají jak dostat ke svým platebním údajům? Vaše IT oddělení tak reálně způsobuje společnosti škody ve výši desítek milionů korun každý měsíc. Měli byste jim tyto ztráty dát k úhradě.\n\nTímto důrazně žádám o vyvození důsledků a propuštění IT pracovníků, kteří za tento systém zodpovídají. Zároveň vás chci informovat, že jsme vaši aplikaci navrhli do Guinnessovy knihy rekordů jako nejhorší aplikaci všech dob.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-12T04:49:21-07:00",
+      "textNormalized": "dobry den,\n\nprace it oddeleni spolecnosti vodafone na teto aplikaci je obrovskym zklamanim. aplikace se neustale odhlasuje, a to i kdyz mate nastavene trvale prihlaseni. vymluva, ze je to pro lepsi zabezpeceni dat, je naprosty nesmysl. tri- ci ctyrfaktorove overovani vede pouze k tomu, ze viry a podvodnici se do aplikace dostanou, ale bezny uzivatel nikoliv.\n\nzkusili jste nekdy zaplatit fakturu, kdyz vas system po kazdem kroku odhlasi? zcela nemozne. zavolat na infolinku, aby vam poslali fakturacni udaje? zaplatite 49 kc za hovor. zajit osobne na pobocku, kdyz jste na dovolene v zahranici? nerealne. a kdyz vam ukradnou telefon treba v australii a chcete ho zablokovat? musite sednout na letadlo, vratit se do cr a s obcankou zajit na pobocku, protoze bez overovaci sms z ukradeneho cisla nezaridite temer nic.\n\nv dnesni digitalni dobe zkratka chcete, abychom chodili resit faktury nebo blokace osobne na pobocku. mysleni it oddeleni vodafonu zamrzlo v 80. letech 20. stoleti.\n\nnapadlo nekdy vedeni spolecnosti vodafone, ze desitky tisic neplaticu mate mozna jen proto, ze se lide zkratka nemaji jak dostat ke svym platebnim udajum? vase it oddeleni tak realne zpusobuje spolecnosti skody ve vysi desitek milionu korun kazdy mesic. meli byste jim tyto ztraty dat k uhrade.\n\ntimto durazne zadam o vyvozeni dusledku a propusteni it pracovniku, kteri za tento system zodpovidaji. zaroven vas chci informovat, ze jsme vasi aplikaci navrhli do guinnessovy knihy rekordu jako nejhorsi aplikaci vsech dob.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "14169357666",
+      "userName": "RakjiBener",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1530756474",
+      "version": "3.14.0",
+      "score": 1,
+      "title": "Nejhorší aplikace",
+      "text": "Není schopny to měsíc udržet vaše přihlašovací data . Každý měsíc musím přihlašovat  znovu a znovu jediná aplikace co to dělá ….",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-11T03:21:54-07:00",
+      "textNormalized": "neni schopny to mesic udrzet vase prihlasovaci data . kazdy mesic musim prihlasovat  znovu a znovu jedina aplikace co to dela ….",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14167288536",
+      "userName": "Bobidet",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1556322351",
+      "version": "3.14.0",
+      "score": 1,
+      "title": "H",
+      "text": "Pořád složité přihlášení. Skoro nikdy nefunguje. Jednou měsíčně když potřebuji provést platbu musím se složité přihlašovat protože mě heslo s minulá nefunguje, nevím s jakého důvodu",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-10T12:49:21-07:00",
+      "textNormalized": "porad slozite prihlaseni. skoro nikdy nefunguje. jednou mesicne kdyz potrebuji provest platbu musim se slozite prihlasovat protoze me heslo s minula nefunguje, nevim s jakeho duvodu",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14165739934",
+      "userName": "ekanlacko",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1314380279",
+      "version": "3.13.2",
+      "score": 1,
+      "title": "Nejhorší aplikace.",
+      "text": "-90/10 \n\nStupid app, stupid AI.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-10T04:49:41-07:00",
+      "textNormalized": "-90/10 \n\nstupid app, stupid ai.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14165572125",
+      "userName": "zdeněk 1354651231",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id201359688",
+      "version": "3.13.2",
+      "score": 1,
+      "title": "Hrozna společnost neoprávněné účtování.",
+      "text": "Hrozna společnost neoprávněné účtování. Platím 500mb internet ale záměrně mi to stáhli na 250 jelikož cetin neni schopny udelat nastaveni a bezelo mi to meně. Po stahnuti se mi drasticky snizil upload a download neni tak rychly jako u 500. Cenu neupravili mam firemní smlouvu. Příjezd tecnika na opravu - musel sem byt doma jinak bych dostal pokutu za zbytecny vyjezd. Vzal jsem si volno na cely den- technik nepřijel ani se neomluvil.    Druhy den mi bylo receno ze pry měl rozbite auto! Budu podavat podmět na čoi",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-10T03:49:57-07:00",
+      "textNormalized": "hrozna spolecnost neopravnene uctovani. platim 500mb internet ale zamerne mi to stahli na 250 jelikoz cetin neni schopny udelat nastaveni a bezelo mi to mene. po stahnuti se mi drasticky snizil upload a download neni tak rychly jako u 500. cenu neupravili mam firemni smlouvu. prijezd tecnika na opravu - musel sem byt doma jinak bych dostal pokutu za zbytecny vyjezd. vzal jsem si volno na cely den- technik neprijel ani se neomluvil.    druhy den mi bylo receno ze pry mel rozbite auto! budu podavat podmet na coi",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14164893666",
+      "userName": "prochazka.v",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1357440041",
+      "version": "3.13.2",
+      "score": 1,
+      "title": "Nepovedená aplikace",
+      "text": "Takhle aplikace se opravdu nepovedla. Po každé aktualizaci je nutné znovu zadávat přihlašovací údaje, které si aplikace nepamatuje.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-09T22:42:19-07:00",
+      "textNormalized": "takhle aplikace se opravdu nepovedla. po kazde aktualizaci je nutne znovu zadavat prihlasovaci udaje, ktere si aplikace nepamatuje.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14161658875",
+      "userName": "whatthehellriot",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1064163765",
+      "version": "3.13.2",
+      "score": 1,
+      "title": "Dalsi trash",
+      "text": "Uplne mimo, kazdy mesic pri placeni nejaky problem s prihlasovanim, uplny dno software",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-09T03:22:34-07:00",
+      "textNormalized": "uplne mimo, kazdy mesic pri placeni nejaky problem s prihlasovanim, uplny dno software",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14160809853",
+      "userName": "frankic02",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1110058609",
+      "version": "3.13.2",
+      "score": 1,
+      "title": "Keep crashing",
+      "text": "App keeps crashing and freezing, can’t even log in",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-08T20:54:35-07:00",
+      "textNormalized": "app keeps crashing and freezing, can’t even log in",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "14155819785",
+      "userName": "Adam.V1278",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1930392521",
+      "version": "3.13.2",
+      "score": 1,
+      "title": "Not working series",
+      "text": "Another app in “doesnt working at all” series. It load for an infinte time, after that you get login error. You are not able to pay the bill. They have common features with old (w/o +) app - they are useless.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-07T12:56:33-07:00",
+      "textNormalized": "another app in “doesnt working at all” series. it load for an infinte time, after that you get login error. you are not able to pay the bill. they have common features with old (w/o +) app - they are useless.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14153513457",
+      "userName": "Pav. Zv.",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1722676422",
+      "version": "3.13.2",
+      "score": 5,
+      "title": "Spokojenost",
+      "text": "Aplikace je přehledná, funguje bez problémů. \nNení co vytknout.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-06T23:43:19-07:00",
+      "textNormalized": "aplikace je prehledna, funguje bez problemu. \nneni co vytknout.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "14151678730",
       "userName": "Rodji69",
@@ -2590,8 +2774,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 162,
-    "extractedAt": "2026-06-14T08:44:29.357Z",
+    "totalReviewsExtracted": 173,
+    "extractedAt": "2026-06-15T11:19:09.855Z",
     "source": "app-store"
   }
 }
