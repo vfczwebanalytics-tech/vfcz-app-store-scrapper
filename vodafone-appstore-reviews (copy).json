@@ -1,17 +1,161 @@
 {
   "ratings": {
-    "score": 3.13116,
+    "score": 3.13133,
     "totalRatings": 1,
-    "totalReviews": 1929,
+    "totalReviews": 1934,
     "histogram": {
-      "1": 695,
-      "2": 160,
-      "3": 106,
+      "1": 696,
+      "2": 161,
+      "3": 107,
       "4": 133,
-      "5": 835
+      "5": 837
     }
   },
   "reviews": [
+    {
+      "id": "14206745167",
+      "userName": "NickAurel123",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1158729364",
+      "version": "3.14.0",
+      "score": 1,
+      "title": "Buggy",
+      "text": "The application is full of bug, I can’t even use the Apple Pay or my card. This should be illegal to make so much money and have application of so low quality. Shame on you Vodafone",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-20T14:40:02-07:00",
+      "textNormalized": "the application is full of bug, i can’t even use the apple pay or my card. this should be illegal to make so much money and have application of so low quality. shame on you vodafone",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "14206122992",
+      "userName": "Lukáš Čada",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id314837896",
+      "version": "3.14.0",
+      "score": 3,
+      "title": "Pozor na Dokup dar",
+      "text": "Dokup není jednorázový, jak byste si mohli myslet. Zapne se trvale, teď i v dalších měsících, takže je to ve skutečnosti balíček. Pokud jste chtěli jen jednorázově navýšit data, musíte jej po aktivaci zrušit! A protože aplikace má zpoždění několik minut, než vám ukáže aktuální stav služeb, musíte nejprve počkat, až se Dokup objeví a pak ještě počkat, až půjde vypnout. Vodafone, prosím umožni jednorázový dokup dat. Toto hraničí s klamáním zákazníka, protože není zřejmé, že jde o opakovaný dokup. Díky.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-20T10:56:07-07:00",
+      "textNormalized": "dokup neni jednorazovy, jak byste si mohli myslet. zapne se trvale, ted i v dalsich mesicich, takze je to ve skutecnosti balicek. pokud jste chteli jen jednorazove navysit data, musite jej po aktivaci zrusit! a protoze aplikace ma zpozdeni nekolik minut, nez vam ukaze aktualni stav sluzeb, musite nejprve pockat, az se dokup objevi a pak jeste pockat, az pujde vypnout. vodafone, prosim umozni jednorazovy dokup dat. toto hranici s klamanim zakaznika, protoze neni zrejme, ze jde o opakovany dokup. diky.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14206006900",
+      "userName": "ShoobaDooba Prague",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id262350222",
+      "version": "3.14.0",
+      "score": 2,
+      "title": "Nedokonala apka a podvod v uvadeni kreditu",
+      "text": "Po dobiti kreditu, provedeni platby, aplikace zamrzne. Nutno spustit znovu. Kredit uvaden 0 Kc, proto dobiti na 300 Kc (jinak bych dobil jen 100 Kc). A ejhle, po dobiti kredit vice nez 900 Kc. Uvadeni kreditu 0 Kc povazuji za manipulativni podvod, ktery me zbytecne nasmeroval k dobiti 300 Kc misto treba 100 Kc pro zachovani aktivniho cisla.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-20T10:18:31-07:00",
+      "textNormalized": "po dobiti kreditu, provedeni platby, aplikace zamrzne. nutno spustit znovu. kredit uvaden 0 kc, proto dobiti na 300 kc (jinak bych dobil jen 100 kc). a ejhle, po dobiti kredit vice nez 900 kc. uvadeni kreditu 0 kc povazuji za manipulativni podvod, ktery me zbytecne nasmeroval k dobiti 300 kc misto treba 100 kc pro zachovani aktivniho cisla.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "14196538969",
+      "userName": "Profi IT",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id245650198",
+      "version": "3.14.0",
+      "score": 1,
+      "title": "Nejhorší aplikace všech dob",
+      "text": "Dobrý den,\n\npráce IT oddělení společnosti Vodafone na této aplikaci je obrovským zklamáním. Aplikace se neustále odhlašuje, a to i když máte nastavené trvalé přihlášení. Výmluva, že je to pro lepší zabezpečení dat, je naprostý nesmysl. Tří- či čtyřfaktorové ověřování vede pouze k tomu, že viry a podvodníci se do aplikace dostanou, ale běžný uživatel nikoliv.\n\nZkusili jste někdy zaplatit fakturu, když vás systém po každém kroku odhlásí? Zcela nemožné. Zavolat na infolinku, aby vám poslali fakturační údaje? Zaplatíte 49 Kč za hovor. Zajít osobně na pobočku, když jste na dovolené v zahraničí? Nereálné. A když vám ukradnou telefon třeba v Austrálii a chcete ho zablokovat? Musíte sednout na letadlo, vrátit se do ČR a s občankou zajít na pobočku, protože bez ověřovací SMS z ukradeného čísla nezařídíte téměř nic.\n\nV dnešní digitální době zkrátka chcete, abychom chodili řešit faktury nebo blokace osobně na pobočku. Myšlení IT oddělení Vodafonu zamrzlo v 80. letech 20. století.\n\nNapadlo někdy vedení společnosti Vodafone, že desítky tisíc neplatičů máte možná jen proto, že se lidé zkrátka nemají jak dostat ke svým platebním údajům? Vaše IT oddělení tak reálně způsobuje společnosti škody ve výši desítek milionů korun každý měsíc. Měli byste jim tyto ztráty dát k úhradě.\n\nTímto důrazně žádám o vyvození důsledků a propuštění IT pracovníků, kteří za tento systém zodpovídají. Zároveň vás chci informovat, že jsme vaši aplikaci navrhli do Guinnessovy knihy rekordů jako nejhorší aplikaci všech dob.\n\nAktualizace odpovědi: Vodafone reagoval odpovědí vygenerovanou přes AI aniž by ji četl. K tomu dodávám. V aplikaci nefunguje trvalé přihlášení, i přes něj se opakovaně ptá na nové přihlášení. Neexistuje dvoufaktorové zabezpečení, ale jen 3 a 4 faktorové zabezpečení. Dostat se k platebním údajům je díky tomu téměř nemožné a zákazníci musí pro faktury na pobočku.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-18T01:29:35-07:00",
+      "textNormalized": "dobry den,\n\nprace it oddeleni spolecnosti vodafone na teto aplikaci je obrovskym zklamanim. aplikace se neustale odhlasuje, a to i kdyz mate nastavene trvale prihlaseni. vymluva, ze je to pro lepsi zabezpeceni dat, je naprosty nesmysl. tri- ci ctyrfaktorove overovani vede pouze k tomu, ze viry a podvodnici se do aplikace dostanou, ale bezny uzivatel nikoliv.\n\nzkusili jste nekdy zaplatit fakturu, kdyz vas system po kazdem kroku odhlasi? zcela nemozne. zavolat na infolinku, aby vam poslali fakturacni udaje? zaplatite 49 kc za hovor. zajit osobne na pobocku, kdyz jste na dovolene v zahranici? nerealne. a kdyz vam ukradnou telefon treba v australii a chcete ho zablokovat? musite sednout na letadlo, vratit se do cr a s obcankou zajit na pobocku, protoze bez overovaci sms z ukradeneho cisla nezaridite temer nic.\n\nv dnesni digitalni dobe zkratka chcete, abychom chodili resit faktury nebo blokace osobne na pobocku. mysleni it oddeleni vodafonu zamrzlo v 80. letech 20. stoleti.\n\nnapadlo nekdy vedeni spolecnosti vodafone, ze desitky tisic neplaticu mate mozna jen proto, ze se lide zkratka nemaji jak dostat ke svym platebnim udajum? vase it oddeleni tak realne zpusobuje spolecnosti skody ve vysi desitek milionu korun kazdy mesic. meli byste jim tyto ztraty dat k uhrade.\n\ntimto durazne zadam o vyvozeni dusledku a propusteni it pracovniku, kteri za tento system zodpovidaji. zaroven vas chci informovat, ze jsme vasi aplikaci navrhli do guinnessovy knihy rekordu jako nejhorsi aplikaci vsech dob.\n\naktualizace odpovedi: vodafone reagoval odpovedi vygenerovanou pres ai aniz by ji cetl. k tomu dodavam. v aplikaci nefunguje trvale prihlaseni, i pres nej se opakovane pta na nove prihlaseni. neexistuje dvoufaktorove zabezpeceni, ale jen 3 a 4 faktorove zabezpeceni. dostat se k platebnim udajum je diky tomu temer nemozne a zakaznici musi pro faktury na pobocku.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14195066549",
+      "userName": "zdeněk 1354651231",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id201359688",
+      "version": "3.14.0",
+      "score": 1,
+      "title": "Hrozna společnost neoprávněné účtování.",
+      "text": "Hrozna společnost neoprávněné účtování. Platím 500mb internet ale záměrně mi to stáhli na 250 jelikož cetin neni schopny udelat nastaveni a bezelo mi to meně. Po stahnuti se mi drasticky snizil upload a download neni tak rychly jako u 500. Cenu neupravili mam firemní smlouvu. Příjezd tecnika na opravu - musel sem byt doma jinak bych dostal pokutu za zbytecny vyjezd. Vzal jsem si volno na cely den- technik nepřijel ani se neomluvil.    Druhy den mi bylo receno ze pry měl rozbite auto! Budu podavat podmět na čoi. \nAktualizace: po zveřejnění recenze mi přišel email že mam podat reklamaci. Tu jsem však podal. Za to že jsem si vzal na cely den dovolenou kuli neuskutečněnému příjezdu technika a za to že jeden den nefungoval internet vůbec jsem dostal slevu ve výši cca 200 kč :-D na fakturu v hodnotě 2700,- kč a jinak když mi tam poštěli 500mb fungovalo mi to 280 ale když mi pouští 250 funguje mi to 170. Že by úmyslné škrcení na minimální spodní hranici? Nevím jak se toto bude líbit kontrole. Lokalita čelákovice :) každopádně nedoporučuji budu přecházet k O2.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-17T15:01:32-07:00",
+      "textNormalized": "hrozna spolecnost neopravnene uctovani. platim 500mb internet ale zamerne mi to stahli na 250 jelikoz cetin neni schopny udelat nastaveni a bezelo mi to mene. po stahnuti se mi drasticky snizil upload a download neni tak rychly jako u 500. cenu neupravili mam firemni smlouvu. prijezd tecnika na opravu - musel sem byt doma jinak bych dostal pokutu za zbytecny vyjezd. vzal jsem si volno na cely den- technik neprijel ani se neomluvil.    druhy den mi bylo receno ze pry mel rozbite auto! budu podavat podmet na coi. \naktualizace: po zverejneni recenze mi prisel email ze mam podat reklamaci. tu jsem vsak podal. za to ze jsem si vzal na cely den dovolenou kuli neuskutecnenemu prijezdu technika a za to ze jeden den nefungoval internet vubec jsem dostal slevu ve vysi cca 200 kc :-d na fakturu v hodnote 2700,- kc a jinak kdyz mi tam posteli 500mb fungovalo mi to 280 ale kdyz mi pousti 250 funguje mi to 170. ze by umyslne skrceni na minimalni spodni hranici? nevim jak se toto bude libit kontrole. lokalita celakovice :) kazdopadne nedoporucuji budu prechazet k o2.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14193104661",
+      "userName": "Uzivatel(:);",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1744627119",
+      "version": "3.14.0",
+      "score": 1,
+      "title": "Aktualizace",
+      "text": "Potřebuje aktualizaci asi každých 6 dnů..",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-17T04:44:12-07:00",
+      "textNormalized": "potrebuje aktualizaci asi kazdych 6 dnu..",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14190611073",
+      "userName": "Eliol.................",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id797158866",
+      "version": "3.14.0",
+      "score": 1,
+      "title": "Nejde se přihlásit",
+      "text": "Aplikace si nepamatuje přihlašovací údaje, není jednoduché měnit heslo, v podstatě každý pokus o zaplacení tarifu je tak na půl hodiny a pokaždé mě naštve.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-16T12:11:06-07:00",
+      "textNormalized": "aplikace si nepamatuje prihlasovaci udaje, neni jednoduche menit heslo, v podstate kazdy pokus o zaplaceni tarifu je tak na pul hodiny a pokazde me nastve.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14186399348",
+      "userName": "Katsunecz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1337926567",
+      "version": "3.14.0",
+      "score": 1,
+      "title": "Nelze se přihlásit",
+      "text": "Od té doby co je nová aplikace je to jeden velký problém s přihlášením",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-15T10:17:54-07:00",
+      "textNormalized": "od te doby co je nova aplikace je to jeden velky problem s prihlasenim",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14184862856",
+      "userName": "Blanka Boneva",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id730130066",
+      "version": "3.14.0",
+      "score": 1,
+      "title": "Stále není plně funkční",
+      "text": "Od počátku nové aplikace není v ní historie čerpání kreditu 🤷‍♀️, nechci se vázat tarifem. Jen se slibuje...bude to vůbec někdy? 🤦‍♀️.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-15T01:48:50-07:00",
+      "textNormalized": "od pocatku nove aplikace neni v ni historie cerpani kreditu 🤷‍♀️, nechci se vazat tarifem. jen se slibuje...bude to vubec nekdy? 🤦‍♀️.",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14180883477",
       "userName": "Honza Prokop",
@@ -2774,8 +2918,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 173,
-    "extractedAt": "2026-06-21T08:59:50.364Z",
+    "totalReviewsExtracted": 182,
+    "extractedAt": "2026-06-22T10:44:34.963Z",
     "source": "app-store"
   }
 }
