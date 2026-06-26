@@ -1,17 +1,49 @@
 {
   "ratings": {
-    "score": 3.13437,
+    "score": 3.14,
     "totalRatings": 1,
-    "totalReviews": 1935,
+    "totalReviews": 1950,
     "histogram": {
       "1": 699,
       "2": 161,
       "3": 107,
-      "4": 133,
-      "5": 848
+      "4": 134,
+      "5": 849
     }
   },
   "reviews": [
+    {
+      "id": "14213910347",
+      "userName": "Novotak",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1566880110",
+      "version": "3.14.0",
+      "score": 1,
+      "title": "Nefunguje",
+      "text": "Nefunguje",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-22T11:48:20-07:00",
+      "textNormalized": "nefunguje",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14211894165",
+      "userName": "Adelka1678",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id385336565",
+      "version": "3.14.0",
+      "score": 1,
+      "title": "Nefunkční",
+      "text": "Aplikace mě odhlásila a není možné se znovu zalogovat už více jak 2 měsíce.  Neustále nabízí jen kód, který mám sdílet s technickou podporou, ale kontakt na podporu chybí.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-22T00:08:17-07:00",
+      "textNormalized": "aplikace me odhlasila a neni mozne se znovu zalogovat uz vice jak 2 mesice.  neustale nabizi jen kod, ktery mam sdilet s technickou podporou, ale kontakt na podporu chybi.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14206745167",
       "userName": "NickAurel123",
@@ -2918,8 +2950,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 182,
-    "extractedAt": "2026-06-24T08:28:43.928Z",
+    "totalReviewsExtracted": 184,
+    "extractedAt": "2026-06-25T08:28:05.085Z",
     "source": "app-store"
   }
 }
