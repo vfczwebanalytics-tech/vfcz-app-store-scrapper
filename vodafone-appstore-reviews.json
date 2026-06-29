@@ -1,17 +1,47 @@
 {
   "ratings": {
-    "score": 3.14155,
+    "score": 3.14097,
     "totalRatings": 1,
-    "totalReviews": 1964,
+    "totalReviews": 1965,
     "histogram": {
       "1": 703,
-      "2": 163,
+      "2": 164,
       "3": 107,
       "4": 135,
       "5": 856
     }
   },
   "reviews": [
+    {
+      "id": "14225571255",
+      "userName": "Efendi 75",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1074527004",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "Nefunkční",
+      "text": "iOS. Ani se nepustí. Čím dál horší.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-25T11:11:31-07:00",
+      "textNormalized": "ios. ani se nepusti. cim dal horsi.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14223250638",
+      "userName": "Le Biomechanic",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1832992046",
+      "version": "3.14.1",
+      "score": 5,
+      "title": "Ale joo",
+      "text": "Dá se",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-24T21:40:18-07:00",
+      "textNormalized": "da se",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14213910347",
       "userName": "Novotak",
@@ -2950,8 +2980,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 184,
-    "extractedAt": "2026-06-28T08:25:43.219Z",
+    "totalReviewsExtracted": 186,
+    "extractedAt": "2026-06-29T09:54:21.058Z",
     "source": "app-store"
   }
 }
