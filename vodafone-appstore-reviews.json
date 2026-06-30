@@ -4,7 +4,7 @@
     "totalRatings": 1,
     "totalReviews": 1965,
     "histogram": {
-      "1": 703,
+      "1": 704,
       "2": 164,
       "3": 107,
       "4": 135,
@@ -2981,7 +2981,7 @@
   ],
   "metadata": {
     "totalReviewsExtracted": 186,
-    "extractedAt": "2026-06-29T09:54:21.058Z",
+    "extractedAt": "2026-06-30T08:33:57.732Z",
     "source": "app-store"
   }
 }
