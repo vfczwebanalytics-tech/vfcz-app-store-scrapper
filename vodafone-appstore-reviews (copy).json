@@ -1,17 +1,47 @@
 {
   "ratings": {
-    "score": 3.14091,
+    "score": 3.14415,
     "totalRatings": 1,
-    "totalReviews": 1980,
+    "totalReviews": 1984,
     "histogram": {
       "1": 709,
       "2": 165,
       "3": 107,
-      "4": 136,
-      "5": 863
+      "4": 137,
+      "5": 866
     }
   },
   "reviews": [
+    {
+      "id": "14241120102",
+      "userName": "Márty 69",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1404686309",
+      "version": "3.14.1",
+      "score": 5,
+      "title": "Rooming",
+      "text": "Našel jsem co jsem potřeboval. Aktivace balíčku taky v pohodě. \nCelková spokojenost.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-29T07:24:14-07:00",
+      "textNormalized": "nasel jsem co jsem potreboval. aktivace balicku taky v pohode. \ncelkova spokojenost.",
+      "segments": [
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14239890813",
+      "userName": "nickCz007",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id188047886",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "Low quality app",
+      "text": "It is impossible to use the app without endless updates. This indicates a poor quality of the app.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-29T00:43:49-07:00",
+      "textNormalized": "it is impossible to use the app without endless updates. this indicates a poor quality of the app.",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14225571255",
       "userName": "Efendi 75",
@@ -2980,8 +3010,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 186,
-    "extractedAt": "2026-07-02T08:16:49.304Z",
+    "totalReviewsExtracted": 188,
+    "extractedAt": "2026-07-03T08:16:02.493Z",
     "source": "app-store"
   }
 }
