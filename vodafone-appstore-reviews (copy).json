@@ -1,17 +1,81 @@
 {
   "ratings": {
-    "score": 3.141,
+    "score": 3.14165,
     "totalRatings": 2,
-    "totalReviews": 2000,
+    "totalReviews": 2005,
     "histogram": {
-      "1": 716,
-      "2": 165,
+      "1": 717,
+      "2": 166,
       "3": 110,
-      "4": 139,
-      "5": 870
+      "4": 140,
+      "5": 872
     }
   },
   "reviews": [
+    {
+      "id": "14262765916",
+      "userName": "Hhhdjjjjkd",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1706016495",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "Useless",
+      "text": "Absolutely dreadful app, requests an update everytime I try to use it (which is usually once a month toward the end of the billing period), then won’t start unless you update immediately which is not always possible whilst running out of data. At least implement an option for people to update on their own schedule!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-04T09:47:02-07:00",
+      "textNormalized": "absolutely dreadful app, requests an update everytime i try to use it (which is usually once a month toward the end of the billing period), then won’t start unless you update immediately which is not always possible whilst running out of data. at least implement an option for people to update on their own schedule!",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14254007097",
+      "userName": "Misalek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1225749926",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "Přihlášení nefunguje",
+      "text": "Prohlášení do aplikace dlouhodobě nefunguje a zjevně s tím nikdo nehodla nic dělat",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-02T07:39:53-07:00",
+      "textNormalized": "prohlaseni do aplikace dlouhodobe nefunguje a zjevne s tim nikdo nehodla nic delat",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14253045735",
+      "userName": "ooklecram",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id596138567",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "Otrasné",
+      "text": "Nejde sa prihlásiť, všetko načítava 2 hodiny, neustále vyskakuje chyba, nenačíta aktuálne hodnoty. Najhoršia apka",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-02T02:50:40-07:00",
+      "textNormalized": "nejde sa prihlasit, vsetko nacitava 2 hodiny, neustale vyskakuje chyba, nenacita aktualne hodnoty. najhorsia apka",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14253012714",
+      "userName": "BigDians",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id480228054",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "App not doing what it should",
+      "text": "Obe of the worst apps i have ever used. Monthly bill can never work out the details, always broken. The only thing working properly is the payment.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-02T02:38:15-07:00",
+      "textNormalized": "obe of the worst apps i have ever used. monthly bill can never work out the details, always broken. the only thing working properly is the payment.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
     {
       "id": "14241120102",
       "userName": "Márty 69",
@@ -3010,8 +3074,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 188,
-    "extractedAt": "2026-07-05T08:07:08.218Z",
+    "totalReviewsExtracted": 192,
+    "extractedAt": "2026-07-06T09:06:21.029Z",
     "source": "app-store"
   }
 }
