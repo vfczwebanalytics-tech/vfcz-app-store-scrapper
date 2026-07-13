@@ -1,17 +1,107 @@
 {
   "ratings": {
-    "score": 3.13764,
+    "score": 3.13737,
     "totalRatings": 2,
-    "totalReviews": 2027,
+    "totalReviews": 2031,
     "histogram": {
-      "1": 729,
+      "1": 731,
       "2": 166,
       "3": 110,
       "4": 141,
-      "5": 881
+      "5": 883
     }
   },
   "reviews": [
+    {
+      "id": "14281236119",
+      "userName": "tnorcgkv",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id488012611",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "Příšerná aplikace, nevidím ani vyúčtování ..",
+      "text": ".",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-09T01:50:13-07:00",
+      "textNormalized": ".",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14271268238",
+      "userName": "Lolninf",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1865506606",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "Якість інтернету в Чехії",
+      "text": "Дуже погана) робіть щось з цим, та ціна на інтернет підвищується а швидкість інтернета як у равлика) це просто не описати, наскільки він поганий",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-06T12:53:01-07:00",
+      "textNormalized": "дуже погана) робіть щось з цим, та ціна на інтернет підвищується а швидкість інтернета як у равлика) це просто не описати, наскільки він погании",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14270583544",
+      "userName": "MCep7",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1941713881",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "Nefunkční přihlášení",
+      "text": "Stejně jako u “předchozí” aplikace, přihlásit se do ní se blíží zázraku.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-06T09:20:09-07:00",
+      "textNormalized": "stejne jako u “predchozi” aplikace, prihlasit se do ni se blizi zazraku.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14270231176",
+      "userName": "v se tu j v f z jjb",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1102685300",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "Strašný!",
+      "text": "To je tak zkurvená aplikace, že mám sto chutí se na celý Vodafone vysrat!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-06T07:39:36-07:00",
+      "textNormalized": "to je tak zkurvena aplikace, ze mam sto chuti se na cely vodafone vysrat!",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14269528280",
+      "userName": "Frytol",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id505107069",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "Aktualizace",
+      "text": "Kdykoliv aplikaci zapnu chce to aktualizaci… to stále měníte API endpointy nebo co tam tak stále ****** že je nutné vždy udělat altualizaci?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-06T04:00:25-07:00",
+      "textNormalized": "kdykoliv aplikaci zapnu chce to aktualizaci… to stale menite api endpointy nebo co tam tak stale ****** ze je nutne vzdy udelat altualizaci?",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14265849092",
+      "userName": "quakzmdb",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1292570754",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "Nedá se přihlásit 😂",
+      "text": "When o try to log in, it always say to reset the application",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-05T05:43:54-07:00",
+      "textNormalized": "when o try to log in, it always say to reset the application",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14262765916",
       "userName": "Hhhdjjjjkd",
@@ -3074,8 +3164,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 192,
-    "extractedAt": "2026-07-12T07:32:01.036Z",
+    "totalReviewsExtracted": 198,
+    "extractedAt": "2026-07-13T08:22:15.705Z",
     "source": "app-store"
   }
 }
