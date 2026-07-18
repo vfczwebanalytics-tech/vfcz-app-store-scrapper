@@ -1,17 +1,35 @@
 {
   "ratings": {
-    "score": 3.13676,
+    "score": 3.14139,
     "totalRatings": 2,
-    "totalReviews": 2040,
+    "totalReviews": 2051,
     "histogram": {
-      "1": 735,
+      "1": 737,
       "2": 166,
-      "3": 110,
-      "4": 143,
-      "5": 886
+      "3": 111,
+      "4": 144,
+      "5": 893
     }
   },
   "reviews": [
+    {
+      "id": "14308990217",
+      "userName": "LukyKuky89",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1598595986",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "Jedna z nejhoršíh aplikací vubec",
+      "text": "Tato aplikace, je jeden velký problém. V minulosti mě neustále odhlasovala z profilu a nyní už hlásí, že můj email a profil ani neexistuje!!! Není možné, se mi do této aplikace přihlásit!! Změňte operátora, toto není v pořádku! Předtím jsem měl.tmobile a to je bezkonkurenční aplikace.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-15T22:52:51-07:00",
+      "textNormalized": "tato aplikace, je jeden velky problem. v minulosti me neustale odhlasovala z profilu a nyni uz hlasi, ze muj email a profil ani neexistuje!!! neni mozne, se mi do teto aplikace prihlasit!! zmente operatora, toto neni v poradku! predtim jsem mel.tmobile a to je bezkonkurencni aplikace.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14301086381",
       "userName": "kiwi bad",
@@ -3194,8 +3212,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 200,
-    "extractedAt": "2026-07-17T07:23:30.166Z",
+    "totalReviewsExtracted": 201,
+    "extractedAt": "2026-07-18T07:03:03.639Z",
     "source": "app-store"
   }
 }

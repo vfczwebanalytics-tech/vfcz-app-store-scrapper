@@ -1,17 +1,32 @@
 {
   "ratings": {
-    "score": 3.13634,
+    "score": 3.13676,
     "totalRatings": 2,
-    "totalReviews": 2039,
+    "totalReviews": 2040,
     "histogram": {
       "1": 735,
       "2": 166,
       "3": 110,
-      "4": 142,
+      "4": 143,
       "5": 886
     }
   },
   "reviews": [
+    {
+      "id": "14301086381",
+      "userName": "kiwi bad",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id536388006",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "Aktualizace",
+      "text": "Aktualizace každý měsíc",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-14T00:15:43-07:00",
+      "textNormalized": "aktualizace kazdy mesic",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14281236119",
       "userName": "tnorcgkv",
@@ -438,6 +453,21 @@
         "Stabilita",
         "Prihlaseni",
         "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "14172930147",
+      "userName": "83(7(7:8",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1932020314",
+      "version": "3.14.0",
+      "score": 1,
+      "title": "Wtf is this???",
+      "text": "Horrible and buggy. I'm seriously considering changing my provider simply because of the app.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-06-12T00:47:46-07:00",
+      "textNormalized": "horrible and buggy. i'm seriously considering changing my provider simply because of the app.",
+      "segments": [
+        "Stabilita"
       ]
     },
     {
@@ -3164,8 +3194,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 198,
-    "extractedAt": "2026-07-16T07:26:39.900Z",
+    "totalReviewsExtracted": 200,
+    "extractedAt": "2026-07-17T07:23:30.166Z",
     "source": "app-store"
   }
 }
