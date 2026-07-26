@@ -5,10 +5,10 @@
     "totalReviews": 2072,
     "histogram": {
       "1": 739,
-      "2": 166,
+      "2": 167,
       "3": 112,
       "4": 147,
-      "5": 908
+      "5": 909
     }
   },
   "reviews": [
@@ -3213,7 +3213,7 @@
   ],
   "metadata": {
     "totalReviewsExtracted": 201,
-    "extractedAt": "2026-07-24T07:36:35.929Z",
+    "extractedAt": "2026-07-25T07:22:54.187Z",
     "source": "app-store"
   }
 }
