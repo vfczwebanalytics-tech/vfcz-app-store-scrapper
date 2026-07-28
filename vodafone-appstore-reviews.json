@@ -1,17 +1,33 @@
 {
   "ratings": {
-    "score": 3.15827,
+    "score": 3.15772,
     "totalRatings": 2,
-    "totalReviews": 2085,
+    "totalReviews": 2086,
     "histogram": {
-      "1": 742,
+      "1": 743,
       "2": 167,
       "3": 112,
-      "4": 147,
-      "5": 917
+      "4": 146,
+      "5": 918
     }
   },
   "reviews": [
+    {
+      "id": "14349809026",
+      "userName": "Ivan Rubey",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1949617458",
+      "version": "3.15.0",
+      "score": 1,
+      "title": "Nova aplikace uplne priserna",
+      "text": "Neni to prehledne, nekomfortni.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-26T03:22:14-07:00",
+      "textNormalized": "neni to prehledne, nekomfortni.",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14345708108",
       "userName": "Pralinečka",
@@ -3289,8 +3305,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 206,
-    "extractedAt": "2026-07-27T08:38:28.494Z",
+    "totalReviewsExtracted": 207,
+    "extractedAt": "2026-07-28T07:42:33.279Z",
     "source": "app-store"
   }
 }

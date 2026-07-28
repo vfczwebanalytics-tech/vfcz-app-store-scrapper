@@ -1,17 +1,94 @@
 {
   "ratings": {
-    "score": 3.15666,
+    "score": 3.15827,
     "totalRatings": 2,
-    "totalReviews": 2081,
+    "totalReviews": 2085,
     "histogram": {
-      "1": 741,
+      "1": 742,
       "2": 167,
       "3": 112,
       "4": 147,
-      "5": 914
+      "5": 917
     }
   },
   "reviews": [
+    {
+      "id": "14345708108",
+      "userName": "Pralinečka",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1574865114",
+      "version": "3.15.0",
+      "score": 5,
+      "title": "Recenze",
+      "text": "Super aplikace",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-25T02:02:22-07:00",
+      "textNormalized": "super aplikace",
+      "segments": [
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14327257448",
+      "userName": "Petr P..",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id322919201",
+      "version": "3.15.0",
+      "score": 4,
+      "title": "Vod+",
+      "text": "To plusko je důležitý, předchozí appce jsem (právem) naložil, že i po zaplacení se tváří poplatek jako nezaplacenej a v nepozornosti to třeba cvakneš hned dvakrát, pak tam máš nesoulad apod. Nová appka po zaplacení zezelená a řiká, že zpracovává. To oceňuju.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-20T11:04:39-07:00",
+      "textNormalized": "to plusko je dulezity, predchozi appce jsem (pravem) nalozil, ze i po zaplaceni se tvari poplatek jako nezaplacenej a v nepozornosti to treba cvaknes hned dvakrat, pak tam mas nesoulad apod. nova appka po zaplaceni zezelena a rika, ze zpracovava. to ocenuju.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14326109984",
+      "userName": "Můra1",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1731717845",
+      "version": "3.15.0",
+      "score": 4,
+      "title": "-",
+      "text": "Aplikace je přehledná a funguje. Jediným mínus je, že po každé aktualizaci mě aplikace odhlásí, to mi vadí.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-20T05:20:15-07:00",
+      "textNormalized": "aplikace je prehledna a funguje. jedinym minus je, ze po kazde aktualizaci me aplikace odhlasi, to mi vadi.",
+      "segments": [
+        "UI",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14322901388",
+      "userName": "J.1233",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1511240608",
+      "version": "3.15.0",
+      "score": 1,
+      "title": "Aplikace špatně funguje",
+      "text": "Strašná aplikace, věčně věku v aplikaci něco nefunguje.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-19T09:00:34-07:00",
+      "textNormalized": "strasna aplikace, vecne veku v aplikaci neco nefunguje.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14314504828",
+      "userName": "pivot16",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id504577814",
+      "version": "3.14.1",
+      "score": 1,
+      "title": "Hrůza",
+      "text": "To je hrozný jak tohle mohlo být vůbec vypusteno, aplikaci jsem od update na plus úplně přestal používat, proč to pořád při otevření chce přihlášení, pakazdy, to už rovnou můžu chodit přes web.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-17T07:31:43-07:00",
+      "textNormalized": "to je hrozny jak tohle mohlo byt vubec vypusteno, aplikaci jsem od update na plus uplne prestal pouzivat, proc to porad pri otevreni chce prihlaseni, pakazdy, to uz rovnou muzu chodit pres web.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "14308990217",
       "userName": "LukyKuky89",
@@ -3212,8 +3289,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 201,
-    "extractedAt": "2026-07-26T07:40:48.937Z",
+    "totalReviewsExtracted": 206,
+    "extractedAt": "2026-07-27T08:38:28.494Z",
     "source": "app-store"
   }
 }
