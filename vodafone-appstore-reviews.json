@@ -1,17 +1,51 @@
 {
   "ratings": {
-    "score": 3.15772,
+    "score": 3.15525,
     "totalRatings": 2,
-    "totalReviews": 2086,
+    "totalReviews": 2087,
     "histogram": {
-      "1": 743,
-      "2": 167,
+      "1": 744,
+      "2": 168,
       "3": 112,
       "4": 146,
-      "5": 918
+      "5": 917
     }
   },
   "reviews": [
+    {
+      "id": "14355287908",
+      "userName": "HonzaCvhhhh",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1703240606",
+      "version": "3.15.0",
+      "score": 1,
+      "title": "Jedna z nejběžnějších",
+      "text": "Jeda z neblbějších aplikací dokonce důvod proč pořád přemýšlím o T mobilu tam byla skvělá. Nepřehledná jen nutí kupovat nové produkty něco nastavit problém děsná",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-27T11:08:42-07:00",
+      "textNormalized": "jeda z neblbejsich aplikaci dokonce duvod proc porad premyslim o t mobilu tam byla skvela. neprehledna jen nuti kupovat nove produkty neco nastavit problem desna",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "14354130117",
+      "userName": "Marcelaxy",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id907727209",
+      "version": "3.15.0",
+      "score": 1,
+      "title": "Hrůza",
+      "text": "Aplikace věčně nefunguje, nemůžu se přihlásit a neustále se mi ukazuje černá obrazovka. Jak má pak člověk něco platit a řešit, kdyz nejde ani otevřít. Zlatě původní aplikace.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-27T05:29:11-07:00",
+      "textNormalized": "aplikace vecne nefunguje, nemuzu se prihlasit a neustale se mi ukazuje cerna obrazovka. jak ma pak clovek neco platit a resit, kdyz nejde ani otevrit. zlate puvodni aplikace.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "14349809026",
       "userName": "Ivan Rubey",
@@ -3305,8 +3339,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 207,
-    "extractedAt": "2026-07-28T07:42:33.279Z",
+    "totalReviewsExtracted": 209,
+    "extractedAt": "2026-07-29T07:48:09.408Z",
     "source": "app-store"
   }
 }
