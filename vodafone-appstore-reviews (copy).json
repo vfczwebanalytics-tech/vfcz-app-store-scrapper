@@ -1,17 +1,159 @@
 {
   "ratings": {
-    "score": 3.17148,
+    "score": 3.17349,
     "totalRatings": 2,
-    "totalReviews": 2146,
+    "totalReviews": 2150,
     "histogram": {
-      "1": 760,
-      "2": 168,
-      "3": 113,
+      "1": 761,
+      "2": 167,
+      "3": 114,
       "4": 154,
-      "5": 951
+      "5": 954
     }
   },
   "reviews": [
+    {
+      "id": "14402549289",
+      "userName": "Jan Charvát",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id990100051",
+      "version": "3.15.0",
+      "score": 1,
+      "title": "Katastrofa",
+      "text": "Aplikace random odhlašuje a musim se pak pracně přihlašivat. Jelikož aplikaci využívám jednou do měsíce tak je to nejvíc otravné. Potvrzovaci kod jeste musi chodit do sms. Nechapu kdo tu aplikaci delal, ale i claude code za petiklíště za měsíc by jí udělal 100x lépe",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-08T04:58:30-07:00",
+      "textNormalized": "aplikace random odhlasuje a musim se pak pracne prihlasivat. jelikoz aplikaci vyuzivam jednou do mesice tak je to nejvic otravne. potvrzovaci kod jeste musi chodit do sms. nechapu kdo tu aplikaci delal, ale i claude code za petikliste za mesic by ji udelal 100x lepe",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14399264675",
+      "userName": "VrahX",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1495531600",
+      "version": "3.15.0",
+      "score": 5,
+      "title": "Skvělá",
+      "text": "Nejlepší operátor",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-07T07:59:53-07:00",
+      "textNormalized": "nejlepsi operator",
+      "segments": [
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "14394178589",
+      "userName": "Natáčet",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1953883306",
+      "version": "3.15.0",
+      "score": 1,
+      "title": "Nefunguje",
+      "text": "Hlásí mi to error když se chci přihlásit. Takže si nemohu zrychlit data. To naštve. Mohli by aspoň za to dat nějaké odškodnění nebo slevu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-06T01:53:39-07:00",
+      "textNormalized": "hlasi mi to error kdyz se chci prihlasit. takze si nemohu zrychlit data. to nastve. mohli by aspon za to dat nejake odskodneni nebo slevu.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14388621151",
+      "userName": "ekokit",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id517314511",
+      "version": "3.15.0",
+      "score": 4,
+      "title": "Pořadí telefonů v aplikaci",
+      "text": "Kdyby šla prosím možnost měnit nejen výchozí zobrazení telefonu, ale i pořadí dalších telefonů ve službě? Pomohlo by to. Děkuji za případné zapracování do jedné z dalších aktualizací.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-04T15:50:37-07:00",
+      "textNormalized": "kdyby sla prosim moznost menit nejen vychozi zobrazeni telefonu, ale i poradi dalsich telefonu ve sluzbe? pomohlo by to. dekuji za pripadne zapracovani do jedne z dalsich aktualizaci.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14388215483",
+      "userName": "Xixina",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id310113183",
+      "version": "3.15.0",
+      "score": 1,
+      "title": "Tragedie",
+      "text": "Bez navstevy pobocky nebo volani na linku se clovek nezbavi anonymniho profilu. Aplikace naprosto k nicemu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-04T13:19:24-07:00",
+      "textNormalized": "bez navstevy pobocky nebo volani na linku se clovek nezbavi anonymniho profilu. aplikace naprosto k nicemu.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14374063803",
+      "userName": "Dj jenda",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1592082987",
+      "version": "3.15.0",
+      "score": 1,
+      "title": "Katastrofa",
+      "text": "V životě jsem v X telefonech neměl horší aplikaci……strašný, někdo by se měl hodně chytit za hlavu…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-01T03:05:08-07:00",
+      "textNormalized": "v zivote jsem v x telefonech nemel horsi aplikaci……strasny, nekdo by se mel hodne chytit za hlavu…",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14367559186",
+      "userName": "J-F-311",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1692549615",
+      "version": "3.15.0",
+      "score": 1,
+      "title": "Nejde",
+      "text": "Nejde se přihlásit. Desítky minut běží animace loga Vodafone a nic se neděje. Aplikaci jsem zkoušel i reinstalovat a nadale stejne chování. Na služby se musím dívat jen přes Chrome.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-30T11:37:31-07:00",
+      "textNormalized": "nejde se prihlasit. desitky minut bezi animace loga vodafone a nic se nedeje. aplikaci jsem zkousel i reinstalovat a nadale stejne chovani. na sluzby se musim divat jen pres chrome.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14365360837",
+      "userName": "Jana N.123522",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id139852235",
+      "version": "3.15.0",
+      "score": 1,
+      "title": ".",
+      "text": "často píše chybu a nelze se přihlásit",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-29T23:28:03-07:00",
+      "textNormalized": "casto pise chybu a nelze se prihlasit",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14359129733",
+      "userName": "Altiel",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id336133455",
+      "version": "3.15.0",
+      "score": 4,
+      "title": "Nekvalitni",
+      "text": "Porad odhlašuje, vše se načítá dlouho a je velice otravná tato aplikace. často se aktualizuje,ale nepamatuji si kdy fungovalo vše tak jak bych očekával. \nKamarádka se do aplikace nemohla dostat  2 měsíce. Vše zkusila, resetovala vše apod..telefoní pomoc od vodafone i pomoc na pobocce nepomohla..nasledne poslali vyuctovani 4x vyssi a bez opisu za co clovek platí...DOPORUČUJI..",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-07-28T09:55:42-07:00",
+      "textNormalized": "porad odhlasuje, vse se nacita dlouho a je velice otravna tato aplikace. casto se aktualizuje,ale nepamatuji si kdy fungovalo vse tak jak bych ocekaval. \nkamaradka se do aplikace nemohla dostat  2 mesice. vse zkusila, resetovala vse apod..telefoni pomoc od vodafone i pomoc na pobocce nepomohla..nasledne poslali vyuctovani 4x vyssi a bez opisu za co clovek plati...doporucuji..",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14355287908",
       "userName": "HonzaCvhhhh",
@@ -3339,8 +3481,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 209,
-    "extractedAt": "2026-08-09T05:51:42.521Z",
+    "totalReviewsExtracted": 218,
+    "extractedAt": "2026-08-10T06:15:22.823Z",
     "source": "app-store"
   }
 }
