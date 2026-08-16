@@ -1,17 +1,49 @@
 {
   "ratings": {
-    "score": 3.18692,
+    "score": 3.19396,
     "totalRatings": 2,
-    "totalReviews": 2172,
+    "totalReviews": 2186,
     "histogram": {
-      "1": 764,
+      "1": 766,
       "2": 166,
-      "3": 114,
-      "4": 157,
-      "5": 975
+      "3": 113,
+      "4": 160,
+      "5": 981
     }
   },
   "reviews": [
+    {
+      "id": "14417788692",
+      "userName": "Aliqqqator",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1735840261",
+      "version": "3.15.0",
+      "score": 4,
+      "title": "Krok zpět",
+      "text": "Nelze ovládat modem dálkový restart",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-12T01:23:50-07:00",
+      "textNormalized": "nelze ovladat modem dalkovy restart",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14410376335",
+      "userName": "Dvorisek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1495351469",
+      "version": "3.15.0",
+      "score": 1,
+      "title": "Nepoužitelné",
+      "text": "Nepouzitelne kdyz se clovek nemuze prihlasit. V roce 2026 apka co nefunguje😂",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-10T05:40:33-07:00",
+      "textNormalized": "nepouzitelne kdyz se clovek nemuze prihlasit. v roce 2026 apka co nefunguje😂",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "14402549289",
       "userName": "Jan Charvát",
@@ -3481,8 +3513,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 218,
-    "extractedAt": "2026-08-14T06:19:56.283Z",
+    "totalReviewsExtracted": 220,
+    "extractedAt": "2026-08-15T05:31:02.716Z",
     "source": "app-store"
   }
 }
