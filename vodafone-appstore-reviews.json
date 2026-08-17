@@ -1,17 +1,78 @@
 {
   "ratings": {
-    "score": 3.19261,
+    "score": 3.19408,
     "totalRatings": 2,
-    "totalReviews": 2191,
+    "totalReviews": 2195,
     "histogram": {
       "1": 769,
       "2": 166,
-      "3": 113,
+      "3": 115,
       "4": 160,
-      "5": 983
+      "5": 985
     }
   },
   "reviews": [
+    {
+      "id": "14431573303",
+      "userName": "Xxxcsc",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1308160256",
+      "version": "3.16.0",
+      "score": 3,
+      "title": "Dost nepřehledné",
+      "text": "Dost nepřehledné",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-15T10:08:55-07:00",
+      "textNormalized": "dost neprehledne",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "14430225837",
+      "userName": "eiferu",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1531330962",
+      "version": "3.16.0",
+      "score": 1,
+      "title": "Peklo",
+      "text": "Skvělá aplikace, jejíž největší snahou je přesvědčit mě přejít k jinému operátorovi. A za to jí patří dík.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-15T03:17:42-07:00",
+      "textNormalized": "skvela aplikace, jejiz nejvetsi snahou je presvedcit me prejit k jinemu operatorovi. a za to ji patri dik.",
+      "segments": [
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "14426489427",
+      "userName": "NovakS530",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id609725520",
+      "version": "3.16.0",
+      "score": 1,
+      "title": "Fix the problem of payment",
+      "text": "Received SMS to pay from App Vodafone… right now i must search for App Vodafone+ 🫠. And payment just don’t work. 1 star🫡",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-14T05:09:12-07:00",
+      "textNormalized": "received sms to pay from app vodafone… right now i must search for app vodafone+ 🫠. and payment just don’t work. 1 star🫡",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "14425775648",
+      "userName": "FiB42",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id225419480",
+      "version": "3.16.0",
+      "score": 1,
+      "title": "Bad for official IT company app",
+      "text": "The app sucks. Half of it is just the official web page. It’s hard to find your changes or rather forget it. Same for summaries of your requests.\nSome things you still have to call their bad customer support.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-14T00:45:09-07:00",
+      "textNormalized": "the app sucks. half of it is just the official web page. it’s hard to find your changes or rather forget it. same for summaries of your requests.\nsome things you still have to call their bad customer support.",
+      "segments": [
+        "Zakaznicka_podpora"
+      ]
+    },
     {
       "id": "14417788692",
       "userName": "Aliqqqator",
@@ -3513,8 +3574,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 220,
-    "extractedAt": "2026-08-16T05:34:19.277Z",
+    "totalReviewsExtracted": 224,
+    "extractedAt": "2026-08-17T05:40:21.136Z",
     "source": "app-store"
   }
 }
