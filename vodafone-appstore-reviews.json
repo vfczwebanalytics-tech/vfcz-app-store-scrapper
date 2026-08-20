@@ -1,17 +1,84 @@
 {
   "ratings": {
-    "score": 3.19402,
+    "score": 3.19557,
     "totalRatings": 2,
-    "totalReviews": 2206,
+    "totalReviews": 2214,
     "histogram": {
-      "1": 773,
-      "2": 166,
+      "1": 775,
+      "2": 167,
       "3": 117,
       "4": 160,
-      "5": 990
+      "5": 995
     }
   },
   "reviews": [
+    {
+      "id": "14442881278",
+      "userName": "Týna.Koj",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1958581886",
+      "version": "3.16.0",
+      "score": 1,
+      "title": "Přihlášení",
+      "text": "Již několik měsíců mi nejde přihlásit se do aplikace. Neustále to hlásí chybu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-18T06:46:36-07:00",
+      "textNormalized": "jiz nekolik mesicu mi nejde prihlasit se do aplikace. neustale to hlasi chybu.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14435877126",
+      "userName": "ladiznet",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id975746508",
+      "version": "3.16.0",
+      "score": 3,
+      "title": "Heslo",
+      "text": "Proč si ta debilní aplikace nedokáže zapamatovat heslo! Já si ho taky z hlavy nepamatuju a  po každý aktualizaci to chce znova přihlásit!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-16T11:51:06-07:00",
+      "textNormalized": "proc si ta debilni aplikace nedokaze zapamatovat heslo! ja si ho taky z hlavy nepamatuju a  po kazdy aktualizaci to chce znova prihlasit!",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14435529885",
+      "userName": "Miso363",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id619765147",
+      "version": "3.16.0",
+      "score": 1,
+      "title": "The worst app I have ever seen",
+      "text": "Login is not working for more than 2 months, there are no nothing like report button. I literally cannot do anything in app except payment but that not working most of the time. Please stay away from this app and this mobile provider!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-16T10:02:55-07:00",
+      "textNormalized": "login is not working for more than 2 months, there are no nothing like report button. i literally cannot do anything in app except payment but that not working most of the time. please stay away from this app and this mobile provider!",
+      "segments": [
+        "UI",
+        "Prihlaseni",
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "14434483647",
+      "userName": "AnnaBttiA",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1154802473",
+      "version": "3.16.0",
+      "score": 1,
+      "title": "nelze se prihlasit",
+      "text": "Už několik měsíců se čas od času zkouším přihlásit do aplikace, ale po kliknutí na přihlášení se mi zobrazuje pouze prázdná stránka s jediným tlačítkem, které me dostane zpět na hlavní stránku. Fakt mě to nebaví, už to trvá fakt dlouho. Zvažuju díky tomu odchod k jinému operátorovi. :)\n(Reinstalaci jsem dělala minimálně 3x, máte tam bug, takže to nesvádějte na lidi, že s tím neumí pracovat, jako jsem četla v odpovědích na předchozí recenze)",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-16T04:54:03-07:00",
+      "textNormalized": "uz nekolik mesicu se cas od casu zkousim prihlasit do aplikace, ale po kliknuti na prihlaseni se mi zobrazuje pouze prazdna stranka s jedinym tlacitkem, ktere me dostane zpet na hlavni stranku. fakt me to nebavi, uz to trva fakt dlouho. zvazuju diky tomu odchod k jinemu operatorovi. :)\n(reinstalaci jsem delala minimalne 3x, mate tam bug, takze to nesvadejte na lidi, ze s tim neumi pracovat, jako jsem cetla v odpovedich na predchozi recenze)",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14431573303",
       "userName": "Xxxcsc",
@@ -3574,8 +3641,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 224,
-    "extractedAt": "2026-08-19T05:36:56.431Z",
+    "totalReviewsExtracted": 228,
+    "extractedAt": "2026-08-20T05:37:21.109Z",
     "source": "app-store"
   }
 }
