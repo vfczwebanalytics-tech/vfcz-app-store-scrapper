@@ -1,17 +1,65 @@
 {
   "ratings": {
-    "score": 3.19551,
+    "score": 3.19865,
     "totalRatings": 2,
-    "totalReviews": 2225,
+    "totalReviews": 2230,
     "histogram": {
       "1": 780,
       "2": 167,
       "3": 117,
-      "4": 160,
-      "5": 1001
+      "4": 162,
+      "5": 1004
     }
   },
   "reviews": [
+    {
+      "id": "14453855100",
+      "userName": "Boston 1212",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id285546039",
+      "version": "3.16.0",
+      "score": 5,
+      "title": "Vodafon",
+      "text": "Vodafon je nejlepší",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-21T00:40:59-07:00",
+      "textNormalized": "vodafon je nejlepsi",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14446014109",
+      "userName": "T3d Mosby",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id245400158",
+      "version": "3.16.0",
+      "score": 1,
+      "title": "Tragédie",
+      "text": "Tragédie tahle appka…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-19T01:48:35-07:00",
+      "textNormalized": "tragedie tahle appka…",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "14445698281",
+      "userName": "Tonysevr",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1958841074",
+      "version": "3.16.0",
+      "score": 1,
+      "title": "The worst app ever",
+      "text": "How is it even possible that a near-monopolist on the European market still couldn’t invest in developing?\n\nHi, 21st century 👋 You can use AI now, give it a try, I heard it helps. 😏😂\n\nI’ve tried both iOS and Android, and I’m not even talking about the ridiculously slow performance of the app. I’m talking about the UX and UI.\n\nHow can it be sooooo baaaaadddd? 🤦‍♂️\n\nWhat a shame.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-18T23:35:58-07:00",
+      "textNormalized": "how is it even possible that a near-monopolist on the european market still couldn’t invest in developing?\n\nhi, 21st century 👋 you can use ai now, give it a try, i heard it helps. 😏😂\n\ni’ve tried both ios and android, and i’m not even talking about the ridiculously slow performance of the app. i’m talking about the ux and ui.\n\nhow can it be sooooo baaaaadddd? 🤦‍♂️\n\nwhat a shame.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14442881278",
       "userName": "Týna.Koj",
@@ -3641,8 +3689,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 228,
-    "extractedAt": "2026-08-22T05:33:50.138Z",
+    "totalReviewsExtracted": 231,
+    "extractedAt": "2026-08-23T05:35:47.773Z",
     "source": "app-store"
   }
 }
