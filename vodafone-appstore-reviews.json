@@ -1,17 +1,51 @@
 {
   "ratings": {
-    "score": 3.20188,
+    "score": 3.20436,
     "totalRatings": 2,
-    "totalReviews": 2239,
+    "totalReviews": 2246,
     "histogram": {
-      "1": 780,
+      "1": 782,
       "2": 169,
-      "3": 118,
-      "4": 163,
-      "5": 1009
+      "3": 117,
+      "4": 164,
+      "5": 1014
     }
   },
   "reviews": [
+    {
+      "id": "14466638500",
+      "userName": "Helena Bein",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1562906066",
+      "version": "3.16.0",
+      "score": 2,
+      "title": "Aplikace a funkce",
+      "text": "Dobrý den, \nv aplikaci nelze nastavovat třeba roaming, dříve to šlo . Teď se musí volat operátorovi",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-24T07:26:24-07:00",
+      "textNormalized": "dobry den, \nv aplikaci nelze nastavovat treba roaming, drive to slo . ted se musi volat operatorovi",
+      "segments": [
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14458053294",
+      "userName": "David Sojka",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id237683792",
+      "version": "3.16.0",
+      "score": 2,
+      "title": "Laciná appka",
+      "text": "Je smutné vidět, že firma s tolika zákazníky na nich vlastně šetří. Je znát, že to není úplně nativní appka, ale nějaký hybrid v React Native nebo podobném (a nebo šíleně napsaný Swift). A projevuje se to v rychlosti, neustálém zapomínání přihlášení, nepřehlednosti, neestetičnosti atd. Design je evidentně dělaný tak, aby to na Android ani iOS nebyla pěst na oko, ale ani na jednom to vlastně není ok. Absurdní je fakt, že tahle appka měla být upgradem té dřívější, ale produkťák se zřejmě nepoučil. Jediný důvod, proč ji používám, je abych si aktivoval extra data - s čímkoliv jiným je lepší se appce vyhnout.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-22T02:32:47-07:00",
+      "textNormalized": "je smutne videt, ze firma s tolika zakazniky na nich vlastne setri. je znat, ze to neni uplne nativni appka, ale nejaky hybrid v react native nebo podobnem (a nebo silene napsany swift). a projevuje se to v rychlosti, neustalem zapominani prihlaseni, neprehlednosti, neesteticnosti atd. design je evidentne delany tak, aby to na android ani ios nebyla pest na oko, ale ani na jednom to vlastne neni ok. absurdni je fakt, ze tahle appka mela byt upgradem te drivejsi, ale produktak se zrejme nepoucil. jediny duvod, proc ji pouzivam, je abych si aktivoval extra data - s cimkoliv jinym je lepsi se appce vyhnout.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14453855100",
       "userName": "Boston 1212",
@@ -3689,8 +3723,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 231,
-    "extractedAt": "2026-08-25T05:37:52.562Z",
+    "totalReviewsExtracted": 233,
+    "extractedAt": "2026-08-26T05:40:20.359Z",
     "source": "app-store"
   }
 }
