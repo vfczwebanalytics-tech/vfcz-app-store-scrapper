@@ -1,17 +1,47 @@
 {
   "ratings": {
-    "score": 3.20436,
+    "score": 3.20542,
     "totalRatings": 2,
-    "totalReviews": 2246,
+    "totalReviews": 2249,
     "histogram": {
       "1": 782,
       "2": 169,
-      "3": 117,
-      "4": 164,
-      "5": 1014
+      "3": 118,
+      "4": 165,
+      "5": 1015
     }
   },
   "reviews": [
+    {
+      "id": "14473143586",
+      "userName": "Š.M",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1892744565",
+      "version": "3.16.0",
+      "score": 3,
+      "title": "Nepřehlednost",
+      "text": "Je to fajne aplikace, jediny co musim vytknout je ze je to nepřehledné a ještě k tomu musim používat dvě aplikace a kdykoliv chci něco vyrešit otevře mi to několik stránek. Moje otázka je proč to vše nenechat v jedné aplikaci?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-25T23:27:55-07:00",
+      "textNormalized": "je to fajne aplikace, jediny co musim vytknout je ze je to neprehledne a jeste k tomu musim pouzivat dve aplikace a kdykoliv chci neco vyresit otevre mi to nekolik stranek. moje otazka je proc to vse nenechat v jedne aplikaci?",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "14472201771",
+      "userName": "Nasrany_zakaznik",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1110288527",
+      "version": "3.16.0",
+      "score": 1,
+      "title": "zufalost",
+      "text": "Nechapem ako v roku 2026 moze tak velka firma vyprodukovat nieco tak hrozne, pomale a neintuitivne",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-25T16:57:10-07:00",
+      "textNormalized": "nechapem ako v roku 2026 moze tak velka firma vyprodukovat nieco tak hrozne, pomale a neintuitivne",
+      "segments": [
+        "UI"
+      ]
+    },
     {
       "id": "14466638500",
       "userName": "Helena Bein",
@@ -3723,8 +3753,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 233,
-    "extractedAt": "2026-08-26T05:40:20.359Z",
+    "totalReviewsExtracted": 235,
+    "extractedAt": "2026-08-27T16:20:34.604Z",
     "source": "app-store"
   }
 }
