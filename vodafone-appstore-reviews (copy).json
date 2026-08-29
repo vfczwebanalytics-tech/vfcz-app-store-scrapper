@@ -1,17 +1,47 @@
 {
   "ratings": {
-    "score": 3.20542,
+    "score": 3.20293,
     "totalRatings": 2,
-    "totalReviews": 2249,
+    "totalReviews": 2252,
     "histogram": {
-      "1": 782,
-      "2": 169,
+      "1": 784,
+      "2": 170,
       "3": 118,
       "4": 165,
       "5": 1015
     }
   },
   "reviews": [
+    {
+      "id": "14476945072",
+      "userName": "Robero Romanovicz1234",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id102900556",
+      "version": "3.16.0",
+      "score": 1,
+      "title": "Terrible, slow, constantly logs you out",
+      "text": "Constant problems, very annoying. Does not solve my needs, it creates more problems",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-26T22:38:56-07:00",
+      "textNormalized": "constant problems, very annoying. does not solve my needs, it creates more problems",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "14474966263",
+      "userName": "Толя Тарзан",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1004739109",
+      "version": "3.16.0",
+      "score": 2,
+      "title": "Just bad",
+      "text": "I have no idea how you as a huge company managed to create an abomination that is even worse than your previous app. It is just hilarious.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-26T09:53:56-07:00",
+      "textNormalized": "i have no idea how you as a huge company managed to create an abomination that is even worse than your previous app. it is just hilarious.",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14473143586",
       "userName": "Š.M",
@@ -3753,8 +3783,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 235,
-    "extractedAt": "2026-08-27T16:20:34.604Z",
+    "totalReviewsExtracted": 237,
+    "extractedAt": "2026-08-28T17:18:52.282Z",
     "source": "app-store"
   }
 }
