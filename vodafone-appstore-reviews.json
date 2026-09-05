@@ -1,17 +1,194 @@
 {
   "ratings": {
-    "score": 3.18138,
+    "score": 3.17568,
     "totalRatings": 2,
-    "totalReviews": 2288,
+    "totalReviews": 2294,
     "histogram": {
-      "1": 809,
-      "2": 174,
-      "3": 118,
-      "4": 167,
+      "1": 814,
+      "2": 175,
+      "3": 119,
+      "4": 166,
       "5": 1020
     }
   },
   "reviews": [
+    {
+      "id": "14504570629",
+      "userName": "Jakupmarek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id525765664",
+      "version": "3.16.1",
+      "score": 1,
+      "title": "The most unreliable app",
+      "text": "This app is just horrible. It only works sometimes and when it works it logs me off everytime even though I set it up to remember me. Face time does not work - even though it works with all other apps. This app is unreliable because 4 out of 5 times I cannot even turn it on. UI is horrible, as well as UX. Everything about this app is a mess. I cannot even pay my bill since I am unable to access the app.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-02T23:20:37-07:00",
+      "textNormalized": "this app is just horrible. it only works sometimes and when it works it logs me off everytime even though i set it up to remember me. face time does not work - even though it works with all other apps. this app is unreliable because 4 out of 5 times i cannot even turn it on. ui is horrible, as well as ux. everything about this app is a mess. i cannot even pay my bill since i am unable to access the app.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "14502624183",
+      "userName": "Decko78",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id315512862",
+      "version": "3.16.1",
+      "score": 1,
+      "title": "Not work",
+      "text": "The application does not work, the logo keeps spinning.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-02T10:30:39-07:00",
+      "textNormalized": "the application does not work, the logo keeps spinning.",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "14502484097",
+      "userName": "Fídek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1517671265",
+      "version": "3.16.1",
+      "score": 1,
+      "title": "Často padá stále přihlašovat",
+      "text": "Dávám pryč",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-02T09:46:21-07:00",
+      "textNormalized": "davam pryc",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14498993707",
+      "userName": "Makutasama",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1198057014",
+      "version": "3.16.1",
+      "score": 1,
+      "title": "Tragedy",
+      "text": "Just tragedy",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-01T12:15:52-07:00",
+      "textNormalized": "just tragedy",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14498936526",
+      "userName": "pavelkvk",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1266670214",
+      "version": "3.16.1",
+      "score": 1,
+      "title": "Nejde se přihlásit",
+      "text": "Aplikace naprosto strašná. Přihlašování je nutné pořád dokola opakovat. Je třeba se Dvoufázově ověřovat, i když si člověk nastaví Face ID a poslední týden už se má přihlášení ani nedostanu. Nemít u Vodafonu závazek, tak jdu k O2",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-01T11:56:56-07:00",
+      "textNormalized": "aplikace naprosto strasna. prihlasovani je nutne porad dokola opakovat. je treba se dvoufazove overovat, i kdyz si clovek nastavi face id a posledni tyden uz se ma prihlaseni ani nedostanu. nemit u vodafonu zavazek, tak jdu k o2",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14497215081",
+      "userName": "Jan Doktor",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id609595881",
+      "version": "3.16.1",
+      "score": 1,
+      "title": "Nejde spustit",
+      "text": "Aplikace nejde už několik dní spustit.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-01T03:04:43-07:00",
+      "textNormalized": "aplikace nejde uz nekolik dni spustit.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14497185425",
+      "userName": "raimoshu",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1105709883",
+      "version": "3.16.1",
+      "score": 1,
+      "title": "Not possible to login",
+      "text": "Loading screen running forever, and yes i checked internet connection and i have latest app version. What a joke.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-01T02:53:36-07:00",
+      "textNormalized": "loading screen running forever, and yes i checked internet connection and i have latest app version. what a joke.",
+      "segments": [
+        "Vykonnost",
+        "UI"
+      ]
+    },
+    {
+      "id": "14496888553",
+      "userName": "DigX-H",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id178779496",
+      "version": "3.16.1",
+      "score": 1,
+      "title": "Aplikace nefunguje",
+      "text": "Aplikace nefunguje po poslední aktualizaci",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-01T00:54:23-07:00",
+      "textNormalized": "aplikace nefunguje po posledni aktualizaci",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14495496914",
+      "userName": "tran10myy",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1963570439",
+      "version": "3.16.1",
+      "score": 2,
+      "title": "app loading",
+      "text": "i’ve been using vodafone for quite a while now and its been perfectly fine, but after opening it after 2 months the app wont load, no matter how long i wait, its still only shows the logo, is there a way to fix it, i’ve tried deleting it and downloading again, nothing works",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-31T15:09:45-07:00",
+      "textNormalized": "i’ve been using vodafone for quite a while now and its been perfectly fine, but after opening it after 2 months the app wont load, no matter how long i wait, its still only shows the logo, is there a way to fix it, i’ve tried deleting it and downloading again, nothing works",
+      "segments": [
+        "Vykonnost",
+        "UI"
+      ]
+    },
+    {
+      "id": "14491839518",
+      "userName": "mojamariia",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1496227232",
+      "version": "3.16.1",
+      "score": 1,
+      "title": "It’s impossible to recover my phone number.",
+      "text": "I had the same pre-paid phone number since September 2012. One day received an email that my user account has been (already) deleted. Tried to register again - failed attempts - number is not listed. I wasn’t using this number for 6 months. Received millions of spam and offers but not precise information about my number deactivation - why, when, what the new conditions are. I called support multiple times - another dead end. And I reacted only within a week after the deactivation event. I am sure there must be some incubation period to reverse this action. I wrote an email to someone from support who is supposed to make decisions - nothing. It’s impossible to submit a formal complaint without authorisation in the app - another logic without logic. The whole experience feels like scam and simple stealing of identity. I can’t request my old number from another provider - at least I was told - because it’s being put “to sleep” for 2 years. I am abroad myself. It’s a joke. Extremely unreliable and nobody cares. So far I haven’t been lucky to reach out to or to be reached out by someone professional from Vodafone. The hilarious cherry on top is that conditions are supposed to be changing again back to 1 year of keeping the number even without using it. So I was robbed for nothing. I don’t get what are the dev and marketing teams doing. And I wonder in case of a danger or emergency how the User is supposed to rely on this joke company? The legal department didn’t have any serious cases yet? It’s unbelievable. On top ruining reputation of international company since I have 2 more Vodafone numbers from 2 more countries… and how am I supposed to trust? I am still waiting for important calls on my Czech number.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-30T16:59:47-07:00",
+      "textNormalized": "i had the same pre-paid phone number since september 2012. one day received an email that my user account has been (already) deleted. tried to register again - failed attempts - number is not listed. i wasn’t using this number for 6 months. received millions of spam and offers but not precise information about my number deactivation - why, when, what the new conditions are. i called support multiple times - another dead end. and i reacted only within a week after the deactivation event. i am sure there must be some incubation period to reverse this action. i wrote an email to someone from support who is supposed to make decisions - nothing. it’s impossible to submit a formal complaint without authorisation in the app - another logic without logic. the whole experience feels like scam and simple stealing of identity. i can’t request my old number from another provider - at least i was told - because it’s being put “to sleep” for 2 years. i am abroad myself. it’s a joke. extremely unreliable and nobody cares. so far i haven’t been lucky to reach out to or to be reached out by someone professional from vodafone. the hilarious cherry on top is that conditions are supposed to be changing again back to 1 year of keeping the number even without using it. so i was robbed for nothing. i don’t get what are the dev and marketing teams doing. and i wonder in case of a danger or emergency how the user is supposed to rely on this joke company? the legal department didn’t have any serious cases yet? it’s unbelievable. on top ruining reputation of international company since i have 2 more vodafone numbers from 2 more countries… and how am i supposed to trust? i am still waiting for important calls on my czech number.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "14490257633",
+      "userName": "Profi IT",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id245650198",
+      "version": "3.16.1",
+      "score": 1,
+      "title": "Aplikace se pravidelně odhlašuje",
+      "text": "Aplikace uživatele opakovaně odhlašuje a následné přihlášení přes několik úrovní zabezpečení je natolik komplikované, že se běžný zákazník může jen obtížně dostat i k tak základní věci, jako jsou faktury, které potřebuje zaplatit.\n\nStejně absurdně působí systém „dárků“ a benefitů. Vodafone se snaží zákazníkům nabízet služby, které jsou pro řadu lidí prakticky nevyužitelné – například masáž na druhém konci republiky. Formálně je to dárek, ve skutečnosti z něj zákazník často nemá vůbec nic.\n\nCelá aplikace působí dojmem nedotaženého produktu, který nebyl dostatečně otestován z pohledu běžného uživatele. U společnosti velikosti Vodafonu je až nepochopitelné, že právě aplikace určená ke správě služeb, faktur a plateb může mít tak zásadní problémy.\n\nNejvětší paradox vidím v tom, že se firma snaží šetřit na benefitech a uživatelském komfortu, ale současně může kvůli špatně fungující aplikaci přicházet o mnohem větší částky – ať už kvůli zákazníkům, kteří mají problém zaplatit fakturu, nebo kvůli těm, kteří z frustrace odejdou ke konkurenci.\n\nPokud aplikace skutečně patří mezi nejhůře hodnocené aplikace svého druhu v App Storu, vůbec mě to nepřekvapuje. Dosáhnout tak špatného uživatelského hodnocení u firmy s prostředky a zázemím Vodafonu vyžaduje opravdu mimořádnou míru nepochopení toho, co zákazník od podobné aplikace potřebuje.\n\nMísto marketingových „dárků“ bych mnohem raději dostal jednu věc: aplikaci, která funguje, neodhlašuje mě a umožní mi bez problémů zaplatit fakturu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-08-30T08:07:24-07:00",
+      "textNormalized": "aplikace uzivatele opakovane odhlasuje a nasledne prihlaseni pres nekolik urovni zabezpeceni je natolik komplikovane, ze se bezny zakaznik muze jen obtizne dostat i k tak zakladni veci, jako jsou faktury, ktere potrebuje zaplatit.\n\nstejne absurdne pusobi system „darku“ a benefitu. vodafone se snazi zakaznikum nabizet sluzby, ktere jsou pro radu lidi prakticky nevyuzitelne – napriklad masaz na druhem konci republiky. formalne je to darek, ve skutecnosti z nej zakaznik casto nema vubec nic.\n\ncela aplikace pusobi dojmem nedotazeneho produktu, ktery nebyl dostatecne otestovan z pohledu bezneho uzivatele. u spolecnosti velikosti vodafonu je az nepochopitelne, ze prave aplikace urcena ke sprave sluzeb, faktur a plateb muze mit tak zasadni problemy.\n\nnejvetsi paradox vidim v tom, ze se firma snazi setrit na benefitech a uzivatelskem komfortu, ale soucasne muze kvuli spatne fungujici aplikaci prichazet o mnohem vetsi castky – at uz kvuli zakaznikum, kteri maji problem zaplatit fakturu, nebo kvuli tem, kteri z frustrace odejdou ke konkurenci.\n\npokud aplikace skutecne patri mezi nejhure hodnocene aplikace sveho druhu v app storu, vubec me to neprekvapuje. dosahnout tak spatneho uzivatelskeho hodnoceni u firmy s prostredky a zazemim vodafonu vyzaduje opravdu mimoradnou miru nepochopeni toho, co zakaznik od podobne aplikace potrebuje.\n\nmisto marketingovych „darku“ bych mnohem radeji dostal jednu vec: aplikaci, ktera funguje, neodhlasuje me a umozni mi bez problemu zaplatit fakturu.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Cena",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "14489058648",
       "userName": "PETRDYNA",
@@ -3893,8 +4070,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 244,
-    "extractedAt": "2026-09-04T09:34:49.034Z",
+    "totalReviewsExtracted": 255,
+    "extractedAt": "2026-09-05T08:56:10.682Z",
     "source": "app-store"
   }
 }
