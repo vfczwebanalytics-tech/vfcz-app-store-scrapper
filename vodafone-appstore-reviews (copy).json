@@ -1,17 +1,131 @@
 {
   "ratings": {
-    "score": 3.16981,
+    "score": 3.17358,
     "totalRatings": 2,
-    "totalReviews": 2332,
+    "totalReviews": 2339,
     "histogram": {
       "1": 829,
       "2": 182,
-      "3": 119,
-      "4": 168,
-      "5": 1034
+      "3": 120,
+      "4": 170,
+      "5": 1038
     }
   },
   "reviews": [
+    {
+      "id": "14529056904",
+      "userName": "thisgameisbullshiit",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1458858705",
+      "version": "3.16.2",
+      "score": 1,
+      "title": "Moc časté update",
+      "text": "Na tak primitivní aplikaci, update 100+ mb snad každý měsíc, bez kterého aplikace nefunguje. \n\nNevim, o jaké rychlosti a plynulosti se píše , ale aplikace je neskutečně pomalá a vyvolává akorát špatný dojem.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-09T05:51:40-07:00",
+      "textNormalized": "na tak primitivni aplikaci, update 100+ mb snad kazdy mesic, bez ktereho aplikace nefunguje. \n\nnevim, o jake rychlosti a plynulosti se pise , ale aplikace je neskutecne pomala a vyvolava akorat spatny dojem.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14524943547",
+      "userName": "regulate2567",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1485998606",
+      "version": "3.16.2",
+      "score": 2,
+      "title": "Highly not intuitive application",
+      "text": "I can pay through it, other things are so complicated so you don’t want open this app next time.\n\nWhy there is no button to report internet outage? \n\nWhy I had to call operators that hang up the call immediately they hear English speech to get help? Are they shy or what?\n\nTobi chat bot is essentially a full text search through useless help docs that cannot even respond in english.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-08T04:43:09-07:00",
+      "textNormalized": "i can pay through it, other things are so complicated so you don’t want open this app next time.\n\nwhy there is no button to report internet outage? \n\nwhy i had to call operators that hang up the call immediately they hear english speech to get help? are they shy or what?\n\ntobi chat bot is essentially a full text search through useless help docs that cannot even respond in english.",
+      "segments": [
+        "UI",
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "14524917424",
+      "userName": "TerkaVr",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1965221348",
+      "version": "3.16.2",
+      "score": 2,
+      "title": "Většinou nefunguje",
+      "text": "Aplikace je sice přehledná, ale 9x z 10 pokusů nejde otevřít nebo prostě nefunguje.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-08T04:34:18-07:00",
+      "textNormalized": "aplikace je sice prehledna, ale 9x z 10 pokusu nejde otevrit nebo proste nefunguje.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14520919354",
+      "userName": "Jaydy77",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id680631617",
+      "version": "3.16.2",
+      "score": 1,
+      "title": "Annoying logout!",
+      "text": "It is really that difficult to keep me login?\nWhy is app all the time logging me out?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-07T03:49:00-07:00",
+      "textNormalized": "it is really that difficult to keep me login?\nwhy is app all the time logging me out?",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14520661661",
+      "userName": "Tyador Borlú",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id550979908",
+      "version": "3.16.2",
+      "score": 1,
+      "title": "🤬",
+      "text": "Sra*ka.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-07T01:55:39-07:00",
+      "textNormalized": "sra*ka.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14514165768",
+      "userName": "екро",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id146993538",
+      "version": "3.16.2",
+      "score": 1,
+      "title": "Check mark in red",
+      "text": "Using check mark in red after you paid is totally disrespect for ui/ux rules",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-05T09:10:50-07:00",
+      "textNormalized": "using check mark in red after you paid is totally disrespect for ui/ux rules",
+      "segments": [
+        "UI"
+      ]
+    },
+    {
+      "id": "14513300082",
+      "userName": "Rumcais",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id160144873",
+      "version": "3.16.2",
+      "score": 1,
+      "title": "Nepoužitelná, seká se",
+      "text": "Aplikace je úplně otřesná, pokud na něco kliknu, většinou se zasekne. (Nový iOS, 16Pro), vše trvá  dlouho a pak to ani nenaběhne. Ale proč třeba u dítěte nemůžu vypnout placené SMS, platby třetím stranám. To musím volat na infolinku. K čemu ta Vaše aplikace potom je? Ale takto špatná je roky.. i po vydání nové verze. By mě zajímal ten IT tým, co jí vytvořil 🤔",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-05T05:02:38-07:00",
+      "textNormalized": "aplikace je uplne otresna, pokud na neco kliknu, vetsinou se zasekne. (novy ios, 16pro), vse trva  dlouho a pak to ani nenabehne. ale proc treba u ditete nemuzu vypnout placene sms, platby tretim stranam. to musim volat na infolinku. k cemu ta vase aplikace potom je? ale takto spatna je roky.. i po vydani nove verze. by me zajimal ten it tym, co ji vytvoril 🤔",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14504570629",
       "userName": "Jakupmarek",
@@ -4070,8 +4184,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 255,
-    "extractedAt": "2026-09-11T09:30:06.508Z",
+    "totalReviewsExtracted": 262,
+    "extractedAt": "2026-09-12T09:09:57.930Z",
     "source": "app-store"
   }
 }
