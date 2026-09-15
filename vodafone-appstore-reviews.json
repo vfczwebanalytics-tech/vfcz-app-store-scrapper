@@ -4,14 +4,64 @@
     "totalRatings": 2,
     "totalReviews": 2354,
     "histogram": {
-      "1": 833,
-      "2": 182,
-      "3": 121,
+      "1": 838,
+      "2": 181,
+      "3": 122,
       "4": 173,
-      "5": 1045
+      "5": 1046
     }
   },
   "reviews": [
+    {
+      "id": "14545943780",
+      "userName": "Anickafil",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id364956557",
+      "version": "3.17.0",
+      "score": 1,
+      "title": "Hrozna app",
+      "text": "Normalne recenze nedavam, ale tohle je asi jedna z nejhorsich aplikaci, co znam. U Vodafone jsem uz nekolik let, maji dobre a vyhodne tarify, ale aplikace je jedno velke zklamani. Seka se, polovina veci nefunguje (odkazuje ven), uzivatelsky vyloženě nepratelske prostředí plne reklam 😅 ale platit se s tim da, tak aspon ze tak..",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-13T10:42:08-07:00",
+      "textNormalized": "normalne recenze nedavam, ale tohle je asi jedna z nejhorsich aplikaci, co znam. u vodafone jsem uz nekolik let, maji dobre a vyhodne tarify, ale aplikace je jedno velke zklamani. seka se, polovina veci nefunguje (odkazuje ven), uzivatelsky vylozene nepratelske prostredi plne reklam 😅 ale platit se s tim da, tak aspon ze tak..",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14543848135",
+      "userName": "Marioss7766",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id489290507",
+      "version": "3.17.0",
+      "score": 1,
+      "title": "- - -👎",
+      "text": "Tragédie, aplikace je neuvěřitelně pomalá, neustále se seká a vyřídit v ní cokoliv je ztráta času.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-12T23:02:19-07:00",
+      "textNormalized": "tragedie, aplikace je neuveritelne pomala, neustale se seka a vyridit v ni cokoliv je ztrata casu.",
+      "segments": [
+        "Vykonnost"
+      ]
+    },
+    {
+      "id": "14540421867",
+      "userName": "PetraZus",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1630715411",
+      "version": "3.17.0",
+      "score": 1,
+      "title": "Aplikace nefunguje",
+      "text": "Aplikace nefunguje, nelze se přihlásit. Takže k ničemu….",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-12T03:13:50-07:00",
+      "textNormalized": "aplikace nefunguje, nelze se prihlasit. takze k nicemu….",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "14529056904",
       "userName": "thisgameisbullshiit",
@@ -4184,8 +4234,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 262,
-    "extractedAt": "2026-09-14T10:30:38.765Z",
+    "totalReviewsExtracted": 265,
+    "extractedAt": "2026-09-15T09:57:17.865Z",
     "source": "app-store"
   }
 }
