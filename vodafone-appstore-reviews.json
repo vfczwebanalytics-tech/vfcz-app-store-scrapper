@@ -4,14 +4,29 @@
     "totalRatings": 2,
     "totalReviews": 2368,
     "histogram": {
-      "1": 843,
+      "1": 845,
       "2": 181,
       "3": 122,
       "4": 174,
-      "5": 1048
+      "5": 1055
     }
   },
   "reviews": [
+    {
+      "id": "14553490862",
+      "userName": "Jančča",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1377624384",
+      "version": "3.17.0",
+      "score": 1,
+      "title": "Nefunkční",
+      "text": "Pořád hláška: něco se nepovedlo",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-15T10:44:25-07:00",
+      "textNormalized": "porad hlaska: neco se nepovedlo",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14545943780",
       "userName": "Anickafil",
@@ -4234,8 +4249,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 265,
-    "extractedAt": "2026-09-17T09:55:18.347Z",
+    "totalReviewsExtracted": 266,
+    "extractedAt": "2026-09-18T09:34:20.837Z",
     "source": "app-store"
   }
 }
