@@ -1,17 +1,79 @@
 {
   "ratings": {
-    "score": 3.17211,
+    "score": 3.16834,
     "totalRatings": 2,
-    "totalReviews": 2388,
+    "totalReviews": 2394,
     "histogram": {
-      "1": 850,
+      "1": 855,
       "2": 182,
       "3": 122,
       "4": 175,
-      "5": 1059
+      "5": 1060
     }
   },
   "reviews": [
+    {
+      "id": "14570715510",
+      "userName": "TomasMichna",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id461731260",
+      "version": "3.17.0",
+      "score": 1,
+      "title": "Hnus",
+      "text": "Uz nejaky ten patek naprosto k nicemu aplikace do ktere se neda zadnym zpusobem ani dostat. Ubozí vývojáři",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-19T20:07:42-07:00",
+      "textNormalized": "uz nejaky ten patek naprosto k nicemu aplikace do ktere se neda zadnym zpusobem ani dostat. ubozi vyvojari",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14569653023",
+      "userName": "Moňulka",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id614859083",
+      "version": "3.17.0",
+      "score": 1,
+      "title": "Základní funkce nefunguje",
+      "text": "V aplikaci nejde otevřít vyúčtování , což považuji za zásadní problém. Doufám, že bude problém co nejdříve opraven.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-19T13:11:14-07:00",
+      "textNormalized": "v aplikaci nejde otevrit vyuctovani , coz povazuji za zasadni problem. doufam, ze bude problem co nejdrive opraven.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14569619026",
+      "userName": "Jicr777",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id113397638",
+      "version": "3.17.0",
+      "score": 1,
+      "title": "Otřesné",
+      "text": "Nefungují ani základní operace jako zobrazení vyúčtování. Nemůžu uvěřit, že je tohle oficiální aplikace a každý měsíc mi komplikuje život. Jak to půjde přejdu k fungujícímu operátorovi.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-19T12:59:27-07:00",
+      "textNormalized": "nefunguji ani zakladni operace jako zobrazeni vyuctovani. nemuzu uverit, ze je tohle oficialni aplikace a kazdy mesic mi komplikuje zivot. jak to pujde prejdu k fungujicimu operatorovi.",
+      "segments": [
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14559432119",
+      "userName": "syrovymlsoun",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id868573045",
+      "version": "3.17.0",
+      "score": 1,
+      "title": "Can't log in for over a year",
+      "text": "I need to pay my monthly bill through a web browser, because I can't even log into the app with my account.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-17T00:23:22-07:00",
+      "textNormalized": "i need to pay my monthly bill through a web browser, because i can't even log into the app with my account.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
     {
       "id": "14553490862",
       "userName": "Jančča",
@@ -4249,8 +4311,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 266,
-    "extractedAt": "2026-09-20T09:42:18.100Z",
+    "totalReviewsExtracted": 270,
+    "extractedAt": "2026-09-21T10:35:33.567Z",
     "source": "app-store"
   }
 }
