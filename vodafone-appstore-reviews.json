@@ -1,17 +1,35 @@
 {
   "ratings": {
-    "score": 3.1709,
+    "score": 3.17471,
     "totalRatings": 2,
-    "totalReviews": 2399,
+    "totalReviews": 2404,
     "histogram": {
       "1": 855,
       "2": 183,
       "3": 122,
       "4": 175,
-      "5": 1064
+      "5": 1069
     }
   },
   "reviews": [
+    {
+      "id": "14574684965",
+      "userName": "73947-9",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id475976361",
+      "version": "3.17.0",
+      "score": 2,
+      "title": "Frustrující",
+      "text": "Aplikace se neustále odhlašuje a vzhledem k tomu, že při změně hesla nelze použít heslo již jednou použité, jste nuceni vymýšlet nová a nová hesla, která si člověk jen stěží pamatuje. Takže heslo resetujete neustále dokola. V dnešní době, kdy většina aplikací funguje přes face ID ověřování, bych tuto funkcionalitu u operátora jako je Vodafone očekávala jako základ. Aplikace je asi jinak ok, pokud se do ní dostanete.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-20T19:49:26-07:00",
+      "textNormalized": "aplikace se neustale odhlasuje a vzhledem k tomu, ze pri zmene hesla nelze pouzit heslo jiz jednou pouzite, jste nuceni vymyslet nova a nova hesla, ktera si clovek jen stezi pamatuje. takze heslo resetujete neustale dokola. v dnesni dobe, kdy vetsina aplikaci funguje pres face id overovani, bych tuto funkcionalitu u operatora jako je vodafone ocekavala jako zaklad. aplikace je asi jinak ok, pokud se do ni dostanete.",
+      "segments": [
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "14570715510",
       "userName": "TomasMichna",
@@ -4311,8 +4329,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 270,
-    "extractedAt": "2026-09-22T09:48:55.072Z",
+    "totalReviewsExtracted": 271,
+    "extractedAt": "2026-09-23T09:51:27.055Z",
     "source": "app-store"
   }
 }
