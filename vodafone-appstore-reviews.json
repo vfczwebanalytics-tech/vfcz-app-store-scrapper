@@ -1,17 +1,32 @@
 {
   "ratings": {
-    "score": 3.17471,
+    "score": 3.17628,
     "totalRatings": 2,
-    "totalReviews": 2404,
+    "totalReviews": 2411,
     "histogram": {
-      "1": 855,
+      "1": 857,
       "2": 183,
       "3": 122,
-      "4": 175,
-      "5": 1069
+      "4": 176,
+      "5": 1073
     }
   },
   "reviews": [
+    {
+      "id": "14579809431",
+      "userName": "Dianaa6891",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id659649208",
+      "version": "3.17.0",
+      "score": 1,
+      "title": "Přihlašování",
+      "text": "Pokaždé co je aktualizace, musím se přihlašovat znovu a znovu. Zároveň všechno v té aplikaci trvá.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-22T05:07:09-07:00",
+      "textNormalized": "pokazde co je aktualizace, musim se prihlasovat znovu a znovu. zaroven vsechno v te aplikaci trva.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "14574684965",
       "userName": "73947-9",
@@ -4329,8 +4344,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 271,
-    "extractedAt": "2026-09-23T09:51:27.055Z",
+    "totalReviewsExtracted": 272,
+    "extractedAt": "2026-09-24T09:51:48.396Z",
     "source": "app-store"
   }
 }
