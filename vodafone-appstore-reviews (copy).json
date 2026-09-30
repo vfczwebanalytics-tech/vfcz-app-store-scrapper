@@ -1,17 +1,100 @@
 {
   "ratings": {
-    "score": 3.17642,
+    "score": 3.17875,
     "totalRatings": 2,
-    "totalReviews": 2426,
+    "totalReviews": 2428,
     "histogram": {
-      "1": 862,
+      "1": 861,
       "2": 184,
       "3": 123,
-      "4": 178,
-      "5": 1079
+      "4": 180,
+      "5": 1080
     }
   },
   "reviews": [
+    {
+      "id": "14592489743",
+      "userName": "Ivan Gojda",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id223032448",
+      "version": "3.17.0",
+      "score": 1,
+      "title": "Nasrat",
+      "text": "Porad problem. Porad aktualizace, jeste ze maj schopny operatory",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-25T10:22:41-07:00",
+      "textNormalized": "porad problem. porad aktualizace, jeste ze maj schopny operatory",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "14591636667",
+      "userName": "earths1",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1264264744",
+      "version": "3.17.0",
+      "score": 4,
+      "title": "Posun oproti předchozí appce",
+      "text": "Za poslední půlrok se appka zlepšila a řekl bych že je lepší než ta předchozí.\n\nNarazil jsem ale na bug, že v noci nechodí sms s kódem, takže se nemůžu přihlásit do aplikace",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-25T06:08:56-07:00",
+      "textNormalized": "za posledni pulrok se appka zlepsila a rekl bych ze je lepsi nez ta predchozi.\n\nnarazil jsem ale na bug, ze v noci nechodi sms s kodem, takze se nemuzu prihlasit do aplikace",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14588569611",
+      "userName": "Pettis_NEXPO",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1275383283",
+      "version": "3.17.0",
+      "score": 1,
+      "title": "Opravdu vylepšená ?",
+      "text": "Marně hledám zlepšení , jste si jisti že jste nasadili novou verzi ?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-24T10:13:02-07:00",
+      "textNormalized": "marne hledam zlepseni , jste si jisti ze jste nasadili novou verzi ?",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14587096160",
+      "userName": "pesjira",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1474443578",
+      "version": "3.17.0",
+      "score": 3,
+      "title": "Neustále se odhlašuje",
+      "text": "Vodafone mě částo obtěžuje reklamními SMS, které nejdou v aplikaci vypnout. Odkaz na vypnutí nabídek Vodafone je nedostupný. Prostě to nefunguje.\nJinak za dvacet let u Vodafonu spokojenost.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-24T02:20:35-07:00",
+      "textNormalized": "vodafone me casto obtezuje reklamnimi sms, ktere nejdou v aplikaci vypnout. odkaz na vypnuti nabidek vodafone je nedostupny. proste to nefunguje.\njinak za dvacet let u vodafonu spokojenost.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14583182971",
+      "userName": "Rogboskvc",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id614130495",
+      "version": "3.17.0",
+      "score": 1,
+      "title": "Nedoporučuji",
+      "text": "Byl to důvod odejít od vodafonu. Nedá se přihlásit, neustále problémy. Nechápu, proˇ nemůžou udělt fungující aplikaci. Všechno jsem musel vžd ešit telefonováním operátorovi",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-23T01:45:41-07:00",
+      "textNormalized": "byl to duvod odejit od vodafonu. neda se prihlasit, neustale problemy. nechapu, proˇ nemuzou udelt fungujici aplikaci. vsechno jsem musel vzd esit telefonovanim operatorovi",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14579809431",
       "userName": "Dianaa6891",
@@ -4344,8 +4427,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 272,
-    "extractedAt": "2026-09-28T11:36:37.839Z",
+    "totalReviewsExtracted": 277,
+    "extractedAt": "2026-09-29T11:14:53.364Z",
     "source": "app-store"
   }
 }
