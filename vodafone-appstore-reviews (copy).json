@@ -1,17 +1,32 @@
 {
   "ratings": {
-    "score": 3.17875,
+    "score": 3.1742,
     "totalRatings": 2,
-    "totalReviews": 2428,
+    "totalReviews": 2434,
     "histogram": {
-      "1": 861,
+      "1": 866,
       "2": 184,
-      "3": 123,
+      "3": 124,
       "4": 180,
       "5": 1080
     }
   },
   "reviews": [
+    {
+      "id": "14603213279",
+      "userName": "Dara z Plzně",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1774024799",
+      "version": "3.18.0",
+      "score": 1,
+      "title": "přehled",
+      "text": "Kdy už konečně bude vidět u \"balíčku ke kartě\" kolik dni mi zbývá do vypršení? To je takový problém to tam uvádět? \nV minulé appce to bylo. Udělejte s tím už něco. Už jednou jsem ohledně toho psala, bylo mi řečeno, že se na tom pracuje. Tak šup šup.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-28T05:36:44-07:00",
+      "textNormalized": "kdy uz konecne bude videt u \"balicku ke karte\" kolik dni mi zbyva do vyprseni? to je takovy problem to tam uvadet? \nv minule appce to bylo. udelejte s tim uz neco. uz jednou jsem ohledne toho psala, bylo mi receno, ze se na tom pracuje. tak sup sup.",
+      "segments": [
+        "Stabilita"
+      ]
+    },
     {
       "id": "14592489743",
       "userName": "Ivan Gojda",
@@ -4427,8 +4442,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 277,
-    "extractedAt": "2026-09-29T11:14:53.364Z",
+    "totalReviewsExtracted": 278,
+    "extractedAt": "2026-09-30T11:03:17.003Z",
     "source": "app-store"
   }
 }

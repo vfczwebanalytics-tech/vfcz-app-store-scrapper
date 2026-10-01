@@ -1,17 +1,81 @@
 {
   "ratings": {
-    "score": 3.1742,
+    "score": 3.1763,
     "totalRatings": 2,
-    "totalReviews": 2434,
+    "totalReviews": 2439,
     "histogram": {
-      "1": 866,
+      "1": 867,
       "2": 184,
       "3": 124,
       "4": 180,
-      "5": 1080
+      "5": 1084
     }
   },
   "reviews": [
+    {
+      "id": "14606233137",
+      "userName": "Josef078",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1088046709",
+      "version": "3.18.0",
+      "score": 1,
+      "title": "Nejde ani zapnout",
+      "text": "Aplikace nejde ani zapnout a to i po 3 aktualizacích \nVše ostatní funguje",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-29T00:34:29-07:00",
+      "textNormalized": "aplikace nejde ani zapnout a to i po 3 aktualizacich \nvse ostatni funguje",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14606035081",
+      "userName": "[Ceos]",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id239074483",
+      "version": "3.18.0",
+      "score": 1,
+      "title": "Unable to log in",
+      "text": "I can’t log in to the app on my new phone. When I tap “Account,” I’m asked to contact support and provide an error code, but no code appears. The app also isn’t very intuitive and feels cluttered. I do appreciate that it focuses on account management and doesn’t show ads.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-28T22:57:29-07:00",
+      "textNormalized": "i can’t log in to the app on my new phone. when i tap “account,” i’m asked to contact support and provide an error code, but no code appears. the app also isn’t very intuitive and feels cluttered. i do appreciate that it focuses on account management and doesn’t show ads.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "14603998235",
+      "userName": "JerryBee93",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id777842326",
+      "version": "3.18.0",
+      "score": 1,
+      "title": "0",
+      "text": "Dal bych nejraději 0 hvězd, katastrofální aplikace.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-28T09:33:48-07:00",
+      "textNormalized": "dal bych nejradeji 0 hvezd, katastrofalni aplikace.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14603508225",
+      "userName": "jack of all trades master of 0",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id518038082",
+      "version": "3.18.0",
+      "score": 1,
+      "title": "neskutečně špatná appka",
+      "text": "není nativní, špatně se v ní orientuje, věci co by měly být snadné jsou složité, UX to nikdy nevidělo",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-28T07:06:09-07:00",
+      "textNormalized": "neni nativni, spatne se v ni orientuje, veci co by mely byt snadne jsou slozite, ux to nikdy nevidelo",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14603213279",
       "userName": "Dara z Plzně",
@@ -4442,8 +4506,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 278,
-    "extractedAt": "2026-09-30T11:03:17.003Z",
+    "totalReviewsExtracted": 282,
+    "extractedAt": "2026-10-01T11:30:01.372Z",
     "source": "app-store"
   }
 }
