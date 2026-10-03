@@ -1,17 +1,33 @@
 {
   "ratings": {
-    "score": 3.1763,
+    "score": 3.17527,
     "totalRatings": 2,
-    "totalReviews": 2439,
+    "totalReviews": 2442,
     "histogram": {
-      "1": 867,
+      "1": 869,
       "2": 184,
       "3": 124,
       "4": 180,
-      "5": 1084
+      "5": 1085
     }
   },
   "reviews": [
+    {
+      "id": "14610990705",
+      "userName": "Xadros",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id111384895",
+      "version": "3.18.0",
+      "score": 1,
+      "title": "Extrém",
+      "text": "Pokud by byla nějaká soutěž o nejhorší aplikaci tak vodafone by to s přehledem vyhrál už několik let. Ani tahle aplikace v novější verzi tomu vůbec nepomohla. Takové složité UI peklo, se spoustou podstránek rozdílných formátu, to se jen tak nevidí. Opravdu bych si přál dělat zakázky pro vodafone protože jestli jim nevadí tohle už několik let tak jak to tam musí vypadat… Existuje vůbec horší dev firma?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-09-30T06:33:35-07:00",
+      "textNormalized": "pokud by byla nejaka soutez o nejhorsi aplikaci tak vodafone by to s prehledem vyhral uz nekolik let. ani tahle aplikace v novejsi verzi tomu vubec nepomohla. takove slozite ui peklo, se spoustou podstranek rozdilnych formatu, to se jen tak nevidi. opravdu bych si pral delat zakazky pro vodafone protoze jestli jim nevadi tohle uz nekolik let tak jak to tam musi vypadat… existuje vubec horsi dev firma?",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ]
+    },
     {
       "id": "14606233137",
       "userName": "Josef078",
@@ -4506,8 +4522,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 282,
-    "extractedAt": "2026-10-01T11:30:01.372Z",
+    "totalReviewsExtracted": 283,
+    "extractedAt": "2026-10-02T10:59:38.305Z",
     "source": "app-store"
   }
 }
