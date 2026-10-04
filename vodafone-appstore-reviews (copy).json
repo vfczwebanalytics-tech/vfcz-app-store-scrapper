@@ -4,14 +4,31 @@
     "totalRatings": 2,
     "totalReviews": 2442,
     "histogram": {
-      "1": 869,
-      "2": 184,
+      "1": 871,
+      "2": 185,
       "3": 124,
       "4": 180,
-      "5": 1085
+      "5": 1087
     }
   },
   "reviews": [
+    {
+      "id": "14615125576",
+      "userName": "WencaB",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id506393543",
+      "version": "3.18.0",
+      "score": 1,
+      "title": "Stale se odhlasuje",
+      "text": "Po kazde aktualizaci se musim znovu prihlasit pres heslo, nefunguje Faceid. Po prihlaseni uz to jde do dalsi aktualizace. Tobi je peklo, nic to nevyresi a nakonec se stejne vetsinou musi volat. Jeste to ma prostor k vylepseni.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-01T07:19:50-07:00",
+      "textNormalized": "po kazde aktualizaci se musim znovu prihlasit pres heslo, nefunguje faceid. po prihlaseni uz to jde do dalsi aktualizace. tobi je peklo, nic to nevyresi a nakonec se stejne vetsinou musi volat. jeste to ma prostor k vylepseni.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "14610990705",
       "userName": "Xadros",
@@ -4522,8 +4539,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 283,
-    "extractedAt": "2026-10-02T10:59:38.305Z",
+    "totalReviewsExtracted": 284,
+    "extractedAt": "2026-10-03T10:19:19.196Z",
     "source": "app-store"
   }
 }
