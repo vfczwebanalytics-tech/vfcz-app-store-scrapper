@@ -1,17 +1,32 @@
 {
   "ratings": {
-    "score": 3.17597,
+    "score": 3.17413,
     "totalRatings": 2,
-    "totalReviews": 2455,
+    "totalReviews": 2458,
     "histogram": {
-      "1": 873,
+      "1": 876,
       "2": 185,
-      "3": 125,
+      "3": 124,
       "4": 181,
-      "5": 1091
+      "5": 1092
     }
   },
   "reviews": [
+    {
+      "id": "14633344378",
+      "userName": "marv3k",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id500106967",
+      "version": "3.18.1",
+      "score": 2,
+      "title": "Nejde",
+      "text": "Po posledni altualizaci 6.10.2026 aplikace vubec nejede na iPhone q\n15 pro s iOS 27.0.1",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-05T23:34:21-07:00",
+      "textNormalized": "po posledni altualizaci 6.10.2026 aplikace vubec nejede na iphone q\n15 pro s ios 27.0.1",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14628113865",
       "userName": "cxdaqrtziojbb",
@@ -4556,8 +4571,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 285,
-    "extractedAt": "2026-10-06T11:54:55.868Z",
+    "totalReviewsExtracted": 286,
+    "extractedAt": "2026-10-07T11:39:41.719Z",
     "source": "app-store"
   }
 }

@@ -1,17 +1,34 @@
 {
   "ratings": {
-    "score": 3.17741,
+    "score": 3.17597,
     "totalRatings": 2,
-    "totalReviews": 2452,
+    "totalReviews": 2455,
     "histogram": {
-      "1": 871,
+      "1": 873,
       "2": 185,
       "3": 125,
-      "4": 180,
+      "4": 181,
       "5": 1091
     }
   },
   "reviews": [
+    {
+      "id": "14628113865",
+      "userName": "cxdaqrtziojbb",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id755944924",
+      "version": "3.18.1",
+      "score": 1,
+      "title": "Pomalé a nefunkční",
+      "text": "Aplikace je velmi pomalá. Podaří se po delší době otevřu e-shop, ale ať zkouším otevřít jakoukoli kategorii v e-shopu tak nic nefunguje. Zkuste to prosím opravit.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-04T13:21:58-07:00",
+      "textNormalized": "aplikace je velmi pomala. podari se po delsi dobe otevru e-shop, ale at zkousim otevrit jakoukoli kategorii v e-shopu tak nic nefunguje. zkuste to prosim opravit.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "14615125576",
       "userName": "WencaB",
@@ -4539,8 +4556,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 284,
-    "extractedAt": "2026-10-05T12:10:59.623Z",
+    "totalReviewsExtracted": 285,
+    "extractedAt": "2026-10-06T11:54:55.868Z",
     "source": "app-store"
   }
 }
