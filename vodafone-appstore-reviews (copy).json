@@ -1,17 +1,130 @@
 {
   "ratings": {
-    "score": 3.17815,
+    "score": 3.17538,
     "totalRatings": 2,
-    "totalReviews": 2481,
+    "totalReviews": 2486,
     "histogram": {
-      "1": 883,
+      "1": 887,
       "2": 186,
       "3": 124,
       "4": 182,
-      "5": 1106
+      "5": 1107
     }
   },
   "reviews": [
+    {
+      "id": "14646600898",
+      "userName": "Ď.",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1120015386",
+      "version": "3.18.1",
+      "score": 1,
+      "title": ".",
+      "text": "Vyúčtování 600 - jdu řešit cenu a další měsíc 750, prý nesrovnalosti, nechápu. Přejdu to a další měsíc zase 600, tak díky, velká sleva. 5 telefonátů a jsem na tom co jsem měl. Občas je snažší říct, že ten tarif tak zůstane, než mlžit.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-09T10:06:19-07:00",
+      "textNormalized": "vyuctovani 600 - jdu resit cenu a dalsi mesic 750, pry nesrovnalosti, nechapu. prejdu to a dalsi mesic zase 600, tak diky, velka sleva. 5 telefonatu a jsem na tom co jsem mel. obcas je snazsi rict, ze ten tarif tak zustane, nez mlzit.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14645309333",
+      "userName": "uolsenstev",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id990505848",
+      "version": "3.18.1",
+      "score": 1,
+      "title": "Nejde se přihlásit",
+      "text": "Již několik měsíců se ni nedá přihlásit. Kdykoli kliknu na tlačítko login nebo profil tak vyskočí chyby jako (2ce530d4-0611-4fde-bb81-196bb229ed0c) a “zkuste to znovu” které samozřejmě nefunguji",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-09T03:31:13-07:00",
+      "textNormalized": "jiz nekolik mesicu se ni neda prihlasit. kdykoli kliknu na tlacitko login nebo profil tak vyskoci chyby jako (2ce530d4-0611-4fde-bb81-196bb229ed0c) a “zkuste to znovu” ktere samozrejme nefunguji",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14641225295",
+      "userName": "ivetak54",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id630891332",
+      "version": "3.18.1",
+      "score": 3,
+      "title": "Neustále aktualizace",
+      "text": "Je normální při každém přihlášení do aplikace nutné aktualizovat?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-08T01:49:21-07:00",
+      "textNormalized": "je normalni pri kazdem prihlaseni do aplikace nutne aktualizovat?",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14638628424",
+      "userName": "ImVigin",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id912221084",
+      "version": "3.18.1",
+      "score": 1,
+      "title": "Kritika",
+      "text": "Dlouhé načítání, žádné uložení přihlašovacích údajů. Při přidání přístupového klíče či možnosti zapamatovat si heslo, také nefunkční. Nejhorší aplikaci ze všech operátorů dostupným na českém\ntrhu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-07T08:36:40-07:00",
+      "textNormalized": "dlouhe nacitani, zadne ulozeni prihlasovacich udaju. pri pridani pristupoveho klice ci moznosti zapamatovat si heslo, take nefunkcni. nejhorsi aplikaci ze vsech operatoru dostupnym na ceskem\ntrhu.",
+      "segments": [
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14635692799",
+      "userName": "petrmasik",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id909761253",
+      "version": "3.18.1",
+      "score": 1,
+      "title": "Nefunkcni",
+      "text": "Nemohu pochopit proc tak velka spolecnost ma tak nefunkcni appku. Neustale se odhlasuje, seka se, pada. Uz tyden se nemohu vubec ani prihlasit. Porad to pise something went wrong. Jako sila!!! Mam nervy jen jit do appky, abych mohl zaplatit za tarif. Tento mesic asi budu muset zaplatit normalne prevodem jak za krale klacka. Byl jsem zvykly apple pay!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-06T13:32:58-07:00",
+      "textNormalized": "nemohu pochopit proc tak velka spolecnost ma tak nefunkcni appku. neustale se odhlasuje, seka se, pada. uz tyden se nemohu vubec ani prihlasit. porad to pise something went wrong. jako sila!!! mam nervy jen jit do appky, abych mohl zaplatit za tarif. tento mesic asi budu muset zaplatit normalne prevodem jak za krale klacka. byl jsem zvykly apple pay!",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14634615038",
+      "userName": "Spasitelko",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id148560387",
+      "version": "3.18.1",
+      "score": 1,
+      "title": "hrozna aplikace",
+      "text": "je to jen web",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-06T07:38:48-07:00",
+      "textNormalized": "je to jen web",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14634495093",
+      "userName": "tyna2509",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id731586356",
+      "version": "3.18.1",
+      "score": 1,
+      "title": "Aplikace na prd",
+      "text": "Nic nefunguje, nic nenačítá.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-06T07:03:11-07:00",
+      "textNormalized": "nic nefunguje, nic nenacita.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "14633344378",
       "userName": "marv3k",
@@ -4571,8 +4684,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 286,
-    "extractedAt": "2026-10-10T11:04:04.865Z",
+    "totalReviewsExtracted": 293,
+    "extractedAt": "2026-10-11T11:20:46.976Z",
     "source": "app-store"
   }
 }
