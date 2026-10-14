@@ -1,17 +1,33 @@
 {
   "ratings": {
-    "score": 3.17715,
+    "score": 3.17642,
     "totalRatings": 2,
-    "totalReviews": 2495,
+    "totalReviews": 2494,
     "histogram": {
       "1": 890,
       "2": 186,
       "3": 124,
       "4": 182,
-      "5": 1113
+      "5": 1112
     }
   },
   "reviews": [
+    {
+      "id": "14655385980",
+      "userName": "EliCermakova",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1248498941",
+      "version": "3.18.1",
+      "score": 1,
+      "title": "Tragická aplikace",
+      "text": "Tragická aplikace, nejde v ní skoro nic udělat a pokaždé se objeví hláška že se něco nepovedlo.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-11T14:23:51-07:00",
+      "textNormalized": "tragicka aplikace, nejde v ni skoro nic udelat a pokazde se objevi hlaska ze se neco nepovedlo.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14646600898",
       "userName": "Ď.",
@@ -4684,8 +4700,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 293,
-    "extractedAt": "2026-10-13T12:34:34.921Z",
+    "totalReviewsExtracted": 294,
+    "extractedAt": "2026-10-14T10:01:46.875Z",
     "source": "app-store"
   }
 }
