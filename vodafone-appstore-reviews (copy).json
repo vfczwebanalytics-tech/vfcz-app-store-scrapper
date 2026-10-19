@@ -1,17 +1,127 @@
 {
   "ratings": {
-    "score": 3.17692,
+    "score": 3.17788,
     "totalRatings": 2,
-    "totalReviews": 2504,
+    "totalReviews": 2513,
     "histogram": {
-      "1": 894,
+      "1": 897,
       "2": 186,
-      "3": 124,
+      "3": 125,
       "4": 183,
-      "5": 1117
+      "5": 1122
     }
   },
   "reviews": [
+    {
+      "id": "14673710869",
+      "userName": "Bull_004",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1980319522",
+      "version": "3.19.0",
+      "score": 1,
+      "title": "Važně",
+      "text": "Ahoj, už několik týdnů se nemůžu přihlásit! V aplikaci kliknu na „Přihlásit se“ a objeví se černá obrazovka, na které se neustále načítá červené logo.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-16T07:43:19-07:00",
+      "textNormalized": "ahoj, uz nekolik tydnu se nemuzu prihlasit! v aplikaci kliknu na „prihlasit se“ a objevi se cerna obrazovka, na ktere se neustale nacita cervene logo.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14672970724",
+      "userName": "Matěj z Teplic",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1673997098",
+      "version": "3.19.0",
+      "score": 3,
+      "title": "Recenze",
+      "text": "Aplikace mě NEUSTÁLE odhlašuje, je to velice otravné.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-16T03:58:35-07:00",
+      "textNormalized": "aplikace me neustale odhlasuje, je to velice otravne.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14672526872",
+      "userName": "LaPepitta",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1980197528",
+      "version": "3.19.0",
+      "score": 1,
+      "title": "Not good!",
+      "text": "This app is terribble expierence. Slow, not intuitive. I wish better obe.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-16T00:55:43-07:00",
+      "textNormalized": "this app is terribble expierence. slow, not intuitive. i wish better obe.",
+      "segments": [
+        "Vykonnost",
+        "UI"
+      ]
+    },
+    {
+      "id": "14670567236",
+      "userName": "Vilajs",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1082781905",
+      "version": "3.19.0",
+      "score": 1,
+      "title": "Bída",
+      "text": "Aplikace je dost tragická. Kdykoli chci otevřít něco jiného než placení tarifu, tak téměř nic nefunguje",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-15T11:36:30-07:00",
+      "textNormalized": "aplikace je dost tragicka. kdykoli chci otevrit neco jineho nez placeni tarifu, tak temer nic nefunguje",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14666125281",
+      "userName": "rainsab",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id413613203",
+      "version": "3.19.0",
+      "score": 1,
+      "title": "Review from Czechia",
+      "text": "The worst app I’ve used on ios. I can’t pay through app and ux is horrible.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-14T09:02:45-07:00",
+      "textNormalized": "the worst app i’ve used on ios. i can’t pay through app and ux is horrible.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ]
+    },
+    {
+      "id": "14666011233",
+      "userName": "Pavel Andrt",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1740193863",
+      "version": "3.19.0",
+      "score": 1,
+      "title": "katastrofa",
+      "text": "Nejhorší aplikace na trhu, do datové schránky se dostanu normálně, mám několik internetových bankovnictví, edoklady, co vás napadne, ale dostat se to téhle šílenosti je nadlidský úkol.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-14T08:29:03-07:00",
+      "textNormalized": "nejhorsi aplikace na trhu, do datove schranky se dostanu normalne, mam nekolik internetovych bankovnictvi, edoklady, co vas napadne, ale dostat se to tehle silenosti je nadlidsky ukol.",
+      "segments": [
+        "Stabilita"
+      ]
+    },
+    {
+      "id": "14660780576",
+      "userName": "moralles",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id134647549",
+      "version": "3.19.0",
+      "score": 2,
+      "title": "Login again",
+      "text": "Udelam update apky, apku otevru a musim vyplnovat prihlasovaci udaje (email a heslo), ktere se samozrejme neulozily do klicenky, faceid taky nejde. A udaje si nepamatuju. Takze musim jit na web kde to mam v chromu ulozeny abych to opsal. Desny! Pritom vcera jsem byl zalogovany. Takze session id a se proste vymaze s updatem apk :-(",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-13T00:44:41-07:00",
+      "textNormalized": "udelam update apky, apku otevru a musim vyplnovat prihlasovaci udaje (email a heslo), ktere se samozrejme neulozily do klicenky, faceid taky nejde. a udaje si nepamatuju. takze musim jit na web kde to mam v chromu ulozeny abych to opsal. desny! pritom vcera jsem byl zalogovany. takze session id a se proste vymaze s updatem apk :-(",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14655385980",
       "userName": "EliCermakova",
@@ -4700,8 +4810,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 294,
-    "extractedAt": "2026-10-17T09:09:20.231Z",
+    "totalReviewsExtracted": 301,
+    "extractedAt": "2026-10-18T09:25:52.966Z",
     "source": "app-store"
   }
 }

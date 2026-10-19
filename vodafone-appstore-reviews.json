@@ -1,10 +1,10 @@
 {
   "ratings": {
-    "score": 3.17788,
+    "score": 3.17614,
     "totalRatings": 2,
-    "totalReviews": 2513,
+    "totalReviews": 2515,
     "histogram": {
-      "1": 897,
+      "1": 899,
       "2": 186,
       "3": 125,
       "4": 183,
@@ -12,6 +12,38 @@
     }
   },
   "reviews": [
+    {
+      "id": "14678788719",
+      "userName": "Hančí81",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1474086240",
+      "version": "3.19.0",
+      "score": 1,
+      "title": "Přihlašování do app",
+      "text": "Už delší dobu se nejde do aplikace přihlásit. Nevim co s tim…🤷‍♀️🤦‍♀️",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-17T12:37:51-07:00",
+      "textNormalized": "uz delsi dobu se nejde do aplikace prihlasit. nevim co s tim…🤷‍♀️🤦‍♀️",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14678514951",
+      "userName": "Driemrousz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id638753354",
+      "version": "3.19.0",
+      "score": 1,
+      "title": "Obchod v aplikaci",
+      "text": "Nereaguje obchod na výběr elektroniky. Ani po vypnutí aplikace to nereaguje. Tento problém trvá již několik týdnů. Mám iOS.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-17T11:10:44-07:00",
+      "textNormalized": "nereaguje obchod na vyber elektroniky. ani po vypnuti aplikace to nereaguje. tento problem trva jiz nekolik tydnu. mam ios.",
+      "segments": [
+        "Stabilita"
+      ]
+    },
     {
       "id": "14673710869",
       "userName": "Bull_004",
@@ -4810,8 +4842,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 301,
-    "extractedAt": "2026-10-18T09:25:52.966Z",
+    "totalReviewsExtracted": 303,
+    "extractedAt": "2026-10-19T10:39:10.746Z",
     "source": "app-store"
   }
 }
