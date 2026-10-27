@@ -1,17 +1,85 @@
 {
   "ratings": {
-    "score": 3.17701,
+    "score": 3.17859,
     "totalRatings": 2,
     "totalReviews": 2531,
     "histogram": {
-      "1": 904,
+      "1": 903,
       "2": 187,
       "3": 126,
       "4": 185,
-      "5": 1129
+      "5": 1130
     }
   },
   "reviews": [
+    {
+      "id": "14702686252",
+      "userName": "Tomas.K.",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id885505836",
+      "version": "3.19.0",
+      "score": 1,
+      "title": "Opět nefunguje… iPhone 15Pro",
+      "text": "Po každé aktualizaci musím aplikaci reinstalovat protože se nejde přihlásit.\nProstě paráda!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-23T13:47:15-07:00",
+      "textNormalized": "po kazde aktualizaci musim aplikaci reinstalovat protoze se nejde prihlasit.\nproste parada!",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14699042487",
+      "userName": "TerenzCZ",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id291169038",
+      "version": "3.19.0",
+      "score": 1,
+      "title": "Programátor by měl dostat padáka",
+      "text": "Nejde se vůbec přihlásit pořád nějaké chyby a nic správně nefunguje.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-22T16:13:55-07:00",
+      "textNormalized": "nejde se vubec prihlasit porad nejake chyby a nic spravne nefunguje.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14689275451",
+      "userName": "Alexpain 25",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id615039357",
+      "version": "3.19.0",
+      "score": 3,
+      "title": "Nepřehlednost",
+      "text": "Aplikace je dost nepřehledná, najít základní věci zabere několik minut. Navíc, zrušil jsem v aplikaci volbu \"automatické dokupování dat\".... tato volba mi bez jakéhokoli upozornění strhla zbývající počet jednotek z balíčku, který jsem předtím zaplatil (5GB) ale o opakování nákupu balíčku po vyčerpání jednotek jsem se neprosil. Nechápu, hlavně že se automaticky aktivoval 1GB na měsíc za další peníze... když mi zbývalo 3.8GB které jsem mohl vesele měsíc čerpat.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-20T06:08:16-07:00",
+      "textNormalized": "aplikace je dost neprehledna, najit zakladni veci zabere nekolik minut. navic, zrusil jsem v aplikaci volbu \"automaticke dokupovani dat\".... tato volba mi bez jakehokoli upozorneni strhla zbyvajici pocet jednotek z balicku, ktery jsem predtim zaplatil (5gb) ale o opakovani nakupu balicku po vycerpani jednotek jsem se neprosil. nechapu, hlavne ze se automaticky aktivoval 1gb na mesic za dalsi penize... kdyz mi zbyvalo 3.8gb ktere jsem mohl vesele mesic cerpat.",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14688279036",
+      "userName": "kokojana",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id617494748",
+      "version": "3.19.0",
+      "score": 1,
+      "title": "Komplikovaněji to nejde 🙄",
+      "text": "- Zadávání hesla, které musí obsahovat i symbol a nesmí být stejné jako to minulé, jako kdybychom se přihlašovali do ČNB. \n- Nutnost aktualizace každý měsíc. Takže když chci jít zaplatit, abych si na to vyhradila 15 min. \n- Vyúčtování v appce nedohledatelné po položkách. Prostě zaplať a neptej se. \n- Jednostranně zdražen paušál, dokonce snad bez informování. \n- Přitom signál dat není ani na náměstí. \n- Měla jsem vás vždy ráda, ale tohle se nedá.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-19T23:44:28-07:00",
+      "textNormalized": "- zadavani hesla, ktere musi obsahovat i symbol a nesmi byt stejne jako to minule, jako kdybychom se prihlasovali do cnb. \n- nutnost aktualizace kazdy mesic. takze kdyz chci jit zaplatit, abych si na to vyhradila 15 min. \n- vyuctovani v appce nedohledatelne po polozkach. proste zaplat a neptej se. \n- jednostranne zdrazen pausal, dokonce snad bez informovani. \n- pritom signal dat neni ani na namesti. \n- mela jsem vas vzdy rada, ale tohle se neda.",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14678788719",
       "userName": "Hančí81",
@@ -4842,8 +4910,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 303,
-    "extractedAt": "2026-10-25T09:42:35.704Z",
+    "totalReviewsExtracted": 307,
+    "extractedAt": "2026-10-26T10:56:01.478Z",
     "source": "app-store"
   }
 }
