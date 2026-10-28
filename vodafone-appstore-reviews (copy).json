@@ -1,17 +1,32 @@
 {
   "ratings": {
-    "score": 3.17859,
+    "score": 3.18013,
     "totalRatings": 2,
-    "totalReviews": 2531,
+    "totalReviews": 2537,
     "histogram": {
-      "1": 903,
-      "2": 187,
+      "1": 904,
+      "2": 188,
       "3": 126,
       "4": 185,
-      "5": 1130
+      "5": 1134
     }
   },
   "reviews": [
+    {
+      "id": "14708633215",
+      "userName": "Vodafone?",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id680631617",
+      "version": "3.19.0",
+      "score": 1,
+      "title": "Annoying logging out",
+      "text": "Why is not possible to stay logged in?\nIts absurd. \nAnd whenever you forget password, you have to make new password and whats even more annoying, you cannot use password, which you used in a past. You cannot use password, which you used before the last password..\nSecurity protocol for this app must have been created by some fool",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-25T01:03:12-07:00",
+      "textNormalized": "why is not possible to stay logged in?\nits absurd. \nand whenever you forget password, you have to make new password and whats even more annoying, you cannot use password, which you used in a past. you cannot use password, which you used before the last password..\nsecurity protocol for this app must have been created by some fool",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "14702686252",
       "userName": "Tomas.K.",
@@ -4910,8 +4925,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 307,
-    "extractedAt": "2026-10-26T10:56:01.478Z",
+    "totalReviewsExtracted": 308,
+    "extractedAt": "2026-10-27T10:20:56.824Z",
     "source": "app-store"
   }
 }
