@@ -1,17 +1,85 @@
 {
   "ratings": {
-    "score": 3.17788,
+    "score": 3.17564,
     "totalRatings": 2,
-    "totalReviews": 2541,
+    "totalReviews": 2545,
     "histogram": {
-      "1": 908,
-      "2": 187,
+      "1": 910,
+      "2": 189,
       "3": 126,
-      "4": 185,
-      "5": 1135
+      "4": 184,
+      "5": 1136
     }
   },
   "reviews": [
+    {
+      "id": "14722014160",
+      "userName": "Mircek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id326769599",
+      "version": "3.20.0",
+      "score": 1,
+      "title": "To jako vážně?",
+      "text": "Už mě přestává bavit neustále přihlašování do aplikace Vodafone a ještě k tomu mi to pokaždé napíše že mám nesprávné údaje pokaždé měním heslo katastrofa….",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-28T07:53:38-07:00",
+      "textNormalized": "uz me prestava bavit neustale prihlasovani do aplikace vodafone a jeste k tomu mi to pokazde napise ze mam nespravne udaje pokazde menim heslo katastrofa….",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14720491981",
+      "userName": "Diamond.dog",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1477066687",
+      "version": "3.20.0",
+      "score": 2,
+      "title": "Názor",
+      "text": "Aplikace taková nepříliš svižná, těžkopádná a vlastně toho moc neumí krom podívání se na aktuální útratu. Na vše ostatní stejně jen přesměruje pryč. A co je opravdu \"luxus\" - co aktualizace, to nutnost se opět přihlašovat ručně aby na chvíli fungovala biometrika. Za mě v roce 2026 dost málo 🤷‍♂️",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-27T22:51:28-07:00",
+      "textNormalized": "aplikace takova neprilis svizna, tezkopadna a vlastne toho moc neumi krom podivani se na aktualni utratu. na vse ostatni stejne jen presmeruje pryc. a co je opravdu \"luxus\" - co aktualizace, to nutnost se opet prihlasovat rucne aby na chvili fungovala biometrika. za me v roce 2026 dost malo 🤷‍♂️",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14718902035",
+      "userName": "xoDBxo",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id42243691",
+      "version": "3.20.0",
+      "score": 1,
+      "title": "Chybí liquid glass design",
+      "text": "Prosím upravte aplikaci a její design aby ladila s designem iOS 26/26 tzv. liquid glass (spodní menu pruhledné). Opravdu ten váš design vypadá jako excel tabulka z roku 1997 a to není hezké. Dále prosím o přidání podpory RCS na iPhone, je rok 2026! Konkurence již má. děkuji",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-27T12:26:39-07:00",
+      "textNormalized": "prosim upravte aplikaci a jeji design aby ladila s designem ios 26/26 tzv. liquid glass (spodni menu pruhledne). opravdu ten vas design vypada jako excel tabulka z roku 1997 a to neni hezke. dale prosim o pridani podpory rcs na iphone, je rok 2026! konkurence jiz ma. dekuji",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14712706966",
+      "userName": "Profi IT",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id245650198",
+      "version": "3.19.0",
+      "score": 1,
+      "title": "Aplikace se pravidelně odhlašuje",
+      "text": "Aplikace uživatele opakovaně odhlašuje a následné přihlášení přes několik úrovní zabezpečení je natolik komplikované, že se běžný zákazník může jen obtížně dostat i k tak základní věci, jako jsou faktury, které potřebuje zaplatit.\n\nStejně absurdně působí systém „dárků“ a benefitů. Vodafone se snaží zákazníkům nabízet služby, které jsou pro řadu lidí prakticky nevyužitelné – například masáž na druhém konci republiky. Formálně je to dárek, ve skutečnosti z něj zákazník často nemá vůbec nic.\n\nCelá aplikace působí dojmem nedotaženého produktu, který nebyl dostatečně otestován z pohledu běžného uživatele. U společnosti velikosti Vodafonu je až nepochopitelné, že právě aplikace určená ke správě služeb, faktur a plateb může mít tak zásadní problémy.\n\nNejvětší paradox vidím v tom, že se firma snaží šetřit na benefitech a uživatelském komfortu, ale současně může kvůli špatně fungující aplikaci přicházet o mnohem větší částky – ať už kvůli zákazníkům, kteří mají problém zaplatit fakturu, nebo kvůli těm, kteří z frustrace odejdou ke konkurenci.\n\nPokud aplikace skutečně patří mezi nejhůře hodnocené aplikace svého druhu v App Storu, vůbec mě to nepřekvapuje. Dosáhnout tak špatného uživatelského hodnocení u firmy s prostředky a zázemím Vodafonu vyžaduje opravdu mimořádnou míru nepochopení toho, co zákazník od podobné aplikace potřebuje.\n\nMísto marketingových „dárků“ bych mnohem raději dostal jednu věc: aplikaci, která funguje, neodhlašuje mě a umožní mi bez problémů zaplatit fakturu.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-26T00:52:45-07:00",
+      "textNormalized": "aplikace uzivatele opakovane odhlasuje a nasledne prihlaseni pres nekolik urovni zabezpeceni je natolik komplikovane, ze se bezny zakaznik muze jen obtizne dostat i k tak zakladni veci, jako jsou faktury, ktere potrebuje zaplatit.\n\nstejne absurdne pusobi system „darku“ a benefitu. vodafone se snazi zakaznikum nabizet sluzby, ktere jsou pro radu lidi prakticky nevyuzitelne – napriklad masaz na druhem konci republiky. formalne je to darek, ve skutecnosti z nej zakaznik casto nema vubec nic.\n\ncela aplikace pusobi dojmem nedotazeneho produktu, ktery nebyl dostatecne otestovan z pohledu bezneho uzivatele. u spolecnosti velikosti vodafonu je az nepochopitelne, ze prave aplikace urcena ke sprave sluzeb, faktur a plateb muze mit tak zasadni problemy.\n\nnejvetsi paradox vidim v tom, ze se firma snazi setrit na benefitech a uzivatelskem komfortu, ale soucasne muze kvuli spatne fungujici aplikaci prichazet o mnohem vetsi castky – at uz kvuli zakaznikum, kteri maji problem zaplatit fakturu, nebo kvuli tem, kteri z frustrace odejdou ke konkurenci.\n\npokud aplikace skutecne patri mezi nejhure hodnocene aplikace sveho druhu v app storu, vubec me to neprekvapuje. dosahnout tak spatneho uzivatelskeho hodnoceni u firmy s prostredky a zazemim vodafonu vyzaduje opravdu mimoradnou miru nepochopeni toho, co zakaznik od podobne aplikace potrebuje.\n\nmisto marketingovych „darku“ bych mnohem radeji dostal jednu vec: aplikaci, ktera funguje, neodhlasuje me a umozni mi bez problemu zaplatit fakturu.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Cena",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "14708633215",
       "userName": "Vodafone?",
@@ -4925,8 +4993,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 308,
-    "extractedAt": "2026-10-29T11:24:44.748Z",
+    "totalReviewsExtracted": 312,
+    "extractedAt": "2026-10-30T11:16:47.843Z",
     "source": "app-store"
   }
 }
