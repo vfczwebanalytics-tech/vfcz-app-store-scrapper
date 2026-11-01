@@ -1,10 +1,10 @@
 {
   "ratings": {
-    "score": 3.17564,
+    "score": 3.17393,
     "totalRatings": 2,
-    "totalReviews": 2545,
+    "totalReviews": 2547,
     "histogram": {
-      "1": 910,
+      "1": 912,
       "2": 189,
       "3": 126,
       "4": 184,
@@ -12,6 +12,37 @@
     }
   },
   "reviews": [
+    {
+      "id": "14726386062",
+      "userName": "nikolajyus",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id537948424",
+      "version": "3.20.0",
+      "score": 1,
+      "title": "Aplikace je špatná",
+      "text": "Prostě pořád přesměruje na webové stránky. Wingety neexistují. Přešel k konkurentni operátorovi a je pohoda",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-29T09:52:56-07:00",
+      "textNormalized": "proste porad presmeruje na webove stranky. wingety neexistuji. presel k konkurentni operatorovi a je pohoda",
+      "segments": [
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "14724988291",
+      "userName": "Jacques.99",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1791271434",
+      "version": "3.20.0",
+      "score": 1,
+      "title": "ipad ?",
+      "text": "Nemá podporu zobrazení přes IPAD,a to jako že fakt žádnou. Ani widget není. Otřes. K čemu že vůbec bylo přecházet z původní aplikace ? Je to ještě horši než to bylo. Přijde mi to úplně stejná story jak u Komerční banky s jejich novou aplikaci. Také si tam museli dat PLUS ,ale aplikace úplně klesla.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-29T02:46:55-07:00",
+      "textNormalized": "nema podporu zobrazeni pres ipad,a to jako ze fakt zadnou. ani widget neni. otres. k cemu ze vubec bylo prechazet z puvodni aplikace ? je to jeste horsi nez to bylo. prijde mi to uplne stejna story jak u komercni banky s jejich novou aplikaci. take si tam museli dat plus ,ale aplikace uplne klesla.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14722014160",
       "userName": "Mircek",
@@ -4993,8 +5024,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 312,
-    "extractedAt": "2026-10-30T11:16:47.843Z",
+    "totalReviewsExtracted": 314,
+    "extractedAt": "2026-10-31T10:49:33.199Z",
     "source": "app-store"
   }
 }
