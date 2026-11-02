@@ -1,17 +1,49 @@
 {
   "ratings": {
-    "score": 3.17594,
+    "score": 3.17879,
     "totalRatings": 2,
-    "totalReviews": 2552,
+    "totalReviews": 2556,
     "histogram": {
       "1": 913,
       "2": 189,
       "3": 126,
       "4": 184,
-      "5": 1140
+      "5": 1144
     }
   },
   "reviews": [
+    {
+      "id": "14733079864",
+      "userName": "Schwarzmira",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1324296525",
+      "version": "3.20.0",
+      "score": 5,
+      "title": "Aplikace Vodafone",
+      "text": "Super apka na použití",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-31T03:15:23-07:00",
+      "textNormalized": "super apka na pouziti",
+      "segments": [
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14729775601",
+      "userName": "R.JKS",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id683077094",
+      "version": "3.20.0",
+      "score": 1,
+      "title": "Mizérie",
+      "text": "Opět se nelze do aplikace přihlásit, opakovaně mi píše, že mám neplatné přihlašovací údaje. Při placení faktury je pro mě výhodnější počkat, až mi přijde upomínka do mailu, protože tam je QR kód pro platbu, ale tím si kazím pověst dobrého zákazníka. Už mě to vážně nebaví a viditelně nejsem sám. Tak na co ještě čekáte?! Až začnou zákazníci odcházet?!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-10-30T07:09:09-07:00",
+      "textNormalized": "opet se nelze do aplikace prihlasit, opakovane mi pise, ze mam neplatne prihlasovaci udaje. pri placeni faktury je pro me vyhodnejsi pockat, az mi prijde upominka do mailu, protoze tam je qr kod pro platbu, ale tim si kazim povest dobreho zakaznika. uz me to vazne nebavi a viditelne nejsem sam. tak na co jeste cekate?! az zacnou zakaznici odchazet?!",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14726386062",
       "userName": "nikolajyus",
@@ -5024,8 +5056,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 314,
-    "extractedAt": "2026-11-01T11:45:57.919Z",
+    "totalReviewsExtracted": 316,
+    "extractedAt": "2026-11-02T13:19:17.214Z",
     "source": "app-store"
   }
 }
