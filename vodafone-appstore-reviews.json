@@ -1,17 +1,62 @@
 {
   "ratings": {
-    "score": 3.17879,
+    "score": 3.17819,
     "totalRatings": 2,
-    "totalReviews": 2556,
+    "totalReviews": 2559,
     "histogram": {
-      "1": 913,
-      "2": 189,
+      "1": 914,
+      "2": 190,
       "3": 126,
       "4": 184,
-      "5": 1144
+      "5": 1145
     }
   },
   "reviews": [
+    {
+      "id": "14738554119",
+      "userName": "Kopanec1523%",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1815126036",
+      "version": "3.20.0",
+      "score": 5,
+      "title": "Já",
+      "text": "Já",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-01T09:21:32-07:00",
+      "textNormalized": "ja",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14736782342",
+      "userName": "iPhone 15 iOS 26",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1766730956",
+      "version": "3.20.0",
+      "score": 2,
+      "title": "Widgety",
+      "text": "Proč nemá aplikace widgety?",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-01T01:02:59-07:00",
+      "textNormalized": "proc nema aplikace widgety?",
+      "segments": [
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14736713477",
+      "userName": "TommyPinkFloyd",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1638350416",
+      "version": "3.20.0",
+      "score": 1,
+      "title": "Nefunguje",
+      "text": "Aplikace úplně k ničemu",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-01T00:34:42-07:00",
+      "textNormalized": "aplikace uplne k nicemu",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14733079864",
       "userName": "Schwarzmira",
@@ -5056,8 +5101,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 316,
-    "extractedAt": "2026-11-02T13:19:17.214Z",
+    "totalReviewsExtracted": 319,
+    "extractedAt": "2026-11-03T12:42:35.252Z",
     "source": "app-store"
   }
 }
