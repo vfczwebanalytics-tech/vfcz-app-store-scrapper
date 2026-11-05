@@ -1,17 +1,33 @@
 {
   "ratings": {
-    "score": 3.17819,
+    "score": 3.1799,
     "totalRatings": 2,
-    "totalReviews": 2559,
+    "totalReviews": 2557,
     "histogram": {
       "1": 914,
       "2": 190,
-      "3": 126,
+      "3": 125,
       "4": 184,
-      "5": 1145
+      "5": 1146
     }
   },
   "reviews": [
+    {
+      "id": "14744708345",
+      "userName": "HelyBell",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id470305548",
+      "version": "3.21.0",
+      "score": 1,
+      "title": "Od 10 k 5…",
+      "text": "Z vyuctovani zmizel graf historie a nejde se prepinat na nastaveni sluzby. Proooooc???",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-02T23:10:39-07:00",
+      "textNormalized": "z vyuctovani zmizel graf historie a nejde se prepinat na nastaveni sluzby. proooooc???",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14738554119",
       "userName": "Kopanec1523%",
@@ -5101,8 +5117,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 319,
-    "extractedAt": "2026-11-03T12:42:35.252Z",
+    "totalReviewsExtracted": 320,
+    "extractedAt": "2026-11-04T12:53:09.527Z",
     "source": "app-store"
   }
 }
