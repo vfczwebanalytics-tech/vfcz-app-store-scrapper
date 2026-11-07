@@ -8,10 +8,25 @@
       "2": 192,
       "3": 127,
       "4": 184,
-      "5": 1147
+      "5": 1149
     }
   },
   "reviews": [
+    {
+      "id": "14747006197",
+      "userName": "pesjira",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1474443578",
+      "version": "3.21.0",
+      "score": 2,
+      "title": "Neustále se odhlašuje",
+      "text": "Poslední verze se opět samovolně odhlásila. Už mě to fakt nebaví.\nÚčtovací systém Vodafone má velké závady, již po několikáté reklamuji vyúčtování.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-03T11:44:44-07:00",
+      "textNormalized": "posledni verze se opet samovolne odhlasila. uz me to fakt nebavi.\nuctovaci system vodafone ma velke zavady, jiz po nekolikate reklamuji vyuctovani.",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14744708345",
       "userName": "HelyBell",
@@ -5117,8 +5132,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 320,
-    "extractedAt": "2026-11-05T13:00:55.791Z",
+    "totalReviewsExtracted": 321,
+    "extractedAt": "2026-11-06T12:49:38.202Z",
     "source": "app-store"
   }
 }
