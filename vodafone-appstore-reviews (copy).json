@@ -1,17 +1,49 @@
 {
   "ratings": {
-    "score": 3.17778,
+    "score": 3.17821,
     "totalRatings": 2,
-    "totalReviews": 2565,
+    "totalReviews": 2570,
     "histogram": {
-      "1": 915,
+      "1": 917,
       "2": 192,
       "3": 127,
       "4": 184,
-      "5": 1149
+      "5": 1150
     }
   },
   "reviews": [
+    {
+      "id": "14756209514",
+      "userName": "LubosMr",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1661451511",
+      "version": "3.21.0",
+      "score": 1,
+      "title": "Chaotické",
+      "text": "Pomalé a naprosto chaotické prostředí při nastavování služeb",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-05T20:17:03-07:00",
+      "textNormalized": "pomale a naprosto chaoticke prostredi pri nastavovani sluzeb",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14754328510",
+      "userName": "Hrobocop",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id154645289",
+      "version": "3.21.0",
+      "score": 1,
+      "title": "Jako…",
+      "text": "…dobrá zpráva je, že hůř to adi nejde, takže cokoliv uděláte bude super.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-05T08:40:01-07:00",
+      "textNormalized": "…dobra zprava je, ze hur to adi nejde, takze cokoliv udelate bude super.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "14747006197",
       "userName": "pesjira",
@@ -5132,8 +5164,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 321,
-    "extractedAt": "2026-11-06T12:49:38.202Z",
+    "totalReviewsExtracted": 323,
+    "extractedAt": "2026-11-07T11:37:28.319Z",
     "source": "app-store"
   }
 }
