@@ -1,17 +1,47 @@
 {
   "ratings": {
-    "score": 3.17144,
+    "score": 3.17117,
     "totalRatings": 2,
-    "totalReviews": 2584,
+    "totalReviews": 2588,
     "histogram": {
-      "1": 926,
+      "1": 928,
       "2": 194,
       "3": 127,
       "4": 185,
-      "5": 1152
+      "5": 1154
     }
   },
   "reviews": [
+    {
+      "id": "14777102444",
+      "userName": "Gromydlo",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1339138888",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "Chyba",
+      "text": "Neustále mě odhlašuje..",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-11T03:51:31-07:00",
+      "textNormalized": "neustale me odhlasuje..",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14776594587",
+      "userName": "Já uživatel",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1628337222",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "Příšerné",
+      "text": "Pokaždé když jsem nucen použít tuto aplikaci tak jsem totálně znechucen.\nJednoduché přihlášení přes faceID se prakticky nedá uskutečnit jelikož aplikace pokaždé vyžaduje přihlášení přes přihlašovací údaje a k tomu ještě potvrzení takže rychle a bezpečné faceID je prakticky k ničemu a vše je zbytečně zdlouhavé !",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-11T00:32:20-07:00",
+      "textNormalized": "pokazde kdyz jsem nucen pouzit tuto aplikaci tak jsem totalne znechucen.\njednoduche prihlaseni pres faceid se prakticky neda uskutecnit jelikoz aplikace pokazde vyzaduje prihlaseni pres prihlasovaci udaje a k tomu jeste potvrzeni takze rychle a bezpecne faceid je prakticky k nicemu a vse je zbytecne zdlouhave !",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "14756209514",
       "userName": "LubosMr",
@@ -5164,8 +5194,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 323,
-    "extractedAt": "2026-11-12T13:39:27.965Z",
+    "totalReviewsExtracted": 325,
+    "extractedAt": "2026-11-13T12:57:22.885Z",
     "source": "app-store"
   }
 }
