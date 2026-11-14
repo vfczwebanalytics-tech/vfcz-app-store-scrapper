@@ -4,14 +4,46 @@
     "totalRatings": 2,
     "totalReviews": 2588,
     "histogram": {
-      "1": 928,
-      "2": 194,
+      "1": 930,
+      "2": 193,
       "3": 127,
       "4": 185,
-      "5": 1154
+      "5": 1159
     }
   },
   "reviews": [
+    {
+      "id": "14781907544",
+      "userName": "MHrbek",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1499391714",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "Nefunguje",
+      "text": "Přihlašovací obrazovka je černá. Bez jakékoliv odezvy.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-12T07:51:52-07:00",
+      "textNormalized": "prihlasovaci obrazovka je cerna. bez jakekoliv odezvy.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14780661097",
+      "userName": "73947-9",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id475976361",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "Neustále se odhlašuje",
+      "text": "Snad nejhorší apka. Neustále se odhlašuje, face ID nefunguje, heslo se musí měnit pořád dokola, protože kdo si má pamatovat, jaké si nastavil naposledy, že? Useless, na to, kolik to muselo stát.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-12T00:53:14-07:00",
+      "textNormalized": "snad nejhorsi apka. neustale se odhlasuje, face id nefunguje, heslo se musi menit porad dokola, protoze kdo si ma pamatovat, jake si nastavil naposledy, ze? useless, na to, kolik to muselo stat.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "14777102444",
       "userName": "Gromydlo",
@@ -5194,8 +5226,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 325,
-    "extractedAt": "2026-11-13T12:57:22.885Z",
+    "totalReviewsExtracted": 327,
+    "extractedAt": "2026-11-14T12:00:46.939Z",
     "source": "app-store"
   }
 }
