@@ -1,17 +1,63 @@
 {
   "ratings": {
-    "score": 3.17117,
+    "score": 3.17378,
     "totalRatings": 2,
-    "totalReviews": 2588,
+    "totalReviews": 2601,
     "histogram": {
-      "1": 930,
+      "1": 933,
       "2": 193,
       "3": 127,
       "4": 185,
-      "5": 1159
+      "5": 1163
     }
   },
   "reviews": [
+    {
+      "id": "14788759786",
+      "userName": "fhjjge",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id659193788",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "Špatný systém aplikace",
+      "text": "Co týden aktualizace, vlastně pokaždé když tu aplikaci potřebuji dělám aktualizaci ! Stále mě aplikace na tvrdo odhlašuje tudíž Face ID je mi k   ničemu a vypisuji 150 místné heslo s 25 požadavky aby bylo dle požadavků vyhovující! Občas to po mě chce i dvoufázové ověření což zdržuje.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-14T01:28:31-07:00",
+      "textNormalized": "co tyden aktualizace, vlastne pokazde kdyz tu aplikaci potrebuji delam aktualizaci ! stale me aplikace na tvrdo odhlasuje tudiz face id je mi k   nicemu a vypisuji 150 mistne heslo s 25 pozadavky aby bylo dle pozadavku vyhovujici! obcas to po me chce i dvoufazove overeni coz zdrzuje.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14786635665",
+      "userName": "MarekMac",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id456155099",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "Odporna a nefunkční",
+      "text": "Jedna z nejhorších appek, neukazuje slevy, nic tam nejde hodiny se to načítá. Vodafone už není co býval",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-13T11:53:39-07:00",
+      "textNormalized": "jedna z nejhorsich appek, neukazuje slevy, nic tam nejde hodiny se to nacita. vodafone uz neni co byval",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ]
+    },
+    {
+      "id": "14786345739",
+      "userName": "zeff rock",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1346085161",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "Annoying erratic login behaviour",
+      "text": "4 years I have this app , so many updates, and they didn't manage to fix users login, 4 years and always something breaks and I need to reintroduce password and reset preferences. incredible",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-13T10:16:37-07:00",
+      "textNormalized": "4 years i have this app , so many updates, and they didn't manage to fix users login, 4 years and always something breaks and i need to reintroduce password and reset preferences. incredible",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "14781907544",
       "userName": "MHrbek",
@@ -5226,8 +5272,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 327,
-    "extractedAt": "2026-11-14T12:00:46.939Z",
+    "totalReviewsExtracted": 330,
+    "extractedAt": "2026-11-15T12:37:13.086Z",
     "source": "app-store"
   }
 }
