@@ -1,17 +1,50 @@
 {
   "ratings": {
-    "score": 3.1762,
+    "score": 3.17722,
     "totalRatings": 2,
-    "totalReviews": 2605,
+    "totalReviews": 2607,
     "histogram": {
       "1": 933,
       "2": 193,
       "3": 127,
-      "4": 186,
-      "5": 1166
+      "4": 187,
+      "5": 1167
     }
   },
   "reviews": [
+    {
+      "id": "14799339482",
+      "userName": "Veriteaa",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id888459964",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "Absolutní odpad",
+      "text": "Absolutní tragedie, nic nefunguje, porad se to nacita, nic se neuklada, porad to vyzaduje aktulizace jinak bez toho nelze pouzivat. Vodafone je absolutni tragedie a uz jenom jejich akcie mluvi za vse…",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-16T14:51:53-07:00",
+      "textNormalized": "absolutni tragedie, nic nefunguje, porad se to nacita, nic se neuklada, porad to vyzaduje aktulizace jinak bez toho nelze pouzivat. vodafone je absolutni tragedie a uz jenom jejich akcie mluvi za vse…",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ]
+    },
+    {
+      "id": "14797806145",
+      "userName": "Darkwolf021",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1695565010",
+      "version": "3.21.1",
+      "score": 5,
+      "title": "Last update",
+      "text": "HOLLY last update is crazy\nLike there are no redirections and everything happens right in the up in an instant.\nShoutout to devs ✌️good job",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-16T06:23:10-07:00",
+      "textNormalized": "holly last update is crazy\nlike there are no redirections and everything happens right in the up in an instant.\nshoutout to devs ✌️good job",
+      "segments": [
+        "Ine"
+      ]
+    },
     {
       "id": "14788759786",
       "userName": "fhjjge",
@@ -5272,8 +5305,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 330,
-    "extractedAt": "2026-11-17T14:14:26.236Z",
+    "totalReviewsExtracted": 332,
+    "extractedAt": "2026-11-18T13:46:15.000Z",
     "source": "app-store"
   }
 }
