@@ -1,17 +1,34 @@
 {
   "ratings": {
-    "score": 3.17722,
+    "score": 3.17778,
     "totalRatings": 2,
-    "totalReviews": 2607,
+    "totalReviews": 2610,
     "histogram": {
-      "1": 933,
+      "1": 934,
       "2": 193,
       "3": 127,
       "4": 187,
-      "5": 1167
+      "5": 1169
     }
   },
   "reviews": [
+    {
+      "id": "14801588354",
+      "userName": "Malasort",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id362248853",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "Strašná apka",
+      "text": "Nelze se přihlásit a jde o opakovaný problém. \nExtrémní frustrace přichází ve chvíli, kdy právě jen přes aplikaci aktivujete některé funkce nebo výhody, které Happy Vodafone nabízí. \nKdyby místo slev a výhod nejdříve nabídli kvalitní aplikaci, ale Marketing má asi větší slovo než Development.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-17T05:55:41-07:00",
+      "textNormalized": "nelze se prihlasit a jde o opakovany problem. \nextremni frustrace prichazi ve chvili, kdy prave jen pres aplikaci aktivujete nektere funkce nebo vyhody, ktere happy vodafone nabizi. \nkdyby misto slev a vyhod nejdrive nabidli kvalitni aplikaci, ale marketing ma asi vetsi slovo nez development.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14799339482",
       "userName": "Veriteaa",
@@ -5305,8 +5322,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 332,
-    "extractedAt": "2026-11-18T13:46:15.000Z",
+    "totalReviewsExtracted": 333,
+    "extractedAt": "2026-11-19T14:15:24.726Z",
     "source": "app-store"
   }
 }
