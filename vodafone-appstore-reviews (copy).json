@@ -1,17 +1,49 @@
 {
   "ratings": {
-    "score": 3.17778,
+    "score": 3.17959,
     "totalRatings": 2,
-    "totalReviews": 2610,
+    "totalReviews": 2617,
     "histogram": {
       "1": 936,
       "2": 193,
       "3": 127,
       "4": 187,
-      "5": 1171
+      "5": 1174
     }
   },
   "reviews": [
+    {
+      "id": "14805952146",
+      "userName": "dbffghfdv",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1056321544",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "S",
+      "text": "Log in page doesn’t work \nWhat can be easier than make a normal login page?!",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-18T11:26:18-07:00",
+      "textNormalized": "log in page doesn’t work \nwhat can be easier than make a normal login page?!",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
+    {
+      "id": "14805574314",
+      "userName": "..Alehandro..",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id196945944",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "Hrozná appka",
+      "text": "Velmi často nefunguje. Pomalu při každém spušťení aplikace se musím znovu přihlašovat. Hrůza",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-18T09:19:28-07:00",
+      "textNormalized": "velmi casto nefunguje. pomalu pri kazdem spusteni aplikace se musim znovu prihlasovat. hruza",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ]
+    },
     {
       "id": "14801588354",
       "userName": "Malasort",
@@ -5322,8 +5354,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 333,
-    "extractedAt": "2026-11-20T13:55:46.715Z",
+    "totalReviewsExtracted": 335,
+    "extractedAt": "2026-11-21T13:19:56.572Z",
     "source": "app-store"
   }
 }
