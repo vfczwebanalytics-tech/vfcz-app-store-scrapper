@@ -1,17 +1,34 @@
 {
   "ratings": {
-    "score": 3.17876,
+    "score": 3.17946,
     "totalRatings": 2,
-    "totalReviews": 2618,
+    "totalReviews": 2619,
     "histogram": {
       "1": 937,
       "2": 193,
       "3": 127,
       "4": 187,
-      "5": 1174
+      "5": 1175
     }
   },
   "reviews": [
+    {
+      "id": "14816274319",
+      "userName": "David Samec",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1619753948",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "Nejde přihlášení",
+      "text": "Nejde se přihlásit. Objeví se černá obrazovka a dál se nic neděje. Ani po reinstalaci a aktualizaci. Oproti původní aplikaci úplně k ničemu....",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-21T04:17:22-07:00",
+      "textNormalized": "nejde se prihlasit. objevi se cerna obrazovka a dal se nic nedeje. ani po reinstalaci a aktualizaci. oproti puvodni aplikaci uplne k nicemu....",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ]
+    },
     {
       "id": "14805952146",
       "userName": "dbffghfdv",
@@ -5354,8 +5371,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 335,
-    "extractedAt": "2026-11-22T13:12:22.709Z",
+    "totalReviewsExtracted": 336,
+    "extractedAt": "2026-11-23T15:49:49.417Z",
     "source": "app-store"
   }
 }
