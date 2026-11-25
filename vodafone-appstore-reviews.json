@@ -1,17 +1,48 @@
 {
   "ratings": {
-    "score": 3.17946,
+    "score": 3.17687,
     "totalRatings": 2,
-    "totalReviews": 2619,
+    "totalReviews": 2629,
     "histogram": {
-      "1": 940,
+      "1": 942,
       "2": 194,
       "3": 127,
-      "4": 187,
-      "5": 1176
+      "4": 189,
+      "5": 1177
     }
   },
   "reviews": [
+    {
+      "id": "14827695927",
+      "userName": "QickScz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1831810826",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "Nestabilní aplikace, která vypadává",
+      "text": "Operátor při kterém Vám budou vypadávat veškeré funkce. \nPevný internet v paneláku, ve středu hlavního města Jihočeského kraje. Častě výpadky internetu, nestabilita připojení. \nOperátor každoročně zdražuje, za nekvalitní služby. \nMáme u nich 5 čísel cca 18 let. \n\nVáží si nás ? Ne \nNejdřív mi vše zlevnili z retenční. Následně každý rok zdražují. Za chvilku budeme mít tarif stejně drahý jako nově příchozí. Na retenční už vás nepřepojí, protože byly údajné investice do sítí, které jsou stále nestabilní. \nOchota Vodafone je smutná. Čekal bych pro věrné zákazníky lepší služby, a když ne služby, aspoň ceny.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-24T00:08:10-07:00",
+      "textNormalized": "operator pri kterem vam budou vypadavat veskere funkce. \npevny internet v panelaku, ve stredu hlavniho mesta jihoceskeho kraje. caste vypadky internetu, nestabilita pripojeni. \noperator kazdorocne zdrazuje, za nekvalitni sluzby. \nmame u nich 5 cisel cca 18 let. \n\nvazi si nas ? ne \nnejdriv mi vse zlevnili z retencni. nasledne kazdy rok zdrazuji. za chvilku budeme mit tarif stejne drahy jako nove prichozi. na retencni uz vas neprepoji, protoze byly udajne investice do siti, ktere jsou stale nestabilni. \nochota vodafone je smutna. cekal bych pro verne zakazniky lepsi sluzby, a kdyz ne sluzby, aspon ceny.",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora"
+      ]
+    },
+    {
+      "id": "14825216885",
+      "userName": "Itchythefirst",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id580666732",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "Terrible app",
+      "text": "The app makes you change your password about ten times before it finally lets you log in. One minute later, it logs you out and asks you to change it again. I’ve never seen this level of incompetence in IT—and this comes from a “telecommunications” company.\n\nOne star is exactly one more than this app deserves.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-23T08:49:40-07:00",
+      "textNormalized": "the app makes you change your password about ten times before it finally lets you log in. one minute later, it logs you out and asks you to change it again. i’ve never seen this level of incompetence in it—and this comes from a “telecommunications” company.\n\none star is exactly one more than this app deserves.",
+      "segments": [
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "14816274319",
       "userName": "David Samec",
@@ -5371,8 +5402,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 336,
-    "extractedAt": "2026-11-24T15:40:48.315Z",
+    "totalReviewsExtracted": 338,
+    "extractedAt": "2026-11-25T15:24:59.925Z",
     "source": "app-store"
   }
 }
