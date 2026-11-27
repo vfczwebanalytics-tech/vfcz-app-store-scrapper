@@ -1,17 +1,48 @@
 {
   "ratings": {
-    "score": 3.18047,
+    "score": 3.18134,
     "totalRatings": 2,
-    "totalReviews": 2632,
+    "totalReviews": 2636,
     "histogram": {
-      "1": 941,
+      "1": 942,
       "2": 194,
-      "3": 127,
-      "4": 189,
-      "5": 1181
+      "3": 128,
+      "4": 188,
+      "5": 1184
     }
   },
   "reviews": [
+    {
+      "id": "14834458575",
+      "userName": "Profi IT",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id245650198",
+      "version": "3.22.0",
+      "score": 1,
+      "title": "Nelze se již roky přihlásit",
+      "text": "A pro faktury musíme osobně na pobočku.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-25T14:21:49-07:00",
+      "textNormalized": "a pro faktury musime osobne na pobocku.",
+      "segments": [
+        "Ine"
+      ]
+    },
+    {
+      "id": "14832392351",
+      "userName": "QickScz",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id1831810826",
+      "version": "3.21.1",
+      "score": 1,
+      "title": "Nestabilní aplikace, která vypadává.                   Neustále Vás aplikace odhlasuje.",
+      "text": "Operátor při kterém Vám budou vypadávat veškeré funkce. \nPevný internet v paneláku, ve středu hlavního města Jihočeského kraje. Častě výpadky internetu, nestabilita připojení. \nOperátor každoročně zdražuje, za nekvalitní služby. \nMáme u nich 5 čísel cca 18 let. \n\nVáží si nás ? Ne \nNejdřív mi vše zlevnili z retenční. Následně každý rok zdražují. Za chvilku budeme mít tarif stejně drahý jako nově příchozí. Na retenční už vás nepřepojí, protože byly údajné investice do sítí, které jsou stále nestabilní. \nOchota Vodafone je smutná. Čekal bych pro věrné zákazníky lepší služby, a když ne služby, aspoň ceny.",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-25T04:00:29-07:00",
+      "textNormalized": "operator pri kterem vam budou vypadavat veskere funkce. \npevny internet v panelaku, ve stredu hlavniho mesta jihoceskeho kraje. caste vypadky internetu, nestabilita pripojeni. \noperator kazdorocne zdrazuje, za nekvalitni sluzby. \nmame u nich 5 cisel cca 18 let. \n\nvazi si nas ? ne \nnejdriv mi vse zlevnili z retencni. nasledne kazdy rok zdrazuji. za chvilku budeme mit tarif stejne drahy jako nove prichozi. na retencni uz vas neprepoji, protoze byly udajne investice do siti, ktere jsou stale nestabilni. \nochota vodafone je smutna. cekal bych pro verne zakazniky lepsi sluzby, a kdyz ne sluzby, aspon ceny.",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora"
+      ]
+    },
     {
       "id": "14827695927",
       "userName": "QickScz",
@@ -5402,8 +5433,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 338,
-    "extractedAt": "2026-11-26T14:56:11.571Z",
+    "totalReviewsExtracted": 340,
+    "extractedAt": "2026-11-27T14:52:21.734Z",
     "source": "app-store"
   }
 }
