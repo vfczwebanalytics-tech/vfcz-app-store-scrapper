@@ -1,17 +1,33 @@
 {
   "ratings": {
-    "score": 3.18134,
+    "score": 3.1834,
     "totalRatings": 2,
-    "totalReviews": 2636,
+    "totalReviews": 2639,
     "histogram": {
       "1": 942,
       "2": 194,
       "3": 128,
       "4": 188,
-      "5": 1184
+      "5": 1187
     }
   },
   "reviews": [
+    {
+      "id": "14837004520",
+      "userName": "_PaRa_",
+      "userUrl": "https://itunes.apple.com/cz/reviews/id665355926",
+      "version": "3.22.0",
+      "score": 1,
+      "title": "Odlašení z účtu",
+      "text": "Neuvěřitelně hloupá aplikace,\nNepamatuji kdy naposledy fungovala bez problémů. Každý měsíc při placení paušálu, je nutné přihlášení  a dvoufakt. autorizace. \nUž to konečně dejte do kupy… \nAplikace internetové banky si pamatuje údaje a stačí fc id.  \nVodofon aplikace je zlo! 🤢",
+      "url": "https://itunes.apple.com/cz/review?id=1621276337&type=Purple%20Software",
+      "updated": "2026-11-26T06:34:04-07:00",
+      "textNormalized": "neuveritelne hloupa aplikace,\nnepamatuji kdy naposledy fungovala bez problemu. kazdy mesic pri placeni pausalu, je nutne prihlaseni  a dvoufakt. autorizace. \nuz to konecne dejte do kupy… \naplikace internetove banky si pamatuje udaje a staci fc id.  \nvodofon aplikace je zlo! 🤢",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ]
+    },
     {
       "id": "14834458575",
       "userName": "Profi IT",
@@ -5433,8 +5449,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 340,
-    "extractedAt": "2026-11-27T14:52:21.734Z",
+    "totalReviewsExtracted": 341,
+    "extractedAt": "2026-11-28T14:00:45.066Z",
     "source": "app-store"
   }
 }
